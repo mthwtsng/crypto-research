@@ -1,0 +1,14 @@
+{
+  "asof_utc": "2026-10-12T00:26:50.464954+00:00",
+  "wallets": [
+    "3i6FLj8xW9AcYpiSM6o4FMpvpqvYhFqXDhs7puEhkejs",
+    "FqMEg6yRzjr8HQaNWRn1SXNrpn2BZARnzQYws7yTCEiM",
+    "Dd2rjHN5GhD7J66VtZAdN1EfQGDBC7icGTEVgdMxhBag",
+    "7dc8hZdy6hPG3tcCfLM77ZZsQ48tDM8dDMSm9LoW6uxL"
+  ],
+  "historylimit": 50,
+  "selection": "nearest5+oldest5 prior successful signatures before wallet firstmintreceipt plusfirstmintreceipt",
+  "transactions_requested": 35,
+  "transactions_resolved": 35,
+  "full_history_complete": false
+}

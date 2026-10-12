@@ -1,0 +1,256 @@
+{
+  "13MujLNtTf7e1vLwrm6K3ZrRvHcWWg2VvkfL4z1Spump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 4,
+        "boost_burns": 29,
+        "boost_initializations": 1,
+        "swaps": 4339,
+        "zero_fee_source_swaps": 29
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 2491,
+      "migration": {
+        "base_vault": "G9zoWVhLWFyMHqzbnCUtXFDKm7qMefVyTVzJPKrfE3Gb",
+        "coin_creator": "6k3AoB44bRB98TJ2mA7ZVEB5eRoknzMcBomBcgs8QWed",
+        "creator": "5MCnK45icV3kdw7vc8FSdt7uwudBLkkT1MUJAy9ovj9D",
+        "index": 623,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "13MujLNtTf7e1vLwrm6K3ZrRvHcWWg2VvkfL4z1Spump",
+        "pool": "14JVsDKMDa8QevTtBGdeq3j6gar9sWYWguNAifYAVT6M",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "5KpfXd55WHGMYi71XKAorMR8KAaR5N5ocDPgTGVzaXL2",
+        "signature": "4X7kvrw3o3yhMXe6gdiJaHjnQ5DSSgUUSQ1LAojZ5iHXHguYxJTNACHDwNXTpEvin2DL7ftkNjrY4676TgSJx3pJ",
+        "slot": 455430736,
+        "time": 1791673626
+      },
+      "pool": "14JVsDKMDa8QevTtBGdeq3j6gar9sWYWguNAifYAVT6M",
+      "signals": [
+        "amm_second_wave"
+      ]
+    }
+  },
+  "3SwWxAKdbeYH2H8ENPhFAXbQ9zCCjaMyc2MnFkaXpump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 11,
+        "boost_burns": 29,
+        "boost_initializations": 1,
+        "swaps": 52970,
+        "zero_fee_source_swaps": 29
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 52978,
+      "migration": {
+        "base_vault": "13UALQT6jNajCEtfN1SwpCfx8fanSHva3GgHyRMowLSZ",
+        "coin_creator": "AzUemB7YBMvYyQzRG8GjuvDtxN1NrQKB8BH3T6ZiwaTB",
+        "creator": "AzUemB7YBMvYyQzRG8GjuvDtxN1NrQKB8BH3T6ZiwaTB",
+        "index": 342,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "3SwWxAKdbeYH2H8ENPhFAXbQ9zCCjaMyc2MnFkaXpump",
+        "pool": "EUQBfGcRxXtoXqmGPTmKPoBpGTUXyFph7fK23PafMzfm",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "JDKFGQW7gtB1XAZjYQu7U8m89XpAwchSYYUhRPDegFbv",
+        "signature": "4JKPY2u4vrXqRNRdniDxygAc9tnoet9xVEneKp2NpGCQpmoeTxR9MBD7UgF1FvHEDkjL7bTcyjSW7NjuLLfT13mf",
+        "slot": 455236472,
+        "time": 1791631150
+      },
+      "pool": "EUQBfGcRxXtoXqmGPTmKPoBpGTUXyFph7fK23PafMzfm",
+      "signals": [
+        "amm_second_wave"
+      ]
+    }
+  },
+  "3hppYT7tfMZw9158oeLpx6CKFQcSaTbZqeLHyYTopump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 4,
+        "boost_burns": 29,
+        "boost_initializations": 1,
+        "swaps": 3975,
+        "zero_fee_source_swaps": 29
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 4025,
+      "migration": {
+        "base_vault": "DXKxdFEeiP48xpymiAA2zbnPZ7UfmVCirgVeqcADFVVi",
+        "coin_creator": "E6vDVMMRXwrEsSrdB5jLuiu4FDfFStNJWZaXFe1GkQV",
+        "creator": "E6vDVMMRXwrEsSrdB5jLuiu4FDfFStNJWZaXFe1GkQV",
+        "index": 298,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "3hppYT7tfMZw9158oeLpx6CKFQcSaTbZqeLHyYTopump",
+        "pool": "A5Y9ZoEjEtZP11eerd4wLLEjDqNTME8kLLrNeN6DVPXJ",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "6ETt4UGt4ZGd9WaNpiYpQSrQ9Bq3ZWadPYH6EsnJEtwm",
+        "signature": "MPbFFDxHryWs2zSFQEFbE9sJMcVvDbeZK6zg3TGM8cXw3dtU2kQxuwuSdHdWXpR7Hg3edWcvpUbDgzDK9WVWAVA",
+        "slot": 455522121,
+        "time": 1791693547
+      },
+      "pool": "A5Y9ZoEjEtZP11eerd4wLLEjDqNTME8kLLrNeN6DVPXJ",
+      "signals": [
+        "amm_pullback_recovery",
+        "amm_second_wave"
+      ]
+    }
+  },
+  "D7zmfjPhYvnTWs692SUpDjZbdZYgBWy9PYkGt38ppump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 2,
+        "boost_burns": 27,
+        "boost_initializations": 1,
+        "swaps": 1206,
+        "zero_fee_source_swaps": 27
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 4839,
+      "migration": {
+        "base_vault": "GQB8yQvNgLdCAJzRFPRDFjMf3Ra3AGVyi9X3XBUe2GEq",
+        "coin_creator": "FAaxX4YSHbmnLMUMLr3zzAkGeL2xPEWGPiiVfYE5UQsT",
+        "creator": "9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5",
+        "index": 64,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "D7zmfjPhYvnTWs692SUpDjZbdZYgBWy9PYkGt38ppump",
+        "pool": "4LUkarRR5StdpZdsu8Q2mq9hgvC6zF36mCcdPuB8Kg92",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "DRj9pwwyey2zm64f6MFHuMZKuVfRApwzhGTi5FHNV6M5",
+        "signature": "4gE7vZt9ddWypGrXgXp9ueFJYs8BunukQLQ6PEm1D7F5SoL8MMPRn4KfgSTNnhDJcCda5R2RynqSk7xfiBXngFsN",
+        "slot": 455326531,
+        "time": 1791650840
+      },
+      "pool": "4LUkarRR5StdpZdsu8Q2mq9hgvC6zF36mCcdPuB8Kg92",
+      "signals": [
+        "amm_pullback_recovery"
+      ]
+    }
+  },
+  "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 37,
+        "boost_burns": 27,
+        "boost_initializations": 1,
+        "swaps": 8710,
+        "zero_fee_source_swaps": 27
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 24431,
+      "migration": {
+        "base_vault": "BfECzZ5FxKcREJzqNFFA3Pz5GnXGMi4hygSG4ibiwbEP",
+        "coin_creator": "3i4ifkpkHn28wUJKhk4K5iPuvmd73FsG4mPt3PkipMQC",
+        "creator": "9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5",
+        "index": 648,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "pool": "HcU5vZSRKd8Bj27nD51VK6nGk7xCNXE9cz9ZyCUr7kZj",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "5hpnpdme955e35TvWrAwWHiaF8WSJvrepi9aGhn1Eiz5",
+        "signature": "j58FT9FAmiH6m1n6jZyTQVSaWx9xgM2r8MKnvahVBUbtJnKCN6RtUG7zTBihDW6Sx331ZV3nqYjGM8PLNFdAW4c",
+        "slot": 455233945,
+        "time": 1791630602
+      },
+      "pool": "HcU5vZSRKd8Bj27nD51VK6nGk7xCNXE9cz9ZyCUr7kZj",
+      "signals": [
+        "amm_pullback_recovery",
+        "amm_second_wave"
+      ]
+    }
+  },
+  "HxcEAa9Z2CfMaL3uA6k5geFttmPtra1yRSyLsok4pump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 3,
+        "boost_burns": 29,
+        "boost_initializations": 1,
+        "swaps": 300,
+        "zero_fee_source_swaps": 29
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 303,
+      "migration": {
+        "base_vault": "BSuzKWwnwdyKeGAw52SQvuCw4mhrRu2CL6FoQQTdDBEX",
+        "coin_creator": "DJLCASg2qhxnWj9yJxKniseUAgJKiZpBeiJUCFCbCP3g",
+        "creator": "F7LqQscxh7NK8S3AJaEZ7vryxvQbqKksQAZKtVgJYwmE",
+        "index": 73,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "HxcEAa9Z2CfMaL3uA6k5geFttmPtra1yRSyLsok4pump",
+        "pool": "54j2EMWP22gB5ZiT1gzH3rJREoBNuctjnSiusTauQBjK",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "2xFN53uhKmC8qWZ6xiYAy7RbPJJ6GJEH5fuvahARzytC",
+        "signature": "4ecP4aTyqE8jE4KD1X37zR1tBszHbefyBRrCRDeMeB531APyx8SbdDHAj8JmkzpWFfsT7k2LAKJLs85sV4V7HjY1",
+        "slot": 455192954,
+        "time": 1791621675
+      },
+      "pool": "54j2EMWP22gB5ZiT1gzH3rJREoBNuctjnSiusTauQBjK",
+      "signals": [
+        "amm_pullback_recovery"
+      ]
+    }
+  },
+  "bUqhhZ61FAaSKFrKEZsA5DBqefbzXBeUSVPMFjCpump": {
+    "custody_errors": [],
+    "prepare": {
+      "counts": {
+        "authenticated_fee_sweeps": 5,
+        "boost_burns": 30,
+        "boost_initializations": 1,
+        "swaps": 5494,
+        "zero_fee_source_swaps": 30
+      },
+      "errors": [],
+      "genesis": true,
+      "good": true,
+      "groups": 3525,
+      "migration": {
+        "base_vault": "HjYqdp1ZYHDXEMg7JnekzB1biEkUcunpJxCPymJm1Jpd",
+        "coin_creator": "By3oVd9bHXTM8yJBSiw7TRyjVLE3ThsL37LYDgFQFCow",
+        "creator": "By3oVd9bHXTM8yJBSiw7TRyjVLE3ThsL37LYDgFQFCow",
+        "index": 1001,
+        "instruction": "migrate_v2",
+        "is_holder_reward": false,
+        "is_mayhem_mode": false,
+        "mint": "bUqhhZ61FAaSKFrKEZsA5DBqefbzXBeUSVPMFjCpump",
+        "pool": "HfmEf2FpcMwDTQna7aJ9gQfLhrSZ3ApF2ouGXHvsKUZM",
+        "quote_mint": "So11111111111111111111111111111111111111112",
+        "quote_vault": "6mabSx198329FVEBmxQDV9dTRfKZXCqDuqdromLTbpok",
+        "signature": "5cm4EvPaGfeiyonSW9gZkBqiWKLbr9Zuw2rbi9QcDEGtdiQtghQkq3b1fpvvKoCTrJHeHL7HxvPNkeWoSu34PFtV",
+        "slot": 455199460,
+        "time": 1791623098
+      },
+      "pool": "HfmEf2FpcMwDTQna7aJ9gQfLhrSZ3ApF2ouGXHvsKUZM",
+      "signals": [
+        "amm_second_wave"
+      ]
+    }
+  }
+}

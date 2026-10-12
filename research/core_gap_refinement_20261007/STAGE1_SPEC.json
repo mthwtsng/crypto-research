@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-10-08T02:10:21.772604+00:00",
+  "stage": "entry-first diagnostics; no new exits tested yet",
+  "data": "existing 600 October3\u20134 creation-selected launches, development/retrospective",
+  "signals": "all 76 on-disk Starting Five signals unchanged",
+  "horizons_seconds": [
+    2,
+    5,
+    10,
+    20,
+    30,
+    60,
+    180,
+    600
+  ],
+  "net_hit_thresholds": [
+    0.02,
+    0.05,
+    0.1,
+    0.2,
+    0.25
+  ],
+  "placement": [
+    "fast",
+    "central80",
+    "central85",
+    "slow"
+  ],
+  "budget": 15,
+  "ticket": 0.5,
+  "max_open": 2,
+  "purpose": "separate spot follow-through, finite-size fee-adjusted opportunity, and implemented exit capture; peaks are not realized profits",
+  "hashes": {
+    "entry_only.py": "51e00cd6f8b85e2c456af7cb3008a13af7f2ceefc11a5e0f122f01446e8e0844"
+  }
+}

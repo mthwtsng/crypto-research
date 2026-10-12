@@ -1,0 +1,21 @@
+{
+  "frozen_at": "2026-10-08T03:54:37.649652+00:00",
+  "source": "explicit user-requested unified comparison and target/floor clarification",
+  "data": "1800creation-selected October3\u20136launches, inspected retrospective development",
+  "constraints": {
+    "bankroll": 15,
+    "ticket": 0.5,
+    "max_open": 2
+  },
+  "entries": "S3two_buy_groups: two separate completed buying groups, new distinct noncreator buyer>=0.05SOL, within2slots of dip, reserve8\u201318; other four original entries unchanged",
+  "exit": "S3only: no3s/10s/21s scratches;8s grace before trail; immediate full TP20/35% as separate endpoint recipes;arm trail at executable20% at any age,8percentage-point giveback;hard60/120s timeout; emergency reserve<8SOL active during grace; other four original lower-endpoint exits retained",
+  "developer_gate": "universal creator held/creation-event authenticated total mint supply<=15%, after whole qualifying source transaction, independent ablation; associated wallets unknown; no later new signal search after filter rejection",
+  "portfolio": "no positive10,no warmup,S5 eligible from first signal;latest original breakers on/off",
+  "look_count": "eight prescribed horizon\u00d7profit-target\u00d7developer variants;prior28loggedlooks plus two recovery entry definitions plus four pre-clarification requested variants=34; total42; paused old recovery sell experiment was not run",
+  "opening_execution_repair": "Evaluate exits immediately after the whole authentic opening transaction; source bootstrap unchanged, no wait for another swap before AMM-open half sale",
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/unified_requested.py": "e8fcf54bb2cce413b4d304131363c12d530ef0f3e5ed93ca6f5227a96167b365",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/recovery_sequence.py": "96029cf824c4f15ce1425a1bd2d5c5501919c23e00d1af48121510fcf59453ce",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "99426772bc19d0eb255504a68636a498eb3ffb3da13caa7eb87aaff017cdf28f"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mint": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
+  "provider_index": 0,
+  "fetched_at_ms": 1791765696044,
+  "result": {
+    "context": {
+      "apiVersion": "4.2.2",
+      "slot": 455852477
+    },
+    "value": {
+      "amount": "962055326941082",
+      "decimals": 6,
+      "uiAmount": 962055326.941082,
+      "uiAmountString": "962055326.941082"
+    }
+  }
+}

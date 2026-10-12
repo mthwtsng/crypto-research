@@ -1,0 +1,73 @@
+{
+  "state": "six_worker_restart_after_first_hour_scope_correction",
+  "checks": {
+    "passed": 44,
+    "suite": "python3 -m unittest discover -s research/active_momentum_cohort_20261009 -p test_*.py -q"
+  },
+  "required_post_migration_seconds": 240,
+  "local_seed_count": 3661,
+  "total_queue_candidates": 28370,
+  "existing_admissions_before_restart": 14,
+  "providers": [
+    "alchemy",
+    "helius"
+  ],
+  "source_folders_modified": false,
+  "source_limit": "Complete fixed first-hour observations accepted without migration; lifetime beyond interval unknown. Genuine creation, source parity, custody and block-index validation still mandatory.",
+  "actual_local_import_probe": {
+    "mint": "nasd9ZCaNtC3wZ4G7updmA48VGmcgyNnXsYQ6cRLkjP",
+    "retained_transactions": 7166,
+    "curve_trade_transactions": 1885,
+    "peak_real_sol": 85.005360287,
+    "post_migration_seconds": 240,
+    "parity": "source_token_prebalance_mismatch; not admitted"
+  },
+  "updated_utc": "2026-10-09T19:08:46.863067+00:00",
+  "pilot": {
+    "state": "pilot_complete",
+    "attempts": 4,
+    "source_exclusions": 4,
+    "retryable": 0,
+    "existing_admissions_revalidated": 14,
+    "resumed_staged_verified": 9
+  },
+  "existing_pool_trim_examples": [
+    {
+      "mint": "3mEGA5A7AjCbhV8KKmooWu62jS1LgSvkEnDSfE7eBGSK",
+      "old_compressed_bytes": 70014951,
+      "retained_compressed_bytes": 59648131
+    },
+    {
+      "mint": "FCnBdFHDWK4FKP36gN9MLHh9LUNUqg1PoFGTdtWCpump",
+      "old_compressed_bytes": 38912423,
+      "retained_compressed_bytes": 18882715
+    }
+  ],
+  "live_locks_confirmed": {
+    "coordinator_active": true,
+    "supervisor_active": true
+  },
+  "last_observed_progress": {
+    "total_selected": 14,
+    "total_completed_by_workers": 162,
+    "worker_completion_counts_this_run": {
+      "verified": 0,
+      "rejected": 162,
+      "retryable": 0
+    },
+    "resumed_staged_valid_count": 9,
+    "ordered_prefix_cursor": 144,
+    "updated_utc": "2026-10-09T18:56:57.361228+00:00"
+  },
+  "scope_revision": 3,
+  "first_hour_scope_report": "FIRST_HOUR_SCOPE_REPORT.md",
+  "current_admitted": 19,
+  "current_verified_staged": 8,
+  "corrected_pilot": {
+    "attempts": 4,
+    "accepted": 1,
+    "threshold_rejections": 1,
+    "custody_source_exclusions": 2,
+    "retryable": 0
+  }
+}

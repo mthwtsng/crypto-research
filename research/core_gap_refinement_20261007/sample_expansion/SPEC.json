@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-10-08T04:07:12.199258+00:00",
+  "status": "design and source inventory only; expanded replay not yet run",
+  "reason": "User challenges inadequate funded sample; two unresolved carryovers block most admissions",
+  "frozen_rules_source": "../unified_requested_cycle/SPEC.json",
+  "rules": "Retain all eight user-prescribed cases without new outcome-driven tuning",
+  "constraints": {
+    "bankroll_SOL": 15,
+    "ticket_SOL": 0.5,
+    "max_open": 2
+  },
+  "historical_transfer_sources": [
+    "August14\u201317,2026 existing creation samples",
+    "September14\u2013October4,2026 existing hourly creation samples",
+    "October5\u20136,2026 existing hourly creation samples"
+  ],
+  "source_inventory": "Prior broad study reports 9589 unique mints across two frames; not all currently ready for the repaired five-strategy engine. New eligibility, custody and migration preparation required. Deduplicate before counting. All are inspected retrospective sources.",
+  "new_collection_target": {
+    "complete_days": 21,
+    "normal_SOL_creations_per_hour": 25,
+    "approx_selected_coins": 12600,
+    "selection": "Fixed mint hash within each complete hourly creation census; never select winners, survivors or migrating coins",
+    "dates": "Choose after creation-census availability and source overlap audit; later future dates remain unavailable today"
+  },
+  "evidence_target": "Aim for at least 200 independently eligible attempts per family across at least14 dates; a planning target, not a statistical guarantee or reason to change entry thresholds. Disclose shortfall.",
+  "reporting": [
+    "All causal eligible opportunities, mint-deduplicated and per family, including entry-only finite-quote trajectories and coverage gaps",
+    "Standalone funded accounts as diagnostics only",
+    "One continuous shared all-five funded ledger as headline, same bankroll across dates",
+    "Weekly restart ledgers as separate regime diagnostics, not added profits",
+    "Central80/85 plus fast/slow and cost/placement stresses",
+    "Concentration, day-grouped uncertainty, failures, marks and unresolved exposure"
+  ],
+  "carryover_requirement": "Resolve displaced completion/router execution before calling the full-five test informative. Retain unknown custody and occupancy until evidence supplies a causal exit; no automatic slot release, fake graduation or zero-valued realized liquidation. Broader opportunity diagnostics may proceed independently.",
+  "untouched_confirmation": "Freeze selected rules before later unseen14\u201321-day data. Reusing inspected historical dates is transfer, not forward confirmation."
+}

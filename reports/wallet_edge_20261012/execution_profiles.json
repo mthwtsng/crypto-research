@@ -1,0 +1,4340 @@
+[
+  {
+    "wallet": {
+      "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+      "name": "broke bot lol"
+    },
+    "receipts": 2856,
+    "successful": 2008,
+    "successful_with_no_owned_token_change": 556,
+    "paid_network_sol_on_no_token_change": 0.078910918,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        2787
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        1269
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        841
+      ],
+      [
+        "XTbotxFEemJLuNiKwi9JBbGGoTfGeiqrboPHmweZ73i",
+        806
+      ],
+      [
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        528
+      ],
+      [
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        439
+      ],
+      [
+        "XTLaMqbTTLqSk1PL2hkD6RYMR4LDFQ7Bm2n2Fy5okHj",
+        193
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        58
+      ]
+    ],
+    "co_signers": [
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        33
+      ],
+      [
+        "7ysRWwd4ABP2BSVRaMTX3gaX2CiXVMyiA9a8QEcTQbwm",
+        7
+      ],
+      [
+        "6CQrTnDiqTLFJeVFJaUmEnhCQcQYvMJD7kmeMV2qeHh9",
+        4
+      ],
+      [
+        "A4NxFxKwNXJkhNQ5ZCEGNPVjNhYQyKnE18DASKEWasrV",
+        2
+      ],
+      [
+        "AkXiEWJcS5YJGUAfJrUnqzQ2gmgGZvU47Z3xnVKQ8H4g",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+        426
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        401
+      ],
+      [
+        "BABANGA4JE7Kkam4nTrALAwAVgsNJUuFJnnkF7S16BZp",
+        13
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        4
+      ],
+      [
+        "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+        2
+      ],
+      [
+        "Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc",
+        2
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "awcWMe3DVYRETb5Qq6KnoCFSyxHQYXRV4wrBRn6FfgbEsmWwddyKJqP1khtRw4nwyXPLSekiusNd4MNeDU9Jgqd",
+        "slot": 448952832,
+        "index": 185,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "XTLaMqbTTLqSk1PL2hkD6RYMR4LDFQ7Bm2n2Fy5okHj",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+            "name": "broke bot lol"
+          }
+        ]
+      },
+      {
+        "signature": "wJmU1hitDikdb6KoLTXGRkciYmSmy7TYEBp6je4iE5NvHySntDKAsgTzLUK1wqxuMzW6a2JiDDq1VQ2HkNhXWDg",
+        "slot": 448953117,
+        "index": 294,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "XTLaMqbTTLqSk1PL2hkD6RYMR4LDFQ7Bm2n2Fy5okHj",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+            "name": "broke bot lol"
+          }
+        ]
+      },
+      {
+        "signature": "2d4BSS6xUifxcmCPWTE1GnLPpSj4w1NSquZu1kW5ni9hc7Zi4W8RGiGjtXVmCk8n6FzhMR5bWLTx617SAvrq6uRU",
+        "slot": 449090968,
+        "index": 1089,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "XTLaMqbTTLqSk1PL2hkD6RYMR4LDFQ7Bm2n2Fy5okHj",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+            "name": "broke bot lol"
+          }
+        ]
+      },
+      {
+        "signature": "2dQePu9jUMvMvSfy6Cs3VsvSfEVXPhffaqeiji26gjEzsCPTBxPTHgS3HZUq24tzKaAuwziNFKivRQF5JcN9kKyw",
+        "slot": 449098284,
+        "index": 221,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "XTLaMqbTTLqSk1PL2hkD6RYMR4LDFQ7Bm2n2Fy5okHj",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+            "name": "broke bot lol"
+          }
+        ]
+      },
+      {
+        "signature": "2ajYzbovaxtauiucATtSJQuwQCQpjo11YJJZmmDwVdHvQbrVyiCSsVXEhKukqGfeov7mC9zyP1uwY8NZwbofAM1s",
+        "slot": 449098448,
+        "index": 108,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "XTLaMqbTTLqSk1PL2hkD6RYMR4LDFQ7Bm2n2Fy5okHj",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+            "name": "broke bot lol"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+      "name": "Cbot7"
+    },
+    "receipts": 10000,
+    "successful": 9416,
+    "successful_with_no_owned_token_change": 84,
+    "paid_network_sol_on_no_token_change": 6.28e-05,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9992
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9926
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        9917
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        5255
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        4664
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        2
+      ],
+      [
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        1
+      ]
+    ],
+    "co_signers": [
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        4
+      ],
+      [
+        "6CQrTnDiqTLFJeVFJaUmEnhCQcQYvMJD7kmeMV2qeHh9",
+        4
+      ],
+      [
+        "AkXiEWJcS5YJGUAfJrUnqzQ2gmgGZvU47Z3xnVKQ8H4g",
+        3
+      ],
+      [
+        "5tu5QjwwMp8s13EX3ytakp9r5akLh3n5GdCqeKrzDvLw",
+        2
+      ],
+      [
+        "Fz1wEMS9ZTCfz3dJz61EcgANMKGHXvBAbrg6imfsCa36",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+        9329
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        9317
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        12
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+      "name": "russianbot"
+    },
+    "receipts": 10000,
+    "successful": 8586,
+    "successful_with_no_owned_token_change": 64,
+    "paid_network_sol_on_no_token_change": 0.0,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        10000
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        9936
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9936
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        5019
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        4902
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        15
+      ]
+    ],
+    "co_signers": [
+      [
+        "9cQHQtg5TFTayBgEQziZnKmhkDVFQsdeqyJ7xK3qjrTn",
+        3
+      ],
+      [
+        "7db2k3eqDpYsAKyL55M7zm1PwKaUUQNCcezShzankWy6",
+        2
+      ],
+      [
+        "E6L5RYP6rnx8MTenirGE7FTUBC93URok1KpLApuheKYV",
+        2
+      ],
+      [
+        "CmaSb2YUUVXY59ZCsCwkQdgshzWMa7wXwAZoB9yAoVJd",
+        2
+      ],
+      [
+        "Dd7TxeQrAM2CyJq3xQzV6uqDb9MYRwXV8GpRsFs4aV86",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+        8522
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        8512
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        10
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+      "name": "snipebot"
+    },
+    "receipts": 6871,
+    "successful": 3932,
+    "successful_with_no_owned_token_change": 599,
+    "paid_network_sol_on_no_token_change": 0.002115,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        6553
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        6035
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        5376
+      ],
+      [
+        "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+        4627
+      ],
+      [
+        "11111111111111111111111111111111",
+        4222
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        1175
+      ],
+      [
+        "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+        423
+      ],
+      [
+        "3T8C7xSk9DQG9qvnaTuJ3F43SgbzPDhRwCVRemnZWqLn",
+        418
+      ]
+    ],
+    "co_signers": [
+      [
+        "J8nLS8js14a5pDebu98pTGFU4WcNf4XFo29Grx5hgFQ8",
+        3
+      ],
+      [
+        "fMYZa1f3E7WaGtpjR1bWNAc8rkZyiYtfQdhNhCss8Qk",
+        3
+      ],
+      [
+        "D88esktJuutdtnX7BoYzJPdu6G6ZvxXJKKrrig2JZsbL",
+        3
+      ],
+      [
+        "9PnZF8yEZW2SC1afTqEE6xpgK9smDWHUevJwyXUPbp6E",
+        2
+      ],
+      [
+        "26GtafZd91R9ypoPNDY5MAbTVksXYwhShETDgaanuuQv",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+        2909
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        2725
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        56
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        16
+      ],
+      [
+        "ARMbSB1MBRQrY6PNMao1HdQ431VafC6JRJCsGZ2Yv3iJ",
+        12
+      ],
+      [
+        "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+        12
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "2d6wTXPxuGTB6etsX3T2MY1AfB8XfYCEFGvMeTVrFKhxyUCtMT5DSWYKMv63pdWGuexsjpbNswtgDdte9yT7BBim",
+        "slot": 448953648,
+        "index": 890,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+            "name": "snipebot"
+          }
+        ]
+      },
+      {
+        "signature": "5dYzH3B6BiKMSsLuZ3TSPmE5KLsyWYGRyhAtSia8icEkKAM9qzhCJMjXsGRCKdxiFDTsX9v4rFpEBh7q5iXaJ49D",
+        "slot": 448953655,
+        "index": 24,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+            "name": "snipebot"
+          }
+        ]
+      },
+      {
+        "signature": "JJqc9bPBkf722ffcm6reoq9c3NVjD5axRMHcwp1erCuV2EbCqcMvAHKYYuiKUB3TaoC8ipkRt2utpoCvs3nTJLx",
+        "slot": 448953658,
+        "index": 969,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+            "name": "snipebot"
+          }
+        ]
+      },
+      {
+        "signature": "33u6WFo7GGt69NbQs7HpJQw7qJW1D5T2qcoz5XkGQJnRGn4Z2HXxiBFoBUwd63FvFHM1vwHjkwESjiPpmGQZzTnh",
+        "slot": 449037685,
+        "index": 1073,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+            "name": "snipebot"
+          }
+        ]
+      },
+      {
+        "signature": "3SVddR8aXLH3Ex9HeWUvSSYY6B8boaK2HDu3BHKUzToSj2N3etbD5ENSWSxziaFUPgvWzZD6YEXC4UDgtyZK1JV",
+        "slot": 449037692,
+        "index": 1012,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+            "name": "snipebot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+      "name": "nbot"
+    },
+    "receipts": 10000,
+    "successful": 176,
+    "successful_with_no_owned_token_change": 33,
+    "paid_network_sol_on_no_token_change": 0.0408965,
+    "top_programs": [
+      [
+        "5kZmvKbaqNjSNEnQKEREEKu5r9JkaDRKrQMUvZagCMoz",
+        9829
+      ],
+      [
+        "11111111111111111111111111111111",
+        9681
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        919
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        165
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        71
+      ],
+      [
+        "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+        8
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        5
+      ],
+      [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        3
+      ]
+    ],
+    "co_signers": [
+      [
+        "sighWH8KaiT7QhtV4w29ReVF8kG6D5yG3EQP1KYyGVF",
+        3
+      ],
+      [
+        "4HBy3udJWPSfho1Fj4UAg7yWeqRsNZJ9idC5L8vMj61n",
+        1
+      ],
+      [
+        "FkaLnX17cXZGyeu3kZGdHCNdFMJJzBrPPYVvd18B3MZp",
+        1
+      ],
+      [
+        "7rhxnLV8C77o6d8oz26AgK8x8m5ePsdeRawjqvojbjnQ",
+        1
+      ],
+      [
+        "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa",
+        1
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+        113
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        57
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        44
+      ],
+      [
+        "PEPEqnuuCDbBC89p1u9vpnP1KQ2oj1xTcQBsjt9X55m",
+        6
+      ],
+      [
+        "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+        6
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "4XFDikGwYN6jvNgaQ98bpAiLsgVTYQmwoQZLi7gXAATpfyHKtpfypZtfU2R9MrAtTSqbVKK4XUV5LLSbvx5Q3GeD",
+        "slot": 455879813,
+        "index": 818,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "5kZmvKbaqNjSNEnQKEREEKu5r9JkaDRKrQMUvZagCMoz"
+        ],
+        "named": [
+          {
+            "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "name": "nbot"
+          }
+        ]
+      },
+      {
+        "signature": "p5P84oCYr7NH98LVvvGJoeKkbwPep1A6v17Hzh81jthx3w2j2A4LfL2xypnF1xbKCZ9WXKFz8kuvxXKJ1uNo7jp",
+        "slot": 455879813,
+        "index": 820,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "5kZmvKbaqNjSNEnQKEREEKu5r9JkaDRKrQMUvZagCMoz"
+        ],
+        "named": [
+          {
+            "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "name": "nbot"
+          }
+        ]
+      },
+      {
+        "signature": "62xemcrsrDonAzRXaABSKKWa15g16XErpEsqXJMTDZzAJkYhsnzk5at6ncM7DGFRC5WyszryDt46C7fqUYqh2xZX",
+        "slot": 455879813,
+        "index": 907,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "5kZmvKbaqNjSNEnQKEREEKu5r9JkaDRKrQMUvZagCMoz"
+        ],
+        "named": [
+          {
+            "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "name": "nbot"
+          }
+        ]
+      },
+      {
+        "signature": "4JMD62vUATSwancv7PDMJ3h9jzpBBG9fQv5yt6BSimYx2NzyDipdoEzfWToFDD7MTXXdjDmTdiM1mxkXAhsXzT9",
+        "slot": 455879813,
+        "index": 910,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "5kZmvKbaqNjSNEnQKEREEKu5r9JkaDRKrQMUvZagCMoz"
+        ],
+        "named": [
+          {
+            "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "name": "nbot"
+          }
+        ]
+      },
+      {
+        "signature": "BLF9ufj3FswWvYBBkHhwXnET6h2fe8ABCBW2YLFJbeXjAmFppbjBS4L5bWpkFWuN5QbwHj93cBWUVkLJRWUwjwj",
+        "slot": 455879813,
+        "index": 981,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "5kZmvKbaqNjSNEnQKEREEKu5r9JkaDRKrQMUvZagCMoz"
+        ],
+        "named": [
+          {
+            "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "name": "nbot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+      "name": "bot12"
+    },
+    "receipts": 8130,
+    "successful": 3160,
+    "successful_with_no_owned_token_change": 272,
+    "paid_network_sol_on_no_token_change": 0.002139154,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        7991
+      ],
+      [
+        "AURAsuSzLv3v8SX3Y7emMFzGTWiepJK3Sm4x77GB9n1G",
+        7682
+      ],
+      [
+        "11111111111111111111111111111111",
+        6840
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        119
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        70
+      ],
+      [
+        "CLEANALo6FtS6quqTTEXDGFFTuSKMkeKGgcweeiPRJzK",
+        60
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        58
+      ],
+      [
+        "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+        42
+      ]
+    ],
+    "co_signers": [
+      [
+        "HuBMeYW3aDn8BH65fo8xxbP4oiexyup8udzKyccgi8Ga",
+        55
+      ],
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        26
+      ],
+      [
+        "AxiomRYAid8ZDhS1bJUAzEaNSr69aTWB9ATfdDLfUbnc",
+        22
+      ],
+      [
+        "8msbtwpuengAMp1WSgZwFYB97itbxMfMqaCv6ukzudEj",
+        17
+      ],
+      [
+        "9pbJYCVGaS9q4KvKwCdaak1rozyZ6ZtwnQdYLDgZDe7V",
+        15
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+        925
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        667
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        56
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        39
+      ],
+      [
+        "WLDTE73PPdfFFjhpBz8Yuhvx5N45gvgEgyMXqwa3rFn",
+        17
+      ],
+      [
+        "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+        12
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "4gisQrzx2bcNjPUxRCf3WrBqjpo3sNBZLcgtevbaup2AY2iEB3uKatXEn5jRKt8mUByCutqnU8pWjnVtqThzWgko",
+        "slot": 448968516,
+        "index": 185,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "AURAsuSzLv3v8SX3Y7emMFzGTWiepJK3Sm4x77GB9n1G",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+            "name": "bot12"
+          }
+        ]
+      },
+      {
+        "signature": "4FTBntBoffcUMRamymAjwCVj2KNcuJp2WGo1DFBcCXG5NQuQ6nMccZ6WXAKsdPwRFjDej6St1KvFBMECZLWFwwKh",
+        "slot": 448969368,
+        "index": 100,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "AURAsuSzLv3v8SX3Y7emMFzGTWiepJK3Sm4x77GB9n1G",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+            "name": "bot12"
+          }
+        ]
+      },
+      {
+        "signature": "5mC61ePg1XsGqLBRp6zM66j65hwWGr6qH3sLZXBGpi4oyPu1MyNky7JRK56kQWLyX8AEz7Vwbh7MhcCixV535Wra",
+        "slot": 448970187,
+        "index": 183,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "AURAsuSzLv3v8SX3Y7emMFzGTWiepJK3Sm4x77GB9n1G",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+            "name": "bot12"
+          }
+        ]
+      },
+      {
+        "signature": "5YXoAkhSqXo48HLDgdTkboSG1JcSE9mCvKQNobE5unaZwmMVXW3iLHDQZ6rKJRbfsL6DawTsskrWJxQtxGeaQwe8",
+        "slot": 448970296,
+        "index": 815,
+        "success": true,
+        "programs": [
+          "AURAsuSzLv3v8SX3Y7emMFzGTWiepJK3Sm4x77GB9n1G",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+            "name": "bot12"
+          }
+        ]
+      },
+      {
+        "signature": "22XWhGuvw2g2xgvimVRrHRZuyLxoB5NKXjsqFf3YnhkPwVUqEWoE9G1o6rrwsf5ecUQSAFFx974sjXEoK3zH8vFo",
+        "slot": 448970637,
+        "index": 642,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "AURAsuSzLv3v8SX3Y7emMFzGTWiepJK3Sm4x77GB9n1G",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+            "name": "bot12"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+      "name": "bot"
+    },
+    "receipts": 10000,
+    "successful": 7096,
+    "successful_with_no_owned_token_change": 1979,
+    "paid_network_sol_on_no_token_change": 0.08747,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        8367
+      ],
+      [
+        "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+        4615
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        3396
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        2975
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        1249
+      ],
+      [
+        "F7hMV94qDyUXuv5HirXYJhU59AjuPfJMFaZFbwzLD62r",
+        1077
+      ],
+      [
+        "XTbotxFEemJLuNiKwi9JBbGGoTfGeiqrboPHmweZ73i",
+        903
+      ],
+      [
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        619
+      ]
+    ],
+    "co_signers": [
+      [
+        "AxiomRXZAq1Jgjj9pHmNqVP7Lhu67wLXZJZbaK87TTSk",
+        1200
+      ],
+      [
+        "DeFG8i8zoJ3hN155nmvLq266ZVxWmNgRaTz5KQVHfe2S",
+        1077
+      ],
+      [
+        "3tiTnkvQVHa4zrAN5Nz6cqTUFtTqPeU9aCZGg67Yy15A",
+        587
+      ],
+      [
+        "FAGcEQjoqwzz2P81wnLYctipjviyw5jCCorSPWaWyx8u",
+        389
+      ],
+      [
+        "AxiomRYAid8ZDhS1bJUAzEaNSr69aTWB9ATfdDLfUbnc",
+        114
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+        2472
+      ],
+      [
+        "DeFG8i8zoJ3hN155nmvLq266ZVxWmNgRaTz5KQVHfe2S",
+        5
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        1914
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        215
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        51
+      ],
+      [
+        "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
+        28
+      ],
+      [
+        "WLDTE73PPdfFFjhpBz8Yuhvx5N45gvgEgyMXqwa3rFn",
+        22
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "2S3REZKMgoNN2yPFjmz3W9uK39cJvFDMdno6gVvkzhcz4jPyQMyy4JyoiokeAmQ3aDdcu9sBdpEL3qysUtBourf6",
+        "slot": 452988495,
+        "index": 440,
+        "success": true,
+        "programs": [
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "2EBLH8UeWf7dRbxRygop87rpH1E7ehPYxd7SGGocsv3mBmM8uNitUtmMF8SF33DPwbdFzPGnZJMTjwjZiWak7voc",
+        "slot": 452988536,
+        "index": 1370,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        ],
+        "named": [
+          {
+            "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "2zQyvkmgQTt1ChdC7j4oDaLDYKZP96vXinrj7cvn1upnFVw6FbZuLDn3ASvv9gG4Qi7TtB5cnr1iq3SVjwTjYDmk",
+        "slot": 452988641,
+        "index": 564,
+        "success": true,
+        "programs": [
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "5s8rNYu1hYq9JNvoFRvTSuRTVk2XiU669xu1hqVziGoXBEZTUhufCoAbf1tTCJcJSwV83jGPL9w6QweT9oqWtBZS",
+        "slot": 452988665,
+        "index": 55,
+        "success": true,
+        "programs": [
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "2exMBNh2R31DC1P3PYWJCP56KVGMuABHv9VQvYV1jjGHq8Ry2RczhD46tbjsvorvz6DxWFLgk8jYXtnkK3wVT6FU",
+        "slot": 452988957,
+        "index": 1111,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        ],
+        "named": [
+          {
+            "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+            "name": "bot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+      "name": "1 sol bot"
+    },
+    "receipts": 10000,
+    "successful": 8700,
+    "successful_with_no_owned_token_change": 234,
+    "paid_network_sol_on_no_token_change": 0.0009363,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9922
+      ],
+      [
+        "11111111111111111111111111111111",
+        9882
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        9726
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        9221
+      ],
+      [
+        "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+        5170
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        4501
+      ],
+      [
+        "6gY1osmP4FMSrTgzGjPhaSGTKXZgVZwAE71v6DJc3vFi",
+        246
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        185
+      ]
+    ],
+    "co_signers": [
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        79
+      ],
+      [
+        "dqiJGr1qmERL2QLoJoSWP2apkWQuekHahT79SkMey6D",
+        2
+      ],
+      [
+        "JECzCJjoZrA15pP2k4258BdPHbnyRUmDH8hnoNEAiL7r",
+        2
+      ],
+      [
+        "Csm1W9PwpFW8AyXvErwNanw3SFTWxw9FHQ1cACUTg55s",
+        2
+      ],
+      [
+        "5TzYy22Dzr6VJrB96zGRsAeGAeJsSktPfiAb1XnEeSki",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+        8363
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        8363
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "2cUQ1f4cAhP35tomimk9LJPhvbLhFBDFGbceZp2biKdp241sZpyXBXeSUKRUeqsRkxX7hBeFf1fjV8ZtiBpxgnkL",
+        "slot": 453398562,
+        "index": 23,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+            "name": "1 sol bot"
+          }
+        ]
+      },
+      {
+        "signature": "3QRvN2nxP9m45vE57nn26Yt3rhi9uosgLhid29gcrv7gJVqEUcCCnDpymgjTZNtQPgJbi6TMRENbHJnU3vRwg7Lb",
+        "slot": 453399986,
+        "index": 1433,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+            "name": "1 sol bot"
+          }
+        ]
+      },
+      {
+        "signature": "5iBpZGpUxzQsGXfQrs5euAfjwodu92QG6HimMtByAfLJ2nzgfocDxESJrfBiS3gTeBaDU5N4i3tWsWtU2d7e8evm",
+        "slot": 453400019,
+        "index": 400,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+            "name": "1 sol bot"
+          }
+        ]
+      },
+      {
+        "signature": "2sMhkWKHrfSntGTJaXv9Nm1rf2tf4gdBYVWejCJcA3w8WQpU3bhKnCXDoTzGWdkcU91xAh7yu9nZKCC9vtc31cys",
+        "slot": 453400186,
+        "index": 839,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+            "name": "1 sol bot"
+          }
+        ]
+      },
+      {
+        "signature": "4V3GqUoPfaXQwrby6ScEvXu5qfXMxfFY3j6xfAyg4t4tXSbTkPWeiRdgS9shUwPRUeemx3MKim9yd5CSERFfncic",
+        "slot": 453400187,
+        "index": 42,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+            "name": "1 sol bot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+      "name": "Snippebot"
+    },
+    "receipts": 10000,
+    "successful": 1675,
+    "successful_with_no_owned_token_change": 206,
+    "paid_network_sol_on_no_token_change": 0.000687173,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9855
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9523
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        8638
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        4519
+      ],
+      [
+        "2YAbTpFqvnontw3mxfiaybBdbo74fNndNs1ActDxSnQv",
+        4153
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        3947
+      ],
+      [
+        "FCdY3UTqSrbKab7ba3V6LDVSwYue2GD1xyq8tPY6Yr3o",
+        1293
+      ],
+      [
+        "F7hMV94qDyUXuv5HirXYJhU59AjuPfJMFaZFbwzLD62r",
+        396
+      ]
+    ],
+    "co_signers": [
+      [
+        "DeFG8i8zoJ3hN155nmvLq266ZVxWmNgRaTz5KQVHfe2S",
+        396
+      ],
+      [
+        "5Gqs7frfd4tUfDBg4AF3j5pLZgHLv1KCD42FKcmsscPW",
+        3
+      ],
+      [
+        "9H6im1RT91u75F5JYQLdpjrMCKuTc9ojxwoqV5kNwnxM",
+        3
+      ],
+      [
+        "Ef5RKoHtXGWEx1X9sWrhVCVSSdfvgGa9UKP51HXejssW",
+        2
+      ],
+      [
+        "9sfhDuevj6Qus6nkmsB8c3ewmJgvYKU7WuFypKmeCPir",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+        1469
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        1467
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        2
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "RX6TvibP5Pnhex9UaHGcvyCAc7aki6tT9NLj5Mght7Gw49oGo3hMtRdTjuXikHwgH7upA74K31hpnjEyuMs4KLR",
+        "slot": 454995024,
+        "index": 210,
+        "success": false,
+        "programs": [
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "2YAbTpFqvnontw3mxfiaybBdbo74fNndNs1ActDxSnQv",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+            "name": "Snippebot"
+          }
+        ]
+      },
+      {
+        "signature": "4i7N8CbQiVgHy3f1gdchrMTgcuZyRomKnSkj2zDapvdD8DZCFP3wZwxBENCVwozcSFUubKyT6b2fjoTLEJmWNcHW",
+        "slot": 454995024,
+        "index": 211,
+        "success": false,
+        "programs": [
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "2YAbTpFqvnontw3mxfiaybBdbo74fNndNs1ActDxSnQv",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+            "name": "Snippebot"
+          }
+        ]
+      },
+      {
+        "signature": "2K8n6BgZ2KxuCvYjsjTLoQkP9gParj9cwEwyosP2cm9XE9ZVHjduiBCeTEvo8ptECrv9pHaBjgZkPeHbHKQk4Jox",
+        "slot": 454995024,
+        "index": 212,
+        "success": false,
+        "programs": [
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "2YAbTpFqvnontw3mxfiaybBdbo74fNndNs1ActDxSnQv",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+            "name": "Snippebot"
+          }
+        ]
+      },
+      {
+        "signature": "3EEU2ec2SU7pkztXxrcJE93uN4gmtyFYv6HVFUeq6ik7sHeuquDwWWzzBWoQzMnhri5ojGj3tL1ZxcMQU7d2qgC5",
+        "slot": 454995024,
+        "index": 213,
+        "success": false,
+        "programs": [
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "2YAbTpFqvnontw3mxfiaybBdbo74fNndNs1ActDxSnQv",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+            "name": "Snippebot"
+          }
+        ]
+      },
+      {
+        "signature": "2FQQKzaoRT6HnJatJdgDsS356yufKP61WzU7SqATGUNKkbr7jHfJM8sc5r9eMuMsimG2jAwpgae7TsNUbGyHr1xo",
+        "slot": 454995024,
+        "index": 215,
+        "success": false,
+        "programs": [
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "2YAbTpFqvnontw3mxfiaybBdbo74fNndNs1ActDxSnQv",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+            "name": "Snippebot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF",
+      "name": "Bottom Bidder"
+    },
+    "receipts": 10000,
+    "successful": 9649,
+    "successful_with_no_owned_token_change": 588,
+    "paid_network_sol_on_no_token_change": 0.0342,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9884
+      ],
+      [
+        "11111111111111111111111111111111",
+        9517
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        9428
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        4858
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        456
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        22
+      ]
+    ],
+    "co_signers": [
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        17
+      ],
+      [
+        "6CQrTnDiqTLFJeVFJaUmEnhCQcQYvMJD7kmeMV2qeHh9",
+        4
+      ],
+      [
+        "AkXiEWJcS5YJGUAfJrUnqzQ2gmgGZvU47Z3xnVKQ8H4g",
+        3
+      ],
+      [
+        "HkBKdzEDy7z7pQYqmifaZtSeNZL58giUEYvLPv3VnbDy",
+        3
+      ],
+      [
+        "4HWF3LMu49nqdvjw9B4YgJEcFVxwZhBrKaZyKakc5pZa",
+        3
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF",
+        9061
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        9051
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        10
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+      "name": "bottty"
+    },
+    "receipts": 10000,
+    "successful": 8783,
+    "successful_with_no_owned_token_change": 162,
+    "paid_network_sol_on_no_token_change": 0.0007239,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9975
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9921
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        9805
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        9070
+      ],
+      [
+        "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+        5259
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        4565
+      ],
+      [
+        "6gY1osmP4FMSrTgzGjPhaSGTKXZgVZwAE71v6DJc3vFi",
+        503
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        42
+      ]
+    ],
+    "co_signers": [
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        4
+      ],
+      [
+        "9M7xuHCSF9GuQfTkKDg59nCLzpdFUrCWdbzPNzSabzcr",
+        3
+      ],
+      [
+        "9cQHQtg5TFTayBgEQziZnKmhkDVFQsdeqyJ7xK3qjrTn",
+        2
+      ],
+      [
+        "Fq7aXjLsaRBNMErntsbyMpcMDDBE6h9nE1aMM2ooustB",
+        2
+      ],
+      [
+        "8US3WdaxLs1mPNZzspnfANAPjNAJCpoueBGBP4c2xmYV",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+        8612
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        8598
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        14
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "4hqGC2GPT3V2eTWPyaGec8CYwM9DdX2VNSH39iZHpW9iYypQXC1qGAFz2e7so39BiZ1c22NbGZ18Nd7xtK2jJB44",
+        "slot": 454084649,
+        "index": 482,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+            "name": "bottty"
+          }
+        ]
+      },
+      {
+        "signature": "yjpsiNMEg6D29aEubdgGA4KYCLQWmJZcz7LpWja2LbDXzQbj9V4wWkt1JsXRENYgoMVDweNtbNn6gpT6WYMdzqi",
+        "slot": 454084665,
+        "index": 804,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+            "name": "bottty"
+          }
+        ]
+      },
+      {
+        "signature": "YEyMV4zmwFdNpA82DD3CozzABFheu4jiYcSHg3skMyaoq41TpfCihbw3cW224APDATwrTkURyNdHRPRtrGqRmgd",
+        "slot": 454084666,
+        "index": 246,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+            "name": "bottty"
+          }
+        ]
+      },
+      {
+        "signature": "4oBX38tX2MhryrG8LfucZixccK7nTBMfsNLDZhKPVhgffvnLCrVNjnPyzkLMPxwkYwGkvJaVsfPY67gPUcV6shaF",
+        "slot": 454085053,
+        "index": 273,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+            "name": "bottty"
+          }
+        ]
+      },
+      {
+        "signature": "2tWtS1fUgyRo2qJ5hKdQWHTcDjGuMSx9koHF7iyvXnHjup5RHsaFEHJ7RRa9gBE1dPPvgcyFnX5ZTsnjih9QxRcw",
+        "slot": 454085070,
+        "index": 12,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+            "name": "bottty"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+      "name": "bottimus"
+    },
+    "receipts": 10000,
+    "successful": 9473,
+    "successful_with_no_owned_token_change": 8261,
+    "paid_network_sol_on_no_token_change": 5.279293158,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9533
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        8222
+      ],
+      [
+        "sss5N9Bf7ptzSfn2mPB7t775Hjoxx4vsTChNt8Hfdrp",
+        7266
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        6953
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        6417
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        3066
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        2748
+      ],
+      [
+        "FPK1S8H28nHoAdbADPvgY1dNXw3WXYbgR47KE6qX6zrq",
+        2526
+      ]
+    ],
+    "co_signers": [
+      [
+        "82s2hm9RFxesfpSLsLg8kwxKz5XWn1Xorf2GyFQey8Xy",
+        844
+      ],
+      [
+        "9a6x28w1qWLxJGs1FMi5MLMDzhgnWnm38SYzkKbrc7kR",
+        839
+      ],
+      [
+        "BNhVytqZgi1Dj9cQR51c5Qc9Nz82jBgYCSd3GmfKAZd6",
+        836
+      ],
+      [
+        "DhMmikTXrfk1bn87XSd9AiMYVNFpFMuDJG593eS4kuvZ",
+        834
+      ],
+      [
+        "Had6pusVmdPaXzoWCEAQJQ4dMttPx7YCvii1Udd4nnPT",
+        817
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "DhMmikTXrfk1bn87XSd9AiMYVNFpFMuDJG593eS4kuvZ",
+        736
+      ],
+      [
+        "Had6pusVmdPaXzoWCEAQJQ4dMttPx7YCvii1Udd4nnPT",
+        735
+      ],
+      [
+        "82s2hm9RFxesfpSLsLg8kwxKz5XWn1Xorf2GyFQey8Xy",
+        734
+      ],
+      [
+        "BNhVytqZgi1Dj9cQR51c5Qc9Nz82jBgYCSd3GmfKAZd6",
+        716
+      ],
+      [
+        "GApPtVhB94qhwJ2KCDiSv69pZoaqs9znUMnjWEgCd3LW",
+        715
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        6003
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        601
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        316
+      ],
+      [
+        "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+        102
+      ],
+      [
+        "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
+        100
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "4YxbwxJHWRC3GqXcpfRNRPhx7i8pjC4BGxKKZcRbPTrBiEzFc1hMqrbArCZjNudRQ2rvYK632htAzyPwVY9sZsTu",
+        "slot": 454200709,
+        "index": 123,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "sss5N9Bf7ptzSfn2mPB7t775Hjoxx4vsTChNt8Hfdrp",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+            "name": "bottimus"
+          }
+        ]
+      },
+      {
+        "signature": "5G9ib1XsKiKjpKwLM6YSaZApa269xKCuLYjg2DVE4MGTJrtPsqeHskyjkfsDzG8ATBA2QaYnEZ4Crmwaa1wxe2sK",
+        "slot": 454202221,
+        "index": 476,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "sss5N9Bf7ptzSfn2mPB7t775Hjoxx4vsTChNt8Hfdrp",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+            "name": "bottimus"
+          }
+        ]
+      },
+      {
+        "signature": "26KQ6DM4sCKw7Q8ZASFoJd1NKuwd6zoFrUvthVhjxZygqr49RnsWe7AD8wwi19r1E1RqeEdW9atMi8iiz6d2H5MZ",
+        "slot": 454202461,
+        "index": 673,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "sss5N9Bf7ptzSfn2mPB7t775Hjoxx4vsTChNt8Hfdrp",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        ],
+        "named": [
+          {
+            "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+            "name": "bottimus"
+          }
+        ]
+      },
+      {
+        "signature": "3sBMjqtB7fKPY2fBJNQbcBHAkN5ehu91EuJxRGcDr7cvvQQ9vKyFTRVYqH6SpBbheGNY86nhs2dsX5z2b4U2P2k7",
+        "slot": 454203600,
+        "index": 863,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "sss5N9Bf7ptzSfn2mPB7t775Hjoxx4vsTChNt8Hfdrp",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+            "name": "bottimus"
+          }
+        ]
+      },
+      {
+        "signature": "2uBz5Fx6KmeJh2jMyjEeJydSnMN1yzVrrRMrjHHtL7HtyJcQRMoXYMYZxMSsenWCL8UBxdZDz7CzrhdhtsUPdZxw",
+        "slot": 454204303,
+        "index": 849,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "sss5N9Bf7ptzSfn2mPB7t775Hjoxx4vsTChNt8Hfdrp",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        ],
+        "named": [
+          {
+            "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+            "name": "bottimus"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+      "name": "asdasd"
+    },
+    "receipts": 10000,
+    "successful": 8832,
+    "successful_with_no_owned_token_change": 151,
+    "paid_network_sol_on_no_token_change": 0.0007192,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9986
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9918
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        9803
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        9053
+      ],
+      [
+        "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+        5264
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        4578
+      ],
+      [
+        "6gY1osmP4FMSrTgzGjPhaSGTKXZgVZwAE71v6DJc3vFi",
+        506
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        44
+      ]
+    ],
+    "co_signers": [
+      [
+        "6CQrTnDiqTLFJeVFJaUmEnhCQcQYvMJD7kmeMV2qeHh9",
+        3
+      ],
+      [
+        "CVWFgmAVDbQaNydtmCii4E2X2r6QFRUAtXeXhHDa1uzw",
+        3
+      ],
+      [
+        "Cc91ovUy8KVjGLbdw1RkgbMUY91QYc9MVqsJsotrxxZ9",
+        2
+      ],
+      [
+        "Fq7aXjLsaRBNMErntsbyMpcMDDBE6h9nE1aMM2ooustB",
+        2
+      ],
+      [
+        "D4w3wxgwfs2wmhpNy46aLgeotarT6nv5vqbMMQD1141D",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+        8676
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        8664
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        12
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "4pLYYhmjTsAnFGbxRvSWftUB9nJySo6Ni2i2qPfBGVzQPJFWTB18C4rB2AC8ySBABoN4UptEAeHDj2aaJPpdc4GU",
+        "slot": 454046173,
+        "index": 1020,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+            "name": "asdasd"
+          }
+        ]
+      },
+      {
+        "signature": "4wdXe5Wmip7ZXBaiWmv5jhRfTU2Vsf1CSh2BZxsLEQgfQiBM5BSEBZMv4g6v6UZDi8RMwvhr75G462sPmQn9w2A5",
+        "slot": 454046209,
+        "index": 1066,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+            "name": "asdasd"
+          }
+        ]
+      },
+      {
+        "signature": "5ugKa8uZucsHGoneNT7R6SVqvGHEun53QVE1DPiVp4F9zvhQH52LhQGyKfrnek5HNgKsUjNdijJfwhpjWiKRyhU4",
+        "slot": 454046270,
+        "index": 52,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+            "name": "asdasd"
+          }
+        ]
+      },
+      {
+        "signature": "2oikSrxooduqw3hRLbqxxcdXmfrHxXqpZTUF5L4DJtX73b5A6R13FMh88rEjY3azRNni6mkqsYjTBtxa7isdaJHN",
+        "slot": 454046396,
+        "index": 661,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+            "name": "asdasd"
+          }
+        ]
+      },
+      {
+        "signature": "3sEjtsy94JSmwu2AzoT8yarTrbpPgE51e6LJLsWGexPYqdd5CjynTRjHf9g9opXy5X8gBpMYje3FyVU6YQqw9k5r",
+        "slot": 454046404,
+        "index": 1538,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "4DvQwk6W2knHEhTJhUUdLG2M4ckKL1jy65mtY2mP8Z6a",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+            "name": "asdasd"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+      "name": "bot"
+    },
+    "receipts": 10000,
+    "successful": 29,
+    "successful_with_no_owned_token_change": 22,
+    "paid_network_sol_on_no_token_change": 0.000305,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9988
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        9977
+      ],
+      [
+        "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+        9976
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        22
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        11
+      ]
+    ],
+    "co_signers": [
+      [
+        "83NYPL9M6FoXJn845SCrqLyAs7LtkDkhrJ2CXj9QutiH",
+        1
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+        7
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        7
+      ]
+    ],
+    "custom_program_named_wallet_references": [
+      {
+        "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
+        "name": "Limfork.eth",
+        "transactions": 9965
+      },
+      {
+        "address": "BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd",
+        "name": "DV",
+        "transactions": 9965
+      },
+      {
+        "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+        "name": "Cented",
+        "transactions": 9965
+      },
+      {
+        "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+        "name": "Nyhrox",
+        "transactions": 9965
+      },
+      {
+        "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+        "name": "theo",
+        "transactions": 9965
+      },
+      {
+        "address": "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk",
+        "name": "Jijo",
+        "transactions": 9965
+      },
+      {
+        "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+        "name": "Sebastian",
+        "transactions": 9965
+      },
+      {
+        "address": "831yhv67QpKqLBJjbmw2xoDUeeFHGUx8RnuRj9imeoEs",
+        "name": "Trey",
+        "transactions": 9965
+      },
+      {
+        "address": "99xnE2zEFi8YhmKDaikc1EvH6ELTQJppnqUwMzmpLXrs",
+        "name": "Coler",
+        "transactions": 9965
+      },
+      {
+        "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+        "name": "Cupsey",
+        "transactions": 9965
+      },
+      {
+        "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+        "name": "Decu",
+        "transactions": 9965
+      },
+      {
+        "address": "FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke",
+        "name": "radiance",
+        "transactions": 9965
+      },
+      {
+        "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+        "name": "Tracked guy",
+        "transactions": 9438
+      },
+      {
+        "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+        "name": "tru",
+        "transactions": 8409
+      },
+      {
+        "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+        "name": "Trenchman",
+        "transactions": 7690
+      }
+    ],
+    "reference_examples": [
+      {
+        "signature": "AYrC2fC8RU28qifEBnNXvYiNKHytxEk5EeZ2YQV6JtNQothGEpeYVe8GyDb37SXBJwUduUHMeDdvjKnF7fELWJJ",
+        "slot": 455902284,
+        "index": 1100,
+        "success": false,
+        "programs": [
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+            "name": "Cupsey"
+          },
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk",
+            "name": "Jijo"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+            "name": "Nyhrox"
+          },
+          {
+            "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+            "name": "bot"
+          },
+          {
+            "address": "831yhv67QpKqLBJjbmw2xoDUeeFHGUx8RnuRj9imeoEs",
+            "name": "Trey"
+          },
+          {
+            "address": "99xnE2zEFi8YhmKDaikc1EvH6ELTQJppnqUwMzmpLXrs",
+            "name": "Coler"
+          },
+          {
+            "address": "BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd",
+            "name": "DV"
+          },
+          {
+            "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
+            "name": "Limfork.eth"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke",
+            "name": "radiance"
+          },
+          {
+            "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+            "name": "Trenchman"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "BvxwSSFFa48LowYLqiFC1RnZ68R3Fp8aC7HFdiKU67iF9zEH7U2ciwBMvw9ZQvvi8hgesXVTTTZmoZq8GS1a2Df",
+        "slot": 455902284,
+        "index": 1102,
+        "success": false,
+        "programs": [
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+            "name": "Cupsey"
+          },
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk",
+            "name": "Jijo"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+            "name": "Nyhrox"
+          },
+          {
+            "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+            "name": "bot"
+          },
+          {
+            "address": "831yhv67QpKqLBJjbmw2xoDUeeFHGUx8RnuRj9imeoEs",
+            "name": "Trey"
+          },
+          {
+            "address": "99xnE2zEFi8YhmKDaikc1EvH6ELTQJppnqUwMzmpLXrs",
+            "name": "Coler"
+          },
+          {
+            "address": "BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd",
+            "name": "DV"
+          },
+          {
+            "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
+            "name": "Limfork.eth"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke",
+            "name": "radiance"
+          },
+          {
+            "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+            "name": "Trenchman"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "3HShYq4A5yiSrZUPW4fA5QwTwcxJ7jV6P7Yqs8HDjRBZcyk1jT5WsaD3wqXoAoPupdyfqyrdrDLDgaPigqVPTPGP",
+        "slot": 455902284,
+        "index": 1103,
+        "success": false,
+        "programs": [
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+            "name": "Cupsey"
+          },
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk",
+            "name": "Jijo"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+            "name": "Nyhrox"
+          },
+          {
+            "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+            "name": "bot"
+          },
+          {
+            "address": "831yhv67QpKqLBJjbmw2xoDUeeFHGUx8RnuRj9imeoEs",
+            "name": "Trey"
+          },
+          {
+            "address": "99xnE2zEFi8YhmKDaikc1EvH6ELTQJppnqUwMzmpLXrs",
+            "name": "Coler"
+          },
+          {
+            "address": "BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd",
+            "name": "DV"
+          },
+          {
+            "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
+            "name": "Limfork.eth"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke",
+            "name": "radiance"
+          },
+          {
+            "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+            "name": "Trenchman"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "4qVThiAL25nysmwA9L1TpgVhGgHV3YcJZcZaykXALG2kdLhvwHLyMmEMjjhMVpgpJsG3YDYnBq4tbLmgq2jF5cTx",
+        "slot": 455902284,
+        "index": 1105,
+        "success": false,
+        "programs": [
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+            "name": "Cupsey"
+          },
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk",
+            "name": "Jijo"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+            "name": "Nyhrox"
+          },
+          {
+            "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+            "name": "bot"
+          },
+          {
+            "address": "831yhv67QpKqLBJjbmw2xoDUeeFHGUx8RnuRj9imeoEs",
+            "name": "Trey"
+          },
+          {
+            "address": "99xnE2zEFi8YhmKDaikc1EvH6ELTQJppnqUwMzmpLXrs",
+            "name": "Coler"
+          },
+          {
+            "address": "BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd",
+            "name": "DV"
+          },
+          {
+            "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
+            "name": "Limfork.eth"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke",
+            "name": "radiance"
+          },
+          {
+            "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+            "name": "Trenchman"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "MasKJboP5QGpRc8wAgWSGpHhGuF4wS4evRrxsni8a7qQPXkm21Eb9kotMftsrnrsPKuXdLiUBAo9MJzAbLEWTd5",
+        "slot": 455902284,
+        "index": 1139,
+        "success": false,
+        "programs": [
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "Db8hf6HoijsAi6PZdXn4wByhB6LVrn17MPS6XprQBEwH",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+            "name": "Cupsey"
+          },
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk",
+            "name": "Jijo"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC",
+            "name": "Nyhrox"
+          },
+          {
+            "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+            "name": "bot"
+          },
+          {
+            "address": "831yhv67QpKqLBJjbmw2xoDUeeFHGUx8RnuRj9imeoEs",
+            "name": "Trey"
+          },
+          {
+            "address": "99xnE2zEFi8YhmKDaikc1EvH6ELTQJppnqUwMzmpLXrs",
+            "name": "Coler"
+          },
+          {
+            "address": "BCagckXeMChUKrHEd6fKFA1uiWDtcmCXMsqaheLiUPJd",
+            "name": "DV"
+          },
+          {
+            "address": "BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB",
+            "name": "Limfork.eth"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke",
+            "name": "radiance"
+          },
+          {
+            "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+            "name": "Trenchman"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+      "name": "insane bot"
+    },
+    "receipts": 10000,
+    "successful": 764,
+    "successful_with_no_owned_token_change": 763,
+    "paid_network_sol_on_no_token_change": 0.005489952,
+    "top_programs": [
+      [
+        "DhpyNWkdxFh3DRPsBrwRwrK3TYC5t7Q4arnSvf3t84HY",
+        9987
+      ],
+      [
+        "11111111111111111111111111111111",
+        9151
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        9
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        8
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        3
+      ],
+      [
+        "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+        2
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        1
+      ]
+    ],
+    "co_signers": [
+      [
+        "3crj9TB2QitxSKBCTz9wSFR4wvEcK3RqEdhHtSxEfhgS",
+        91
+      ],
+      [
+        "5L7aqweEkQWzogyyqi1xs2oU2ePseSXQnpnxYrg2aBUD",
+        81
+      ],
+      [
+        "7iyYn4gshakdEUkF2bfV4pU3oaYBmg9ktJwGW8kQ9z96",
+        77
+      ],
+      [
+        "2KP9miexioqgNbjPwysggcbi3sKqhH8JsPaDmFxRPURD",
+        58
+      ],
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        3
+      ]
+    ],
+    "pump_event_users": [],
+    "quote_mints": [],
+    "custom_program_named_wallet_references": [
+      {
+        "address": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+        "name": "Euris",
+        "transactions": 9900
+      },
+      {
+        "address": "BAr5csYtpWoNpwhUjixX7ZPHXkUciFZzjBp9uNxZXJPh",
+        "name": "Jack Duval\ud83c\udf0a",
+        "transactions": 9900
+      },
+      {
+        "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+        "name": "theo",
+        "transactions": 9900
+      },
+      {
+        "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+        "name": "Sebastian",
+        "transactions": 9900
+      },
+      {
+        "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+        "name": "tru",
+        "transactions": 9900
+      },
+      {
+        "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+        "name": "Schoen",
+        "transactions": 9900
+      },
+      {
+        "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+        "name": "Decu",
+        "transactions": 9900
+      },
+      {
+        "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
+        "name": "bandit",
+        "transactions": 9900
+      },
+      {
+        "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+        "name": "Tracked guy",
+        "transactions": 9900
+      },
+      {
+        "address": "Hw5UKBU5k3YudnGwaykj5E8cYUidNMPuEewRRar5Xoc7",
+        "name": "Trenchman",
+        "transactions": 8349
+      },
+      {
+        "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+        "name": "Cented",
+        "transactions": 1533
+      }
+    ],
+    "reference_examples": [
+      {
+        "signature": "52SNb3Na9uzLeEdzfPFuANjDwymsjGBH6Dfy4sG3qvtyLJnscBpuBMWP335zrGn9vEK5Px1tDgqjHTsjuE5k12RA",
+        "slot": 455904736,
+        "index": 845,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "DhpyNWkdxFh3DRPsBrwRwrK3TYC5t7Q4arnSvf3t84HY"
+        ],
+        "named": [
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
+            "name": "bandit"
+          },
+          {
+            "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+            "name": "Schoen"
+          },
+          {
+            "address": "BAr5csYtpWoNpwhUjixX7ZPHXkUciFZzjBp9uNxZXJPh",
+            "name": "Jack Duval\ud83c\udf0a"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+            "name": "insane bot"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+            "name": "Euris"
+          },
+          {
+            "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+            "name": "Tracked guy"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "XniiR5GDLpQxsdW5hX82B5CzrRt1CbFzuHZVRAVUfG6ixJ6wmWx7bZpd2nY3xF2wxjP1mBNvZ931hUeKcbXamXC",
+        "slot": 455904736,
+        "index": 895,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "DhpyNWkdxFh3DRPsBrwRwrK3TYC5t7Q4arnSvf3t84HY"
+        ],
+        "named": [
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
+            "name": "bandit"
+          },
+          {
+            "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+            "name": "Schoen"
+          },
+          {
+            "address": "BAr5csYtpWoNpwhUjixX7ZPHXkUciFZzjBp9uNxZXJPh",
+            "name": "Jack Duval\ud83c\udf0a"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+            "name": "insane bot"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+            "name": "Euris"
+          },
+          {
+            "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+            "name": "Tracked guy"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "261Dmh8yMvLtjz4tje9uBGef9vwyn6nNGQBB7soYDDxAw2DE4GgRPhCf4v1GwDV8FdZb3A1hLjhpWcmZ12iznBKM",
+        "slot": 455904736,
+        "index": 898,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "DhpyNWkdxFh3DRPsBrwRwrK3TYC5t7Q4arnSvf3t84HY"
+        ],
+        "named": [
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
+            "name": "bandit"
+          },
+          {
+            "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+            "name": "Schoen"
+          },
+          {
+            "address": "BAr5csYtpWoNpwhUjixX7ZPHXkUciFZzjBp9uNxZXJPh",
+            "name": "Jack Duval\ud83c\udf0a"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+            "name": "insane bot"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+            "name": "Euris"
+          },
+          {
+            "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+            "name": "Tracked guy"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "4rkqe4Lj3TjCUomQLmWg3Bx1Gs1PC4JTiaKCRxGCpcHbZiN9JQsP9hWMqYW3F7x8mwXUiS4MXwPAAKsnkMc3zLJN",
+        "slot": 455904736,
+        "index": 963,
+        "success": true,
+        "programs": [
+          "DhpyNWkdxFh3DRPsBrwRwrK3TYC5t7Q4arnSvf3t84HY"
+        ],
+        "named": [
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
+            "name": "bandit"
+          },
+          {
+            "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+            "name": "Schoen"
+          },
+          {
+            "address": "BAr5csYtpWoNpwhUjixX7ZPHXkUciFZzjBp9uNxZXJPh",
+            "name": "Jack Duval\ud83c\udf0a"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+            "name": "insane bot"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+            "name": "Euris"
+          },
+          {
+            "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+            "name": "Tracked guy"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      },
+      {
+        "signature": "2C45ceiAdVunsxJRkSKVVgsgn6j88kCfMygE3FpUS2dnYCpahP8RMzDtZQHww3LvcjcHMaLs9qX6zyGAcCGuPFMq",
+        "slot": 455904737,
+        "index": 63,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "DhpyNWkdxFh3DRPsBrwRwrK3TYC5t7Q4arnSvf3t84HY"
+        ],
+        "named": [
+          {
+            "address": "3BLjRcxWGtR7WRshJ3hL25U3RjWr5Ud98wMcczQqk4Ei",
+            "name": "Sebastian"
+          },
+          {
+            "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+            "name": "Decu"
+          },
+          {
+            "address": "5B79fMkcFeRTiwm7ehsZsFiKsC7m7n1Bgv9yLxPp9q2X",
+            "name": "bandit"
+          },
+          {
+            "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+            "name": "Schoen"
+          },
+          {
+            "address": "BAr5csYtpWoNpwhUjixX7ZPHXkUciFZzjBp9uNxZXJPh",
+            "name": "Jack Duval\ud83c\udf0a"
+          },
+          {
+            "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+            "name": "theo"
+          },
+          {
+            "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+            "name": "insane bot"
+          },
+          {
+            "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+            "name": "Cented"
+          },
+          {
+            "address": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+            "name": "Euris"
+          },
+          {
+            "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+            "name": "Tracked guy"
+          },
+          {
+            "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+            "name": "tru"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+      "name": "bot"
+    },
+    "receipts": 7009,
+    "successful": 3884,
+    "successful_with_no_owned_token_change": 566,
+    "paid_network_sol_on_no_token_change": 0.001955,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        6727
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        6255
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        5600
+      ],
+      [
+        "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+        4842
+      ],
+      [
+        "11111111111111111111111111111111",
+        4140
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        1226
+      ],
+      [
+        "3T8C7xSk9DQG9qvnaTuJ3F43SgbzPDhRwCVRemnZWqLn",
+        319
+      ],
+      [
+        "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+        318
+      ]
+    ],
+    "co_signers": [
+      [
+        "8firezizBUwaggMD21bowLDWNZM9FNEDTYwB6hLUowwY",
+        3
+      ],
+      [
+        "3xwBvJerbQwWeaaK18mgnaMNpjvT7orR7jwDjoBVvt2L",
+        3
+      ],
+      [
+        "EjcPAjMXwRmYEpUegAfG1i99J78w9Lx1MqQ4YGpg65LH",
+        3
+      ],
+      [
+        "58GEuQTYpYfWoie1WAYr5fSue5PVuZSCVXFCehB7eQvG",
+        3
+      ],
+      [
+        "2MwAkoNGudxXncKLhyVpWe4u5Gh1bxNGv5pGTpx3Rr1s",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+        2999
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        2861
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        40
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        20
+      ],
+      [
+        "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        12
+      ],
+      [
+        "DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R",
+        8
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "4tDtPExhVbJvobBd4J35FSvqveBd3ucZmorAJnqLjpcgak3feLUBcSdWx7VHwT5Timgt23BpmjsCZQfuEQTHyKFH",
+        "slot": 448977052,
+        "index": 1089,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "3opUGfhEeLbxWLK5FZvWg4PxkEjuuPDbmyaFCZugsvfQnoxdGJAWzcxWA2fMa7MfsoBzMVuvB1Jk5igDPRWNZNWJ",
+        "slot": 448977060,
+        "index": 893,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "3XqSFackTs2nBoRwEMxDqJiyfu86RGHmxpvV6fRpuMwYZ4QwJTKdX1LRqGqCN1DggcN4ACFXMtciLSPDSed4gJme",
+        "slot": 448977065,
+        "index": 236,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "2U1K1P6WF8EqMmJQZABFTgmRuzhQcKx2xhJ9UmbvdLrUsPrnGPLrpbP4dngCVpsQ5kVhfDXth7zzFKF23kTZTWDg",
+        "slot": 448991290,
+        "index": 681,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "63SVvxYb8bmZY6Z56AGGiu17ej9greADERS7Lq1TzhZUPngUio2iDAgTYBSPN1WWLudLs9Urs1HaiA6dYBzjEGGz",
+        "slot": 448991297,
+        "index": 220,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "FGtidgevp8iNGb1UvZgqticXdoo8oUnjZWFZp3sJi4SM",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+            "name": "bot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+      "name": "boooooot"
+    },
+    "receipts": 10000,
+    "successful": 1663,
+    "successful_with_no_owned_token_change": 94,
+    "paid_network_sol_on_no_token_change": 2.5e-05,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9993
+      ],
+      [
+        "11111111111111111111111111111111",
+        9398
+      ],
+      [
+        "DpBm3eXxQnejtzMBAcokWQQS1uq7pgeK1cT3Kww3FFvf",
+        7156
+      ],
+      [
+        "3KyMT9UHbh9Kbru21ShJoigYYQrAuSSmQpJzJ7Yr4iyM",
+        7156
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        2109
+      ],
+      [
+        "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95",
+        1977
+      ],
+      [
+        "9buc3tzJpArNgSnxxtDhXaiaJnGfSM2q57qykYxqYRXs",
+        1333
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        1197
+      ]
+    ],
+    "co_signers": [
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        162
+      ],
+      [
+        "4McdXSzBQfV9FNhsZDeFn7qvjbNaLdh7BtbE2E8ym1rb",
+        1
+      ],
+      [
+        "6znK9PZrxvu3eCMN5wd7AF1hxaP2QgqgQ6CLZZQETFBH",
+        1
+      ],
+      [
+        "7jLGCcCNtDzcqmpYDFv6UwakoJ7HxaozxXvSutLSuWLY",
+        1
+      ],
+      [
+        "7QTjqd375EnmiSsmGe1WQfyHkPx2CsC2CpKCm32az4xb",
+        1
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+        1432
+      ]
+    ],
+    "quote_mints": [
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        684
+      ],
+      [
+        "Hg5Ja55T5wESq4vyFoiVCMeHXtGyVA69X2UHq8hgpump",
+        123
+      ],
+      [
+        "11111111111111111111111111111111",
+        104
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        95
+      ],
+      [
+        "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+        56
+      ]
+    ],
+    "custom_program_named_wallet_references": [
+      {
+        "address": "CyaE1VxvBrahnPWkqm5VsdCvyS2QmNht2UFrKJHga54o",
+        "name": "Cented",
+        "transactions": 806
+      },
+      {
+        "address": "ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT",
+        "name": "tru",
+        "transactions": 567
+      },
+      {
+        "address": "4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9",
+        "name": "Decu",
+        "transactions": 541
+      },
+      {
+        "address": "Di75xbVUg3u1qcmZci3NcZ8rjFMj7tsnYEoFdEMjS4ow",
+        "name": "N\u2019o",
+        "transactions": 398
+      },
+      {
+        "address": "Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt",
+        "name": "theo",
+        "transactions": 394
+      },
+      {
+        "address": "2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f",
+        "name": "Cupsey",
+        "transactions": 312
+      },
+      {
+        "address": "VJSDW6S74YXR4rRR9P4xwhMvLZJQMhrUb8XMFirUsy1",
+        "name": "Tracked guy",
+        "transactions": 293
+      },
+      {
+        "address": "5hAgYC8TJCcEZV7LTXAzkTrm7YL29YXyQQJPCNrG84zM",
+        "name": "Schoen",
+        "transactions": 289
+      },
+      {
+        "address": "BHREKFkPQgAtDs8Vb1UfLkUpjG6ScidTjHaCWFuG2AtX",
+        "name": "Risk",
+        "transactions": 258
+      },
+      {
+        "address": "CkPFGv2Wv1vwdWjtXioEgb8jhZQfs3eVZez3QCetu7xD",
+        "name": "Lynk",
+        "transactions": 248
+      },
+      {
+        "address": "5YRgrP3mjGzrzirYYN5HAQH19cTYREYwGxW6XRJQUzij",
+        "name": "slingoor",
+        "transactions": 243
+      },
+      {
+        "address": "3h65MmPZksoKKyEpEjnWU2Yk2iYT5oZDNitGy5cTaxoE",
+        "name": "Jidn",
+        "transactions": 211
+      },
+      {
+        "address": "4yo9CUuTBbds9NFhZd4MzPiZZkUvveXdTnAH8qMsE8ku",
+        "name": "Gfree",
+        "transactions": 166
+      },
+      {
+        "address": "DAEdBmTPEKM6xkwfzC3d411QUe6coKpkND6UURa4CvHC",
+        "name": "Fox \ud83e\udd8a",
+        "transactions": 148
+      },
+      {
+        "address": "DYAn4XpAkN5mhiXkRB7dGq4Jadnx6XYgu8L5b3WGhbrt",
+        "name": "Strong guy",
+        "transactions": 147
+      }
+    ],
+    "reference_examples": [
+      {
+        "signature": "2mA6fAUDFa1uDuQ2JcikqagQsYW9CyJV2aXMWyc2Y5UrFPtahNXSJ8vDEGobSRcBrqtk61MtAgRr6HWorA2nB4J5",
+        "slot": 455772533,
+        "index": 1058,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+          "11111111111111111111111111111111",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+            "name": "boooooot"
+          }
+        ]
+      },
+      {
+        "signature": "2TYeTomuRktDNAJzMcmptx6967xD6rs2TwUjrCM27zEtLcMpTBNtiwfF7UTx1x1KxHy7Z2w6ENVyWgf1g248JbVq",
+        "slot": 455772542,
+        "index": 1193,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "LanMV9sAd7wArD4vJFi2qDdfnVhFxYSUg6eADduJ3uj",
+          "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+            "name": "boooooot"
+          }
+        ]
+      },
+      {
+        "signature": "3qiNZ7MWe5SxC4RhmVo1xy5s1vWdBz4hdHnjAt7jdT43AqDm3z51hCn9LLa2pVizUWXsZ7bJEcLiQEERt81EGunP",
+        "slot": 455772594,
+        "index": 2,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "9buc3tzJpArNgSnxxtDhXaiaJnGfSM2q57qykYxqYRXs",
+          "11111111111111111111111111111111",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+            "name": "boooooot"
+          }
+        ]
+      },
+      {
+        "signature": "64xkp1oM6WaN31cdeyFP45axiNqggP1xrUUUGXDKuDUNi4DDEj2urSHo4pit7xR1ENNRwj9KvDbtMucB4kfqo4ih",
+        "slot": 455772594,
+        "index": 36,
+        "success": false,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "9buc3tzJpArNgSnxxtDhXaiaJnGfSM2q57qykYxqYRXs",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+            "name": "boooooot"
+          }
+        ]
+      },
+      {
+        "signature": "2GD3x6a7XnHZiTgomTCKqoFrKsLs4sxCiomwcUKRoTNzMxXd6yMXoPC1obPRpkjvsmZT7hnPoBu4ib8Evd47uYX5",
+        "slot": 455772594,
+        "index": 38,
+        "success": false,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "9buc3tzJpArNgSnxxtDhXaiaJnGfSM2q57qykYxqYRXs",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "L2TExMFKdjpN9kozasaurPirfHy9P8sbXoAN1qA3S95"
+        ],
+        "named": [
+          {
+            "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+            "name": "boooooot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+      "name": "cbot14"
+    },
+    "receipts": 1882,
+    "successful": 1671,
+    "successful_with_no_owned_token_change": 159,
+    "paid_network_sol_on_no_token_change": 0.000203003,
+    "top_programs": [
+      [
+        "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+        1593
+      ],
+      [
+        "11111111111111111111111111111111",
+        1578
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        419
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        359
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        196
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        185
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        120
+      ],
+      [
+        "rapidV5DAKtecYzetwCNoxXWHpezjeg4hGt9BGiVcGW",
+        81
+      ]
+    ],
+    "co_signers": [
+      [
+        "E4Xtb6fXDtwfECuqxDRH8wzMk1mvgt7C4beayLLX923w",
+        82
+      ],
+      [
+        "AxiomRYAid8ZDhS1bJUAzEaNSr69aTWB9ATfdDLfUbnc",
+        77
+      ],
+      [
+        "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+        70
+      ],
+      [
+        "5st7H8QtPEVfovSwLmdJDjbUAQivVZJGzbHCir6dZxGc",
+        28
+      ],
+      [
+        "CsbGmqitS2kEJ5eUqe684J6uXPQ6SyGMUroGKhJrtdyP",
+        20
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+        960
+      ],
+      [
+        "E4Xtb6fXDtwfECuqxDRH8wzMk1mvgt7C4beayLLX923w",
+        27
+      ],
+      [
+        "CsbGmqitS2kEJ5eUqe684J6uXPQ6SyGMUroGKhJrtdyP",
+        10
+      ],
+      [
+        "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+        8
+      ],
+      [
+        "Cc7J5CcbSr6gnD8UUcdaNQ2UzXDndsLFvLZYNphyHAgq",
+        3
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        851
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        77
+      ],
+      [
+        "DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R",
+        23
+      ],
+      [
+        "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+        12
+      ],
+      [
+        "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+        7
+      ]
+    ],
+    "custom_program_named_wallet_references": [
+      {
+        "address": "6KR7SorsUQtNH6CB6JpAnWCAKeTysa95iyXeWihdNeGT",
+        "name": "KOREAN",
+        "transactions": 84
+      }
+    ],
+    "reference_examples": [
+      {
+        "signature": "4XHg7Tsmv3YPXTJKMPJiVJ8gfgSwvHrJ3DQVpJYNWhqzpcoyFyaSEDSCFDAy2KKFz6jZJ5ePosJ4XjuA2mXCxQnC",
+        "slot": 449039531,
+        "index": 71,
+        "success": false,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        ],
+        "named": [
+          {
+            "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+            "name": "cbot14"
+          }
+        ]
+      },
+      {
+        "signature": "411Jn9KTKchmXB3YqVcG7vWGMzdjUM3GekaXkWLm1Y93emMXvTd5R1EeKbRrQSmYVughYie9wi2NmbES6aLUNLN6",
+        "slot": 449039531,
+        "index": 88,
+        "success": false,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        ],
+        "named": [
+          {
+            "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+            "name": "cbot14"
+          }
+        ]
+      },
+      {
+        "signature": "2gcSRuotMqTsrXGAysmbLxDzRazkrsa8vnrq5EE7CpWPiSFPLJibuP18Hs5UqsdB84Sy3iLGDZYxniZTPbDPeVNh",
+        "slot": 449040080,
+        "index": 542,
+        "success": true,
+        "programs": [
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+            "name": "cbot14"
+          }
+        ]
+      },
+      {
+        "signature": "2ZpGx3PTN6aNxaEyJe7i9PQxsossK5Ngc8nBURuTJVSaF3eJB88CD2DcQ7nKVxCMJZkhU2yT6jrpmRgqzjvXh79Z",
+        "slot": 449040109,
+        "index": 94,
+        "success": true,
+        "programs": [
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+            "name": "cbot14"
+          }
+        ]
+      },
+      {
+        "signature": "3Qrd1r3E9ATc8ta4g9JcehJ2ozSqe46Ukofdamq55eKeBKh8WQfLjnNEus4jska8Q4EHo85ydDr83wSxAtJEd2aZ",
+        "slot": 449040126,
+        "index": 474,
+        "success": true,
+        "programs": [
+          "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+            "name": "cbot14"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+      "name": "Botty"
+    },
+    "receipts": 10000,
+    "successful": 8593,
+    "successful_with_no_owned_token_change": 101,
+    "paid_network_sol_on_no_token_change": 0.0005705,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9942
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9904
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        9882
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        5653
+      ],
+      [
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        4245
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        58
+      ],
+      [
+        "GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb",
+        17
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        1
+      ]
+    ],
+    "co_signers": [
+      [
+        "FsUHfDpDNHF6NLQfCFwj8T5N5Wr4hpektMmLTnnsKG25",
+        3
+      ],
+      [
+        "ExveVLpGvFyS81Wtvk9qAZpVkS5tup6nNuvaEvEcHtp5",
+        2
+      ],
+      [
+        "B3yridADa62c4iiwXbc5QRGAhAngnxqxxvqTNYZw9K2p",
+        2
+      ],
+      [
+        "8rHSq9zM7wadZbRoZs9BknnEJ2VUVFVdbebbPHLwHd2R",
+        2
+      ],
+      [
+        "BSDyn37A8wubvX7GAJ16dr13zQFLqxewFR8dArPmKH4G",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+        8492
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        8492
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "3vGyUM7GozijeAUcqf2Y5FMLJ3mnpBjSN4SRU5AsLrybRMkmfd6MRgYWCueF9pu2PyySWsM7bPo26XDRGrox8KeP",
+        "slot": 455574549,
+        "index": 35,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+            "name": "Botty"
+          }
+        ]
+      },
+      {
+        "signature": "5GMVTzN6VpyRYMaTdVXaxyGz7MVXoxm7CN3X4D39hLT7Co98XQUjWFUEUVeRd9NchetwUBgRCMhK5DgGZTLrvQPT",
+        "slot": 455574725,
+        "index": 686,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+            "name": "Botty"
+          }
+        ]
+      },
+      {
+        "signature": "2ja5WyjUfQvCt7RNFBU9RLWtirMuacYEFZXDd3ZVvwuYiW5CnFPSRiWSCGLmyCKVvr29FnR9UDSpupMifG8TGskr",
+        "slot": 455574820,
+        "index": 86,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+            "name": "Botty"
+          }
+        ]
+      },
+      {
+        "signature": "oGA3PKTod26t9ymELRs7ATRkcE1W2Bj9v6uxrcMJWydjMeKUev4TJgyRkHBGcNHxrMnViCPJMinFgTxftChExhG",
+        "slot": 455574944,
+        "index": 704,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb",
+          "11111111111111111111111111111111",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+            "name": "Botty"
+          }
+        ]
+      },
+      {
+        "signature": "3x5aeELXC3nvizWWkosCTToTsnBtQ3kHLKaQTcLMfAjmCbpBhJx3U7Sj4gfweCNGKqCRaaHC2h8mMNTFEqGwDfej",
+        "slot": 455575171,
+        "index": 68,
+        "success": true,
+        "programs": [
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "GMgnVFR8Jb39LoXsEVzb3DvBy3ywCmdmJquHUy1Lrkqb",
+          "11111111111111111111111111111111"
+        ],
+        "named": [
+          {
+            "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+            "name": "Botty"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "72MUPELEkUU5riN8ZPdfVssXWC6L8EViZ9FybHEmqT6J",
+      "name": "1sol bot"
+    },
+    "receipts": 4014,
+    "successful": 3722,
+    "successful_with_no_owned_token_change": 127,
+    "paid_network_sol_on_no_token_change": 0.00091,
+    "top_programs": [
+      [
+        "ComputeBudget111111111111111111111111111111",
+        3953
+      ],
+      [
+        "11111111111111111111111111111111",
+        3951
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        3887
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        3885
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        2017
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        60
+      ],
+      [
+        "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+        1
+      ]
+    ],
+    "co_signers": [
+      [
+        "4ekt2CpJuU9xHLNPpy5DiA6k4NSBBVCzXnaxiLzXH8hQ",
+        3
+      ],
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        3
+      ],
+      [
+        "8rHSq9zM7wadZbRoZs9BknnEJ2VUVFVdbebbPHLwHd2R",
+        3
+      ],
+      [
+        "B9qf7L3e4uUSDtkoFP3xBKWFcw4fVFZk8xG37EBsnf9H",
+        2
+      ],
+      [
+        "B3yridADa62c4iiwXbc5QRGAhAngnxqxxvqTNYZw9K2p",
+        2
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "72MUPELEkUU5riN8ZPdfVssXWC6L8EViZ9FybHEmqT6J",
+        3594
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        3594
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+      "name": "bot"
+    },
+    "receipts": 10000,
+    "successful": 9279,
+    "successful_with_no_owned_token_change": 87,
+    "paid_network_sol_on_no_token_change": 0.00017811,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9997
+      ],
+      [
+        "ComputeBudget111111111111111111111111111111",
+        9919
+      ],
+      [
+        "haqqqMGN35ehCftXca3KWxJFXTBcWTWeNHNtUHLGQdh",
+        9913
+      ],
+      [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        34
+      ],
+      [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        4
+      ],
+      [
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        4
+      ]
+    ],
+    "co_signers": [
+      [
+        "9KN3j2vAapu8F7eLARGRfh1P39H4eMXcLKa83LLqcaqX",
+        3
+      ],
+      [
+        "HckQ93Xqjjo8mwt5pNPWvyCTZXQZ858rvzmm7ZRrZg9t",
+        3
+      ],
+      [
+        "bLL9Gdc2rHLLAEhwY6wDv7k7zsi19qJiqpBBzrQDM9S",
+        2
+      ],
+      [
+        "HuT5iUJQ2bFwyWqJMGEiSqtLaxq3ziexJfginqMBARgN",
+        2
+      ],
+      [
+        "6ijsGx6DFF9QvcDGwF6kWehnvoEzDZqxPbcVJpLRVPgU",
+        1
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+        8979
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        8979
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "21hCjXyAAzGg4QXpSF4zVtwWLTL7TV1iUmgVnVt71zHvgNyQcaYuvutH3Ea5igJMdzAt7X4Fu4piB8U4MF3qvG4y",
+        "slot": 455437002,
+        "index": 612,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "haqqqMGN35ehCftXca3KWxJFXTBcWTWeNHNtUHLGQdh"
+        ],
+        "named": [
+          {
+            "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "48KRajSJFr33MyLQLnpWPTQTVwAtuN8hB5ctuBW7xNdVxBgH5mto6EYPhFvZN5AdpdPPmfNHV2sE5u6fLP2yBerE",
+        "slot": 455437002,
+        "index": 668,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "haqqqMGN35ehCftXca3KWxJFXTBcWTWeNHNtUHLGQdh"
+        ],
+        "named": [
+          {
+            "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "jmtv3LK98psqHwRbvULVbjewuuTnxJxRLT8PdpJUUoJZsFiXVyjfzusXyVSN2K9vwBhZoLUH7iwYRYNofsq2aoD",
+        "slot": 455437003,
+        "index": 216,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "haqqqMGN35ehCftXca3KWxJFXTBcWTWeNHNtUHLGQdh"
+        ],
+        "named": [
+          {
+            "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "4s3YUmocmUG8zTQToZPfMUf5S44pX9UCpUifRVh58UQw7aMyG1qcgsfhVKAdJdKpqBNs4AtLpBdbEzksZE8HGoW8",
+        "slot": 455437004,
+        "index": 970,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "haqqqMGN35ehCftXca3KWxJFXTBcWTWeNHNtUHLGQdh"
+        ],
+        "named": [
+          {
+            "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+            "name": "bot"
+          }
+        ]
+      },
+      {
+        "signature": "4wWbBdxas1PBknaMZCWTs37oJ433FSUzem67k2V1Djuqt63Ef9XubCSRTRqXcpdA3iTiGQHoscSktdDThAv6RjfU",
+        "slot": 455437006,
+        "index": 711,
+        "success": true,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "ComputeBudget111111111111111111111111111111",
+          "11111111111111111111111111111111",
+          "haqqqMGN35ehCftXca3KWxJFXTBcWTWeNHNtUHLGQdh"
+        ],
+        "named": [
+          {
+            "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+            "name": "bot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  },
+  {
+    "wallet": {
+      "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+      "name": "Bot"
+    },
+    "receipts": 10000,
+    "successful": 95,
+    "successful_with_no_owned_token_change": 21,
+    "paid_network_sol_on_no_token_change": 0.000187,
+    "top_programs": [
+      [
+        "11111111111111111111111111111111",
+        9981
+      ],
+      [
+        "ZEPHYRuoTyquTiT1JHJbHyU7hqsGZNmd91SzxfXmF57",
+        9979
+      ],
+      [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        35
+      ]
+    ],
+    "co_signers": [
+      [
+        "5Cis2z427X92zhjix1SKrs2nDtXvjsDUA2Qzez82eTep",
+        1
+      ],
+      [
+        "GMPrX5QZMoEChakD39amvhDrDmcggHe8xaFdLARRJgvP",
+        1
+      ]
+    ],
+    "pump_event_users": [
+      [
+        "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+        28
+      ]
+    ],
+    "quote_mints": [
+      [
+        "11111111111111111111111111111111",
+        24
+      ],
+      [
+        "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        4
+      ]
+    ],
+    "custom_program_named_wallet_references": [],
+    "reference_examples": [
+      {
+        "signature": "3DvJ6s9uSnGoYKZpA66hBGZJb8PLYK46ssf5XtDF8Zg1EN1b9fobRJY1fx17Aup5D1jTEZ48jDfHbQjzUAtRHEt4",
+        "slot": 455801849,
+        "index": 20,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ZEPHYRuoTyquTiT1JHJbHyU7hqsGZNmd91SzxfXmF57"
+        ],
+        "named": [
+          {
+            "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+            "name": "Bot"
+          }
+        ]
+      },
+      {
+        "signature": "2eW9E77zyqnRFbyhrYidvUwDuVpgV5N36czEFLGS5Gpgn1L7Vx57TQKhVLYJP4oFcUeeCP7qoRxXFVRBRSC6XzNV",
+        "slot": 455801849,
+        "index": 99,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ZEPHYRuoTyquTiT1JHJbHyU7hqsGZNmd91SzxfXmF57"
+        ],
+        "named": [
+          {
+            "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+            "name": "Bot"
+          }
+        ]
+      },
+      {
+        "signature": "5SF1qHWTE6kzgvGS7xk4wFzrryjMiyoHJxE4FaMH59fRgCETm9o1FjCz2DhVUP7bf4Lpd8PqAzjhLahJc5t6xcXG",
+        "slot": 455801849,
+        "index": 153,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ZEPHYRuoTyquTiT1JHJbHyU7hqsGZNmd91SzxfXmF57"
+        ],
+        "named": [
+          {
+            "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+            "name": "Bot"
+          }
+        ]
+      },
+      {
+        "signature": "4vbcvvbCne38YahLvDPjzPswu1Ea4j4GW6gve87SA2F1XbnGKp3NhkRDP1sokP6n45fQLqtF4pFXMHKwffidUKgC",
+        "slot": 455801849,
+        "index": 179,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ZEPHYRuoTyquTiT1JHJbHyU7hqsGZNmd91SzxfXmF57"
+        ],
+        "named": [
+          {
+            "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+            "name": "Bot"
+          }
+        ]
+      },
+      {
+        "signature": "33KMJGUZu4NC6GXyixphjgMLisepgGvAezcbG5p5bjfZuPJMPEepCoNWjtXeHV5dv7J7GQHQshB95eCp8UrVAhVF",
+        "slot": 455801849,
+        "index": 181,
+        "success": false,
+        "programs": [
+          "11111111111111111111111111111111",
+          "ZEPHYRuoTyquTiT1JHJbHyU7hqsGZNmd91SzxfXmF57"
+        ],
+        "named": [
+          {
+            "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+            "name": "Bot"
+          }
+        ]
+      }
+    ],
+    "truncated_logs": 0,
+    "interpretation": "read-only account reference/role fingerprint; does not decode private trigger or prove buy followed referenced wallet"
+  }
+]

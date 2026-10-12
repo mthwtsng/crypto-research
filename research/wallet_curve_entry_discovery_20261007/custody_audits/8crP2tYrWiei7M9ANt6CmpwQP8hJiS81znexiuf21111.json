@@ -1,0 +1,46 @@
+{
+  "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+  "passes": [
+    {
+      "signature": "3HS6wBb97nwLEZ8YbWGjmNsqj5FDm9HyP9urE4oCQQdB2GTXNeKE6UonFYZLtCjr6ViCL2gPsVTUXLsVnVF4QDwN",
+      "owner": "DankbcqLYtJbMgL6MF4DJCSAk5HPWAkYFUq5HqFRaDan",
+      "accounts": [
+        "9hNt3e8oXEWPZSBcvTqF1sYgz7Zo7T6W7UJJfory64r8"
+      ],
+      "added": [
+        "5EsaqAuXviowwMJAHeA2vDp5AYscnKiqFvehYVFx88SRKwhGcCgwLbM5VFFPabhHP2Zt9zX2RfJwofM9P6qFn711",
+        "3sd1KbB83amFYSpz45d75U5971KXY8gvUnradrnqPpjAPHDnYBQ7j8umuoWVHratRWPkdY2EFmk7Vqrg3EHGLcJX",
+        "2jyxMh4mVeEwiYJxoAcfBGeWZwPf34yQG8vE5z6tp5BiAWHYX3vopBMHZitwXXdo2461Uog5GdQXCU7LkQvsTg9o",
+        "2HvP3PGPDck1inEcUJWFoYggtLsZVZCHc1Bx5Hbg4b4Qsu8MnfS8HFuSwH78GGcNYBNCoXBDe7C8TKiFwmyDhnfU",
+        "rTC9zaDFigkUdVcYjgG6wxC4BB57LYGmwTPSqazxqoLSU1PdDPKVAqqdHP9Lts8D1rsCiK1NUvH3gh4YdBpn5SN",
+        "59S1iMnbfNATAub67HDh7PRhKKNEkFC7ckavLkMFbXZpPRvgg8BJkyEHDz451UotwzokY5xmvkH5855v6SjC39Nj"
+      ]
+    },
+    {
+      "signature": "435d538fot82fDpb3CTS4FjUWV1KmdcvosQkY4ySBmXfPo3DimqjHE9Mm7ZAbeXgLNSMbyQNZnzrheCScAPnD2tg",
+      "owner": "GZ4DHHJcbZzakyVLx91PPbsNn8SoHXK5NPXo2rDwgkUG",
+      "accounts": [
+        "DKbhqYWHDxRpVVHTzHZVWhKVaSYiHimgF35RWKB3uVUv"
+      ],
+      "added": [
+        "567HhiDsWGCVSu6B5LASKuGYd21G9WH9CbTZFLiU6BnJNVmz7fizTrBNAohji9fWyg4QhwjCpj43e8srdw3dAiJ2"
+      ]
+    },
+    {
+      "signature": "2NuabCdM7QRGzs1FEvouYnef3zrFHoZEMrromtdg4fVDSDRgAYZrF2mrzHt3V8p1DH6dfhwTGnEEHoXhzVFMeCYu",
+      "owner": "D41UryuSxF17FY88WDy6tLMsspgtFuwL53mrSSimtC5x",
+      "accounts": [
+        "7ivXEyL9fZTeG5iCWQJJM4dkahJqiP48x9HU5PadYU1x"
+      ],
+      "added": [
+        "khS1L7So6PGqLPuJeMCiLB6UoUnkR4H5oisFsBwNh1icWZvtDi4tE8W4mMGXqpekpped2VQE2ZuoteNSULNHEZ9",
+        "3FwCjBgY7CaTFhfhrX8byARbW454RGD95eksp28obfFpaTujyGq31cwZXyiSFvevAWn6GhwNpRLZ2Vnz2xi5R4SC"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 1419,
+  "curve_groups": 1410,
+  "initial_precompletion_gap": true
+}

@@ -1,0 +1,120 @@
+{
+  "created_utc": "2026-10-09T19:05:16.722362+00:00",
+  "import_contract": {
+    "block_index_limit": "index uniqueness/order is checked; independent finalized getBlock signature parity is left to root using existing/authorized cache",
+    "cached_custody_behavior": "reuse a frozen custody_extended tape only when its per-mint audit says prepared and custody supported; retain source and audit hashes; caller must revalidate merged custody and block indices",
+    "coverage_required": [
+      "pinned all-status pagination contract for the complete first-hour interval",
+      "real unique creation decode",
+      "unique canonical slot/transactionIndex ordering"
+    ],
+    "function": "import_source(candidate)",
+    "migration_behavior": "authenticated local migration remains eligible only when curve history is covered through migration+240",
+    "nonterminal_first_hour_behavior": "accepted as a complete fixed first-hour observation with curve_lifetime_complete=false and curve_observation_complete=true; no lifetime completion is inferred",
+    "provenance_preserved": [
+      "source compressed-file SHA-256",
+      "manifest SHA-256",
+      "creation UTC and slot/signature/index",
+      "collector/decoder/IDL pinned hashes",
+      "requested interval and coverage rule",
+      "migration, terminal, or fixed-first-hour observation classification",
+      "cached custody source/audit hashes when reused"
+    ],
+    "returns": "collector-compatible raw envelope with original creation metadata/transactions plus coverage and source_provenance certificates",
+    "rpc_behavior": "no RPC calls; no curve requery"
+  },
+  "limitations": [
+    "Manifest activity, peak-reserve, buyer-count fields are prefilter snapshots, not authenticated curve measurements.",
+    "Queue construction does not load transaction arrays and does not certify any candidate's coverage.",
+    "A first-hour nonterminal tape is complete only as a fixed first-hour observation; activity after that boundary and full curve lifetime remain unknown.",
+    "The helper does not independently compare transactionIndex with finalized block signatures."
+  ],
+  "queue": {
+    "counts_by_utc_creation_day": {
+      "2026-08-18": 187,
+      "2026-08-19": 203,
+      "2026-08-20": 169,
+      "2026-08-21": 188,
+      "2026-08-22": 167,
+      "2026-08-23": 158,
+      "2026-08-24": 164,
+      "2026-08-25": 172,
+      "2026-08-26": 162,
+      "2026-08-27": 202,
+      "2026-08-28": 168,
+      "2026-08-29": 206,
+      "2026-08-30": 185,
+      "2026-08-31": 188,
+      "2026-09-01": 197,
+      "2026-09-02": 187,
+      "2026-09-03": 173,
+      "2026-09-04": 150,
+      "2026-09-05": 139,
+      "2026-09-06": 117,
+      "2026-09-07": 179
+    },
+    "early_window": {
+      "count": 3661,
+      "end_exclusive": "2026-09-08T00:00:00Z",
+      "utc_inclusive_dates": [
+        "2026-08-18",
+        "2026-09-07"
+      ]
+    },
+    "header_read_policy": {
+      "chunk_chars": 4096,
+      "max_decompressed_chars": 131072,
+      "stops_before": "transactions array"
+    },
+    "later_window": {
+      "count": 0,
+      "end_exclusive": "2026-10-01T00:00:00Z",
+      "utc_inclusive_dates": [
+        "2026-09-08",
+        "2026-09-30"
+      ]
+    },
+    "ordering": "early then later; round-robin one candidate per UTC day at each depth; within each day chronological by creation_time then mint",
+    "source_label": "local_active_manifest_prefilter",
+    "total_in_overall_window": 3661
+  },
+  "source": {
+    "collector_contract_provenance": {
+      "archived_collector_path": "/home/mthwt/code/Crypto/research/frozen_21day_validation_20261008/frozen_sources/research/frozen_21day_validation_20261008/collect_validation.py",
+      "code": {
+        "research/day_general_20261004/helpers/OFFICIAL_PUMP_IDL.json": {
+          "archived_sha256": "26c77383c3626bd3ef1c376c52680be6c4ba2ff4cfde1f4b0076d1de43b9130c",
+          "sha256": "26c77383c3626bd3ef1c376c52680be6c4ba2ff4cfde1f4b0076d1de43b9130c"
+        },
+        "research/day_general_20261004/helpers/decoder.py": {
+          "archived_sha256": "7219a7c34c7fa0cef2ca710639af8dc52c6368a534cb18332c5b34347e961303",
+          "sha256": "7219a7c34c7fa0cef2ca710639af8dc52c6368a534cb18332c5b34347e961303"
+        },
+        "research/frozen_21day_validation_20261008/collect_validation.py": {
+          "archived_sha256": "52e918606a7dda97ec7559726bd0e20804f24a0723d7b0d59c1b00015a2d2a4f",
+          "sha256": "52e918606a7dda97ec7559726bd0e20804f24a0723d7b0d59c1b00015a2d2a4f"
+        }
+      },
+      "collector_path": "/home/mthwt/code/Crypto/research/frozen_21day_validation_20261008/collect_validation.py",
+      "coverage_contract": "collect_validation.history queries the bonding-curve address with status=None, blockTime gte creation_time and lt creation_time+3600; it returns only when the pagination token is absent, raises at the 500-page cap, validates each transaction index and time bound, and curve() saves only after history returns.",
+      "freeze_pinned_at": "2026-10-09T05:21:22.016407+00:00",
+      "freeze_sha256": "5393ab230b709f4837e05dfdc4e65b75c8c427aa85ad1cd57681bcb4d9efec67"
+    },
+    "collector_contract_status": "pinned_collector_and_decoder_sources_match_freeze",
+    "filter_metrics_trust": "prefilter only; peak_reserve_sol may reflect decoder/venue contamination and is never treated as a verified curve metric",
+    "frozen_source_mutations": 0,
+    "manifest_filter": {
+      "min_peak_reserve_sol": 8.0,
+      "min_transactions": 30,
+      "min_unique_buyers": 15
+    },
+    "manifest_path": "/home/mthwt/code/Crypto/research/frozen_21day_validation_20261008/ACTIVE_COINS_MANIFEST.json",
+    "manifest_rows": 3661,
+    "manifest_sha256": "9ce6c5535a53621d9443579e01446d6e96230ac89a19f5d3f950b77dc87226ae",
+    "manifest_total_active": 3661,
+    "manifest_total_raw_metadata": 10080,
+    "raw_curve_directory": "/home/mthwt/code/Crypto/research/frozen_21day_validation_20261008/raw_curves",
+    "raw_curve_files": 3661
+  },
+  "status": "local candidate queue prepared; source remains read-only; no RPC used"
+}

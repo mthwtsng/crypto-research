@@ -1,0 +1,30 @@
+{
+  "frozen_at": "2026-10-08T05:20:17.169711+00:00",
+  "source": "User requests retest each entry with its tailored new exit; optional scope questions unanswered after60s",
+  "entry_scope": "Assumption: existing five S1\u2013S5 entries, including S3two_buy_groups; pasted new architecture gives no new entry thresholds; not equivalent to four generic path families",
+  "trail_scope": "Primary percentage-points on executable total-position ROI including delivered realized tranches; relative wealth-factor trailing sensitivity separately labeled; S4/S5original relative trails unchanged",
+  "S1": "Keep trough/net-10 invalidation; remove6s timer;40%original tokens at executable25%;trail60%15pp",
+  "S2": "Keep9.8shelf and10%armed breakeven;40%original tokens at30%;trail60%15pp",
+  "S3": "Keep fill-relative12%price stop after8s grace;no hardTP;arm full executable trail75%;giveback20pp;60/120s hard timeout",
+  "S4": "Keep >=2slot -8% rejection;half20%+relative6%remainder trail;remove short7s pre-clip timeout, allow migration",
+  "S5": "Unchanged72crossing entry;curve<=60invalidation;halfafterwholeauthenticAMMopen;8%relative trail;documented30s AMMtimeout",
+  "missing_timeout": "S1/S2/S4undefined long runner deadline remains coverage-censored at600s, not an invented sell; retained custody/capital",
+  "bankroll_SOL": 15,
+  "ticket_SOL": 0.5,
+  "position_limit": null,
+  "creator_ablation": [
+    false,
+    true
+  ],
+  "breakers": [
+    false,
+    true
+  ],
+  "data": "Same1800previously inspected October3\u20136launches;223signals166mints;no new date confirmation",
+  "looks": "50prior configurations;four tailored horizon\u00d7trail-basis cases with/without developer gate =8new looks",
+  "engine_hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/tailored_requested.py": "5872271e9345f4fa2018ebac6a1d5f6c928cd7d4294e9358488b1823e40d6820",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "570c21d8f3f12c55cfca88748ae0037d3f4158a4896c13ea7546b1a33b578d5a",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/ledger.py": "6e7c14588479c6ec4bca18639a36199195feb6227cb9be6d7a1612f2acf09507"
+  }
+}

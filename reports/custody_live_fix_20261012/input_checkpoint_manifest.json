@@ -1,0 +1,18 @@
+{
+  "bankroll_initial": 15.0,
+  "calculation_model_revision": "persistent_curve_v4",
+  "captured_local_epoch_ms": 1791779101326,
+  "circuit_breakers_enabled": false,
+  "next_intent": 6,
+  "saved_at_ms": 1791779101008,
+  "selected_mints": [
+    "Gxv4V2j7sqyGz8DqXsPrKjCuD1z52bSa5MeghQ2jpump",
+    "DNoBMrAY4sKSMbR2PiPb4TjNa3NhBveizwnrnfcppump"
+  ],
+  "source_file": "data/ghost_runtime_state.json",
+  "source_sha256": "ac3eaf4b43f559bcb65d9810a6a8ee2c00b6be331e85ddbe63740490b887f7cc",
+  "source_size_bytes": 4850189,
+  "version": 1,
+  "virtual_cash": 13.892824423,
+  "vm_id": "ghost-v2-20261012T041817"
+}

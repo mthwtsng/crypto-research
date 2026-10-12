@@ -1,0 +1,60 @@
+{
+  "mint": "EHQ6SqAugkusBtxYUEsr8ELbkK9Atg5LMm5rzGxjpump",
+  "passes": [
+    {
+      "signature": "2nx32p272iDnnfRGnHXZ6QVFZ4RdGF2qDEoZzMr6yrdhqJQRH61nDUiEKmFLHejM5m4BunP7D1UDh8Hfeiq9M7Wx",
+      "owner": "CeNoPEUMDerFhxodc23WZPr28FPdvZNd1uiRTUnLJNf7",
+      "accounts": [
+        "EiTpDLocauTgodnUrsPPzGoeUbxCiEkaf77U3qfqBzQm"
+      ],
+      "added": [
+        "5vhY7SvbYD7PXQfuw69DGHv8Yyy5m2dHBa96WBjozkiJXSzbf4gqRxsKajTsBG5NfEQcSxxSSfPieLjzC8iSskWk"
+      ]
+    },
+    {
+      "signature": "2nx32p272iDnnfRGnHXZ6QVFZ4RdGF2qDEoZzMr6yrdhqJQRH61nDUiEKmFLHejM5m4BunP7D1UDh8Hfeiq9M7Wx",
+      "owner": "9o9QoqUxS59CSkjmaJyQipn7UUCZroH2EQMWA8CJn6gJ",
+      "accounts": [
+        "3G1RtjDztCJR5mZpcoJr7zZyr7e1xfq9xCZk3hgX1exr"
+      ],
+      "added": [
+        "5uvtRgtvRtC9pF54QxupWfoDErdjF2aARquRrAiH3tKHWy2NkPiULguhN53VE4peQXdEL18BNru9Qcdn2noW9vEE"
+      ]
+    },
+    {
+      "signature": "2nx32p272iDnnfRGnHXZ6QVFZ4RdGF2qDEoZzMr6yrdhqJQRH61nDUiEKmFLHejM5m4BunP7D1UDh8Hfeiq9M7Wx",
+      "owner": "CSPTtMcC8d7efrN1J1Spbt2y6buMirBTt1vezCJEr7xu",
+      "accounts": [
+        "EQ7Z5P4n5BoWBw6EKPmBVnw3Uq9DZakBk9sCZ1wYMo12"
+      ],
+      "added": [
+        "2CGkrsra4XK3TepbjjB8K5cxVs2H3w8X9zBGWmRJpDrquimdK2Ln1pvXoUAndj8wzjjuaxo82uVgfMFFnvzmYasJ"
+      ]
+    },
+    {
+      "signature": "2nx32p272iDnnfRGnHXZ6QVFZ4RdGF2qDEoZzMr6yrdhqJQRH61nDUiEKmFLHejM5m4BunP7D1UDh8Hfeiq9M7Wx",
+      "owner": "GfuLvm7hydiWVffXrS7NNP7YzGBWztwLWcuo9LjmZUgj",
+      "accounts": [
+        "AgMHi8X75gakcVbkhP1NqYi27Ea34RVWuAeBBE9nZgB2"
+      ],
+      "added": [
+        "vj9LwRRudzuBrxeQCCABPTHtaNYfnpArWP9wmm9DXbELVvSK3ex6hYCECZeT3N58ffo8Qvs2uWTChD6GirkeV6Q"
+      ]
+    },
+    {
+      "signature": "2nx32p272iDnnfRGnHXZ6QVFZ4RdGF2qDEoZzMr6yrdhqJQRH61nDUiEKmFLHejM5m4BunP7D1UDh8Hfeiq9M7Wx",
+      "owner": "8jGNXq4Yk3RgTYAjcd49qnzugMNDDNhaVXkUhHdKNFve",
+      "accounts": [
+        "6McQZpGSCRpXSiXWWjyzcueZvyVVquPDUxkK33xPJFaP"
+      ],
+      "added": [
+        "4YD9bTXZEWX4DN6tWaP4YvGA8wyMDwPUFAc5VX4Wwo4HimJLHFtD6diNw33fX9jFvQTH1Foc21Bpm2XpsGg7X6Pi"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 215,
+  "curve_groups": 181,
+  "initial_precompletion_gap": true
+}

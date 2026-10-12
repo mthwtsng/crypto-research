@@ -1,0 +1,129 @@
+{
+  "ghost-v2-20261011T064058": {
+    "S1": {
+      "closes": 11,
+      "wins": 3,
+      "losses": 8,
+      "settled_sol": -0.13466910499999973,
+      "no_positive_peak_losers": 7,
+      "peak_below10pct_losers": 8,
+      "median_hold_s": 4,
+      "median_win_pct": 21.8800031903969,
+      "median_loss_pct": -10.713180925414498
+    },
+    "S2": {
+      "closes": 7,
+      "wins": 4,
+      "losses": 3,
+      "settled_sol": 0.28636269600000014,
+      "no_positive_peak_losers": 2,
+      "peak_below10pct_losers": 2,
+      "median_hold_s": 24,
+      "median_win_pct": 25.387848077287373,
+      "median_loss_pct": -16.04762704260176
+    },
+    "S3": {
+      "closes": 4,
+      "wins": 0,
+      "losses": 4,
+      "settled_sol": -0.5793091529999999,
+      "no_positive_peak_losers": 3,
+      "peak_below10pct_losers": 3,
+      "median_hold_s": 35.5,
+      "median_win_pct": null,
+      "median_loss_pct": -28.432725396556364
+    },
+    "S4": {
+      "closes": 20,
+      "wins": 8,
+      "losses": 12,
+      "settled_sol": -0.8070841549999995,
+      "no_positive_peak_losers": 6,
+      "peak_below10pct_losers": 9,
+      "median_hold_s": 26.5,
+      "median_win_pct": 24.827998025941916,
+      "median_loss_pct": -23.730347952662484
+    },
+    "S5": {
+      "closes": 10,
+      "wins": 4,
+      "losses": 6,
+      "settled_sol": -0.2580857379999998,
+      "no_positive_peak_losers": 2,
+      "peak_below10pct_losers": 3,
+      "median_hold_s": 99.5,
+      "median_win_pct": 20.744759573683215,
+      "median_loss_pct": -25.21394402847429
+    }
+  },
+  "ghost-v2-20261011T220021": {
+    "S1": {
+      "closes": 13,
+      "wins": 1,
+      "losses": 12,
+      "settled_sol": -0.5362085009999995,
+      "no_positive_peak_losers": 10,
+      "peak_below10pct_losers": 11,
+      "median_hold_s": 11,
+      "median_win_pct": 26.927233826183205,
+      "median_loss_pct": -11.392990697999018
+    },
+    "S2": {
+      "closes": 4,
+      "wins": 0,
+      "losses": 4,
+      "settled_sol": -0.36230639099999995,
+      "no_positive_peak_losers": 3,
+      "peak_below10pct_losers": 4,
+      "median_hold_s": 6.5,
+      "median_win_pct": null,
+      "median_loss_pct": -16.71611698786652
+    },
+    "S3": {
+      "closes": 8,
+      "wins": 4,
+      "losses": 4,
+      "settled_sol": -0.049887963999999785,
+      "no_positive_peak_losers": 2,
+      "peak_below10pct_losers": 2,
+      "median_hold_s": 22.5,
+      "median_win_pct": 26.269590632197094,
+      "median_loss_pct": -26.462285221483334
+    },
+    "S4": {
+      "closes": 15,
+      "wins": 7,
+      "losses": 8,
+      "settled_sol": 0.17978143600000035,
+      "no_positive_peak_losers": 4,
+      "peak_below10pct_losers": 7,
+      "median_hold_s": 21,
+      "median_win_pct": 21.754946012502373,
+      "median_loss_pct": -19.554416506315988
+    },
+    "S5": {
+      "closes": 5,
+      "wins": 1,
+      "losses": 4,
+      "settled_sol": -0.3359091219999999,
+      "no_positive_peak_losers": 0,
+      "peak_below10pct_losers": 1,
+      "median_hold_s": 88,
+      "median_win_pct": 16.95044874926471,
+      "median_loss_pct": -26.46131404472537
+    }
+  },
+  "ghost-v2-20261011T231014": {
+    "S4": {
+      "closes": 2,
+      "wins": 0,
+      "losses": 2,
+      "settled_sol": -0.20752441999999993,
+      "no_positive_peak_losers": 0,
+      "peak_below10pct_losers": 2,
+      "median_hold_s": 10.5,
+      "median_win_pct": null,
+      "median_loss_pct": -20.69016460454033
+    }
+  }
+}

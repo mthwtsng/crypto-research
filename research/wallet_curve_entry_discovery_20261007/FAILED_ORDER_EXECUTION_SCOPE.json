@@ -1,0 +1,416 @@
+{
+  "rows": [
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "rule": "late_continuation",
+      "counts": {
+        "unmodeled_router": 3
+      },
+      "examples": []
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "rule": "late_continuation",
+      "counts": {
+        "unmodeled_router": 2,
+        "known_still_failed": 2
+      },
+      "examples": []
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "unmodeled_router": 2,
+        "known_still_failed": 2
+      },
+      "examples": []
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "rule": "late_continuation",
+      "counts": {
+        "unmodeled_router": 17,
+        "quote_passes_requires_atomic_execution": 1,
+        "sell_requires_counterfactual_account_inventory": 4
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 49382715,
+          "n": 121458490466,
+          "gross": 50000000,
+          "actor": "4dEN74r5FhfKmNNeS8DbEnwSSe7Xm4EjAaCHV9UqKLYu",
+          "token_account": "NBy5iDwUojT8eKpGC6DEy8E3Lm4we16sqybD1WooiJi",
+          "completes": false,
+          "signature": "2GM2VUHoBLLN35KiXp1S3SmZKRQZAQNWiXpuPCCeDHdRYwKF7rJxotyTwDfZQKT2PoGq8DhAgXz8amZjiLL2ZGbA",
+          "slot": 452918157,
+          "index": 934
+        }
+      ]
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "rule": "fresh_expansion",
+      "counts": {
+        "unmodeled_router": 17,
+        "quote_passes_requires_atomic_execution": 1,
+        "sell_requires_counterfactual_account_inventory": 4
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 49382715,
+          "n": 121492332349,
+          "gross": 50000000,
+          "actor": "4dEN74r5FhfKmNNeS8DbEnwSSe7Xm4EjAaCHV9UqKLYu",
+          "token_account": "NBy5iDwUojT8eKpGC6DEy8E3Lm4we16sqybD1WooiJi",
+          "completes": false,
+          "signature": "2GM2VUHoBLLN35KiXp1S3SmZKRQZAQNWiXpuPCCeDHdRYwKF7rJxotyTwDfZQKT2PoGq8DhAgXz8amZjiLL2ZGbA",
+          "slot": 452918157,
+          "index": 934
+        }
+      ]
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "unmodeled_router": 1
+      },
+      "examples": []
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "rule": "quiet_absorption",
+      "counts": {
+        "unmodeled_router": 1
+      },
+      "examples": []
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "rule": "late_continuation",
+      "counts": {
+        "unmodeled_router": 1
+      },
+      "examples": []
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "rule": "quiet_absorption",
+      "counts": {
+        "quote_passes_requires_atomic_execution": 2,
+        "unmodeled_router": 8,
+        "unmodeled_outer_program": 1,
+        "sell_requires_counterfactual_account_inventory": 4
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 201552309,
+          "n": 730342021030,
+          "gross": 204071713,
+          "actor": "CASHUTaewCTUqa6j2SzD6vgBMvMLsNjdpuBYGTxWDBmi",
+          "token_account": "9c6Qh5J36qwW547qQ3Vy3dGoLxVA3Xoq7qsyv9UX3ZuY",
+          "completes": false,
+          "signature": "2fC4NZSDxDvkfZpRBex8iyHQEBaLGTMg8Yn4LNEuTgKaCGbwQzgaSmENYUrtEhgkEsCSKXqDCWCUwc7TbGiHjrUL",
+          "slot": 453016544,
+          "index": 313
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 740740739,
+          "n": 2668885812790,
+          "gross": 750000000,
+          "actor": "EWdAgcTdywcj5JxK4PEB4wN9zW2vtJDDrZcjbCUo3QaL",
+          "token_account": "9udLqJAuUi83PkSfLm6r7UTU1946vZ4Btm9Wjcm5pUwD",
+          "completes": false,
+          "signature": "61seT2HujquWRPABMHCmGsMbao9gDJGYJf79i3AcXospamtZC4eUSNMiGXYX5N2QQjSGfNS52ND8MUjgm5XaeNVg",
+          "slot": 453016545,
+          "index": 498
+        }
+      ]
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "rule": "broad_recovery",
+      "counts": {
+        "quote_passes_requires_atomic_execution": 2,
+        "unmodeled_router": 8,
+        "unmodeled_outer_program": 1,
+        "sell_requires_counterfactual_account_inventory": 4
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 222159674,
+          "n": 730342021030,
+          "gross": 224936671,
+          "actor": "CASHUTaewCTUqa6j2SzD6vgBMvMLsNjdpuBYGTxWDBmi",
+          "token_account": "9c6Qh5J36qwW547qQ3Vy3dGoLxVA3Xoq7qsyv9UX3ZuY",
+          "completes": false,
+          "signature": "2fC4NZSDxDvkfZpRBex8iyHQEBaLGTMg8Yn4LNEuTgKaCGbwQzgaSmENYUrtEhgkEsCSKXqDCWCUwc7TbGiHjrUL",
+          "slot": 453016544,
+          "index": 313
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 740740739,
+          "n": 2422477659367,
+          "gross": 750000000,
+          "actor": "EWdAgcTdywcj5JxK4PEB4wN9zW2vtJDDrZcjbCUo3QaL",
+          "token_account": "9udLqJAuUi83PkSfLm6r7UTU1946vZ4Btm9Wjcm5pUwD",
+          "completes": false,
+          "signature": "61seT2HujquWRPABMHCmGsMbao9gDJGYJf79i3AcXospamtZC4eUSNMiGXYX5N2QQjSGfNS52ND8MUjgm5XaeNVg",
+          "slot": 453016545,
+          "index": 498
+        }
+      ]
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "rule": "broad_recovery",
+      "counts": {
+        "unmodeled_outer_program": 2,
+        "unmodeled_router": 10,
+        "known_still_failed": 1
+      },
+      "examples": []
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "rule": "fresh_expansion",
+      "counts": {
+        "unmodeled_outer_program": 2,
+        "unmodeled_router": 10,
+        "known_still_failed": 1
+      },
+      "examples": []
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "sell_requires_counterfactual_account_inventory": 15,
+        "known_still_failed": 11,
+        "unmodeled_router": 10,
+        "quote_passes_requires_atomic_execution": 7
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 140173633,
+          "n": 341573019093,
+          "gross": 141925804,
+          "actor": "2avbra2ua3E8u94GSZdzTxTHGWHzjoH18YWDFrVX2Buu",
+          "token_account": "B8HnaSSV9hzsLgtSfUdLVRuGPqxhXydofLvvL7vLFP3R",
+          "completes": false,
+          "signature": "5KbdB8vKUAM2GdH2raZ9Hu93C2YJ89Gd4ysDg5LVNtj16ngQcWrrtcyRt6qBAg77k5Z7hFW25FFQKPJJ9teJLpj3",
+          "slot": 453040695,
+          "index": 622
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 54309952,
+          "n": 132440562071,
+          "gross": 54988827,
+          "actor": "CjAJQLXega9PBM5cPwNTKTe8AYMk9LeFWzwjZxARSn2t",
+          "token_account": "9gKbjt37QqRRcmp1Y4CbJE3jUgy4ea8eDSurpJe5Tg2v",
+          "completes": false,
+          "signature": "3znGPksbVMvuz9EWcKaM35HRjoeKC9mrqHupfaMmKP1hbAHjXGfbsDKAL3PH3unw4wKwjws1C7yX6W3zEiYzR467",
+          "slot": 453040696,
+          "index": 141
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 97480197,
+          "n": 237626503769,
+          "gross": 98698700,
+          "actor": "3U9SwG54BxRvyKw7gGhDaEERmNLG7FTmNkMmEhMnBuBR",
+          "token_account": "FdHXrK5oMaLv9XYDvzci7oHDQbEwCgou3eaZESm2VL5J",
+          "completes": false,
+          "signature": "3ojDT6Q4CdiqstzwLVMLCTPQFTUMkcXSUvAj95B5zTTRErntcvhGT7sB4vS9zyVzQZZbXEggcP2gXYjYNDNRypxJ",
+          "slot": 453040696,
+          "index": 1096
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 65859329,
+          "n": 160588800016,
+          "gross": 66682571,
+          "actor": "HxpH8QpkGE6VDmi5pVSgs912wc8nTmUW6etWDqZtr6Dp",
+          "token_account": "EgJVsaG2fUyecyqko8maka7Hj7K85XTFpnJBhbqGfM3g",
+          "completes": false,
+          "signature": "2toYLcn95kjPCAcngfLdSHjQxFdrtHaTXga9JBcothFm1xye82iN5aE5GJgDxaj2LttVfbJ9ETNbcMs2rCALGDqP",
+          "slot": 453040697,
+          "index": 183
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 86402250,
+          "n": 210642202155,
+          "gross": 87482279,
+          "actor": "712jwicww4WAypu8aYiUcSjJCaTSv498PixWfuHWHiRk",
+          "token_account": "ATVMShSWvPGKuSrmSziwPDYNLnSrGyFNzvjNHthAS13t",
+          "completes": false,
+          "signature": "5Vri97TpjWJQybpsvsHKmVwo1niujUG3LWontrTQ2jjNjVYFNgBZHsoQsmqWU1YW1kfKcMcXDuLY3ySP3BgZV8fu",
+          "slot": 453040697,
+          "index": 360
+        }
+      ]
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "rule": "late_continuation",
+      "counts": {
+        "sell_requires_counterfactual_account_inventory": 15,
+        "known_still_failed": 12,
+        "unmodeled_router": 10,
+        "quote_passes_requires_atomic_execution": 6
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 54319379,
+          "n": 132440562071,
+          "gross": 54998373,
+          "actor": "CjAJQLXega9PBM5cPwNTKTe8AYMk9LeFWzwjZxARSn2t",
+          "token_account": "9gKbjt37QqRRcmp1Y4CbJE3jUgy4ea8eDSurpJe5Tg2v",
+          "completes": false,
+          "signature": "3znGPksbVMvuz9EWcKaM35HRjoeKC9mrqHupfaMmKP1hbAHjXGfbsDKAL3PH3unw4wKwjws1C7yX6W3zEiYzR467",
+          "slot": 453040696,
+          "index": 141
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 97497120,
+          "n": 237626503769,
+          "gross": 98715835,
+          "actor": "3U9SwG54BxRvyKw7gGhDaEERmNLG7FTmNkMmEhMnBuBR",
+          "token_account": "FdHXrK5oMaLv9XYDvzci7oHDQbEwCgou3eaZESm2VL5J",
+          "completes": false,
+          "signature": "3ojDT6Q4CdiqstzwLVMLCTPQFTUMkcXSUvAj95B5zTTRErntcvhGT7sB4vS9zyVzQZZbXEggcP2gXYjYNDNRypxJ",
+          "slot": 453040696,
+          "index": 1096
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 65870761,
+          "n": 160588800016,
+          "gross": 66694147,
+          "actor": "HxpH8QpkGE6VDmi5pVSgs912wc8nTmUW6etWDqZtr6Dp",
+          "token_account": "EgJVsaG2fUyecyqko8maka7Hj7K85XTFpnJBhbqGfM3g",
+          "completes": false,
+          "signature": "2toYLcn95kjPCAcngfLdSHjQxFdrtHaTXga9JBcothFm1xye82iN5aE5GJgDxaj2LttVfbJ9ETNbcMs2rCALGDqP",
+          "slot": 453040697,
+          "index": 183
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 86417250,
+          "n": 210642202155,
+          "gross": 87497466,
+          "actor": "712jwicww4WAypu8aYiUcSjJCaTSv498PixWfuHWHiRk",
+          "token_account": "ATVMShSWvPGKuSrmSziwPDYNLnSrGyFNzvjNHthAS13t",
+          "completes": false,
+          "signature": "5Vri97TpjWJQybpsvsHKmVwo1niujUG3LWontrTQ2jjNjVYFNgBZHsoQsmqWU1YW1kfKcMcXDuLY3ySP3BgZV8fu",
+          "slot": 453040697,
+          "index": 360
+        },
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 59831398,
+          "n": 145872873453,
+          "gross": 60579292,
+          "actor": "3JicJVPYGRRPEPRgNPWjQbkBkgWV8QhTU78d5jwzCnqB",
+          "token_account": "3LE9LyqLgtTxzW95hp2v7JBPTA5R7DEYKnaZb7Kr5CRu",
+          "completes": false,
+          "signature": "3qH9skTuebLPXJ2nNJcZCCuZckCxnGiLiswpyXCy6NXFZDaAo8dfXQ8XvfMLdUs3bt6UZh3vHCWGwFyLiQR8j2ar",
+          "slot": 453040697,
+          "index": 1005
+        }
+      ]
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "rule": "fresh_expansion",
+      "counts": {
+        "unmodeled_outer_program": 2,
+        "unmodeled_router": 7,
+        "sell_requires_counterfactual_account_inventory": 2
+      },
+      "examples": []
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "rule": "quiet_absorption",
+      "counts": {
+        "unmodeled_outer_program": 2,
+        "unmodeled_router": 7,
+        "sell_requires_counterfactual_account_inventory": 2
+      },
+      "examples": []
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "rule": "late_continuation",
+      "counts": {
+        "unmodeled_outer_program": 2,
+        "unmodeled_router": 7,
+        "sell_requires_counterfactual_account_inventory": 2
+      },
+      "examples": []
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "quote_passes_requires_atomic_execution": 1,
+        "unmodeled_router": 13,
+        "known_still_failed": 1
+      },
+      "examples": [
+        {
+          "status": "quote_passes_requires_atomic_execution",
+          "committed": false,
+          "q": 168250024,
+          "n": 411021177066,
+          "gross": 170353151,
+          "actor": "4knWSnkVexhdze7873DRS56sfChHWaBMTjB4pK1oiq6Z",
+          "token_account": "5NrPDoxvNt3YnkhjN7RuZvBkMreLs7vdFaJXQ3JE7pQ2",
+          "completes": false,
+          "signature": "2JKRvRe4Qmz5HqwnT8nS744ZvnjAicaBtCrFQ3izhnWP1YcAp4oKEgmoswogTrPgUDHVPB8ocqygvEYNQjRFR5NN",
+          "slot": 453183733,
+          "index": 257
+        }
+      ]
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "rule": "broad_recovery",
+      "counts": {
+        "known_still_failed": 2,
+        "unmodeled_router": 13
+      },
+      "examples": []
+    }
+  ],
+  "scope": "No counterfactual failed transaction committed. Unknown routers retained as uncertainty, not forced success or failure."
+}

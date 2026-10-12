@@ -1,0 +1,60 @@
+# Bytecode and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Local environments and secrets
+.env
+.venv/
+env/
+venv/
+
+# Heavy archives, binary objects, and logs
+*.gz
+*.pkl
+*.pickle
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.tmp
+*.log
+
+# Raw tapes, session logs, and observations
+data_archive/
+*.jsonl
+
+# Raw RPC caches & transaction block dumps
+**/rpc_cache/
+**/raw_rpc/
+**/raw_wallets/
+**/prefixes/
+**/continuation_pools/
+**/continuation_curves/
+**/normalized_amm_tapes/
+**/repaired_amm_tapes/
+**/custody_inputs/
+**/custody_extended/
+**/raw_curves/
+**/emt4th_cache/
+**/rkjc_cache/
+**/merged_account_tapes/
+**/amm/rpc/
+**/amm/continuation_pools/
+**/amm/tapes/
+**/census/
+**/coins/*/signatures.json
+
+# Large raw single-file runtime state, audit caches, and census dumps (>10MB)
+reports/**/ghost_runtime_state*.json
+reports/**/accounting.json
+reports/**/entry_patterns.json
+reports/**/bottimus_complete.json
+reports/**/collection.json
+reports/**/CENSUS_PROGRESS.json
+reports/**/input_rpc_*.json
+reports/day_sample_20261011/rpc/
+reports/day_sample_20261011/custody/

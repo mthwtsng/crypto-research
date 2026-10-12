@@ -1,0 +1,20 @@
+{
+  "version": "1.20.0",
+  "dist": {
+    "shasum": "d04c73e5c61828a03741f4631fa7c8065890d9ce",
+    "tarball": "https://registry.npmjs.org/@pump-fun/pump-swap-sdk/-/pump-swap-sdk-1.20.0.tgz",
+    "fileCount": 88,
+    "integrity": "sha512-DuBZ5ge3OJPao6m0aZZj+GTZFzfZ/TU3ca1EgL9ejr+8QIYETlLQVMaiznS+U4uGzM9z58mpxoXn3HuVEYHCFw==",
+    "signatures": [
+      {
+        "sig": "MEQCICoXjsKkcCNXykJiaJT8Cx32xd5Mk11jaB8rb5qUr4pTAiBTyU06lesYLZJ91TkkU35ouE4Juv5MYby27TvW3lRIuA==",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "sig": "MEYCIQDXPSRFaellaIMJtyxQDt5c4jgdqH4lvyYKVOYph5RPewIhAMJ4TwSaXahYTxJQO3dhOfcVUItro+Buo9FEkIwnS4r0",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      }
+    ],
+    "unpackedSize": 4906081
+  }
+}

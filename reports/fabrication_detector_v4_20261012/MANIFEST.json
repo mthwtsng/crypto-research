@@ -1,0 +1,59 @@
+{
+  "frozen_at_utc": "2026-10-12T01:03:22.323120+00:00",
+  "tests": 299,
+  "release_build": "passed",
+  "external_activation": "unverified",
+  "files": {
+    "src/bot/fake_coin_detector.rs": {
+      "sha256": "63219c5cf05f65e10fd0954e5ab6b887f5046f788e8249c7a365c1d1470f129b",
+      "bytes": 68165
+    },
+    "src/bot/fake_coin_history.rs": {
+      "sha256": "7ab2ce75bcd668cb0e61c590831131e5f5bc97eac09663f7f4134af218c2cbfc",
+      "bytes": 93548
+    },
+    "src/bin/curve_detector.rs": {
+      "sha256": "02eb25d52fc519b297ab52cd5dad0c07583c20cab04ee60015bf8e0f7cf308ef",
+      "bytes": 211942
+    },
+    "src/bot/curve_detector.rs": {
+      "sha256": "7cab8c6d89d5d5f7ad3debef2e6426d78fafc09713096557e5d9ebe2764c0368",
+      "bytes": 142653
+    },
+    "src/bot/mod.rs": {
+      "sha256": "e61998d3f470d939819c3fef31fefe913ee12c35b6b1c11777d33a457f0406e2",
+      "bytes": 534
+    },
+    "scripts/run_shadow_detector.sh": {
+      "sha256": "53665aa1688279962e639d587f9b20821a8fb5f01d92248f5c9d345b31540884",
+      "bytes": 7294
+    },
+    "scripts/serve_dashboard.py": {
+      "sha256": "8ec7c47ca6b8e75c4b87fb1c9396218b18387e5a674ceec30019b74eff893519",
+      "bytes": 16226
+    },
+    "scripts/import_fake_coin_casebook.py": {
+      "sha256": "d88a937daa5e13fd28b20d19dbd397cc9de870f05674cb2e1c43a7221092d3f5",
+      "bytes": 9347
+    },
+    "tests/fixtures/fabrication_history_seed.json": {
+      "sha256": "598a5a1918994b8ddcf50f7d20a0112d3af87ff273d09a94f72be9a30af57bca",
+      "bytes": 12565
+    },
+    "tests/fixtures/fabrication_relay_cfiyy_rpc.json": {
+      "sha256": "2f790a52898a5cbd0212d62e1e1f620b8921ef2ff5d61098dc4f49e7e06e0478",
+      "bytes": 10297
+    },
+    "data/fake_coin_history_seed.json": {
+      "sha256": "598a5a1918994b8ddcf50f7d20a0112d3af87ff273d09a94f72be9a30af57bca",
+      "bytes": 12565
+    },
+    "target/release/curve_detector": {
+      "sha256": "1093cc7ec6232740d3dbb62ae52d7ce4d6f75d9100855607f118525a22eb8aab",
+      "bytes": 15267656
+    },
+    "reports/fake_coin_case_CvyUsq_20261011/SIXTH_COIN.md": {
+      "sha256": "5ecf7f657041654e1890a922f47f5d16fea30402ab98bad1b4eed791921894fa"
+    }
+  }
+}

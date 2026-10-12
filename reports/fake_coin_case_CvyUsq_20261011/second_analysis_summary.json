@@ -1,0 +1,153 @@
+{
+  "case": {
+    "pool": "3g4Mfsjk19sh2ZqC9o7kL2gwV7yimzrAMa8P6pPMzNJQ",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "creator": "Ams5SkLrpW6s8wpDbbaTm5k5MViWdhBZsmu3XA9rTLe1",
+    "receipt_manifest_capture_utc": "2026-10-11T23:41:13.188Z",
+    "inputs": [
+      "second_MANIFEST.json",
+      "second_ghost_observations.jsonl",
+      "second_ghost_holder_screen.jsonl",
+      "second_ghost_fake_detector.jsonl",
+      "second_ghost_intents.jsonl",
+      "second_ghost_trades.jsonl"
+    ],
+    "scope_note": "Receipt/holder data is a frozen bounded sample, not the full coin lifecycle. second_rpc_* artifacts were separately collected by the parent review; this agent made no RPC calls."
+  },
+  "receipt_tape": {
+    "distinct_signatures": 385,
+    "decoded_events": 385,
+    "event_time_start_utc": "2026-10-11T23:35:20Z",
+    "event_time_end_utc": "2026-10-11T23:38:36Z",
+    "external_users": 234,
+    "external_buys": 288,
+    "external_sells": 95,
+    "external_users_with_buys_and_sells": 36,
+    "signatures_with_multiple_users": 0,
+    "signatures_with_both_directions": 0,
+    "adjacent_direction_changes_slot_order": 49,
+    "adjacent_direction_changes_within_5_timestamp_seconds": 8,
+    "wallets_with_change_within_5_timestamp_seconds": 8,
+    "adjacent_direction_changes_within_10_timestamp_seconds": 13,
+    "wallets_with_change_within_10_timestamp_seconds": 11,
+    "adjacent_direction_changes_within_30_timestamp_seconds": 27,
+    "wallets_with_change_within_30_timestamp_seconds": 18,
+    "note": "Event timestamps have 1-second granularity. Direction changes are sequence observations, not inventory-matched wash cycles."
+  },
+  "cvy_overlap": {
+    "cvy_target_addresses": 392,
+    "second_external_users": 234,
+    "exact_shared_addresses": 4,
+    "fraction_of_second_users": 0.017094,
+    "fraction_of_cvy_target_set": 0.010204,
+    "all_four_bought_both_mints": true,
+    "shared_wallet_roles": [
+      {
+        "wallet": "7FPqg7MpJwvGneBPvkBrCDjAvZhFnAvoiUw9LF91nsN",
+        "cvy_buys": 1,
+        "cvy_sells": 0,
+        "second_buys": 1,
+        "second_sells": 0,
+        "cvy_last_receipt_to_second_first_receipt_ms": 821483
+      },
+      {
+        "wallet": "AjwfW8BuPWwYVJFBfecanPZLzmoxfKssQfreemw9gW2u",
+        "cvy_buys": 1,
+        "cvy_sells": 1,
+        "second_buys": 1,
+        "second_sells": 0,
+        "cvy_last_receipt_to_second_first_receipt_ms": 1182878
+      },
+      {
+        "wallet": "EaL73aCLpmmJMrH3SXUbr6yEtMQC1hstu44XcLbxKj6o",
+        "cvy_buys": 2,
+        "cvy_sells": 2,
+        "second_buys": 1,
+        "second_sells": 0,
+        "cvy_last_receipt_to_second_first_receipt_ms": 881483
+      },
+      {
+        "wallet": "HeVkQ2Khtca8UUqUZZvebN5g2aMuqz7jEso6PUANov7V",
+        "cvy_buys": 1,
+        "cvy_sells": 1,
+        "second_buys": 1,
+        "second_sells": 1,
+        "cvy_last_receipt_to_second_first_receipt_ms": 1370583
+      }
+    ],
+    "shared_wallets_observed_buying_second_coin_by_entry": 2,
+    "other_two_first_bought_second_coin_after_entry": true,
+    "all_cvy_to_second_gaps_exceed_detector_600s_history": true
+  },
+  "fee_payers": {
+    "cvy_multipayer_recipients": {
+      "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51": 42,
+      "FHpcNSe6tb2n15bAdq4BkeYWGyZKFD7yLYrH92ng7wCT": 15,
+      "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi": 4,
+      "Em8J3gBWapfVBGVhVipwQnLrqCvnWBnLajw6XFsFECPF": 3
+    },
+    "second_coin": {
+      "distinct_external_fee_payers": 233,
+      "multi_user_payers": {
+        "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51": [
+          "A8aakcLYDYMzLzEcHWrnzP9tKy4NtchnsLSdnhRMhNL2",
+          "EfaybtcbmZcYcWKgq53QQopTVCBCx8NQG3SiXMyy3NSm"
+        ]
+      },
+      "same_sponsor_recipient_sets_across_mints_overlap": false
+    },
+    "interpretation": "Two payer addresses recur across cases, but their recipient sets are disjoint. Fee-payer association is not common-ownership proof."
+  },
+  "entry_screen": {
+    "first_verdict_utc": "2026-10-11T23:35:21.019Z",
+    "first_verdict": "unknown:missing_holder_snapshot",
+    "entry_screen_utc": "2026-10-11T23:36:29.571Z",
+    "entry_verdict": "watch",
+    "entry_screen_age_seconds": 12.31,
+    "entry_open_utc": "2026-10-11T23:36:41.881Z",
+    "strategy": "S5",
+    "whitelisted": false,
+    "actual_fill_established": false,
+    "our_signature": null,
+    "holder_wallets_observed": 19,
+    "funding_wallets_sampled": 8,
+    "funding_probe_complete": false,
+    "verified_incoming_transfers_in_screen": 1,
+    "only_screen_transfer_lamports": 1,
+    "receipt_records_received": 110,
+    "receipt_probe_complete": true,
+    "cross_launch_records_received": 0,
+    "cross_launch_probe_complete": false,
+    "retained_supply_lower_bound_bps": null,
+    "supporting_wallets": [],
+    "later_detector_saturated_at_256": true,
+    "watch_entry_policy": "allow_with_partial_coverage_logged",
+    "unknown_entry_policy": "skip"
+  },
+  "parent_supplied_rpc_followup": {
+    "manifest": "second_rpc_manifest.json",
+    "transactions_resolved": 84,
+    "selected_wallets": 9,
+    "funding_history_complete": false,
+    "payer": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+    "recipient_transfers": [
+      {
+        "wallet": "GV1PwVV8rQVbCagDkUZMgiFCXUwE4wdYV3prKNNtkkzw",
+        "lamports": 65732000,
+        "block_time_utc": "2026-10-11T21:56:06Z",
+        "entry_supply_pct": 13.352066
+      },
+      {
+        "wallet": "4VXsnEr667i7pnQZaxexqGndNvAK3NmL76ZCCo7mmEqU",
+        "lamports": 117922000,
+        "block_time_utc": "2026-10-11T21:56:06Z",
+        "entry_supply_pct": 6.920755
+      }
+    ],
+    "pair_entry_supply_pct": 20.272821,
+    "launch_time_utc": "2026-10-11T23:35:20Z",
+    "transfer_lead_before_launch_minutes": 99.23,
+    "policy_interpretation": "A two-wallet, over-20%-retained common-funder pair is a useful review lead, but is outside the five-minute launch-funding window, below the three-wallet minimum, and does not establish narrow source degree or common control."
+  },
+  "assessment": "A small exact overlap and selected two-wallet funding pair merit cohort follow-up; neither establishes fake volume or ownership. The fresh Watch paper entry is confirmed by the frozen intent/trade records, but no live bot fill is established."
+}

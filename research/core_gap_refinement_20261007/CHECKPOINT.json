@@ -1,0 +1,67 @@
+{
+  "status": "backtest complete; entry/exit research objective remains open",
+  "latest_report": "tailored_requested_cycle/REPORT.md",
+  "next": "Confirm assumed five-entry/trail scope, resolve carryover and undefined-runner paths, then frozen broader/later transfer without winner selection",
+  "production_changes": false,
+  "scope": {
+    "coins": 1800,
+    "dates": "October3\u20136UTC",
+    "later_coins": 1200,
+    "lower_traces": 13120,
+    "upper_traces": 2160,
+    "later_funded_scenarios": 644
+  },
+  "regressions_passed": 16,
+  "verdict": "full five undetermined, retrospective; four-strategy diagnostic negative-central, retrospective",
+  "latest_cycle": "TailoredS1\u2013S5exit test complete on current five entries; optional scope unanswered, assumptions recorded",
+  "goal_status": "Prior overarching research objective remains unestablished; requested unified comparison completed; no automatic goal-status change",
+  "unified_central85": {
+    "attempts": 8,
+    "closed": 5,
+    "failed": 1,
+    "unresolved": 2,
+    "zero_recovery_net_SOL": -1.02904029,
+    "last_valid_marked_net_SOL": 0.174363344,
+    "closed_plus_failed_net_SOL": -0.02195173
+  },
+  "unlimited_central85": {
+    "attempts": 152,
+    "closed": 99,
+    "failed": 41,
+    "unresolved": 12,
+    "net_zero_SOL": -8.830200553,
+    "net_marked_SOL": -1.728429408,
+    "closed_net_SOL": -2.766964193,
+    "max_open": 13,
+    "skipped": {
+      "same_mint_open": 9,
+      "strategy_pause": 62
+    }
+  },
+  "accounting_correction": {
+    "status": "Implemented settled/open decomposition and mandatory durable guidance; migration fills remain incomplete",
+    "report": "unlimited_requested_cycle/REPORT.md",
+    "audit": "unlimited_requested_cycle/UNRESOLVED_MARK_PROVENANCE.json",
+    "legacy_numeric_results_changed": false,
+    "settled_net_SOL": -2.787669193,
+    "open_marked_PnL_SOL": 1.059239785,
+    "combined_marked_net_SOL": -1.728429408,
+    "S5_with_open_marks_SOL": 0.124524759,
+    "regressions_passed": 10
+  },
+  "tailored_central85": {
+    "attempts": 134,
+    "closed": 86,
+    "failed": 35,
+    "unresolved": 13,
+    "settled_net_SOL": -0.758305176,
+    "unresolved_marked_pnl_SOL": 1.032373126,
+    "last_valid_marked_net_SOL": 0.27406795,
+    "max_open": 14,
+    "skipped": {
+      "same_mint_open": 10,
+      "strategy_pause": 59,
+      "probe_pending": 20
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "exit_before_timer": {
+    "pass": true,
+    "checked_legs": 40
+  },
+  "exit_before_trigger": {
+    "pass": true,
+    "checked_legs": 1412
+  },
+  "curve_sell_after_completion": {
+    "pass": true
+  },
+  "creation_selected_profit": {
+    "pass": true,
+    "evidence": "complete authority-hour census, fixed mint hash selection, raw creation receipt required by preparer; full selected manifest retained"
+  },
+  "attempts_equal_closed_over_50": {
+    "pass": true,
+    "evidence": "funded comparison attempts <=43; no >50 comparison"
+  },
+  "high_pf_or_winrate_over_50": {
+    "pass": true,
+    "evidence": "no >50 closed-trade funded comparison"
+  },
+  "zero_failed_delayed_over_30": {
+    "pass": true,
+    "evidence": "canonical/off delayed >30 attempts includes 8\u201315 failed guards; other comparisons <=30 attempts"
+  },
+  "exact_threshold_fill": {
+    "pass": true,
+    "suspects": [],
+    "tolerance": 1e-10
+  },
+  "slower_outperforms_faster": {
+    "pass_after_review": true,
+    "triggered": true,
+    "explanation": "Delayed guards reject losing attempts and change funded breaker/admission paths; paired landed/failed cases below explain material differences. Not evidence that slower execution is preferable. Current/local primary bracket follows fast > central > slow.",
+    "cases": [
+      {
+        "comparison": "canonical|off",
+        "faster": "fast",
+        "slower": "slow",
+        "delta_sol": 0.26588940399999994,
+        "largest_changes": [
+          {
+            "delta_sol": 0.086974821,
+            "mint": "88sTbXbZjsFxakGDYY4TRPM33T5UGXSd7kERQ2Mipump",
+            "rule": "s2_survival_shelf",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.087479821,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.08164128,
+            "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+            "rule": "s3_deadman",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.08214628,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.077598989,
+            "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+            "rule": "s3_deadman",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.078103989,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.06949601300000002,
+            "mint": "A4Tnv9WyD9MN5pL1uS2soUPLjeVtVE1sQLyq1tSVpump",
+            "rule": "s3_deadman",
+            "status": [
+              "closed",
+              "closed"
+            ],
+            "pnl_sol": [
+              0.293996779,
+              0.363492792
+            ]
+          }
+        ]
+      },
+      {
+        "comparison": "canonical|local",
+        "faster": "fast",
+        "slower": "slow",
+        "delta_sol": 0.09974545599999995,
+        "largest_changes": [
+          {
+            "delta_sol": 0.06672216099999999,
+            "mint": "GfCgZpnouRnF6stxtM9Tapq4htNkxusZ5md634fJpump",
+            "rule": "s1_dev_absorption",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.067227161,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.062910971,
+            "mint": "NcpFuzUdKhxGrussxiDNWCDR4m9epZ62PvCZkQppump",
+            "rule": "s4_upper_ath",
+            "status": [
+              "closed",
+              "closed"
+            ],
+            "pnl_sol": [
+              -0.04133606,
+              0.021574911
+            ]
+          },
+          {
+            "delta_sol": 0.057652972000000004,
+            "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+            "rule": "s4_upper_ath",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.058157972,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.047485231,
+            "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+            "rule": "s4_upper_ath",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.047990231,
+              -0.000505
+            ]
+          }
+        ]
+      },
+      {
+        "comparison": "current|off",
+        "faster": "central85",
+        "slower": "slow",
+        "delta_sol": 0.23643791000000003,
+        "largest_changes": [
+          {
+            "delta_sol": 0.133273745,
+            "mint": "GfCgZpnouRnF6stxtM9Tapq4htNkxusZ5md634fJpump",
+            "rule": "s1_dev_absorption",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.133778745,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.110581959,
+            "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+            "rule": "s3_deadman",
+            "status": [
+              "closed",
+              "failed"
+            ],
+            "pnl_sol": [
+              -0.111086959,
+              -0.000505
+            ]
+          },
+          {
+            "delta_sol": 0.076693765,
+            "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+            "rule": "s1_dev_absorption",
+            "status": [
+              "closed",
+              "not_admitted"
+            ],
+            "pnl_sol": [
+              -0.076693765,
+              0
+            ]
+          },
+          {
+            "delta_sol": 0.069857033,
+            "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+            "rule": "s1_dev_absorption",
+            "status": [
+              "closed",
+              "not_admitted"
+            ],
+            "pnl_sol": [
+              -0.069857033,
+              0
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

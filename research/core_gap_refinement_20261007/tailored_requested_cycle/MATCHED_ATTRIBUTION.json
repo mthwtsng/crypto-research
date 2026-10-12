@@ -1,0 +1,390 @@
+[
+  {
+    "horizon": 60,
+    "basis": "percentage_points",
+    "rule": "s1_dev_absorption",
+    "attempts": 36,
+    "both_closed": 26,
+    "saved_on_old_losers_SOL": 0.114536706,
+    "extra_loser_damage_SOL": -0.457179988,
+    "surrendered_old_winner_SOL": -0.137028907,
+    "added_old_winner_SOL": 0.327765198,
+    "new_status_counts": {
+      "closed": 26,
+      "failed": 9,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "GrkdfhPSEwmvRtUoWwCogUo1hovFabHPNUTBw87wpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "runner_timeout_undefined"
+      }
+    ]
+  },
+  {
+    "horizon": 60,
+    "basis": "percentage_points",
+    "rule": "s2_survival_shelf",
+    "attempts": 49,
+    "both_closed": 43,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.025072683,
+    "added_old_winner_SOL": 0.213349459,
+    "new_status_counts": {
+      "closed": 43,
+      "failed": 6
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 60,
+    "basis": "percentage_points",
+    "rule": "s3_deadman",
+    "attempts": 29,
+    "both_closed": 21,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.356927879,
+    "added_old_winner_SOL": 1.715571966,
+    "new_status_counts": {
+      "closed": 21,
+      "failed": 8
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 60,
+    "basis": "percentage_points",
+    "rule": "s4_upper_ath",
+    "attempts": 89,
+    "both_closed": 56,
+    "saved_on_old_losers_SOL": 0.316121706,
+    "extra_loser_damage_SOL": -0.255914128,
+    "surrendered_old_winner_SOL": -0.267551856,
+    "added_old_winner_SOL": 0.430824635,
+    "new_status_counts": {
+      "closed": 56,
+      "failed": 32,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "5QKaTewC5rTw5d4k24CG3vcqh77CFXc2dmJsPe5gpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "counterfactual_completion_displaced"
+      }
+    ]
+  },
+  {
+    "horizon": 60,
+    "basis": "percentage_points",
+    "rule": "s5_carryover",
+    "attempts": 20,
+    "both_closed": 7,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": 0.0,
+    "added_old_winner_SOL": 0.0,
+    "new_status_counts": {
+      "unresolved": 12,
+      "failed": 1,
+      "closed": 7
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 60,
+    "basis": "relative",
+    "rule": "s1_dev_absorption",
+    "attempts": 36,
+    "both_closed": 26,
+    "saved_on_old_losers_SOL": 0.090656978,
+    "extra_loser_damage_SOL": -0.457179988,
+    "surrendered_old_winner_SOL": -0.127837371,
+    "added_old_winner_SOL": 0.776730755,
+    "new_status_counts": {
+      "closed": 26,
+      "failed": 9,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "GrkdfhPSEwmvRtUoWwCogUo1hovFabHPNUTBw87wpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "runner_timeout_undefined"
+      }
+    ]
+  },
+  {
+    "horizon": 60,
+    "basis": "relative",
+    "rule": "s2_survival_shelf",
+    "attempts": 49,
+    "both_closed": 43,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.112247989,
+    "added_old_winner_SOL": 0.277773243,
+    "new_status_counts": {
+      "closed": 43,
+      "failed": 6
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 60,
+    "basis": "relative",
+    "rule": "s3_deadman",
+    "attempts": 29,
+    "both_closed": 21,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.356927879,
+    "added_old_winner_SOL": 1.557053098,
+    "new_status_counts": {
+      "closed": 21,
+      "failed": 8
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 60,
+    "basis": "relative",
+    "rule": "s4_upper_ath",
+    "attempts": 89,
+    "both_closed": 56,
+    "saved_on_old_losers_SOL": 0.316121706,
+    "extra_loser_damage_SOL": -0.255914128,
+    "surrendered_old_winner_SOL": -0.267551856,
+    "added_old_winner_SOL": 0.430824635,
+    "new_status_counts": {
+      "closed": 56,
+      "failed": 32,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "5QKaTewC5rTw5d4k24CG3vcqh77CFXc2dmJsPe5gpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "counterfactual_completion_displaced"
+      }
+    ]
+  },
+  {
+    "horizon": 60,
+    "basis": "relative",
+    "rule": "s5_carryover",
+    "attempts": 20,
+    "both_closed": 7,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": 0.0,
+    "added_old_winner_SOL": 0.0,
+    "new_status_counts": {
+      "unresolved": 12,
+      "failed": 1,
+      "closed": 7
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 120,
+    "basis": "percentage_points",
+    "rule": "s1_dev_absorption",
+    "attempts": 36,
+    "both_closed": 26,
+    "saved_on_old_losers_SOL": 0.114536706,
+    "extra_loser_damage_SOL": -0.457179988,
+    "surrendered_old_winner_SOL": -0.137028907,
+    "added_old_winner_SOL": 0.327765198,
+    "new_status_counts": {
+      "closed": 26,
+      "failed": 9,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "GrkdfhPSEwmvRtUoWwCogUo1hovFabHPNUTBw87wpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "runner_timeout_undefined"
+      }
+    ]
+  },
+  {
+    "horizon": 120,
+    "basis": "percentage_points",
+    "rule": "s2_survival_shelf",
+    "attempts": 49,
+    "both_closed": 43,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.025072683,
+    "added_old_winner_SOL": 0.213349459,
+    "new_status_counts": {
+      "closed": 43,
+      "failed": 6
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 120,
+    "basis": "percentage_points",
+    "rule": "s3_deadman",
+    "attempts": 29,
+    "both_closed": 21,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.453240726,
+    "added_old_winner_SOL": 1.715571966,
+    "new_status_counts": {
+      "closed": 21,
+      "failed": 8
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 120,
+    "basis": "percentage_points",
+    "rule": "s4_upper_ath",
+    "attempts": 89,
+    "both_closed": 56,
+    "saved_on_old_losers_SOL": 0.316121706,
+    "extra_loser_damage_SOL": -0.255914128,
+    "surrendered_old_winner_SOL": -0.267551856,
+    "added_old_winner_SOL": 0.430824635,
+    "new_status_counts": {
+      "closed": 56,
+      "failed": 32,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "5QKaTewC5rTw5d4k24CG3vcqh77CFXc2dmJsPe5gpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "counterfactual_completion_displaced"
+      }
+    ]
+  },
+  {
+    "horizon": 120,
+    "basis": "percentage_points",
+    "rule": "s5_carryover",
+    "attempts": 20,
+    "both_closed": 7,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": 0.0,
+    "added_old_winner_SOL": 0.0,
+    "new_status_counts": {
+      "unresolved": 12,
+      "failed": 1,
+      "closed": 7
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 120,
+    "basis": "relative",
+    "rule": "s1_dev_absorption",
+    "attempts": 36,
+    "both_closed": 26,
+    "saved_on_old_losers_SOL": 0.090656978,
+    "extra_loser_damage_SOL": -0.457179988,
+    "surrendered_old_winner_SOL": -0.127837371,
+    "added_old_winner_SOL": 0.776730755,
+    "new_status_counts": {
+      "closed": 26,
+      "failed": 9,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "GrkdfhPSEwmvRtUoWwCogUo1hovFabHPNUTBw87wpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "runner_timeout_undefined"
+      }
+    ]
+  },
+  {
+    "horizon": 120,
+    "basis": "relative",
+    "rule": "s2_survival_shelf",
+    "attempts": 49,
+    "both_closed": 43,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.112247989,
+    "added_old_winner_SOL": 0.277773243,
+    "new_status_counts": {
+      "closed": 43,
+      "failed": 6
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 120,
+    "basis": "relative",
+    "rule": "s3_deadman",
+    "attempts": 29,
+    "both_closed": 21,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": -0.453240726,
+    "added_old_winner_SOL": 1.420322638,
+    "new_status_counts": {
+      "closed": 21,
+      "failed": 8
+    },
+    "changed_status_pairs": []
+  },
+  {
+    "horizon": 120,
+    "basis": "relative",
+    "rule": "s4_upper_ath",
+    "attempts": 89,
+    "both_closed": 56,
+    "saved_on_old_losers_SOL": 0.316121706,
+    "extra_loser_damage_SOL": -0.255914128,
+    "surrendered_old_winner_SOL": -0.267551856,
+    "added_old_winner_SOL": 0.430824635,
+    "new_status_counts": {
+      "closed": 56,
+      "failed": 32,
+      "unresolved": 1
+    },
+    "changed_status_pairs": [
+      {
+        "mint": "5QKaTewC5rTw5d4k24CG3vcqh77CFXc2dmJsPe5gpump",
+        "old": "closed",
+        "new": "unresolved",
+        "reason": "counterfactual_completion_displaced"
+      }
+    ]
+  },
+  {
+    "horizon": 120,
+    "basis": "relative",
+    "rule": "s5_carryover",
+    "attempts": 20,
+    "both_closed": 7,
+    "saved_on_old_losers_SOL": 0.0,
+    "extra_loser_damage_SOL": 0.0,
+    "surrendered_old_winner_SOL": 0.0,
+    "added_old_winner_SOL": 0.0,
+    "new_status_counts": {
+      "unresolved": 12,
+      "failed": 1,
+      "closed": 7
+    },
+    "changed_status_pairs": []
+  }
+]

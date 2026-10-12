@@ -1,0 +1,52 @@
+{
+  "mint": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
+  "provider_index": 0,
+  "fetched_at_ms": 1791765695661,
+  "result": {
+    "context": {
+      "apiVersion": "4.2.2",
+      "slot": 455852476
+    },
+    "value": {
+      "data": {
+        "parsed": {
+          "info": {
+            "decimals": 6,
+            "extensions": [
+              {
+                "extension": "metadataPointer",
+                "state": {
+                  "authority": null,
+                  "metadataAddress": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump"
+                }
+              },
+              {
+                "extension": "tokenMetadata",
+                "state": {
+                  "additionalMetadata": [],
+                  "mint": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
+                  "name": "Baton Ansem",
+                  "symbol": "BATONSEM",
+                  "updateAuthority": null,
+                  "uri": "https://pump.mypinata.cloud/ipfs/bafkreiha34zopm4epgmhqararg2qagd5zi6d277f5ihuqox7mrvrawkkfu"
+                }
+              }
+            ],
+            "freezeAuthority": null,
+            "isInitialized": true,
+            "mintAuthority": null,
+            "supply": "962055326941082"
+          },
+          "type": "mint"
+        },
+        "program": "spl-token-2022",
+        "space": 429
+      },
+      "executable": false,
+      "lamports": 2829560,
+      "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "rentEpoch": 18446744073709551615,
+      "space": 429
+    }
+  }
+}

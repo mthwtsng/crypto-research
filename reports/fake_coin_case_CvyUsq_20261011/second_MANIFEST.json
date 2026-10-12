@@ -1,0 +1,30 @@
+{
+  "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+  "captured_at_ms": 1791762073188,
+  "sources": {
+    "data/ghost_observations.jsonl": {
+      "prefix_bytes": 578812120,
+      "matched_rows": 385
+    },
+    "data/ghost_fake_detector.jsonl": {
+      "prefix_bytes": 8808854,
+      "matched_rows": 5
+    },
+    "data/ghost_holder_screen.jsonl": {
+      "prefix_bytes": 221176342,
+      "matched_rows": 15
+    },
+    "data/ghost_trades.jsonl": {
+      "prefix_bytes": 308113,
+      "matched_rows": 2
+    },
+    "data/ghost_intents.jsonl": {
+      "prefix_bytes": 1854305,
+      "matched_rows": 4
+    },
+    "data/ghost_amm_evidence.jsonl": {
+      "prefix_bytes": 27350846,
+      "matched_rows": 86
+    }
+  }
+}

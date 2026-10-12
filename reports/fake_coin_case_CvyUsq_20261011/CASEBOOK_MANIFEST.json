@@ -1,0 +1,584 @@
+{
+  "generated_at_utc": "2026-10-12T00:32:29.616622+00:00",
+  "scope": "five user-selected forensic examples; see separate frozen-prefix and RPC timestamps; no backtest or deployment",
+  "verification": {
+    "all_required_reports_present": true,
+    "eight_initial_relay_buy_matches_and_allocation_sums": true,
+    "five_nonwhitelisted_unconfirmed_paper_entries": true,
+    "reviewed_sources_unchanged_since_hash_capture": false
+  },
+  "files": {
+    "DETECTOR_REVIEW.md": {
+      "bytes": 12204,
+      "sha256": "ce8743ff49a85394a78fdd91d6f6e96c65768e0d41aa76a17334a76f30786d01"
+    },
+    "FIFTH_COIN.md": {
+      "bytes": 8633,
+      "sha256": "66f51027ffcc93f13a29aec62f15518625ed7dadb5216d7487683bc3b35d6bd2"
+    },
+    "FOURTH_COIN.md": {
+      "bytes": 8108,
+      "sha256": "b20c979967a51a2ddecdba6730e56ba6b72a6d74b5f902b25e1e0cbc3cd8b259"
+    },
+    "MANIFEST.json": {
+      "bytes": 1098,
+      "sha256": "21358f22d65ee7bf77cce8157709309d27bde8c451f715c0e8127ab5495e58ae"
+    },
+    "POST_GRADUATION.md": {
+      "bytes": 9172,
+      "sha256": "ba27a40f44fccc3c9cfd28f73df6ade7dfb429961ef2c762fd78b00cac2f47cb"
+    },
+    "REPORT.md": {
+      "bytes": 26671,
+      "sha256": "b2774ebc225045d62b02712b8fe17f780921f7df601840dee6011147012b2608"
+    },
+    "SECOND_COIN.md": {
+      "bytes": 14412,
+      "sha256": "6b7ee1ba8af46ddf80ce9835635d865f0c40fa4281d5157d3f2a80a7cb3806df"
+    },
+    "THIRD_BEHAVIOR.md": {
+      "bytes": 13025,
+      "sha256": "bf0aca132769407dd21f910620dc62e9d206aff8232383f76c8e429ea7dc8ea0"
+    },
+    "THIRD_COIN.md": {
+      "bytes": 12169,
+      "sha256": "ad2091b550c05a76a5d336c3e1b36e048825925cf8e7fd1b79c8a36a33add816"
+    },
+    "TRANSFER_REVIEW.md": {
+      "bytes": 3846,
+      "sha256": "43934fe6e35b2089a04e726d54a2acc5fddca07aaec63462824b65d7c12f2b64"
+    },
+    "WALLET_OVERLAP.md": {
+      "bytes": 11314,
+      "sha256": "dd566a772fa997b241dd8ab77f2af309af4e998e20d0c4995fce8a8881d2eaba"
+    },
+    "WATCHER_MAPPING.md": {
+      "bytes": 7872,
+      "sha256": "86c3a52c8127f24db8646368372967c3ab8e6f85b2dd9689dee559f4566e88b6"
+    },
+    "amm_analysis.json": {
+      "bytes": 10396,
+      "sha256": "7d62f680ad1e9b0e7441b540815d7aede6b121f9dbc61cdcd858ed713e1965a0"
+    },
+    "amm_analyze.py": {
+      "bytes": 23885,
+      "sha256": "44d9f93dacdffe4b28d1a986c5caeaf4edc8f07dfc0361e8b65b24e7cc48a18b"
+    },
+    "amm_collect.py": {
+      "bytes": 11331,
+      "sha256": "aa7069ef637c4c04118f95251bad4a724ec5b64456e3450c99b84451cc6bf6f8"
+    },
+    "amm_current_pool_state.json": {
+      "bytes": 581,
+      "sha256": "181ca22f8198a025585ea80aed0c0f4233ec8c21ae14e99004e4f4b6d85581b2"
+    },
+    "amm_other_deep_declines.json": {
+      "bytes": 3985,
+      "sha256": "cb7fcbad48b9c59fe05c42f59b4b23d62c84649a814f8da27459eba7ed412467"
+    },
+    "amm_pool_signatures.json": {
+      "bytes": 451188,
+      "sha256": "483b3460151989a6a74496ddf17f78820ae2680df62cb047a6b42ea2c0e9b95a"
+    },
+    "amm_pool_transactions.json": {
+      "bytes": 6959730,
+      "sha256": "242eb735a86dac9802a547af10afaf6e8e453d4cd1d5b96bcfdefc274ab4e3bf"
+    },
+    "amm_tx_selection.json": {
+      "bytes": 30608,
+      "sha256": "049e9e571b24c673c913f4ff8763dfa28594687e331473716461cf2ab67e9949"
+    },
+    "atomic_roundtrips.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "early_inventory_transfers.json": {
+      "bytes": 18932,
+      "sha256": "6d481ebe36b0872f36b7d670b450bab4542601e8755193a6d235650fb1eba235"
+    },
+    "fifth_MANIFEST.json": {
+      "bytes": 721,
+      "sha256": "8e9ed69e7872f793f17eed1798151bdcaad6047b63708d1ce77101b6000b1d67"
+    },
+    "fifth_analysis_summary.json": {
+      "bytes": 7982,
+      "sha256": "27617ee1a152921bed2fd0e2a8f72223f12829ef6980a1e82fa7c4a011aed583"
+    },
+    "fifth_first_signatures.json": {
+      "bytes": 7939,
+      "sha256": "32ebbac05bdcceece977044142441c261764f86a9be183fdbe3c19f60c52b01e"
+    },
+    "fifth_ghost_amm_evidence.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "fifth_ghost_fake_detector.jsonl": {
+      "bytes": 34258,
+      "sha256": "6a86afbc79d57c0585443ae2ffc66078c68be1093e336c792e1b390dcf750671"
+    },
+    "fifth_ghost_holder_screen.jsonl": {
+      "bytes": 323606,
+      "sha256": "307b612f1a497198e96e436ecc6c007f0ab672cf82cc3fc4cb823fbe69e83478"
+    },
+    "fifth_ghost_intents.jsonl": {
+      "bytes": 10904,
+      "sha256": "14a181771be354debbd22f98d2b5bc3b539e57f9673a080d5adedb797a4785c9"
+    },
+    "fifth_ghost_observations.jsonl": {
+      "bytes": 1007447,
+      "sha256": "7333e0c427081d971765cb4238082871f5329342547253846804200c59b53a6b"
+    },
+    "fifth_ghost_trades.jsonl": {
+      "bytes": 3636,
+      "sha256": "a19ab6575f1b09b128db9be667723e4bbf7b11b9b95d839872973fea5f9ef0b7"
+    },
+    "fifth_rpc_manifest.json": {
+      "bytes": 513,
+      "sha256": "97cc00e2d1e7f115a14eda821bb36cb798f24d026dffbc44d176a416bdf64ce0"
+    },
+    "fifth_rpc_prior_signatures.json": {
+      "bytes": 47547,
+      "sha256": "f8084b2cd529e88161d0691b802151c6c4074fe7d5afb0c1fb49523b7b83925c"
+    },
+    "fifth_rpc_seed_funding.json": {
+      "bytes": 4531,
+      "sha256": "318c8587365ce2769cef066d5754cb78651ff66f7de4f96687b60304f49591b4"
+    },
+    "fifth_rpc_token_transfer_sample.json": {
+      "bytes": 2494,
+      "sha256": "a34d3739237d37a49558a6fdb8450d92a34b80282ed838b87853eb69c9fbb45b"
+    },
+    "fifth_rpc_witness_transactions.json": {
+      "bytes": 292245,
+      "sha256": "33e2c7ed340206658156b33e5ed00a3eff826f047e0fb6859cd456edd664c917"
+    },
+    "fifth_selected_seed_wallets.json": {
+      "bytes": 781,
+      "sha256": "3f3509ba28c979e09bbb006b66569c50f8ecab668cbd7e41f61f5303856209d9"
+    },
+    "fourth_MANIFEST.json": {
+      "bytes": 798,
+      "sha256": "421b24f2b69f32cfae422654ef1bdd3aa98dd21afcc0f924152a9fd3bb8ee700"
+    },
+    "fourth_analysis.json": {
+      "bytes": 8259150,
+      "sha256": "843ce73d63e90062aaa8912e9cc6f811c33953264ec79b71ffa5f8464f68585f"
+    },
+    "fourth_first_signatures.json": {
+      "bytes": 44652,
+      "sha256": "a109ebe7777e1262f0b8a307a220f3fd5cb6bc6b2930ca587102c101e7b49482"
+    },
+    "fourth_ghost_amm_evidence.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "fourth_ghost_fake_detector.jsonl": {
+      "bytes": 34224,
+      "sha256": "dd9099d4e6ea68e7052e95bf78329895f6be3528963e4fd102c17bd21d54e1cb"
+    },
+    "fourth_ghost_holder_screen.jsonl": {
+      "bytes": 724995,
+      "sha256": "55f1c29b5ef9113ae225795df5ebdc03bb801471b273c31590d2845ffe3678c6"
+    },
+    "fourth_ghost_intents.jsonl": {
+      "bytes": 7001,
+      "sha256": "b68da699a7df980fd4d72edb7edc0962ca2cf4896c6cd2b21789e21e9281d4c3"
+    },
+    "fourth_ghost_observations.jsonl": {
+      "bytes": 6221100,
+      "sha256": "48734d6017d88475412f749b858cd1e3f15a8267ad8812cbc298e0d8432013dd"
+    },
+    "fourth_ghost_trades.jsonl": {
+      "bytes": 3629,
+      "sha256": "401ab422b741faa24430aef10459cba9d34ced35a674c61783e607d590f9d13d"
+    },
+    "fourth_identity.json": {
+      "bytes": 368,
+      "sha256": "a933a2b960f102e1b2ff333d130cbc1f8e990262cea0db1bb977810a7d94ea0a"
+    },
+    "fourth_rpc_curve_signatures.json": {
+      "bytes": 15873,
+      "sha256": "7dbf4f71bb167f4d51567ef9103f4df951ae5156e7ca44ffae40d8fed1f7c7fd"
+    },
+    "fourth_rpc_identity_account.json": {
+      "bytes": 632,
+      "sha256": "d71bac0bd1538e8ab6dbb8c1ff6a9ba1e9b903a4913873670ec02a7b5d11da95"
+    },
+    "fourth_rpc_prior_signatures.json": {
+      "bytes": 1204,
+      "sha256": "ab190c8be806d3480f2ed132e037dfa03bad3265695d23e03851499aa02fefdd"
+    },
+    "fourth_rpc_resolution_transaction.json": {
+      "bytes": 12913,
+      "sha256": "5b103d50db6f93685453749b2df4c47ded367daedbad20b62ad34dea66e823aa"
+    },
+    "fourth_rpc_seed_funding.json": {
+      "bytes": 979,
+      "sha256": "25ebf0110818ae8dded1b9091b107b1d36aa7d5fb3dfa99b1f305fd614d3ddfc"
+    },
+    "fourth_rpc_witness_manifest.json": {
+      "bytes": 357,
+      "sha256": "e26f7e2cb8f7eb8b37f24fcd6fbf030c0a4577f739874cb453ebb8e57c2966e5"
+    },
+    "fourth_rpc_witness_transactions.json": {
+      "bytes": 227245,
+      "sha256": "fb6d456bbc0a90833c724e258d3a19eecc301baa17a7f59648d93cf85d92128c"
+    },
+    "fourth_selected_seed_wallets.json": {
+      "bytes": 777,
+      "sha256": "3d862325a05722c92b7011bfc9bdd6193ed084de06b0472fd81175baeeaed5dd"
+    },
+    "funding_probe.py": {
+      "bytes": 5194,
+      "sha256": "d7051f01430183f5a276390e69f7f8cbd6524fe6217cd0186dde14c7de524213"
+    },
+    "ghost_amm_evidence.jsonl": {
+      "bytes": 3648507,
+      "sha256": "1dcee3a5e71d7725f63dcdda5f53b300d34d5dff51e0c5fd6aebc4f06a38b677"
+    },
+    "ghost_fake_detector.jsonl": {
+      "bytes": 34287,
+      "sha256": "f75a91180e9625bd48e8d01ba7df2ab26756db14f5b84825c4fbc62326e513e5"
+    },
+    "ghost_holder_screen.jsonl": {
+      "bytes": 1259510,
+      "sha256": "2ac8ae6740bbcf6eb14180710313e09abcfc8563f39fed3ae1889dca5b7906b3"
+    },
+    "ghost_intents.jsonl": {
+      "bytes": 51233,
+      "sha256": "795fdb2a1189f87586784b7a030f1173f756a2bc49fcca1cfb22ccf9fc525862"
+    },
+    "ghost_observations.jsonl": {
+      "bytes": 8388490,
+      "sha256": "8c01c9a1276ca1648f53aa8e33fbd70bd50100f4b98fc63e6ad09ca411e2d6f1"
+    },
+    "ghost_trades.jsonl": {
+      "bytes": 6983,
+      "sha256": "d35a6d65eb9fc0b8b5332ca2f01904e8acdf4a8717dddba56accdf0d8571b3dc"
+    },
+    "ghost_trades_master.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "ghost_variant_signals.jsonl": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "multiuser_receipts.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "overlap_analysis.json": {
+      "bytes": 1283949,
+      "sha256": "f3e1a7da8102681b681fe20e18fe6abed142279e744f55afcdf41810bcfd9ea0"
+    },
+    "overlap_rug_candidates.json": {
+      "bytes": 1876058,
+      "sha256": "8747824146c7e3624d434e1fa8f039adaf06fa30d8ac55a521603f972179fec3"
+    },
+    "overlap_temporal_cutoffs.json": {
+      "bytes": 1785622,
+      "sha256": "b68496205385687fd04cacb1e30494b779a724b9006348828a21f2c21bab5d0f"
+    },
+    "paired_B9ksmP.json": {
+      "bytes": 9722,
+      "sha256": "a9c359bba4c104918a53361946864265f115834fdfb2fdb9bd351c524a1faf54"
+    },
+    "paired_Hy4Zur.json": {
+      "bytes": 7347,
+      "sha256": "4d899c00944e37d227db41a6a5736e57fa7727f3753062796867e8a120da4762"
+    },
+    "prior_77AXS_pool_sell_witnesses.json": {
+      "bytes": 10122,
+      "sha256": "727092356eb242f39464069211a26f99be9263918c55da04635b21c8c50c6a12"
+    },
+    "reviewed_source_hashes.json": {
+      "bytes": 643,
+      "sha256": "3510f971a8d43b2014ef0a5db89a460f9b08f77d1becd347e7395af011e83dd9"
+    },
+    "rpc_current_supply_holders.json": {
+      "bytes": 5260,
+      "sha256": "821bb7838bb49554dad39ac63ced98aacf06abcf40bd576ec62e639356ee9f3d"
+    },
+    "rpc_funding_ancestry_links.json": {
+      "bytes": 1962,
+      "sha256": "a1f29f5649ef9831172ee5c60c2e2487ed3f601074f24ff52caa3b75cfbcd8aa"
+    },
+    "rpc_funding_ancestry_signatures.json": {
+      "bytes": 5915,
+      "sha256": "f93e076fb6b87d982e3ea8551da47661df54c94e9edf7277390f76450eecb373"
+    },
+    "rpc_funding_ancestry_transactions.json": {
+      "bytes": 19247,
+      "sha256": "a897411e452dd3836c020c98a00924fae565b9976fdbb76b3ecfd417cf228976"
+    },
+    "rpc_funding_manifest.json": {
+      "bytes": 1485,
+      "sha256": "843a207ff08922f78dba9cce6869360df20da318e2107f3a627c615ec8e017b8"
+    },
+    "rpc_funding_transactions.json": {
+      "bytes": 1885968,
+      "sha256": "598b26c8a6b25709b88820de7dc46a7b547ad72b0e6e50221bf3e63a9cfa6f62"
+    },
+    "rpc_incoming_transfer_sample.json": {
+      "bytes": 11804,
+      "sha256": "7723ae36963eee093bf0eeabbb24d02b2b9c0dcad70f9109c511c61f24cf26a4"
+    },
+    "rpc_rotation_ancestor_signatures.json": {
+      "bytes": 2681,
+      "sha256": "fdef97089ea47bf3e865f4c085f32a9cf16d8e184bc6dcbffccd601d3fce4a60"
+    },
+    "rpc_rotation_ancestor_transactions.json": {
+      "bytes": 13775,
+      "sha256": "117f979dfe64edc5b95ba21fc72e2b295cb108a9d18b18e0012e4fcc77028ff1"
+    },
+    "rpc_rotation_origin_roles.json": {
+      "bytes": 2257,
+      "sha256": "e54b4fc306641eb4c4681d528d92aba9243234486584af47b35095e449c0cd57"
+    },
+    "rpc_rotation_origin_signatures.json": {
+      "bytes": 3302,
+      "sha256": "2daec1559311a2f8982e87231a3f983a47888fdd843fff148f72bbc4885ba526"
+    },
+    "rpc_rotation_origin_transactions.json": {
+      "bytes": 32069,
+      "sha256": "dfa907a1dad430381eff2e299c027a0fa0d06ff5f4fec0cad63e840e32fa64ee"
+    },
+    "rpc_rotation_prior_roles.json": {
+      "bytes": 1860,
+      "sha256": "b51db98a552a350a6dc4fd26c60db0e717f12012f537270dd9a70cf4cdbb286c"
+    },
+    "rpc_rotation_third_links.json": {
+      "bytes": 2136,
+      "sha256": "49b043ab921a1d53958c1d78073be3102c6d880570614501bffa5e41b08ac8ad"
+    },
+    "rpc_wallet_prior_signatures.json": {
+      "bytes": 269768,
+      "sha256": "d2b3a014b73aa06d9eb541102a0c550de4117191e88d6b90195d924e1e8d47d6"
+    },
+    "second_MANIFEST.json": {
+      "bytes": 719,
+      "sha256": "97424bc31fd5baddb6581f08168a8c52b49fda7d677de53185f70d1f87c9095f"
+    },
+    "second_analysis_summary.json": {
+      "bytes": 6246,
+      "sha256": "465ccd2c0c1638d700427b67589371d8d2560f6bd08190e3fc43ad3ee581bbd9"
+    },
+    "second_coin_account.json": {
+      "bytes": 784,
+      "sha256": "3d56505eb9134315afc20beb4e79c8ac934d78bc962ba62ab6f2a3e14fc9cd10"
+    },
+    "second_coin_identity.json": {
+      "bytes": 623,
+      "sha256": "8e207c9a58841d5b2e7935ced9e6e8c9bfb841b567f57521e4511860f292a696"
+    },
+    "second_coin_resolution.json": {
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    "second_ghost_amm_evidence.jsonl": {
+      "bytes": 319248,
+      "sha256": "ba19c47cf2a8b6111eb327edaa6d22313ba858956a2502dbb973a4cb1351cf51"
+    },
+    "second_ghost_fake_detector.jsonl": {
+      "bytes": 11316,
+      "sha256": "cb69055d2d6967876828a173613dd3069d2bcaad5ae87168e903109269c0f71b"
+    },
+    "second_ghost_holder_screen.jsonl": {
+      "bytes": 322778,
+      "sha256": "839dec340cb9e6f37845fbe6dee992ce3aebaecb2ba1e7a122135998cc2be94f"
+    },
+    "second_ghost_intents.jsonl": {
+      "bytes": 27183,
+      "sha256": "c342871634e1e51cf0b0cf8d96b3547aab0e08d41a8e0b855514e6a6ce34df02"
+    },
+    "second_ghost_observations.jsonl": {
+      "bytes": 2036172,
+      "sha256": "b5d511d0b1f1e43e7a939e626ed37fcbd9964901a27d692d1133c4f176ab1893"
+    },
+    "second_ghost_trades.jsonl": {
+      "bytes": 6962,
+      "sha256": "e0899bae6187d650d065ed53c6ef13d08462c7b29eb29267024d46a9dca4726c"
+    },
+    "second_rpc_current_vaults.json": {
+      "bytes": 4499,
+      "sha256": "3ff465a48640f08db45d00d11087e5461cef03314c0e5d1ddad5201a796ee15f"
+    },
+    "second_rpc_earlier_pool_signatures.json": {
+      "bytes": 385571,
+      "sha256": "69dcfc28ea12bb864ed156a9991aff7834be42a38e439c3a6946ecc3c8978b67"
+    },
+    "second_rpc_early_dump_changes.json": {
+      "bytes": 2514,
+      "sha256": "9333eab97003ea5a8f9f52f4fa07bb7b5439454b6b9fbe37a7285f5a987befb3"
+    },
+    "second_rpc_early_dump_transactions.json": {
+      "bytes": 148266,
+      "sha256": "1d024bd8ed098f4991e52e0c705bff393079d909aa37f4ca3396431f9294ec7e"
+    },
+    "second_rpc_incident_signatures.json": {
+      "bytes": 233835,
+      "sha256": "3a95f29310106236e04c5c5a901fbbf1a72292439c5a3cc7aaf63a0e540b54da"
+    },
+    "second_rpc_incident_summary.json": {
+      "bytes": 1620,
+      "sha256": "b6db1e76d9b1aac4f9167315f8214441a910a5e181d6874c8927d6c019a5cc5c"
+    },
+    "second_rpc_incident_transactions.json": {
+      "bytes": 4092107,
+      "sha256": "94af45c3c7f72b40a4234dd4a25dcfe1cfde6a2958bd14e80afb6e8ca784ea55"
+    },
+    "second_rpc_incident_vault_changes.json": {
+      "bytes": 125590,
+      "sha256": "52afa86402fdb0953c3f8a0950bd0afc31a3af4c5853c2a276b31a5227308c0d"
+    },
+    "second_rpc_incoming_transfers.json": {
+      "bytes": 2430,
+      "sha256": "6503f96e9cf2d869df1af830b194cfd28a887a8ae780cef5b39e7dfd981109f2"
+    },
+    "second_rpc_manifest.json": {
+      "bytes": 760,
+      "sha256": "5a9a80519ebad7ee07c21e73c211a5d33c6d1640e993890b9c6463bc18c8d7e8"
+    },
+    "second_rpc_opening_pool_signatures.json": {
+      "bytes": 393453,
+      "sha256": "731009162e6cf9b18191993ef8b5d3d513676f99bd81837b0354599b233d4519"
+    },
+    "second_rpc_pool_latest_signatures.json": {
+      "bytes": 29269,
+      "sha256": "81122655cc1218d4096859d569d45016c155822c26ad214e90fb5b380cef2fb3"
+    },
+    "second_rpc_prior_signatures.json": {
+      "bytes": 116923,
+      "sha256": "0ead57dbd9e427ef7d645d924ea55d52e3f0c8e14c3e8616450978383ef986e4"
+    },
+    "second_rpc_transactions.json": {
+      "bytes": 1216552,
+      "sha256": "47b37c0aaef4171fdcd74a070d454897644fcf2d66e8f21b31f8800d428f6787"
+    },
+    "sequential_inventory_cycles.json": {
+      "bytes": 156173,
+      "sha256": "d6d4b659feb513e1d9eba5ace73265ce23f93476b539fbc3e0b31c27bef22f96"
+    },
+    "shared_funder_links.json": {
+      "bytes": 43367,
+      "sha256": "68da4a15d1722ff47e9917dcf420fab4bf95afbf73516017e4d32a98d8a04bd8"
+    },
+    "shared_funder_signatures.json": {
+      "bytes": 46561,
+      "sha256": "8927f148fb4efd22878af6d6e0af2c9fd50341af8f90cf96d6e06524b7332472"
+    },
+    "shared_funder_summary.json": {
+      "bytes": 896,
+      "sha256": "9022967122b09d56ae223acbfa2cd09f115f9e65baa87a7d5090c1fd3fda47c4"
+    },
+    "shared_funder_transactions.json": {
+      "bytes": 567032,
+      "sha256": "34c1d561e479c46f7e3cf90ab0ca6d53a5df690a5bbd6b73210cd8e666ff8020"
+    },
+    "target_events.json": {
+      "bytes": 1979766,
+      "sha256": "2beca306f82c099a273a36c742c99682c42f17b7d5628f78af2e44d95f86311a"
+    },
+    "target_path_summary.json": {
+      "bytes": 519,
+      "sha256": "508245d7cdbda2715b85258189a2614f6d7e8750da3511d197ab88e2f94a8ca4"
+    },
+    "target_price_path.json": {
+      "bytes": 358632,
+      "sha256": "1ad6e68d3680e618593ec2dd96438bc720fbf2199df40b736c168efd5540611e"
+    },
+    "target_wallets.json": {
+      "bytes": 104023,
+      "sha256": "36e242c9de40f6cf8fb979fc9c6944a8eae82b531f34676672b574b87b3402c1"
+    },
+    "third_MANIFEST.json": {
+      "bytes": 721,
+      "sha256": "07380f9a5dbe492767b88da2f51cdd0ab63b276589c920b93f7f488582df98d8"
+    },
+    "third_amm_analysis.json": {
+      "bytes": 59546,
+      "sha256": "aac0082fbed6e6cdd34c2d8bfab1c16a7a94b3f431e23c9166b2b5f4f9c209bc"
+    },
+    "third_amm_analyze.py": {
+      "bytes": 19678,
+      "sha256": "491853fe468a1aa8b259d502406cb8b94c5ab12117e6c42cd8f3058eddbf90ca"
+    },
+    "third_amm_collect.py": {
+      "bytes": 9165,
+      "sha256": "c27fe030cb926f254ee320bf18febc614c66949e647619a8aaece70fe774b00a"
+    },
+    "third_amm_current_pool_state.json": {
+      "bytes": 565,
+      "sha256": "567c85c8f8e585137532eda43806fe5a4d92a4e94a21e400aceb13dc1c65de37"
+    },
+    "third_amm_pool_signatures.json": {
+      "bytes": 515331,
+      "sha256": "641e677ea39dbd69d250878fe94ca906122a7e52cf209dc6c12d67f4386bb387"
+    },
+    "third_amm_pool_transactions.json": {
+      "bytes": 3411720,
+      "sha256": "5f03130e2e74c228f3feb51a5c8b92cd7af33adf2f22ef40ceaf07d9f2258486"
+    },
+    "third_amm_targeted_followup.json": {
+      "bytes": 2029,
+      "sha256": "ddb6f463bc32f915c84b7edbd8d00877f073a315b14a0d5375345323fe420929"
+    },
+    "third_amm_tx_selection.json": {
+      "bytes": 11170,
+      "sha256": "0899739118fa034c0caa0b87527b7a1eff02e32a904c5b8c6e993075e8427713"
+    },
+    "third_behavior_summary.json": {
+      "bytes": 9713,
+      "sha256": "cedaf7c2368702e6f4705299366a9024064034c4271643678d91994732b9171c"
+    },
+    "third_first_signatures.json": {
+      "bytes": 28352,
+      "sha256": "358bbdb291c78b75581a172d956ab0d093f20c342211866667190fdc3e3caee8"
+    },
+    "third_ghost_amm_evidence.jsonl": {
+      "bytes": 459567,
+      "sha256": "e9255f061622decfab820be9e64e638c45a6121cd0fbe25e64e3251f774f29b2"
+    },
+    "third_ghost_fake_detector.jsonl": {
+      "bytes": 15826,
+      "sha256": "7c6397405f68f56e3d26795381f00b5673962b8a9c1a9e2dc288be850c0337a1"
+    },
+    "third_ghost_holder_screen.jsonl": {
+      "bytes": 239383,
+      "sha256": "f1248f10f20b1d9414c2e3fe1b010d9b3b3a640998dc7fb975e51d0895f2bbc8"
+    },
+    "third_ghost_intents.jsonl": {
+      "bytes": 27187,
+      "sha256": "d55aabddf624d9d09648998017e937bb21fce912c4fda24707ac62d642e62c2d"
+    },
+    "third_ghost_observations.jsonl": {
+      "bytes": 1602952,
+      "sha256": "640934cf848a466e6c600c05c842c5b536700cf37088cbc762c7ba5ea5ffad0a"
+    },
+    "third_ghost_trades.jsonl": {
+      "bytes": 6960,
+      "sha256": "ce86616a2cbb71be4532987e554a927b0a09d11dbd373bbefa1d09b278723289"
+    },
+    "third_rpc_funding_transactions.json": {
+      "bytes": 611754,
+      "sha256": "046e08cf411d16179bf06ab2af72ac56aefaaf27c4471755ffdc40221390ab75"
+    },
+    "third_rpc_incoming_transfers.json": {
+      "bytes": 2431,
+      "sha256": "45796ba89a5599714d067d11eb71bbe9fe86c637e20d9f2414f629e73e7041b2"
+    },
+    "third_rpc_manifest.json": {
+      "bytes": 653,
+      "sha256": "02d9eb6f9f727d294133e13d0c55987b6dcc6ed434455cda1a379954ed4c1964"
+    },
+    "third_rpc_prior_signatures.json": {
+      "bytes": 55362,
+      "sha256": "1ff4ca5e69d6753869a0cdd38b83f5ea18c955f35602fd21cd9d8a2e2c90f4a1"
+    },
+    "turnover_summary.json": {
+      "bytes": 332,
+      "sha256": "256929c460b7b0c692a5e38ff37d6e424e2283758b4e9ee82b009fba2898833b"
+    }
+  }
+}

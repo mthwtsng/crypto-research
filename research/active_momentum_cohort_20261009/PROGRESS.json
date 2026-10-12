@@ -1,0 +1,21 @@
+{
+  "state": "collecting",
+  "target": 2000,
+  "total_selected": 562,
+  "total_verified": 562,
+  "rejected_candidate_count": 3010,
+  "rejection_reasons": {
+    "creator_monopoly_at_peak": 216,
+    "source_token_prebalance_mismatch": 211,
+    "multiple_migration_bindings": 2,
+    "fewer_than_50_successful_curve_trade_transactions": 1709,
+    "unsupported_mode": 7,
+    "creation_outside_requested_window": 1,
+    "local_source_not_eligible:cached_custody_incomplete": 278,
+    "peak_below_12_no_migration": 367,
+    "fewer_than_25_qualified_buyers": 181,
+    "local_source_not_eligible:multiple_authenticated_curve_migrations": 31,
+    "source_token_postbalance_mismatch": 7
+  },
+  "updated_utc": "2026-10-09T22:07:32.317802+00:00"
+}

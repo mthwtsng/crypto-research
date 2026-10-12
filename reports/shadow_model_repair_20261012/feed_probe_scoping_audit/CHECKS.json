@@ -1,0 +1,26 @@
+{
+  "exit_code": 124,
+  "observations": 1225,
+  "creations": 10,
+  "trade_events": 1136,
+  "complete_instruction_events": 1136,
+  "tracking_counts": {
+    "complete": 0,
+    "incomplete_history": 93,
+    "missing_creation": 88
+  },
+  "checkpoint_tracking_reasons": {
+    "creation history missing; setup features incomplete": 103,
+    "unrecognized successful trade; mint history needs backfill": 1,
+    "unscoped receipt coverage gap; backfill required": 1,
+    "ordered custody coverage incomplete; setup history needs repair": 6,
+    "wallet custody differs from covered swap history": 2
+  },
+  "sol_usd_price": 111.44,
+  "sol_usd_price_source": "coingecko_simple_price",
+  "sol_usd_price_source_at_ms": 1791766792000,
+  "active_positions": 0,
+  "closed_trades": 0,
+  "calculation_model_revision": "persistent_curve_v4",
+  "paper_entries_disabled": true
+}

@@ -1,0 +1,4985 @@
+[
+  {
+    "mint": "D1DumKYzxNYPhz2DqMxhDMmiiBDs8oqpMQj5sDgGQJnU",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": {
+      "index": 3,
+      "signature": "3AHmRbZ7CHyRhUtkhCjjMXahUdAp8GuMVxS9U7pdz5Uz7UCrefYWr5kqa8RPJD6KkoHX1yiJu7fTg4DXRK6F963Z"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2M3H1utN7AcZySYoV33XugwW8pFFoa1YuETEeriLBFX4",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "APY1zVYMupMuJxfpDQ3a1LZSNmhibwqyuvvRCXV6pjDH",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CongqsaPQC9R4go44k2RLy5ayAywpCmbEqxjBsjQpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HqSxNdx8n3ffgsMCgheDgt923eTUPmEv4dzHBSaopump",
+    "groups": 16,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EfgwtKAaSYMyR3uzSUn7MnakahToKhGqgoTu4F9mJK39",
+    "groups": 698,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4h5zYkPmU6NVX3fPkqZ5e4ZuwzXdT8eMK1bgMY5DF8yG",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7AbePT7xDuJAZhekyBiU7j9UtWCDxBvPrXsbsGHWpump",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8u9JEWyhYHaHDKqwTvVg2a5XatrR24ykiHjv7bb1UF3x",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7oPGc5h6ceEs2bbXU2hkzVJTyvpnAz3MvUvBPMfNpump",
+    "groups": 38,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4HT1m4hATxsbDeR1NTzToUyQSBR3weZKgn1Jvhd1pump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "D6N13dkfWLMXpjLptp4t7vdjHhE7qT3jHAED6yP7pump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CnJWnKiko6LE1Gdvg7ZFTsLGGRuELi1X3nGRq1UmuCb4",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CqbejuZw9MUNY76ps7PcQTGpevSEPvy9BmoxkXGDL9F5",
+    "groups": 80,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BVQDUw6XdxGnirkGWHLScZPp5PUfi7gRXhuQedDeEdPh",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5A5diHeqzQkp3NMVNU9VHVYrUxSyHoHhckfi1oSxpump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6RvDh3ekeFfnrVdmRYKqBQ8dZGr2hnb41ugCqubaavjX",
+    "groups": 19,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+    "groups": 157,
+    "normal": true,
+    "custody_gap": {
+      "index": 139,
+      "signature": "3EZbJNMYdW2HuNmg67DJ44aBfhY6MLRThEwR2pVkusFihnCsKapfamSFYVmjHeQciY5F2DWTH7T7iUij5cmXFjDU"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GQoTgY4qLiTHugbVFgKWFC8PUyGgLRRQV1EgHCCFpump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "PFfzJuPKcZX2HFQJr5x3ERPUkFMFGbWtxrwvzuWpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C6rGaVeD3Mtm5wN2YD5gSAxbcP69d8bS51EvTkF5qidq",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FYo8HXjheTtwLcsxqZrExhNkPEs4BKYEuowTGznRZV76",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AyQstrA9isxAy4UzbZrEc5gg6DHcomJRmhxh679br2os",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7e7xpw7xSXmggxoNo18oM7nyzvd5jdveDdcGS1wqpump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3nbi8RhyXGLA7wp3BradQCf759FXCvH3ovzzUxevs4qs",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6CKbwJ1PFjWL11zRQAQXsTbbhoVvpoXs8YQ7jHWH55Ue",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+    "groups": 910,
+    "normal": true,
+    "custody_gap": {
+      "index": 906,
+      "signature": "3EcBuL5JZWh69MXuSvr33udoWwpbDrjjXJ8DtxwG6CPfbDf7YP2CQ3DZW5VWwANvLbVxruncnbBhZjb7EJpvZaNo"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4RtxAwomyZ4E4uMbYGqacePoCuunF76vHhLHGBiCpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "23XcyxqRCVRDPUgxzjWz1AhhWN1a4BankwHDd79co7bW",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FTmgyLVCkD38r5U5h5hnQaatdMC21Dzz95Bn9B1hx7B2",
+    "groups": 49,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8rirstJ4gFXRczJkbtaQhVquy6Gkco8SP1hXT9L93FQh",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2r8VtLXEZpV1mbvHimRse1ScrcFubbMA82rRMK46pump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C3mHypUNoEDcqknZPjNoHmayWrTSLxLzVMEmcxSKZjoV",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3KcF5PJo7tBk95NV7QHcXV9BPbzGXt6RTZrZ9ownst4b",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FHdgCUgtUxvFUWXRKkewMZouWLHU8jQxc47jynrUpump",
+    "groups": 56,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8ncZF87hJZVqCg5JuT42e3DfAK8ukJLP5CozSviqpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "41yFR8cbpmJMXMmkowXdGEEGafmoN3u7z3MiZw1iz3gW",
+    "groups": 32,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CeygsBMv8WWBkeb8oiQkmxTeyCSmGHajtKUAB57Vvtpa",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BoV2smeya7x8FjjcxbAyGRfBUG4fnzEc7nb3E1jApump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8xvhoTL64DcERDAnBqgf9JGNffZguA1LkvKUF8f1Zkub",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+    "groups": 743,
+    "normal": true,
+    "custody_gap": {
+      "index": 599,
+      "signature": "3km9WYMkM2sX8UPfCWzrLVxtcyUd9TQKM5eynHV4N4sCNM2TAmJYN5G3NtAquWgyY4gXUHoK84yN52srYgAEKTJ5"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3pQHkXdL3SiyF87XDY5kwSwWNNtZtVHmC3yd21Fopump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5XWNFUwu8DQJaXycttY6J1G7dWVmhxVZ5EWdR3vApump",
+    "groups": 67,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+    "groups": 439,
+    "normal": true,
+    "custody_gap": {
+      "index": 438,
+      "signature": "4oGc8V6roQvWc4R4ZrykFf28La4Zizr97EBPVACqzxBTzHyvRpW2XzdFCTWSzGrNmvr5jPRBnrM2vFgqpGpA3d7Y"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4uNuX2H3asPftryE2dAwE8x3LoQnPrnRydJikDYBpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Di7vemupJARXP44PvVsTcdPsgTSWj7RcoGXSQAS9pump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3SL3X1Y1qbWKnFDt6SD7ie3mC7Nc1eRf2VPJCwrmpump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5ptPxJwkJKhbDuRrBn77tMCsB4xhueN2mLfBjkHXpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3Pr5EhsXocAoUPoSTZdqKrdwGkxZVa1LNzAqMUWGpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AgQCNuuZ6jF2e5eEg9iwhCkyiLzGKfRGdP4JpCJXUrLc",
+    "groups": 27,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "J1vY89Q4zdytuMhuz6BcNHjzzpUGKvCACxXxTytcpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GR4uEgBLUjvCvHohdBcLcqGT5DhqX9VLuYcSnPR8pump",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BSz6qixkBwXycHbbVuYQjw5tvw2VLtJ1JhnxLBhrpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6sK6qVLryhJ5zRgK27tgxRiqf3bm7iP8PxZzmjWvpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CbZAmenPh9pRE1DZ3Rk4pXb87W65GLXQFMLgQDRKpump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "F5wg7HY38HkuLJ97Z6j6wJ6C4bQ6CsgEsNpLupGFpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "F9du57swW2bFkWnYg5jkSvGC3pkX1GVzT3uJqMFqC8qk",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "2VWcvkd5aYeMh2jRCD9GFdkuALZ7qM3TmX4ZUbSJWnxvrbjF1rXLFfAsxrhx3M45A6PNupg5DnMRcddXwRQ9AMug"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EeJzCD934jcAjjDSQkZMhzgGJ7SaGBpuBmm9tzHBTdHE",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DL7ppcQKFAD5rDpyfyB8goNZ6Y4Uk7mHH8vaZQdEpump",
+    "groups": 32,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GhPtYSMAn8jb3LhX1P471h5TiwTvUnRGDsrV6atYpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "49b9nsMaVXfSkyG5HYtERZGudmqRH8hZZoWR97oafdjpCDz4WSZMLV6pP51bRWA1qsX91XsqYrCzLxJpnGitgp28"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "A3D8hwYSL94gMkrWvaCeAT7njwHfQWk7JmtpfCGKpump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HZrqJYiGm5y6a6aWSwgVKdNzGPzZixC9KgZ6vqt8pump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4u1oZ1e59piPPdADz7XSe6yoASj6GzKNFnw5rcWupump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DGyQDXHzn4vLSrNR4o6Z8dgfEcGMP6iS8VkEMMBUpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9FB7CpWqbe3gxTPykrwP32WRbhFRRjCkJgpWaGwUpump",
+    "groups": 144,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "23m3i1hhepNZukFMXELcgLAMbDMTjWrmXa5yMrJPpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4SAxztmJskHLPp9cFtF9F3RJX8nxct23D7mxaDtypump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HN4VCrsLTP1N8EYRVWGbg44aoBxJ7Q6CDA1NYQBYpump",
+    "groups": 131,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GDv1Jvwdp9rw5REtxXVXRPC69EVuSdCVLrHGr1Xepump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+    "groups": 168,
+    "normal": true,
+    "custody_gap": {
+      "index": 140,
+      "signature": "4qFjw4h6Vw85Y2yxR7P1Chr9LeX3Bcr2WWmPykMKyyvctKGyTcPEu6kXY7dkKWt2dP6nacgEunPJFhpGdsGqtpMF"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "F7ZUzbVFMcjCwSjhUVHouM8Ltuhua8MKkzTGHRDvHoqS",
+    "groups": 214,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EvtHuPyi3A6ttkZF3NKwvCEFLnzayrEtqhcbKXuBpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": {
+      "index": 7,
+      "signature": "3PFmAg24XKQDrFKPiavhbHkd788JQYRoXz7qdMMhNPmEnRcQu8fNZz1E5WXFo1waKBC2bQ3QjQbpq47jHXDbVfdF"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FGuRkBsaYeCgzkCJatufF9JT86wdkPsdLz4bGQcspump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2ynNrZWsM27FhLF3NsTqSYvTmtsTWbKexJR4ofj7pump",
+    "groups": 21,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4NDHAqTKrCHhuyuWn8aRbS75PtTTkVm1qtB4623apump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "mswybgmpaZUXxxBK3Y6w5Ed9zVjzcMjw2oA9ReBpump",
+    "groups": 47,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CbrYKfZDnMC22BLUVKAi1mApAGFfYfccvNSYhyZwB1K3",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2xYXmUb7AemD1xDg27uwrZDWon5D839qgCx9E6wiNi2t",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7MfhW2txrJiTy6w8jxvjLTRLWAcEU4hGngfT9c8gpump",
+    "groups": 20,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AdLEuRZwharJRaxBHvKk3JcdyEJQLmn57upd4GC8Zp9f",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AYn5mR5BUVw3PsfbTQX794a74UuxJjyrCWkQ1j7bpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FGtkcPZAqhzxw3cvBAukbibfu3swyXUz3QZo92CTpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AHAgVix7XsXQ4HyDuTVzgtXvJiqmk5U9nR28mV5aVeAo",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BdDkFKbmN2xuRKFEvJkGWw9LFAAyHahg5u8fEZA7qS7w",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "nB8jkNSBnNViAosfXRUs7YpTNhy9Pduq5MpTuCJpump",
+    "groups": 73,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3QPcbYNgSkVD54H43sLvMkR4SMXaAqmKrURiv7f6pump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7aNXegyrMwPjb33wpzQyAumFwJ37x2V5sRs8XHTyyP9k",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HHmdZHt3ATSGmipdPTKcyr8ym8uGCBBnrvJTCWjEpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AgZ3vhXmBrpuPdSfda8rkC4Zaht1p7s3n4Uxx5Bupump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+    "groups": 462,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BifjcFB5EfAKM5UYdL1WjLNHvtiaEiDMbgDnVd9Zpump",
+    "groups": 15,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "47wQRdfGGTBiWJR9MivYXfT5185m5sxpdhbsTQGGFzYa",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2xrunqch4JW6yCMRPGwXuKHPM6k883esWvYZVaC7pump",
+    "groups": 83,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "D6vSvmdTU5iWYWtwjqSiLRM2QJwSTWp3X2Xwg317pump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5pmWRAwhKttpozYesGM946vxoGKPAwLbajtBpGrpump",
+    "groups": 18,
+    "normal": true,
+    "custody_gap": {
+      "index": 16,
+      "signature": "3BPsBpWPhdXHoL5GEnB8waZMuTQyWcqfrTSa9DSedVgYXyEDti8QzFko7Zo3qBVDmmRCuHQbxD3f1BxnsC1H5zje"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EoV64MM6mkK9WJ1XZ2FvjkJTztZbSRy3bMZkAhPhpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "69S4qe2MTpgsdLhErPGDnyLwcf1AiMkcWnNiqAocpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "41LtybuB3sjoR3i2DJr4wn3AMi8FcruAjwLsJ74RymCE",
+    "groups": 30,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BKqJfyQQbtYigV4uLFJouTEPWiaGciFUaEbqFqxvcmC3",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6jxBgf7kZEMoD8inJ4MVt4jKWHmRDeAZt73UeFHspump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8rP6AysJDbyPEPtjXXhqvHDZW3o5q3ey348HJRwepump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7BeYk7eQeXLGnQ3oT82YLfG3qH2o6s6D2Y1sw6cSpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7iwenCMYzLgWEs8W8PNc1haupNWbMdZZfYR7Tymypump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+    "groups": 817,
+    "normal": true,
+    "custody_gap": {
+      "index": 38,
+      "signature": "4bDixgRpirai25b4ZVfEGddTs7tjb8VyxAMHFsFkw5wF4kYoAThVSLTLzXdorcGZThLvxcBNro8rjycs5uNAc8q9"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8mPiUvrXQFDVMApesGWStETG4nAgzz1YH3vcPV9Dpump",
+    "groups": 84,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7iiGLkjuC9Js66sbcQ1BkjYLtXbN98CrLay1jXHZpump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2LvESQg6yRHZwVgNSay8VyH1Jg3irbNBymzx31EDpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+    "groups": 57,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2Am1eVwtWbuwFmZpTe2sXyXEUpphFHV9erVikvNp1cSE",
+    "groups": 41,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GFJjsejgmUrV9s73W1T5W5HLoafMCg7K3xCSrU6tTL4C",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "31uriaRNiau3reZHSFD5fAB2uCFbcsLVnqcXsMS6pump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "G8KygWo3bGFNdrovjKUjv3oSJP9UX9wjBhWEojMYpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8MdRQaJzZZb4GrLH1vYAcizKJ8XzAgaVQNp2J1Kv76vV",
+    "groups": 54,
+    "normal": true,
+    "custody_gap": {
+      "index": 47,
+      "signature": "5nYEKLCut7sJ22v2QyegMh3Skdn2K1gJSWJ58nsP1ZEreZvmaS5Ei1NykcY6BPpGEjAqvt78BkUPm2WXXED8qn5M"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "D97dXWWa6PymkvdfiL4JMa9bAetTYHyfnwk2K6azpump",
+    "groups": 34,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CSA6HmjccTVW1onffBVzyxGg8yjmqNUsEVkhxrzXpump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GHzK1gm9pQAf2Pj8xshRvHdPgsnaF3R9J75SRbnjUMbr",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "At3G9iQfkoTGLsijj8RfqSSURKU3uX7XNxYGmnqDpump",
+    "groups": 25,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "26WCY8Wx4QvkiQ7Hm1DSBhcucohchoGe7LxdbTTjpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5AN9Taza8r9pGTcee8YoP8pBjBumPfKJvf8fVyvvpump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C6DzUGkHARFC1kMPHVHpfaAuZHUjsLkqNPJWQSUs95LF",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CF8AaCK8mBqV18MypgoEgENJ8dBrD9Gdsz7CEtzDH91g",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+    "groups": 326,
+    "normal": true,
+    "custody_gap": {
+      "index": 187,
+      "signature": "3ddJtKwm625cRWDiHkN9gd3HNE89eGUtczwCdZf3Dg546sRtBWk5v8ca441jpC9F2ws5Z7D5627Vsd4B4qzn6RXY"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FEPXjxYNkW1q9N2N9mDH3JybkWeQKVBzdmvoPURvvPEg",
+    "groups": 73,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H2A1SWjexF3Vd6t1Tv46rBQbND1HwugzVcJjY8jtjgPA",
+    "groups": 75,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8ZacQsz4tLBMTmx7kdBP7w85VaveJqo8u9mS7BDLj9Wj",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+    "groups": 376,
+    "normal": true,
+    "custody_gap": {
+      "index": 291,
+      "signature": "2Tovqtog6gSB6P72n4jLC4D6iftjBtR9f5T2QocxTbAD7EWH4kB2enfe78meexe7iWXdGDe2QSoFWvK4ZymCXNdJ"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CciUCPHvbQkA7Yu3qMpnrpqJ5TdvEepPQ5aBt5JBpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+    "groups": 1962,
+    "normal": true,
+    "custody_gap": {
+      "index": 565,
+      "signature": "3VbWm8pRqY5baepBfSeWXZ4NEQZosj5WSpRhn2mip6a6yjsy43BWxH2ga8GsVtD1QiP5cWxBYnRjm1XsWEbkgzw7"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BWhbPUQQ45b5fwR97hC12Akx28B5K8CFYpEjhHfhpump",
+    "groups": 125,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FfWSe2EqPFpy19H13dniDUh1BWz2XZPbDKX37XWwfans",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CjfRvg9b1stkVNKhBwnVFmpBnD7tkoYtrLvQHFbCoh2a",
+    "groups": 58,
+    "normal": true,
+    "custody_gap": {
+      "index": 18,
+      "signature": "4cn7hcpbGry88Hxuob8wdrjynzGz1FiZxuHrtgxu2nVDbrmVcX3EHq6wMg68RAs9nuWzyVHoQ1XBzT2CGjV5x1MZ"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "mnFS3t2QfLuCjcHWTM8zCiBZhDknHEtPQizomTZpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7cKYt3z7htdDTJiUmrLcn9jC9ZqFBSymnVXRpdLopump",
+    "groups": 87,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GQ3MHyFzCaD7ouJcvYStue2b1pJ6pZwk8b2yUBZ8pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8xZLTw8YwXAzusmyLorgfvKsPx1Si5zLub2ovYNmxsdh",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7x2imvTCNpugLhqNHoHZX89tqR5vZvEZEA297HX3pump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "714zPuKKFDhtaQono5Huoyz3Bd2n9WB2fgkqvgiGpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CydeCkbvCngUr2pxNwFicmxZ3eoUdhs6w8gMidctpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8jCPx9RWP9PirXHD1GLbG6s37LSg5VBbWAsVEdDXTret",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3Tw5P6odx7icjykPkygNzbwVsBvHV3CR1zh4yTuhpump",
+    "groups": 26,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AmQcdhLF8yiDzP3Nsv8VDNfHuXzD2tj5BZKySPhopump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5bjW6GAH4GrcjFMm5SdBCpeshufmnBupCtySxJtajRHr",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3YfJMJdYvQhbsWaBFDe3FSHsGt7K16AgXXaDVXoupump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "82zWsYig2rz3UF8UJJtAt8mRHQoQDUMz6Mff9WQTpump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FSdu8QvTJneu1kL2xae5TzpkGS8BWo85JPNd9RNDpump",
+    "groups": 20,
+    "normal": true,
+    "custody_gap": {
+      "index": 17,
+      "signature": "3PjAra58CtLUKtXcqEaFuSCkJFj9oUEXayhqQYTgqQ5zo6gFdQMGQAPUNPPBwB2yKM4uwEknrJXEUEPxizJ5nTfa"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8CkviU1qVZNiNHcUmmS6EHr9gurpYj9KMPqhWdRfu6jY",
+    "groups": 384,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5Ca5xd3RKAGPPLwfvSAtqP8eZqyXnzWsWefq8KjzWn6U",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BKmxuXZng5n22QXtvsxDdyCujWYEXiBWPgVQm7s7pump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BpM6Kkovh2wjE5YQyAfcu7VWTRRWGuf23uHcenTVY9CS",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GgrE7wyU5rrMwsTgSRG8WF3uodnBKXtdSVX8ndcGfvjs",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2TY2NeAZZNb2YWGLDjBvakTXeCMpGUSM8DgXkrkfLMQu",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "E8ga8PeL9W318qfLkBt9xHiqLWdo6MmwLCUd1qHRvc5L",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4758yoGoZ6XeaUedvhF769XreSrtmezzupovFaNYDB5Q",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+    "groups": 2523,
+    "normal": true,
+    "custody_gap": {
+      "index": 407,
+      "signature": "2Ewg17Hh3QwLssHNajyv1cW1tLQnZTwAh4S6WSosNBskfQM4R8LREoCndjv4MDGWudXgwgFcH3XkcdVLzsFWaYm4"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "W9segRMzaqadQG1SwXa6Dh6ZW7RVKj6P9GWgVURpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "3VzBd6zEcDVS3mT54dFTcyvqfksV9AhtxDiJboruAXLMo6PUy5XHTCKMYWdKmxU4cHWqC7gR7UceykFDGJZGinae"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EzepkjfshfZij8cZSN2nn4rY1DmRXjEPaXdAYBm5iGCQ",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4TgkjykD36q6AGzndYHWZeEkc6DEs9eSTzzXq7PosMqu",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4mtjNZVMu1i6CPoHsbJSgGUvvu9dSY5aypQdxsQSpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6GdkcdLVDjM95arp46qoYvwDaV8qHKob5EVQ2gzHFs7q",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+    "groups": 1850,
+    "normal": true,
+    "custody_gap": {
+      "index": 968,
+      "signature": "ewX1ofQJQVjVuaPm45cxiDzZxo9UP8pUHu8PuW3ADtidzhrzrLhuyHp3uN8BKuV6dedqPcZsTTrWv2fzzwgCJcM"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FtWDfD6sdfRVARhPuptzcyZrHuuPpPkwUgihpWQ8D5oA",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "942AZcbZvu2sSxH1j2LLs7vUJFzi4Wy6tBAXZ5udpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JnnYydNbsw7k5rLUrdbdC5Y2LHbPBHFKYP4uJwLoEDU",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DDjcytXZdZGaSVMG5n2dpNHCdgGvWReQZW6VhQrrjNdS",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7ybMFXRhJho6Ly9Mc1NJSowDyJSagxhUPxmvZ9CaFz8S",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5RwHdFaF4pBmzkbAQJFPEBcosbGLphUwaDfkHZXupump",
+    "groups": 133,
+    "normal": true,
+    "custody_gap": {
+      "index": 118,
+      "signature": "56HUNrHuaRubDar6CyDdwacA33Y7npX3uuWngpwn56Xq5uEac8PJLSYGAS1uRBU4Evt15WRLQAw15G8PZmUUR6qh"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3eavv1v3G9NyV19sKFaLwKy7aFAeCjWjpdqQc6Tupump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "87pz9B4RxtjEjFJo5pxKbdP8Wkcs14gHQc2YN3cKpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FTUDqwaKztPsgcsorXNthpsXos9d41LcaoV7f1YZX3xV",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "31ZMHqYViLr5u2VctR7CW4XsN2Bq6NekNHxcRZfUfFhu",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "B9Ye9GdtCHjXr98ZF3Xr41tjTDMkmYH3R5iDmpzVpump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FqrgboiJyqNaCbSGP5Zqn4DmWULnZvVZp93jTrzdhSoL",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9iL9DG1qTGJF3qdzs4DvQ7dZNEPaNEC8kAqTmCrxpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "YfzBewHHiZBTx8mMQccEz3hiUSv6HNVFFDN6cxXvTMj",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EHQ6SqAugkusBtxYUEsr8ELbkK9Atg5LMm5rzGxjpump",
+    "groups": 176,
+    "normal": true,
+    "custody_gap": {
+      "index": 159,
+      "signature": "2nx32p272iDnnfRGnHXZ6QVFZ4RdGF2qDEoZzMr6yrdhqJQRH61nDUiEKmFLHejM5m4BunP7D1UDh8Hfeiq9M7Wx"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AfdKkG8fzcc3LbpeuUfvBJo19wJVB3SFkFmt1Fm527iW",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Bhe7ksaXC89wGfoWHZwo1Mh2t5jcENgQkPeL2LkM4HGa",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ATrPb5SiiPYnePMCwzG67F28k5utyjEhBaUcDne8aR6F",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2vdFf223zPyxFBN7Nw8LTiT8qMbyehTMgLrM5SDSe1L1",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Guw5Z5Uy6iNf1CUETgz6yAX2U5oQBb2MArjTo39Npump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "55csckM8meEVKEwX1uttc2MUJ3c7w6tuyunTEr5kpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6cvH5jaj7iUj8QGiSh8jPnLpmAcwNhKHCLe5AWpLpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5wzMMzTRa3qurJoPkP23Fn7rSkT7344hw86Mr74ev35j",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DtMy7K1RJbY4LLAie6mXxVbfbRNsjG7DLuNxvywgZMVr",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Co8Gqw25NAojbj3ZcZ96KLRPVmK9LpbLMpdBymQ8pump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8poWAa3vgvpDkvWJhxswv8nKm9HBR9U72swqnJzHpump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "J1vUwD9H1u7Mx4cLopJuMPK8S5kaT1mtmfo1XDzypump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FWpbHZtPtwbSDjkbvL4RQhKmtErZ9DKNNnYyHuQVVy3T",
+    "groups": 20,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "26Wd3N6rhukUzB5WZB4Yhyc4XRs2S8xM8wCGDGdMpump",
+    "groups": 129,
+    "normal": true,
+    "custody_gap": {
+      "index": 49,
+      "signature": "2nq32KWsbqUiV9TMsaeqNXSR8XbymMF4k1CU3dkSmX6GRryWGCAxBVh2HUbsrYow2MAM9ksFbxsuukzagiNG21zZ"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "B1b68qC28bhno7UqaJqTbKZXkyFTCdSD5gzDeTXAaewW",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9mgjvkyJhWYMDw166DxPGb1aGpvr7ciD3YGqgZeNbP5T",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CYXLZ3q1qX8fW6wHUoXhNqfoMpLZJVnwtFYT24ogrvMZ",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "55RpFyS22rwGvaawiBkp9vSwBWdQMpUcL86QnmJ5pump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6cgf5ktbf7iiRt4WzUsnhrEVGVFJyWNqju4Hn6WbanCe",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "941iYHpSiu6ni1Gh969KH2hbNsz4FFLF3VS8u3RZ9yjH",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H8RLxKJCLk23Batxif61QTCBEYqTotUx9L4MMmRnZwEM",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6pjDB4uAYUHrKvT7CBkE9f4Uy54eJRdYCcMMkWsJpump",
+    "groups": 16,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+    "groups": 1053,
+    "normal": true,
+    "custody_gap": {
+      "index": 273,
+      "signature": "8dnKWHYHDVDh2WVjrnrBi4byxK3kZNany5bTphFesbnrxfW5V3yDECc1ffUBGoDkK9nA824uurCM49JX8iRC2ZF"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ErgJJBbNG2W6THN3NtUkmHREC7PNXGgnJVD9xPF9TfAC",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H5bEnpb4b6EpJFL6tAvmKPETdAbWMTBnNwMfstxHg4Cc",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H71AFP8X7HUYM8J6RD3JSj5EUwbrWbVsZLo3jnHjpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BS1fKeDqJzPVvP6yCAg5LFuKvQVXU4bUjSHeGX1Dpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2bwQsuh3oWSr2goyvij2psAgpj13HFF2V7XEMwcrdBvM",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EKEGnSgrEoX52dAB2xrbrtu4kKziTRzXyeNhfKZ9pump",
+    "groups": 46,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3FKiFxZ23oU6FQv3o8c2NyBTEJiKw2FafJvPGhKhYf6j",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EFkAYLwTvuxE5sWABko7Km9Kv1AouckVEMBXP4g7DxJg",
+    "groups": 144,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5pX6x7SErdk7QyMsytDX85CXSeYBspuCpKTEy5wAcygR",
+    "groups": 63,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "He3jrv19YTVWLt2qYmc11tH1KxHBtmzs8akJdaWPpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+    "groups": 1158,
+    "normal": true,
+    "custody_gap": {
+      "index": 892,
+      "signature": "5ybgZR69dppDQzgZNmrjiXWuH2Rf4M7EBodqDkSoomQ2TNGTkgMEhD1UWYnDZQCazHddEmMJVV7q2uJsSK4EXtRH"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "84F3b796jLLrKjxA5mpv39TyP2ARTP65B955PiPwpump",
+    "groups": 290,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5VXaBJE1FtSF4yJMipzzCfRSwKneDqMr18oNMVhfpump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CYem3UXvb2W1JozQ57VdJWbqHce99Gi8C3FTmZBv5boQ",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BzqpHJ5idJg8CdJ3t7Et467oe4a6tU3oRWzGHy5Fpump",
+    "groups": 240,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3pC6YACaVVwzog8BHot3Gt9UcQED675X69zRxazzpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "63hViS1Mi1RsVVNNMCndQfvbzc5QTiJi3xv6wKmV8Fuv",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6rzVtZWHp9snAUuUF6kfwXAqiAa6tyJBLe3zrLjd3yDM",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2FL4YYz85NbpYkmb8Pm4zWRxX9v1iCZWX74puPBXpump",
+    "groups": 24,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7jJvuiM5AhGTkfGW9u88bZYetmgTTcSMc4oet93Epump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AW7xdc8qXMzq3uZaAHDEd29MpHJTbNG1N3XJzBkYpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": {
+      "index": 2,
+      "signature": "3pkwZ5KMsryNZTcCiYM12DLE2FzVFdroEKjLwr461WtMGuyZLD9Q4BUtutaf78HLX6kJehF86t9S5Yv9EfXNbrbH"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EcqgvrBBee8v4h7C5je4vf7myff5VessSbrY5bQnpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8vj1Z2P6JEdE9wvtmWaF32TpMYyxJVCQksqwurRNncDm",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4HZAP134ipBHQn4c8ZRKKW4kC8RZk2zE25fPLPxupump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7bmpQERZ6pSuwSrCUVx2GaLnzXfG8i8Q5SBKrGQypump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3AbEPZFN1odRkEpzPxb2Fq3gk68oZfpLeGHuuWXBpump",
+    "groups": 23,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C9ctd76SpGL557fJR3XpNNEHJGYpW4TVDiPbAh8sDZnG",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Cf5MZC4pio5WNq97eusxqApp4756zp7AuxeeRRa4mi5G",
+    "groups": 21,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4LuGz5HmKsZi5ryDU9LcTH71J6K4rHWa5igotsjLpump",
+    "groups": 21,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2m2AWRgT3jVYTnAqkd45fsFh9aEuR9dzpvYga9u1FezL",
+    "groups": 367,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3iZsJpSedjzzbK2CX1oFcGPwh9XzePWo87BV5SXPpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4M6qbFUwBhyrJzQPWZxTUeWKBoT58xLxyjA8Gepb4d5B",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": {
+      "index": 6,
+      "signature": "2BgtEXwNt7463J34TtSAHnQXzdm9sRzBb42JsUiCdoA2JJMMiKNp46jwgxB3CkoG7proW56FEzKReutpn8ab5GnK"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "uwauDZQ5KwyZ7naLjssccKpQxompea9xryZ7jZzpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "E6VZq5yeHLmXwUD46vHxuHfVA1EhSpChm9NbVSpVpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7NjqTS96nd9YJWGsHtjPPQNjdeNvWybbxCypKMb9pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "5TP1g4rqPz86hd4gyuAdwxR3x939qJHPXNyW8CZqpoLy96Ranp8AfjXbMy71YM4n498JGx7w2H1f53YPwDA6n3yY"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+    "groups": 1323,
+    "normal": true,
+    "custody_gap": {
+      "index": 857,
+      "signature": "4gFQ7dDdRrGftn6VHccG5AcBUjYGS9eTjTAEafDr4SCcBp6fxQRiEBDK6ugiXB61pZekeaoQ1927rK4VWgND4wDW"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ACFHvGN1VmCyAX19SU9UJkfMnoMzk3XpgSbm3LXgpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AqUsqVuJWv9V1GfDy9GoYMF3qxTmadC5kNq7tizSPkoj",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4Z21B52Egy2WMkBYbPFxT6DhuskZwkbfC8PKBctBpump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AtPR2zYhKdmP3BuPACx8hqpkFmoQam8P9vimvmHupump",
+    "groups": 48,
+    "normal": true,
+    "custody_gap": {
+      "index": 28,
+      "signature": "2kUg1Aw1LPcFmc2WCRLkqyxLMmxJx5Ubj5BXmemDBMdjZ4HVLVzRJSr5pXpSpyaxfNFBffZzHKxLBhXRQdMm34jA"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8Pi1iAJ8SBu8xhRiusvFHJGPUejxFrvaLbN7woL2pump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "428XoeATaMDyRfwJjysrkBUPWscZg3g4CPTxF8dHpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EYWFWcSEh58fNRPGhHtfnZN5oa1VbLswGxJbnRAZPTME",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6pWE9m8Da58MzDDhndLdw1jA3kjNC91EHDJAPhNJpump",
+    "groups": 32,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GRwR1RnVyZgdpc25E9D2WJwfahktEpbDPYGCH37Qpump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "A41iUV5vRUip3tVDt3oLMGF8irpyr2iQnKHpFL6Upump",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ha2yH65FpL5ohrHQkp2w8WLfmhfsoEiBybrtWMsppump",
+    "groups": 52,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6mCFMSPPCEt6VhdhEPKAoucqLsZS2Gddwu8b3y7kAiKo",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3maVzDgSmWpFaDEkPfZhURxnH3br1wWRdowivUuaRjZF",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "dmZPaq7nJ1SWhzEY1NYoDwoAK6xoF7KXsA9hrmApump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "KqfhCS9V9f4gGvGyEMKyQb81FiFsr2u5cxzVFZXpump",
+    "groups": 58,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7LWFPKYtPzAPCcCvEbjyobZxnmwfi7GEnRZkBvacdXUJ",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6tYWEFGcRmA7pvqUVauqctggGnq2YsMwJej5Pec9pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GBceXsfAUNNezw8HGBU6cWzLoBdYP34kCruXTqDBpump",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3SM1WA5h7z2z1mhfLSctVrSBFCbQ96a81kV4wirzhQCF",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "5o2NxYfmX9SZGYygJ7NV7bx5jUvpNfNwBfzej7bB8ubb8zcgWZFdie5SwRFdVVVrk1w5f8yUwxyq64WgFgAEeQNH"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CvNB4wKEYQDW2JJGh8BMqybdeEodk9HhSYXybhnCpump",
+    "groups": 58,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6tVLpEmSTFns6EJ1459uSbm9PDktAc4WCVrmEeheStoK",
+    "groups": 18,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2axo7t258412SX7YAmC3XnnDsQ8YALnckScdKh2rwnnd",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5fdoPFZJAM2EBeK8w9oGQK2gCJkFwrmHXZumeW9mHb8R",
+    "groups": 38,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8bSyLJihhDoGBWeCDdNg6nDaLZzqbd9np9ZepAqKpump",
+    "groups": 46,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H2Ph86NfoQ9mPBZyHiDmCgKMwP6t1K7ZDCpfBu3Hpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "TVQNApjqbpK1pdtBwkfJ1cWaSCDiiVYNbHk9g1UQ6XA",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9o6wcSFiXX6kPekLadUXHu44W5o64ZTAYAY5mdZXGmo1",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HdE9mkpbLUeeHkhy4zpdANP29m9DWLTkseVTPn5Vumij",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8RjHh6UaYrYDaPh7FS6V2EpBaTKYaP7EJhZwJZJLzQxg",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FvBkrfX4y8pCK9Typdcj1j3FRo4byrJsYYb8qwJPpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5jDpvs6KDRBaHfLsRq63v8WHgXSe5BvEek7ojq4fjdeM",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7t3Ao7m9AbNz3KJSN7o674wAuK38fJ28H56VKWTMJA5b",
+    "groups": 56,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8GJF3Be8S5sysSJBxmn4HpBJe4oUDxHmKdihKic4fjJE",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CntGu5oHhs3iRLb2GybyBwrfL1mU3xyYf7HNpaiBieY4",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HHaiMHAFmY51fLiiPYjLsSUFSRspMKSjVmjtJTPrpump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "49E6mnZCY395WqohQcuQN1BmARYQZGy338ewexYLJ56T",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HRZ92wX8xgPJ1YuZmrFmE3XTfvEd34f58JJ6nkVJpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+    "groups": 175,
+    "normal": true,
+    "custody_gap": {
+      "index": 161,
+      "signature": "33M6eoRkNYkiN2bqJveVHV9k36Z1WQb6E7BYd8wHzavFmwKDsBFXUy8Ws9vUfmB9ZcHPpU5F4pRbaL5YCUr7cV71"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6PnnKf9Bt7EoWU1Gy1utGCJGBwcCW5aA8uKWXXYyr5Q3",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DLW15ucwKpi2W6UwnJso8Q6nWcxRwPyR6ktQZ3vjS244",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": {
+      "index": 3,
+      "signature": "VVTBRb6TKwcaGuZ4ZBpWfnvJNDzNGWyTQC8kmnhvziUKeTx4d4hBAy9iyYfmcBvgdg9ZtXhcpZjxLK5git9L3an"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8yUaudivFi7VdBT9FimNn1ehact2Rz31VP5kHfzB27Lf",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ge78YALbCukCqvGxuBBvqcfeWHH2jhJXBBVD3cTfpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HpEgcBvy5nKyKjwdHV6h9ZEWXyag5AmV3Eei2d7fpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "91mEk21DhgCMn7zhaU6aAkMPvu5ZzHuoho3F4PEDpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6mZVXYevD2mHb9xsQFnmjB9SjzDRLTSDFid47T3fpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5mH3r1ms1mv7TVNgLQX2GPb9s7x2Bjka8ubrEx3yxBxj",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3Fhk2dsX3JSegwhSV8xaR6Yx8qCwvBUCRfUiWj3tpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AutgnzkQsZDPF4UQTk5eGQ4afDvwi3vX3HF8h7maCA1i",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GowW17EFGraNWh44KjEgCZ4yZtfuekvM7HB4WHdipump",
+    "groups": 131,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CLN64uNnP5AQtJwLn7m1HC4aHS4gAYWATPxhKBnsUN4s",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": {
+      "index": 2,
+      "signature": "4ttahHSkDGSJPdhty1pB6yjBEYqreu8E2t6SJ9wWwUU5cNHa4R3TUjVsZnvW2bipjKcX2T6jnYqCmMnPR3iSyfAy"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FzcUfP22ttXvXsrg32FnbGtmUsybnayCVvBW8MUXmEcC",
+    "groups": 250,
+    "normal": true,
+    "custody_gap": {
+      "index": 27,
+      "signature": "67HvGzca7SmUH5azYw3hf7jQ6mJntipWcwAyjrcdaJuvowLR3vr9LvqydsTBD1qKGFQNbkCbuUgQz3CkuEhT38g3"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2hcPKT2h46AypRTx5UfFAB4RSUUrdumc5tJoGtqUpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": {
+      "index": 6,
+      "signature": "5QNPKgAFunEb8CZrS9ktNyqUwrUwHGvdv7tzEf6dhS13ZvDkSz6Cqa3n68BzFSJXZ4d5Bur8bo6REcrJTiv3on1B"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DqAahx7VQJ1fNPKbpttj8nvuahX9NyuVAUyKT5a5tvoF",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EjWJxdT3X5r42ZR8994MotDTmFPXDHFpEgWcUudXpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+    "groups": 880,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HTWVwVHCnuwFz8ombhtkEZyaCXk2hUY9yqjLpXPGpump",
+    "groups": 101,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8NMpve7xVKvB94D2EVKkBm4nbbvSMJs2cPw7Avhypump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HawVx6H3ws7V2KY1xpTH3YwQqAAGAYwMG5qcqn2si5BF",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7rimrHLNmC6h2UcEmADtrgw3oFfZVapNoM4x1rqbXGu",
+    "groups": 24,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ew28bgEeeUr9N6zxDxxwjf69uTpuV12e26npEH9AZ3Jh",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JBGWyndmbqzr88MKHnWBZQkd5dF4QkUNZxtbAVNC3opi",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6cW8Bcy3DddpJLh9e4ZTUDXhZsnkhs3L2Zetg7aTQnDz",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5JJU4QUQNwE1X613iY7g8PeDFURQdrzERQJZbxgepump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7JUKgZSb2GgKeLxFHHzYHtx8a5UGKP6foVTPVs1Upump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+    "groups": 421,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9Pp2twWASm371xYS7XvCfMz8ctwfnpb3b8VX8hAgpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HhSEVPicpeUowR9ottqSVQMaqJY2bMXKaHcbTSGapump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+    "groups": 1074,
+    "normal": true,
+    "custody_gap": {
+      "index": 1073,
+      "signature": "2k7vxT81K5gbQSMar9b5RmwVyGhUrJgA8JB45XDqobfo4GrwayPSyV7RvZcnR3vPuqWwGXnpjr7VmdFa1N1keoDV"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Fywqd8M5auzyvPfvmdwjKzQfeBpN7wQaU6bjTdLcpump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": {
+      "index": 10,
+      "signature": "4mjuTpnctZ6fSzkVNNFWzQPfcnvoFasDYUt66SUpjCsoXGvgUBjheL37yY5Yu4kk1cvQKmXsdCurujxqV9LwQLed"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5YympTkDLnNWigUuZo7jnNo2M2HFqfRi7B7EAtipump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CYpK7XEWCMo511LM6AKnH7WXZYpo1q12oF6q5NYtpump",
+    "groups": 20,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GgF83DXFk5owN8B1M8o2khbLVWAGV1XBwWMKQyd8pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GJ1P249nTgokbwP5DjQY4negXsnnvBYkWmBxT4cxpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4p1ixw99B1WqxzE8cNebBj5RwkskeTqf2XPzo73jpump",
+    "groups": 26,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+    "groups": 164,
+    "normal": true,
+    "custody_gap": {
+      "index": 150,
+      "signature": "4rocgmwWi9KwgKsvmZGKgV3evtWAxU91CUiwsbw4hnQmRQrSow7MnSCmQkxxjFC6yHqWzbBb6MHGP6C8BppmZMLJ"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FePb3tvpRMao8KbTFpL4ZFm9TuPNzWgYCbjSXyBMpjTV",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FGrZ52vHRu3tSz1NAVmpbM96LkdYsjHpyJWgtXyc4Sxh",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+    "groups": 536,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9bhZ24A7XCnNhbKazfBy1mPpuzpTd7aU1pqsETiqwdjk",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5t5UXxhdL2M8Y4kJcquheXuZEdKWYGrfMfNz1t29M3nL",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Gy9ApH8StTxPmfhqvjnzZeFVsft5n3oJTcJPoXW8BjUV",
+    "groups": 33,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+    "groups": 478,
+    "normal": true,
+    "custody_gap": {
+      "index": 373,
+      "signature": "4vJGgzNuTKQtmk4BYhSnbRomwvJon9NGcpNqCanMytGvAEb1aJYmdzfx9CumQqyPpR8WNpf73Hr2wYKFGu3v7KLj"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3PAorvHVFgCyRYEzVRibv6uqDcFGSmDqoFBuHKy5pump",
+    "groups": 16,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DqvWj2EVUeSouoos5Gw99VUbnJ41U8hVYxRgcyuhYr9W",
+    "groups": 24,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FSTLFX8gybEGkp5wbp6ZDKvDY1oAqwEzsTbb48JTmmDV",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GRkB3hGgQpSaSrxFKa8V6ZYZrVq3Dvezj7XhwnQsAwLx",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DWXc5Pr2VVFLdq7ZkRmYcVEbammqWjU3AY4TU3hgcm53",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8xMKEkLrMxLwSkwzeTqvvhUHYf4QQMbk6vx5ee8zpump",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "59iAfLd7TyVwekN3efiA81Zj7BuTDSc59JcfEh4Ppump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CyN7pyBtNmenjLemDvZLsw4cQWXLpMcQZxXM73YvQhNL",
+    "groups": 64,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7bGrV6cyryuSBH45ry1A126RweLNdXsJE6f7gqUFpump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3ZD3uPF5HT5EFZr5KmjQp4XohS7p8zbQPEzzsCyXwFzE",
+    "groups": 19,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HRfKgsvBAfD5T3KAJm1fwh1TtinthXMgtqBXVJAWpump",
+    "groups": 18,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7mHEU5JkhZe2mffra9SyTHtkNQXtSMZougkJDrhypump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "88M4yADu1yXRndeqDEVjDsXSKfbTRoUGtzkpaDpzpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9EvYikq26LG5W4wQHcR2PgUN1EKd9YQPx6Np2dgkpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6aQAn5X5NwcSAMw7tpZP4wubNxCxyG9YmSD4mJiLpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HbRgq8n9g9pwVZ7wWAnB91CCgkRn2D8u6qiU9MhQgMZm",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5F9sgzgR1gZbP4SXUXtyC9NJXrdrG75vMmLL4q7Jpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ECrPdMAtgm2JeyLksqqeiJiaNuH4va3upsPAw7WNrhJf",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+    "groups": 877,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3NoxxgHkz5hs5zFLXgwe79FRBiK4TYM5LPtJpFKJoDEV",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+    "groups": 128,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5rMmqxqNeZfwwAJwVCfaqANGmxcd3wJFAaTmAK8Wpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EbkH1Ag8DdAMvar5CgrjHEgqr56REm1T1gQA6pZ1pump",
+    "groups": 24,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3RVqSAcThgWvJsK6phgdPq92k1fXBgHV9bMjSGkYpump",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8MmuWaoYjinyPrxp3Py9qWWstj9yZegaFZ2watu3pump",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2y8hbnFydgcmFkedTktxJaMS7MWeoeWf8pK8X1YbznRf",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2CCjUsxXyKMPHi29NQW5ihV1bnA5J1sAffHSt6fujE7z",
+    "groups": 34,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HLZdiY7mv7iThgyzFMnyqdCbahVDiYo3MkWPWrTjpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7obZ1N9p59MnobGWwiXZc2FcgaabncDp4zqkxUn7pump",
+    "groups": 307,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DH9xXZ8UHfAB7eggKumuCa9dw4eA8BFyowA3VDCGDUaV",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+    "groups": 265,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HiU21Zwv2eT6m38EUig63KiDWLCZDB3EQqa1zF7xpump",
+    "groups": 55,
+    "normal": true,
+    "custody_gap": {
+      "index": 41,
+      "signature": "2ZX4C181HhUiuVnGKiM2kDMSAj5bSfJV8BZTmscREbuuzG66HZ57KQmDWRqhU9VFG627KtHXpgjZDYFsvGmB4tvA"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4vW4mrtKSDC8vxeWhBkTnzs9xdSaS2KFnHxCe6T2pump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6VK6jzv3RZtLyA5ZQwnKEXXAzgXixj8D1QuB8gKZpump",
+    "groups": 31,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9eGF4YbTxykVNSmp2gjrjhwi6wunzUJVnZVpNTNVzBN5",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": {
+      "index": 2,
+      "signature": "638YbsfmkG8EC4UEgjY2YBVqcKHag7VbxV9p5VMNeaXmaPT2X6MNgTY1GysXD2GgvPnRAqhbSSVthTuiNsn6yXMQ"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "B2JcDg4PGggCUsmezM5UBVHfMdestYKHUTfM9reLpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7xjimvRfZSWMWEJfTLgzxj16wSPVf55rdnBrGx5Spump",
+    "groups": 31,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HVvRsdUM1jbNNJDNbWZER53FPy3yPzRT7SVetUjxpump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8dgwBjVfNnKfAw28TmiJKZeFXsqyTmMv6NBJaFqZpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+    "groups": 642,
+    "normal": true,
+    "custody_gap": {
+      "index": 364,
+      "signature": "PGQJZNTtce3anTt7xZ6rMb3FaGmVQTGS1dSv4SFmy3oN6VuFRARd1bN2LHvmMfjxVHHN7GxdWepcMV6zZjEmGRC"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "B3PLws7B5sWZ2FAAzQoBTV1DWuAmFKtudhZvmEnzibbf",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ES4abNaroZXmvH9EeogQm9tw2yvgcETmhpHnSC4XfNZu",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DsBqVXRtKeWjZ6CMx5kdfkrub7isQErtrFBuBPtipump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GoVqNQSAVJs5bmPy2egoKuN7va57CBrj1xLFzsR2pump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EgA2WGL9Ydk6ma6e5BaC4Wg38Xa72X9qCLLLz551pump",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+    "groups": 2655,
+    "normal": true,
+    "custody_gap": {
+      "index": 1162,
+      "signature": "5pG7RdenLQDXyyfNDWdqnrTE6RgqnSKCgHRZjwcCh2YmRiyzuc4J6aCUqnrwYocGpKjSucu2cMR6bgYo36HuiQbo"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+    "groups": 241,
+    "normal": true,
+    "custody_gap": {
+      "index": 164,
+      "signature": "4VqDssGKvHSyHCXL2yTD3rg3mtXWMAbcGDvLA4uQ6u6yxy3wirrFdgVfEjbepPQcWFRb7YoQUuEtw2MS8E4ZYPY"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EjWuLhZPygMmX3JXMH88gcS3yeq1YACh2QCqBx3ogvkm",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CRZ28qh1GuP4vdDTS2vo4eaXfoKUTdrvJfEjjrTpFTHp",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6hfdQikqysY3mYFvphuBVG5ETyP6FohS4WtS37uSLpp",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AqAsanUug8X9eVkWqvWkwhXpL9UV91Cqr2nkHTpveP3S",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5CxbCf8tWXsS9ea1kV2N9zthGRnWaRykhxho8tsRuGgt",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "aAJPjr7cYfNvo6G3PQC9eabkceTVkgE2t8csJKuTqh2",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DwhAvEHe6CZRxbAXhdTbNQrdsczW9fehW8RxsmxWpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CPr8HnRaj5229CYwiSpobSvgG3dMrq3L8m4ffNTum3hD",
+    "groups": 43,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9eD7vnuUmfUQHJivYQbhXi2wLNaC9z6TJvFnY5xA5ec1",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GG67SbWXZ1NE1pMq1zsHmtJEgjuzKPYNaeduaLopump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GmXA1NgUfMHZMDrEr2FKTkAEDszcKZva4FjA5HU9pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ArQ3iLzs2sbSPjuTLeA8e3TaSuEGfFYcxU3mLks9pump",
+    "groups": 19,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ew6yoxHFTbq7Xt58rcJpu8bLZq2rxjyHTsJeJ1Bspump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "41tgW7i1of8Z1Fpa1T4KqAzXxrbJXUpnAgJMpskxpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DDGS5GTeP1UrgL6wweZNQXE92ZX88AFmk1Q6NUScpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "J2X2PffS2UYY6FQY2v7tmuyGp7WXnnnVcfD2vh9opump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5aDjbUDd925VMaic7MxKqGfDkQBx6VQX1dbrpwDUworm",
+    "groups": 204,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8nTcbJKKd3ECrWWzdmHRK7KW4XqtKEGH37JeXAYkpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9YCp4jfMaCuCYQZuwpKKCHEmVfeHRuNSfpeQVqqjpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HQDbeBRRCs9iCtU2BBZvYF7Ls1s98eSe11hEynMPpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "22VxosrsxVCMw6fgsV2y2Pn5VgAdtzxRXLC9wVfCpump",
+    "groups": 52,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9eFNkCEespZyBviFgzV7rnTiYHK7sujGZgh89XHVpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BNe6kBsouidk6Mf3AXenYu2RsYQC7EmmJtxLrXP22Vdq",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DNU8aNrSYyKfCdqqvd9Qj1MfsonPgfYsbCuJxxjapump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Eit2bXKwPqEkLDZL9apghp9CSdXmoqXgAhC9PCxepump",
+    "groups": 169,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CuQCrvRtxSLhmpbkRWbEUdzhfTrKp3kyxVRYJUhapump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8ooCS78TjFYh2c2rzFi2tFfoZ4BEUXtsg1jQYEeFu4dN",
+    "groups": 28,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JB3MWKXzmN591Yc6YojSVQXHFB5Gk7QA3VgvdNGCpump",
+    "groups": 29,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "D9j5aoAZwSsXVNFe3dTH33WcygeEMe4hXRnGyyJKpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7G5zt2pVRkFNcjvJ3dTff9Q98fAcNnzV1bSDrStMTaEy",
+    "groups": 22,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EJXZXpTZwE9wZrBxQbysegmn9pD1rhxPxKSHQM2pSoAx",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DH7DAaDRzeZiYY5coed7xh8UG1DN6DQiAxcBobiopump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Goc2TksxgF3dG9htp6WGRG84QqFhmTvS1aUVLGk5pump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Fy3dwHS9ctpxZ8RnMfusYwxK53Lr2TUDMFPmdYABYfPw",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3jXCfNGLgcyYsKMfezAVMjGbxL9gNPU2EDrRk2pTiGwF",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9i5TGmmr5wtRHsyGJc4CMEu3EqJXKMqWrG5H9boPvJiV",
+    "groups": 59,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5zdKuAoQ3Zgkd1yrBUWyF3ki3EKW1gB4KTMLAZ9kejjJ",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6YFWmzdDj7YyAdvfd8c691Ykv61nFQnxVNKrVDCepump",
+    "groups": 54,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9VrQZhE3tH7ZuwZuQ9HVYJPDZoyReeyMThvVBLrrVZ2E",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ABroCRaQYUn5WmWFjFuvddwE7eNJkBfYCq2qAJ7CGmhq",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5sctvZq8zWuSobWXrpM9eRK1QN9hu7QuGeurZiugpump",
+    "groups": 31,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6wtqeL7PvSfHMvG5iMCwtK8CB6czzwqsPsqhd5bies1E",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FsaqmqMKZ131tHZzogjAgbH4dp9Ys6JuhpDX7ALPdPQs",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3UcQ1KZAJYK8iEtRPcCf8UpymoyzRSMtiapB11ZeuXEg",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "26XWPd4vEWgfQmPhQ5NprMe2zHrgyUAgRLYuQHdEpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7g5fkha95FDYFK1zFfYorwcNR6jUVP6oPZ3heYEZAErH",
+    "groups": 813,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5ska65FAMkvZEkVPi4rurAFHkxnf356Ny3AS4VgTpump",
+    "groups": 45,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "G37cTxe5X1BjR1dHcgFzCsgr7UNVX2MKDjAx7L9Zpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7mHYtrzeptRY9yy9HbCRUSPApKQGcjcUbPQzNJ6upump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "35dzKxoRSWJR2NqVUfLqrKydW7XmXetXLD557qQcpump",
+    "groups": 16,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4Jdgxr1qpyfCiktgnPbrRTVdJgGrRzkqzLZY2JiPpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+    "groups": 663,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8oj3h9yzz2sdnDu15xYMWpG8iq2yyToAFcaWnT5cpump",
+    "groups": 37,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6VXn1r6RGSEEeQ9huwgFpMcghkfdwUZWU9nDKJ3tpump",
+    "groups": 19,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "46aJ3kD7EYHcFY5P7NWDGn7xsBUk3qbhCT56udqapump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "B2cHLXt6GtDKmqYeyi6gHnftjRbGUyC3DpvjpqGLbsaC",
+    "groups": 21,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "28tDaM1KT88hfxWvtfsViTCwZE7oNHZeza4mUxDapump",
+    "groups": 14,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EXGTAYPmtTaZ3aJ9aSPErfpp1ivuTQdr1k1ZiCNEpump",
+    "groups": 36,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9j1sDJTqYfq9Zi9M4g4BTjBgwQ9piHrXz6zE8oLPpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6sg76qza7EUrunuPyN6VNqk6LRxvHwbfaqqgp9Djpump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C2RsnP5qb3wNMor1Q5Tc284FLfRxZk1e9c43kE3kdsmn",
+    "groups": 15,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2j53HopZx9k8LoShP1s1Goch4xyDcykbK4vT8XzFXskG",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2t4HnpWgjaxvinh7NasRJg3KM8u6Q3aLUF7U5zrzjsht",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "86dq7DJKFvKeXv9r8ozvUWgw6vNTwnbSV3DLf8QtYfjj",
+    "groups": 29,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GijA3CH8DPrDGCshnrm3bWQfYHcP7R1YNRfSVMx9Kcji",
+    "groups": 145,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Dvo1QMDdKSeyuyKBGqaR8AKMTYi4xKsLMwsU8wEWpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Bqfnjs9U6XKKF67C7frw9KggS78v1tfesiVwT9SaQoc5",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GwMnC5Q3rxcZMSVjLnVQRKy8pzDhNV3FrT5T4dvepump",
+    "groups": 130,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "PLNBuPDXjS51FVUr8GZx2aQHgadJYYVivMrfCFEM21X",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "D5p7w9L4TTWJtreEzhvFaopkmBqTU9bjZMF9DrC8kQei",
+    "groups": 40,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BkVfGESM72aAwM9hsoUgN5qtHAnz6ovAaMK2UxMcpump",
+    "groups": 15,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "99nv4oYTyZoHER86XtvY4Dtj7YKWqWd72mr7r4Chpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AuhtVJs2m3ZHPgDarDCCBf1jBAY222Fw9skt26Fm7Xm3",
+    "groups": 20,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GYTcHczXUBrNP6YjcbrE1U5Be3rJZiRXr9W9tTJ9pump",
+    "groups": 1253,
+    "normal": true,
+    "custody_gap": {
+      "index": 812,
+      "signature": "4av1rVjSvBXZbYBWCTEmFvR8apyLxuN3oHfGsuedo9wgHkSDbcea7vcMZY65Xjijbx2PLRynbAuUYiBsUs6Jz19d"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "E98wHerEf1hpT86z3BPkitooY7znCRWtDqaAuziNzi8f",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2swjy1q1Fqw6wZqrKEVuNu89UatDBejc5xkQ5nMTHcwm",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+    "groups": 1535,
+    "normal": true,
+    "custody_gap": {
+      "index": 831,
+      "signature": "DhYcHvhnqequeaq7M9QTFdXKNW9w9pkyaeoPbFmArhF6TaceJZ8ishbVQHjoizRL5pz4NtULQ5GhLogLRS8eRZE"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "F6qaXtAPNtT6C2RfdVC9dTA37Wx9MqX78TvqiAzbpump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DyVwKNP9E1296WiRbuhVw4ZQ1hWZWYsA2swDEe69pump",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2Gb2BeympgrCkcyVvHsCaa1CDyUTt7LeGrsT5LXQpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H1Dv1CSW9ZnMi5NUrEmMaPdeNvKYTqAd4pobaQeUWWNz",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4YWHQyDt8t2KqeBhaJT7Q8XcC8sGUqJV58wUQg7Qpump",
+    "groups": 18,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DPfNoiwRHBSBxnMLovNhH7EK72YhCF4r6T5uvyANpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Dor11nagAAtp95AxhxbXRQsfTRsN2U3wS5prd76hpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CGF4H9aNBgmTHpZUSJDJHBb756yt791UFJCZNAtKpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "keFQC6HyztsmViFw6MVYoZPdgBJUoUZr6D7jVRipump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5a2dLi8c3BftJ1ZAKEtuvjuKCC4CfS7MUEeE2AUWpump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+    "groups": 806,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9PeoCTeu8QRW4EiSebFXcGrv4D1e47sudDj6UizeTqDc",
+    "groups": 147,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DHXJz5yn9cWvGAARqgSkHZaGtQf32fMN7EdpKdQSPFNX",
+    "groups": 46,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AgWxoQToAfftY4nv67RFM8z4cwtrcroctzNHB1GjL9FT",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7Fqhx3yZve5aGidnsHJSD8tiD55xaVAEbg8i3faRpump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BCWNgbCTsaRTa2mtAAqHKYj5583kj7LzrZ8ezSkBpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GLshsLV1c8gYVA8nuwT8CyMSnJwAQaH2XDURyCcEpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+    "groups": 1402,
+    "normal": true,
+    "custody_gap": {
+      "index": 685,
+      "signature": "3HS6wBb97nwLEZ8YbWGjmNsqj5FDm9HyP9urE4oCQQdB2GTXNeKE6UonFYZLtCjr6ViCL2gPsVTUXLsVnVF4QDwN"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+    "groups": 244,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6LY2wAnKqYZiEHFr3cj7sRJJS7To2M6z68uNsefRpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2Zh2BMsyNqVWHii32QaDFq33whPq96nYDjuEzHiypump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+    "groups": 2751,
+    "normal": true,
+    "custody_gap": {
+      "index": 2371,
+      "signature": "QjRhcJaBiFGTdLXon9amEPujHABoSVYimBytq163j7vwPWYih9myfJtXrbtJMQXpV7EPf6ieFkQASxPZ2nEvZEc"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6EuS8vcZ4LRKe9YH6sR93mnERifyrNADbZrjHkUHpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "21YuEUHLfKtd89RrnKL8tZWQzNiV7FB6yLWWPEN83KL4",
+    "groups": 34,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2ZLFYRbsnYCQGhR3QMo8Rju79txA4WMwVTzwbGU9pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HM4jbzQzGBFLXgGNUqecHBZW7gJGg1rtHLEx2Fy1WKW6",
+    "groups": 24,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "dCRn5YKuqR2mLHoZSTPJNMsGA3K2jTvkyRPWq33Pn1Q",
+    "groups": 49,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2tvqbgt1zdRwtne9KVCy5vGkSJLJU9fKXbouPES3pb5Y",
+    "groups": 59,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "J3DSM3r7YgfkSFc6usdLWouYqKPcRKVr1Pc8DB2npump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "F9ch8kqVFioBCZnnUv4uRAv4UTTs2eThYkCJWZYCVnV8",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3ZNmJqmdseDZAwnMHYWCAD5XWEKSq9vfYWhbwyfMpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7Doa6mdApBNU3QyNt7JWqzdNp7c2rCoh4JxpX8dhpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EUVZddZGY1sDyfbhGUf9j5k4gAjJST6Fv231xjEZVSGZ",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3tYtfwiE6Leb36ig9PKmcFUiTsfLjE9oycjJFfNypump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "67c9k4s6MMAmqTiAkNuBS5tDEVzz5an6tHGr5S6Cpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "88qaCW2UooDr51Kdycbv1K96eq3ytcbtZeRDyiqipump",
+    "groups": 25,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+    "groups": 1238,
+    "normal": true,
+    "custody_gap": {
+      "index": 392,
+      "signature": "2bJJZdN9tLZMK4bViZk1Bcziwd711UNu93m1Z4gTrUmp2sySHqaYnst4Zn9yDcBy5v2epxUDAj7MdDxaZePo9sDe"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HTVZG3ktYhawzT4YdWR8sAMAoxnZyYuJuq3y97M2tF7",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BiuduAxFiTwYg1z3H7Yfmtwvjsx9WVF5FbR19RpZpump",
+    "groups": 521,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+    "groups": 119,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EAwcBhb5Q8FmzgPiF5MssdP4guny2Ky8t1MjiziUTsbZ",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "MBqyTaUMCcb1dMDfUGMoM4GCK4FLLEx8GWZuG98WVWj",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "1vVNUWXprqSjhEjhrg6C9moZLwp4efDaF86Gh4HHLs",
+    "groups": 72,
+    "normal": true,
+    "custody_gap": {
+      "index": 65,
+      "signature": "2YP2Zcm8n4g4w6HPjVnPfmzRsj8bh7kpLCJLDGZBnSJFfoTjchxCzzs93ZAAN4ZNFw9m5XCfSiuWUC7BZfype6mi"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "84msaympbsaCcyZ5mX8hywCiYDn5qRLDc7e2mzj1pump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3DraBATtDeMZNMVWsGJ76DaSwgjbMxV3gpmhSKXDpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6QtV1UcqLVcot2gGQcPhvEmeD83vgRt6Ege2CMe2MWYj",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5nwV14CnzBFKmCdb4hTdxDLUv9KPPKvEXXYdRktfpump",
+    "groups": 46,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9DwAP13hUfNsFAMRzUaYJeagWKay4nm5DyAnTMA3pump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JBceQEBceiCTmba453zwThRQAWvYoZFZ5Y4XVpbDpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ChXkHBF9UCiKbjYGUMS2ZiGYVV71yDTspNJLpY85EUua",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EuvyGrzPBeyjAZhdhfW1tr5XVpmUGGMobpWoUwwspump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EBErBE79sgmMBus3F1AkwXq8b2K8Xu6fuH68eHiupump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7L63JDVc72j3TFKmpiejXBJyTTD9TFVmiXFXxEFXpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "C68VyNFoPEWRbYR7FoaA1KSsfPSSWqKXy1tCE9X2pump",
+    "groups": 160,
+    "normal": true,
+    "custody_gap": {
+      "index": 58,
+      "signature": "344Vawo9vFKSmS6HqM1UBYgGLnzMTNp7Wpdn64uBai81t6HC63d9XhFm3foKxqktXZTDoqwxMfqKXFR82ZuhWXu5"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+    "groups": 356,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EuaqSL7oQCwvue2MiqKpd4jwBbmFLdThBTJhdFjEpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "4RZmaHiikp8kqHN2u4728qsBVuwsbKLvy7yu6SRXKEnLeAM15JA3uY2qLhPTUoQ3ozrWsv7j7m1k9i955r97Zra6"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CtYeDZha6qbmCorfgmLyzw3TFWo9DMY9fuyQ8nxpump",
+    "groups": 12,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BqKtSwVLopuoQtug1QPZ8uwRqEwe18Yc55CGKRthpump",
+    "groups": 109,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5SeB9mo63kxfFvn5LrsRnsiUe2afiR3Egt5VNy4TWuYS",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DXCQzRkeAHSuwg55TieRmcHreL1iqKKfz1zB5jhwUK9z",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2p6MkSJiwsuZDUJ1A73JMraRYbWmzLRPyBpNDd5Ppump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2TJ8iWjkAyQfQcZUT5g7YYPGasXvB5RYnPonLyvQpump",
+    "groups": 87,
+    "normal": true,
+    "custody_gap": {
+      "index": 45,
+      "signature": "5ZV2W42XVPJ3UEoQGkfUS716c3bVgdzQ7VsdKXnDVbrsFe9cpStVRUcvcxvNGzvw67FNMhwHLJSHHq3gu8QVGYGH"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6TEcaZD9CsodtX8sjZnmDEx2QQKXZe4vyiH9z7DBpump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "F6qfGTBNTCEWu3esiBtxaTYQHcfaQdSeNbBLuk8rG3Mf",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FbYe2FvGorALL356Kqt6jKh3mA161xy3xLWmoesr4N2U",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5k6vWvMwghRJbF6gxDgescyDiiJayXhZZ8M2auPoRkq",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "G8oApiJrENfzNCVvhV9rRREXAkoVFtBN2ZSEFF4Qpump",
+    "groups": 20,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AgZRMGiawTiq1oM2bcx9odaCQjXBkcbGUU7bayLVqDwA",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "34MtWNGvmU4TmJo4No1cchV3wFPhXrZyWa7vquLKhKfkzi73iLDq9wtudgA7kiFgDitA8UU5jjyL8qmrwheQke7r"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AjztZy7ETaXwPWNUe8oUPMua9FJhM7dzNVr5tcgQEBfT",
+    "groups": 32,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6B4ibrhQDYwDYvTKC7Bw5EHCKupa5Y5yiiXfgMCfpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CkasvUXGm77ihXKCGsXeF8zc8Wt1qFzUfHyaEa1HfmKS",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ge2dtDGcDi5JgNxT1qUWzAC5M9vygsmJRe2EsqjrkYF",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Zccz1TzfeGurCjn1DCKyLy3kUSFe29NPKywCcN1pump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3NEr89bEzQpduEVfNRBeoKhZyQkHmgKYzEmCDQaQpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3saqhoBfEmFXHj3HtPs5CHuwEgo5RKXWcJXbpDqbpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DSYk8gskp1UXgHg8wQYeFNKCvsa6Vvxqu6szeG4PDU4y",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FvKdkWkdvLeGwnczntoRVNYoYBnoCXej1t7GGy9VrFFy",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "G51bwbenSibRDeiH9jLJ8pyenTsKdjc5Zqf5TPZ6pump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2SA9T6pcpuqnh5ovkas4ZtbUoQxtR6zPVqQYga6zS39i",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9FbrHn7rGLb9Gv685acxWsCLfRKAaZsrdeEvxX47pump",
+    "groups": 36,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "27PDmMUQdDQi3yNJCmhkGiZeWCrEi4CEvGh5quVRpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9TSUp9b7xoycNkj4ZKBgo5t2P9C8FKPPuFKUihS5pump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BBJ8vdhqXM4V5YxdsN5ntas5oPhkLqMNJrKJ17z7MojB",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Cb8E7jxUsbmqQYHF9J51G5nc9tKj18whkrMXMLEVQ36K",
+    "groups": 122,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "vgdEzkrfBb8E9fq3nqB651r1gWXxDixy4mGpao1pump",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "9agenW9RPGBLpSxWEF6jsqjAoDgavDUzwFUnCWbutgDt",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3BZApkHNS7sYrYHPJ2YaQt7P2gyiwqez4dRgMsijqsne",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "AcXP7NT9YFMAcA5tswnEaPfSzJYzNnit3Dr4eUUfpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8kWBVSGnn99GGB6puCrRF4HL7g2sS1QpjKbt5AYdpump",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6UeSkRhPfkL5iAFm2XsDbAgcszFyNFXstTX4PxU7pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "4SAngEUDmT7Dj35mDLbDz3HAjU9reJXmkcj4zQ691SGmqLYHba8yhNqK4vcFFNGhujFdbekJB8Ynic1bkYCyXnVK"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "G269N64SzNq8Sch5axQUg88cbtdkqy1ErQ9cf2Cg7WfN",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7gTzwV5S2fYZnkjSDTg1a9bSUrSQHkGNAmKd6PRVEi9o",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CUYhSqNa6QA8Er49pUcXfFt28FJLy8g2cP1SMz27nL8D",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3wZgkHgjPPhMMfMGMRqDMvKM2qB8ZanPoRJMDH1bMvjF",
+    "groups": 16,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "J53YMZgBqo1kqQAo4M3PFfk1HmtFCvktZmVbfVuyFQgd",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GiJL8U7D2NdgDrJzm8TX6bwF1hpkB6iKW6ocQByDpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Gutqhiw3WzrE8LVi6kaLQwV5buYdZzoptN8eAbibpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ch5PYVFWdvoUVjyyhn5CQKTnBdr4n6gSPubo6Y3ppump",
+    "groups": 21,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8gVFi4wtcUa4iSwgkoNEmSKGN2CTfrZLx83iyuhsvuLm",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8NK2BXpF2g66CPSnxHcgXLqkfzmK7SWUaEZRCqxdpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2CKSaq8ERHrRujfZvoYggpKwGNWYV8vJKzQsDBrbxCfH",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BRLYv1yXuyUdTQhcxcqANtWb9HVTvCWSHT5xbmR9MsC9",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GzpHPUqQ3QDFguJbEdUAfYm2MnEE8GBzHx8HmzkbCFqs",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CzhFQzpwNvDj4z7D7YdUZsmSmzcak6dWTcZCrEpaGpbs",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4XjeK1L3j4gneHAn1ttefARU9zBaowDz74cujFa5zZPw",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5aYM3X1PQXsFW6R1WDmZJUBkynhT8AQKVDvQQsywpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DYtvSdsgNLTnKxAH73nKcxhSwDNMh48QejYH2j76pump",
+    "groups": 39,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5rfSBzySAAq6GXVHh7i5SFvVcTVYDtxZaeAYX8FmjGrL",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "5HrNyaJZvRiLnQoVqCzQ77EsHwe9XkXBwZm3UPrEpump",
+    "groups": 4,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GHt9c5RkYbh5x63vexr2aQzfsvaNYSoDVSXaaQkupump",
+    "groups": 62,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "4tFHCsn2WFkTj6AWGYFbdQZHD8mBkaueVrmSX8cbWPq4",
+    "groups": 11,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DoKSGZocTu3xF5pLfBCBpAtvQUZuJME9zbdpvAEVpycv",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DXXsV6MtTK5Z2TQpztQ7AQnj9bVopTbDcQ9qLu7Upump",
+    "groups": 35,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ntM9wbHbgLL6u3ZP8Prksc1MQyzhUpX3WwPVQmypump",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EC5Jt5jxC3ykzGtgdWzF1vUtEMJyvKBocEiTyvLVpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Ao3FujeADwMN25HtEsv6NTxRxj3WhcmTBCczsmZZpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GpvYtn1sHkWQNPc7EBq23BQg8oTcApuPsZo3LUi5pump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HnVCY79tH24iTX6ZvDZW8r7bquHz6Gzj9pAsfNYxXH1d",
+    "groups": 119,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EkTq3FJz2cmzPTmE5xMqnDKxCTR4HFucrdEY7x8CQaE",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8b3vR7N2a7jTwK4fHxx6WsDpYZ4RrRg1mFcH2wTLpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GjHsUcnZYcjKpE4eXhqxLpebz5yEP4pNypfo3ipVpump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JDKuNBUyBsBGskbr81Eu22fnZiRUbgKvqaWrc18wV7nk",
+    "groups": 13,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "EnKuNoZn1EZU5AXAWt1JAydkkKMPn54Ks6YTKMv6pump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6GaQVem6CQvQheBvYtkH2ahNBR1Fwhp2tdE5p6NNhfdo",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "SyLwWak9sBDHTAW2MjMz1ohU5qYpjyXtHPeSdAapump",
+    "groups": 15,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8pp2vrXUx7W8xEazmPde6CqxBz8N1DjMANtoYsbFpump",
+    "groups": 7,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "622BMnYtn9sdVp5YAYkaC3fKAVnsUYtPRFTvNinLpump",
+    "groups": 25,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DZj4LW3tonEKwapiJ3z1AvSfwRoY6e5TpumeXRiSDrRq",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "G9X39UZzXfo2JT2D7oqanafpH1rEJzajLSremj7Ppump",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HRAPwbhJGvKVHk2L2jKGAPmCdKgbn7mdJi2FFgAJtF2f",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+    "groups": 652,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "3E92Vm3KLrsNQy2tS4foFsNY7R7zVGTuTFWME9PSDQjG",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "DV5yvidWfeUWYG7jjP1oTD6KEAmUWv7exJYZsUUuWwTE",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "13AUN8rcAKoyC1o5VYULeA5y36VFHPymWmXuFVK3pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "Z6yLHM7vZRaKhXs2KpwhmHNNkpdXCs18c6bAfRuqKDGs25pGPiZjPnh2V5sogTPS6WEMqkS9JhFUNLyPZjhBrkF"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "HLwH1TD1PtMb7rGArR2ya8u2KmuztUJkrRg5aL14L4BT",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+    "groups": 353,
+    "normal": true,
+    "custody_gap": {
+      "index": 204,
+      "signature": "4RAhqNq5QvWp74vFcL5m6apCVMrBdaXvx6mifsLTSSqAHSEzLSWTp2kR67dVTVujMfia3LgnUpbgDEv5VSF19Chf"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BvKpYFfGZQ5p4PQdhwhzwnv3uxCNAfgoP1iVvF79vMZE",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "JAY5M77AFGKnU3umnx6hb9rusuFzdGoZeCz2Hz59CoC1",
+    "groups": 9,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "GEkbrHtDWectyVSwuCvYwTsLtCZAy2VM6Uvw2fKVcKeg",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "96cJpKhpn9iSYcf5ukeZRsPn9Lbdw1rX7qXysdUQ1x1g",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7P6zNERoTZW56A7XLajNuSxnZss9CDEhCGSQNU2Wpump",
+    "groups": 10,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8PXh3v7yhrK5WMJoD3KnKopRCB2cefJzAE1UkEJyTrDc",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "7nWM1BBtQ4tEJr7ukJRgyFJ7yHyQzwqAaHQe2a9NQXNk",
+    "groups": 8,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8PWPLYHukP3e2jVbTxDTKJrdVjEhWmj6iSc2KrmKpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "opWKEib2ZfrPRHUtDpY5h867fefd9ku8KjtcC15n3k2",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "32nAqPndTV4WnqkkdNearT8HSts4JV696unPhfbwtmEt",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "6TKCJ87FhvmKZBjZD7ygKnqmKfiquRgJCdgyC2JcUtC",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "8eDYqWoqmroTJsRZKTtteowrhxLGzb9CK4ezETh2pump",
+    "groups": 5,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "78kVGxKH5JcZXXpkpCT2Ef5F7C5gfVhbejscWEPQEupK",
+    "groups": 3,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "2e9AcX8rr7cnsEes2KNeXAXqQ4r5B2RPZvNwYKmBLhEq",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "BtpUk4oCL372vqYdrLf92fQPMaassaMdLNcQ8bN462jt",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": {
+      "index": 1,
+      "signature": "4fiJJS2TRLC1s7V4eHXj1PiLSCZfGREn64fd7ZsN74ACkE1jjQjCuQKjzbB4TDq9bABG58T7ETRZYMwLM4rPr4n7"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "FfvJtxk9jkRjwtfKQSojr1xkNLZZW6CG1Eu3wvFwwssV",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "Agn1jW6pAjhgt64nBqP7E7QqobdGFEZ6oWKVuUpQpump",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "RizuZSNVSv2zYvsTQu8sGPGGFBusiH9Hstio436ZjAi",
+    "groups": 436,
+    "normal": true,
+    "custody_gap": {
+      "index": 178,
+      "signature": "4HZyKoecUKW3oDEXMZ7eatDWDvw4Ujxz4uXkAvjLs721iWPmTawtEfAv6uyu6objcFbBceetuQhjBvn4woYLcSXu"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "83i7b9AnUxvxSUyUMBvqSAUK153gF5ZzJRN8wrcSR6JL",
+    "groups": 6,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "26XcJYFE37UyewCUSv3AVsbmvaUhE9J8pph9bwcCpump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+    "groups": 555,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "D1mP1evgdFcCAYTVLzyY6WwqWxtyTLgwHtAoyb1Epump",
+    "groups": 95,
+    "normal": true,
+    "custody_gap": {
+      "index": 41,
+      "signature": "2XmZrXDtuUJZL514qd9UnF1WGikoQgDFxXnySf1zAFZhbUdS2G4x3JDuL8JgQwcSu2KN94DGp4PFxmunSRZEAbVj"
+    },
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "ACNC12CaSWXV9wjz78eyuBH7gN6Uoc8yCpNTEa46pump",
+    "groups": 2,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  },
+  {
+    "mint": "46QeQM7HzGPoZbjCY5zQJLSvdn1LvMCJaUen9FYJYWb5",
+    "groups": 1,
+    "normal": true,
+    "custody_gap": null,
+    "custody_issue_groups": 0,
+    "all_events_sol": true
+  }
+]

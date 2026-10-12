@@ -1,0 +1,20 @@
+{
+  "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+  "passes": [
+    {
+      "signature": "3EZbJNMYdW2HuNmg67DJ44aBfhY6MLRThEwR2pVkusFihnCsKapfamSFYVmjHeQciY5F2DWTH7T7iUij5cmXFjDU",
+      "owner": "EtyHwLDfAi9E24Qw41xFUW8WtQ3NxajxJA2yaaUASR5a",
+      "accounts": [
+        "DkJK6jUwkiJzkHsu86UZPmqvBSjQKVxmshWvAgGgbafr"
+      ],
+      "added": [
+        "27xLgaJezmj6wgdqvJmZWjDKfSnYVY4NUfX8mwZi6qAB9mi8mYQRQ2AStABzUqrAdBVL5uVuXTqxYArJZX9Tdj2i"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 160,
+  "curve_groups": 159,
+  "initial_precompletion_gap": true
+}

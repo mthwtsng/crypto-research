@@ -1,0 +1,29 @@
+{
+  "asof_utc": "2026-10-12T00:00:05.108266+00:00",
+  "limit": 50,
+  "funders": {
+    "BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6": {
+      "signature_rows": 50,
+      "first_timestamp": 1791763167,
+      "last_timestamp": 1791762678,
+      "distinct_outgoing_recipients": 28,
+      "funding_transfers": 28
+    },
+    "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9": {
+      "signature_rows": 50,
+      "first_timestamp": 1791763177,
+      "last_timestamp": 1791762945,
+      "distinct_outgoing_recipients": 53,
+      "funding_transfers": 62
+    },
+    "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu": {
+      "signature_rows": 50,
+      "first_timestamp": 1791763156,
+      "last_timestamp": 1791762474,
+      "distinct_outgoing_recipients": 34,
+      "funding_transfers": 34
+    }
+  },
+  "total_transactions": 150,
+  "coverage": "bounded50signaturesperaddress; completewindowdegree unverified"
+}

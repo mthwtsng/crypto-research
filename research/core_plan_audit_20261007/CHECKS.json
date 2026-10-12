@@ -1,0 +1,2432 @@
+{
+  "alarms": {
+    "replay_exceptions": {
+      "pass_all": true,
+      "count": 0
+    },
+    "delayed_guards": {
+      "pass_all": true,
+      "attempts": 76,
+      "failed": 31
+    },
+    "timer_chronology": {
+      "pass_all": true,
+      "violations": []
+    },
+    "no_completed_curve_sell": {
+      "pass_all": true,
+      "violations": []
+    },
+    "no_threshold_price_fill": {
+      "pass_all": true,
+      "violations": [],
+      "method": "Own integer requote after intervening whole transactions; test exact full-profit-target equality"
+    },
+    "all_attempts_closed": {
+      "pass_all": true,
+      "explained": [
+        {
+          "scope": "portfolio_without_carryover",
+          "scenario": "fast",
+          "attempts": 61
+        },
+        {
+          "scope": "portfolio_without_carryover",
+          "scenario": "fast",
+          "attempts": 53
+        },
+        {
+          "scope": "portfolio_without_carryover",
+          "scenario": "fast",
+          "attempts": 61
+        },
+        {
+          "scope": "portfolio_without_carryover",
+          "scenario": "fast",
+          "attempts": 53
+        }
+      ],
+      "explanation": "Only fast same-slot K=0 cases: no intervening entry price change, hence no 97% guard failure. Delayed scenarios do fail guards; no tape-end closes."
+    },
+    "high_PF_or_win_rate": {
+      "pass_all": true,
+      "violations": []
+    },
+    "tape_from_creation": {
+      "pass_all": true,
+      "mints": 58
+    },
+    "speed_order": {
+      "pass_all": true,
+      "explanation": "Matched-intent decomposition retained. Later guards reject different trades; quote/output and realized exit differ causally. Breakers additionally select different signals. No enforced PnL monotonicity.",
+      "decomposition": [
+        {
+          "rule": "s1_dev_absorption",
+          "slow_minus_fast": -0.05331287500000001,
+          "both_closed_difference": -0.03099978,
+          "failed_selection_difference": -0.02231309500000001,
+          "pairs": [
+            {
+              "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.125095868,
+              "slow_net": -0.000505,
+              "difference": -0.125600868,
+              "fast_entry": [
+                453044739,
+                111,
+                1
+              ],
+              "slow_entry": [
+                453044740,
+                439,
+                1
+              ],
+              "fast_exit": [
+                453044740,
+                582,
+                1
+              ],
+              "slow_exit": [
+                453044740,
+                439,
+                1
+              ]
+            },
+            {
+              "mint": "EKEGnSgrEoX52dAB2xrbrtu4kKziTRzXyeNhfKZ9pump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.053843338,
+              "slow_net": -0.000505,
+              "difference": 0.053338338,
+              "fast_entry": [
+                452969381,
+                699,
+                1
+              ],
+              "slow_entry": [
+                452969382,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452969397,
+                776,
+                1
+              ],
+              "slow_exit": [
+                452969382,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "5pX6x7SErdk7QyMsytDX85CXSeYBspuCpKTEy5wAcygR",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.051088838,
+              "slow_net": -0.000505,
+              "difference": 0.050583838,
+              "fast_entry": [
+                452978789,
+                88,
+                1
+              ],
+              "slow_entry": [
+                452978790,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452978805,
+                387,
+                1
+              ],
+              "slow_exit": [
+                452978790,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "BqKtSwVLopuoQtug1QPZ8uwRqEwe18Yc55CGKRthpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.042768598,
+              "slow_net": -0.072689041,
+              "difference": -0.029920443,
+              "fast_entry": [
+                453120585,
+                1071,
+                1
+              ],
+              "slow_entry": [
+                453120586,
+                755,
+                1
+              ],
+              "fast_exit": [
+                453120595,
+                27,
+                1
+              ],
+              "slow_exit": [
+                453120596,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.028229595,
+              "slow_net": -0.000505,
+              "difference": -0.028734595,
+              "fast_entry": [
+                452881861,
+                423,
+                1
+              ],
+              "slow_entry": [
+                452881862,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452881882,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452881862,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "CyN7pyBtNmenjLemDvZLsw4cQWXLpMcQZxXM73YvQhNL",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.028605192,
+              "slow_net": -0.000505,
+              "difference": 0.028100192,
+              "fast_entry": [
+                453025415,
+                350,
+                1
+              ],
+              "slow_entry": [
+                453025416,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453025437,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453025416,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "8ooCS78TjFYh2c2rzFi2tFfoZ4BEUXtsg1jQYEeFu4dN",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.102355803,
+              "slow_net": -0.10343514,
+              "difference": -0.001079337,
+              "fast_entry": [
+                453069615,
+                229,
+                1
+              ],
+              "slow_entry": [
+                453069616,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453069634,
+                1102,
+                1
+              ],
+              "slow_exit": [
+                453069635,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.027388692,
+              "slow_net": -0.027388692,
+              "difference": 0.0,
+              "fast_entry": [
+                452919107,
+                67,
+                1
+              ],
+              "slow_entry": [
+                452919108,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452919130,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452919131,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "EFkAYLwTvuxE5sWABko7Km9Kv1AouckVEMBXP4g7DxJg",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.025393558,
+              "slow_net": -0.025393558,
+              "difference": 0.0,
+              "fast_entry": [
+                452977899,
+                403,
+                1
+              ],
+              "slow_entry": [
+                452977900,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452977922,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452977923,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.042923419,
+              "slow_net": -0.042923419,
+              "difference": 0.0,
+              "fast_entry": [
+                453004506,
+                1107,
+                1
+              ],
+              "slow_entry": [
+                453004507,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453004526,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453004530,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "B2cHLXt6GtDKmqYeyi6gHnftjRbGUyC3DpvjpqGLbsaC",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.041154433,
+              "slow_net": -0.041154433,
+              "difference": 0.0,
+              "fast_entry": [
+                453076316,
+                884,
+                1
+              ],
+              "slow_entry": [
+                453076317,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453076318,
+                357,
+                1
+              ],
+              "slow_exit": [
+                453076319,
+                -1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "rule": "s2_survival_shelf",
+          "slow_minus_fast": 0.107250419,
+          "both_closed_difference": 0.19042875,
+          "failed_selection_difference": -0.083178331,
+          "pairs": [
+            {
+              "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.116351447,
+              "slow_net": -0.000505,
+              "difference": -0.116856447,
+              "fast_entry": [
+                452882107,
+                795,
+                1
+              ],
+              "slow_entry": [
+                452882108,
+                961,
+                1
+              ],
+              "fast_exit": [
+                452882226,
+                629,
+                1
+              ],
+              "slow_exit": [
+                452882108,
+                961,
+                1
+              ]
+            },
+            {
+              "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.122386406,
+              "slow_net": 0.174376622,
+              "difference": 0.051990216,
+              "fast_entry": [
+                452964329,
+                176,
+                1
+              ],
+              "slow_entry": [
+                452964330,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452964510,
+                52,
+                1
+              ],
+              "slow_exit": [
+                452964712,
+                1272,
+                1
+              ]
+            },
+            {
+              "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.212820839,
+              "slow_net": 0.262919623,
+              "difference": 0.050098784,
+              "fast_entry": [
+                452923953,
+                760,
+                1
+              ],
+              "slow_entry": [
+                452923954,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452924268,
+                303,
+                1
+              ],
+              "slow_exit": [
+                452924269,
+                81,
+                1
+              ]
+            },
+            {
+              "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.44870233,
+              "slow_net": 0.496956647,
+              "difference": 0.048254317,
+              "fast_entry": [
+                453044910,
+                56,
+                1
+              ],
+              "slow_entry": [
+                453044911,
+                632,
+                1
+              ],
+              "fast_exit": [
+                453045130,
+                199,
+                1
+              ],
+              "slow_exit": [
+                453045131,
+                377,
+                1
+              ]
+            },
+            {
+              "mint": "RizuZSNVSv2zYvsTQu8sGPGGFBusiH9Hstio436ZjAi",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.034183116,
+              "slow_net": -0.000505,
+              "difference": 0.033678116,
+              "fast_entry": [
+                453181172,
+                857,
+                1
+              ],
+              "slow_entry": [
+                453181173,
+                236,
+                1
+              ],
+              "fast_exit": [
+                453181459,
+                274,
+                1
+              ],
+              "slow_exit": [
+                453181173,
+                236,
+                1
+              ]
+            },
+            {
+              "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.078538685,
+              "slow_net": -0.046338225,
+              "difference": 0.03220046,
+              "fast_entry": [
+                452891304,
+                710,
+                1
+              ],
+              "slow_entry": [
+                452891305,
+                34,
+                1
+              ],
+              "fast_exit": [
+                452891350,
+                843,
+                1
+              ],
+              "slow_exit": [
+                452891351,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.001468175,
+              "slow_net": 0.030483329,
+              "difference": 0.031951504,
+              "fast_entry": [
+                452946370,
+                327,
+                1
+              ],
+              "slow_entry": [
+                452946371,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452946399,
+                83,
+                1
+              ],
+              "slow_exit": [
+                452946400,
+                35,
+                1
+              ]
+            },
+            {
+              "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.059622985,
+              "slow_net": -0.07875662,
+              "difference": -0.019133635,
+              "fast_entry": [
+                453047413,
+                56,
+                1
+              ],
+              "slow_entry": [
+                453047414,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453047424,
+                415,
+                1
+              ],
+              "slow_exit": [
+                453047425,
+                94,
+                1
+              ]
+            },
+            {
+              "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.22466318,
+              "slow_net": 0.233544143,
+              "difference": 0.008880963,
+              "fast_entry": [
+                453106701,
+                1026,
+                1
+              ],
+              "slow_entry": [
+                453106702,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453107283,
+                530,
+                1
+              ],
+              "slow_exit": [
+                453107284,
+                219,
+                1
+              ]
+            },
+            {
+              "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.062524821,
+              "slow_net": -0.069560368,
+              "difference": -0.007035547,
+              "fast_entry": [
+                452921399,
+                386,
+                1
+              ],
+              "slow_entry": [
+                452921400,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452921547,
+                586,
+                1
+              ],
+              "slow_exit": [
+                452921548,
+                1227,
+                1
+              ]
+            },
+            {
+              "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.103152616,
+              "slow_net": -0.109930928,
+              "difference": -0.006778312,
+              "fast_entry": [
+                453127427,
+                906,
+                1
+              ],
+              "slow_entry": [
+                453127428,
+                12,
+                1
+              ],
+              "fast_exit": [
+                453127438,
+                263,
+                1
+              ],
+              "slow_exit": [
+                453127439,
+                514,
+                1
+              ]
+            },
+            {
+              "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.053315777,
+              "slow_net": -0.053315777,
+              "difference": 0.0,
+              "fast_entry": [
+                453084441,
+                485,
+                1
+              ],
+              "slow_entry": [
+                453084442,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453084827,
+                60,
+                1
+              ],
+              "slow_exit": [
+                453084828,
+                -1,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "rule": "s3_deadman",
+          "slow_minus_fast": 0.431525145,
+          "both_closed_difference": 0.705631136,
+          "failed_selection_difference": -0.274105991,
+          "pairs": [
+            {
+              "mint": "4LuGz5HmKsZi5ryDU9LcTH71J6K4rHWa5igotsjLpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.293257285,
+              "slow_net": -0.016800366,
+              "difference": 0.276456919,
+              "fast_entry": [
+                452986939,
+                721,
+                1
+              ],
+              "slow_entry": [
+                452986940,
+                592,
+                1
+              ],
+              "fast_exit": [
+                452986974,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452986975,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.214961553,
+              "slow_net": -0.000505,
+              "difference": -0.215466553,
+              "fast_entry": [
+                453103047,
+                1205,
+                1
+              ],
+              "slow_entry": [
+                453103048,
+                142,
+                1
+              ],
+              "fast_exit": [
+                453103049,
+                67,
+                1
+              ],
+              "slow_exit": [
+                453103048,
+                142,
+                1
+              ]
+            },
+            {
+              "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.175431192,
+              "slow_net": -0.000505,
+              "difference": 0.174926192,
+              "fast_entry": [
+                452919093,
+                39,
+                1
+              ],
+              "slow_entry": [
+                452919094,
+                77,
+                1
+              ],
+              "fast_exit": [
+                452919130,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452919094,
+                77,
+                1
+              ]
+            },
+            {
+              "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.196870294,
+              "slow_net": -0.034330363,
+              "difference": 0.162539931,
+              "fast_entry": [
+                453046683,
+                1203,
+                1
+              ],
+              "slow_entry": [
+                453046684,
+                1096,
+                1
+              ],
+              "fast_exit": [
+                453046718,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453046722,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "AtPR2zYhKdmP3BuPACx8hqpkFmoQam8P9vimvmHupump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.29055656,
+              "slow_net": -0.134420777,
+              "difference": 0.156135783,
+              "fast_entry": [
+                452988023,
+                123,
+                1
+              ],
+              "slow_entry": [
+                452988024,
+                316,
+                1
+              ],
+              "fast_exit": [
+                452988059,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452988060,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "HiU21Zwv2eT6m38EUig63KiDWLCZDB3EQqa1zF7xpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.083121341,
+              "slow_net": -0.000505,
+              "difference": -0.083626341,
+              "fast_entry": [
+                453037095,
+                881,
+                1
+              ],
+              "slow_entry": [
+                453037096,
+                463,
+                1
+              ],
+              "fast_exit": [
+                453037100,
+                183,
+                1
+              ],
+              "slow_exit": [
+                453037096,
+                463,
+                1
+              ]
+            },
+            {
+              "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.071600085,
+              "slow_net": -0.000505,
+              "difference": -0.072105085,
+              "fast_entry": [
+                453088884,
+                715,
+                1
+              ],
+              "slow_entry": [
+                453088885,
+                924,
+                1
+              ],
+              "fast_exit": [
+                453088886,
+                964,
+                1
+              ],
+              "slow_exit": [
+                453088885,
+                924,
+                1
+              ]
+            },
+            {
+              "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.070245861,
+              "slow_net": -0.000505,
+              "difference": -0.070750861,
+              "fast_entry": [
+                453050534,
+                100,
+                1
+              ],
+              "slow_entry": [
+                453050535,
+                88,
+                1
+              ],
+              "fast_exit": [
+                453050545,
+                428,
+                1
+              ],
+              "slow_exit": [
+                453050535,
+                88,
+                1
+              ]
+            },
+            {
+              "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.109358403,
+              "slow_net": 0.159641402,
+              "difference": 0.050282999,
+              "fast_entry": [
+                453101058,
+                693,
+                1
+              ],
+              "slow_entry": [
+                453101059,
+                380,
+                1
+              ],
+              "fast_exit": [
+                453101063,
+                321,
+                1
+              ],
+              "slow_exit": [
+                453101064,
+                1018,
+                1
+              ]
+            },
+            {
+              "mint": "1vVNUWXprqSjhEjhrg6C9moZLwp4efDaF86Gh4HHLs",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.15431085,
+              "slow_net": -0.126646175,
+              "difference": 0.027664675,
+              "fast_entry": [
+                453120353,
+                841,
+                1
+              ],
+              "slow_entry": [
+                453120354,
+                269,
+                1
+              ],
+              "fast_exit": [
+                453120390,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453120391,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.02149885,
+              "slow_net": -0.000505,
+              "difference": 0.02099385,
+              "fast_entry": [
+                453022316,
+                1044,
+                1
+              ],
+              "slow_entry": [
+                453022317,
+                1103,
+                1
+              ],
+              "fast_exit": [
+                453022321,
+                1213,
+                1
+              ],
+              "slow_exit": [
+                453022317,
+                1103,
+                1
+              ]
+            },
+            {
+              "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.018456102,
+              "slow_net": -0.000505,
+              "difference": -0.018961102,
+              "fast_entry": [
+                453118593,
+                607,
+                1
+              ],
+              "slow_entry": [
+                453118594,
+                854,
+                1
+              ],
+              "fast_exit": [
+                453118595,
+                965,
+                1
+              ],
+              "slow_exit": [
+                453118594,
+                854,
+                1
+              ]
+            },
+            {
+              "mint": "2CCjUsxXyKMPHi29NQW5ihV1bnA5J1sAffHSt6fujE7z",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.167906871,
+              "slow_net": -0.153155121,
+              "difference": 0.01475175,
+              "fast_entry": [
+                453042057,
+                75,
+                1
+              ],
+              "slow_entry": [
+                453042058,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453042094,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453042095,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "Cb8E7jxUsbmqQYHF9J51G5nc9tKj18whkrMXMLEVQ36K",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.02211415,
+              "slow_net": -0.010552629,
+              "difference": 0.011561521,
+              "fast_entry": [
+                453134945,
+                509,
+                1
+              ],
+              "slow_entry": [
+                453134946,
+                331,
+                1
+              ],
+              "fast_exit": [
+                453134979,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453134983,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.006193024,
+              "slow_net": -0.000505,
+              "difference": -0.006698024,
+              "fast_entry": [
+                452865178,
+                127,
+                1
+              ],
+              "slow_entry": [
+                452865179,
+                579,
+                1
+              ],
+              "fast_exit": [
+                452865217,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452865179,
+                579,
+                1
+              ]
+            },
+            {
+              "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.141794145,
+              "slow_net": -0.137477152,
+              "difference": 0.004316993,
+              "fast_entry": [
+                453011805,
+                660,
+                1
+              ],
+              "slow_entry": [
+                453011806,
+                15,
+                1
+              ],
+              "fast_exit": [
+                453011839,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453011843,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.272796509,
+              "slow_net": -0.270118181,
+              "difference": 0.002678328,
+              "fast_entry": [
+                453033960,
+                191,
+                1
+              ],
+              "slow_entry": [
+                453033961,
+                275,
+                1
+              ],
+              "fast_exit": [
+                453033996,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453033997,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.001913067,
+              "slow_net": -0.000505,
+              "difference": -0.002418067,
+              "fast_entry": [
+                452927201,
+                200,
+                1
+              ],
+              "slow_entry": [
+                452927202,
+                686,
+                1
+              ],
+              "fast_exit": [
+                452927237,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452927202,
+                686,
+                1
+              ]
+            },
+            {
+              "mint": "7cKYt3z7htdDTJiUmrLcn9jC9ZqFBSymnVXRpdLopump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.250910977,
+              "slow_net": -0.25166874,
+              "difference": -0.000757763,
+              "fast_entry": [
+                452934189,
+                573,
+                1
+              ],
+              "slow_entry": [
+                452934190,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452934225,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452934230,
+                683,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "rule": "s4_upper_ath",
+          "slow_minus_fast": -1.069553672,
+          "both_closed_difference": 0.157657856,
+          "failed_selection_difference": -1.227211528,
+          "pairs": [
+            {
+              "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.260719279,
+              "slow_net": -0.000505,
+              "difference": -0.261224279,
+              "fast_entry": [
+                453045097,
+                1121,
+                1
+              ],
+              "slow_entry": [
+                453045098,
+                183,
+                1
+              ],
+              "fast_exit": [
+                453045098,
+                622,
+                1
+              ],
+              "slow_exit": [
+                453045098,
+                183,
+                1
+              ]
+            },
+            {
+              "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.227812312,
+              "slow_net": -0.000505,
+              "difference": -0.228317312,
+              "fast_entry": [
+                453101060,
+                27,
+                1
+              ],
+              "slow_entry": [
+                453101061,
+                144,
+                1
+              ],
+              "fast_exit": [
+                453101099,
+                273,
+                1
+              ],
+              "slow_exit": [
+                453101061,
+                144,
+                1
+              ]
+            },
+            {
+              "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.179811452,
+              "slow_net": -0.000505,
+              "difference": -0.180316452,
+              "fast_entry": [
+                453059201,
+                1014,
+                1
+              ],
+              "slow_entry": [
+                453059202,
+                1012,
+                1
+              ],
+              "fast_exit": [
+                453059232,
+                405,
+                1
+              ],
+              "slow_exit": [
+                453059202,
+                1012,
+                1
+              ]
+            },
+            {
+              "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.152992414,
+              "slow_net": -0.000505,
+              "difference": -0.153497414,
+              "fast_entry": [
+                452988230,
+                645,
+                1
+              ],
+              "slow_entry": [
+                452988231,
+                805,
+                1
+              ],
+              "fast_exit": [
+                452988234,
+                302,
+                1
+              ],
+              "slow_exit": [
+                452988231,
+                805,
+                1
+              ]
+            },
+            {
+              "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.141925853,
+              "slow_net": -0.000505,
+              "difference": -0.142430853,
+              "fast_entry": [
+                453088886,
+                1109,
+                1
+              ],
+              "slow_entry": [
+                453088887,
+                406,
+                1
+              ],
+              "fast_exit": [
+                453088890,
+                259,
+                1
+              ],
+              "slow_exit": [
+                453088887,
+                406,
+                1
+              ]
+            },
+            {
+              "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.042223619,
+              "slow_net": 0.069213952,
+              "difference": 0.111437571,
+              "fast_entry": [
+                453102995,
+                69,
+                1
+              ],
+              "slow_entry": [
+                453102996,
+                881,
+                1
+              ],
+              "fast_exit": [
+                453103005,
+                68,
+                1
+              ],
+              "slow_exit": [
+                453103022,
+                153,
+                1
+              ]
+            },
+            {
+              "mint": "GYTcHczXUBrNP6YjcbrE1U5Be3rJZiRXr9W9tTJ9pump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.096560985,
+              "slow_net": -0.000505,
+              "difference": -0.097065985,
+              "fast_entry": [
+                453088672,
+                846,
+                1
+              ],
+              "slow_entry": [
+                453088673,
+                283,
+                1
+              ],
+              "fast_exit": [
+                453088689,
+                34,
+                1
+              ],
+              "slow_exit": [
+                453088673,
+                283,
+                1
+              ]
+            },
+            {
+              "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.05766617,
+              "slow_net": -0.000505,
+              "difference": -0.05817117,
+              "fast_entry": [
+                453097870,
+                336,
+                1
+              ],
+              "slow_entry": [
+                453097871,
+                435,
+                1
+              ],
+              "fast_exit": [
+                453097882,
+                460,
+                1
+              ],
+              "slow_exit": [
+                453097871,
+                435,
+                1
+              ]
+            },
+            {
+              "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": -0.050104659,
+              "slow_net": -0.000505,
+              "difference": 0.049599659,
+              "fast_entry": [
+                453159979,
+                273,
+                1
+              ],
+              "slow_entry": [
+                453159980,
+                619,
+                1
+              ],
+              "fast_exit": [
+                453159995,
+                845,
+                1
+              ],
+              "slow_exit": [
+                453159980,
+                619,
+                1
+              ]
+            },
+            {
+              "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.045741972,
+              "slow_net": -0.000505,
+              "difference": -0.046246972,
+              "fast_entry": [
+                452946719,
+                75,
+                1
+              ],
+              "slow_entry": [
+                452946720,
+                169,
+                1
+              ],
+              "fast_exit": [
+                452946744,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452946720,
+                169,
+                1
+              ]
+            },
+            {
+              "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.040892654,
+              "slow_net": -0.000505,
+              "difference": -0.041397654,
+              "fast_entry": [
+                453104858,
+                832,
+                1
+              ],
+              "slow_entry": [
+                453104859,
+                1000,
+                1
+              ],
+              "fast_exit": [
+                453104883,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453104859,
+                1000,
+                1
+              ]
+            },
+            {
+              "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.038195754,
+              "slow_net": -0.000505,
+              "difference": -0.038700754,
+              "fast_entry": [
+                453012208,
+                240,
+                1
+              ],
+              "slow_entry": [
+                453012209,
+                59,
+                1
+              ],
+              "fast_exit": [
+                453012231,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453012209,
+                59,
+                1
+              ]
+            },
+            {
+              "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.05892774,
+              "slow_net": -0.027266963,
+              "difference": 0.031660777,
+              "fast_entry": [
+                453012133,
+                478,
+                1
+              ],
+              "slow_entry": [
+                453012134,
+                241,
+                1
+              ],
+              "fast_exit": [
+                453012136,
+                898,
+                1
+              ],
+              "slow_exit": [
+                453012139,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "5RwHdFaF4pBmzkbAQJFPEBcosbGLphUwaDfkHZXupump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.02294111,
+              "slow_net": -0.000505,
+              "difference": -0.02344611,
+              "fast_entry": [
+                452943960,
+                823,
+                1
+              ],
+              "slow_entry": [
+                452943961,
+                340,
+                1
+              ],
+              "fast_exit": [
+                452943986,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452943961,
+                340,
+                1
+              ]
+            },
+            {
+              "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.058660552,
+              "slow_net": -0.076611393,
+              "difference": -0.017950841,
+              "fast_entry": [
+                453082746,
+                331,
+                1
+              ],
+              "slow_entry": [
+                453082747,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453082765,
+                155,
+                1
+              ],
+              "slow_exit": [
+                453082766,
+                377,
+                1
+              ]
+            },
+            {
+              "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.052199377,
+              "slow_net": -0.041103997,
+              "difference": 0.01109538,
+              "fast_entry": [
+                453030011,
+                233,
+                1
+              ],
+              "slow_entry": [
+                453030012,
+                136,
+                1
+              ],
+              "fast_exit": [
+                453030014,
+                640,
+                1
+              ],
+              "slow_exit": [
+                453030015,
+                521,
+                1
+              ]
+            },
+            {
+              "mint": "8CkviU1qVZNiNHcUmmS6EHr9gurpYj9KMPqhWdRfu6jY",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.084706638,
+              "slow_net": -0.074051082,
+              "difference": 0.010655556,
+              "fast_entry": [
+                452927146,
+                412,
+                1
+              ],
+              "slow_entry": [
+                452927147,
+                585,
+                1
+              ],
+              "fast_exit": [
+                452927152,
+                631,
+                1
+              ],
+              "slow_exit": [
+                452927153,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.065951504,
+              "slow_net": 0.075309387,
+              "difference": 0.009357883,
+              "fast_entry": [
+                453107005,
+                168,
+                1
+              ],
+              "slow_entry": [
+                453107006,
+                676,
+                1
+              ],
+              "fast_exit": [
+                453107055,
+                966,
+                1
+              ],
+              "slow_exit": [
+                453107056,
+                119,
+                1
+              ]
+            },
+            {
+              "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.024488393,
+              "slow_net": 0.033733699,
+              "difference": 0.009245306,
+              "fast_entry": [
+                452939143,
+                1365,
+                1
+              ],
+              "slow_entry": [
+                452939144,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452939169,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452939170,
+                106,
+                1
+              ]
+            },
+            {
+              "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.052689513,
+              "slow_net": -0.060385281,
+              "difference": -0.007695768,
+              "fast_entry": [
+                453050492,
+                1006,
+                1
+              ],
+              "slow_entry": [
+                453050493,
+                253,
+                1
+              ],
+              "fast_exit": [
+                453050496,
+                204,
+                1
+              ],
+              "slow_exit": [
+                453050497,
+                169,
+                1
+              ]
+            },
+            {
+              "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.102877144,
+              "slow_net": -0.095313326,
+              "difference": 0.007563818,
+              "fast_entry": [
+                453161392,
+                348,
+                1
+              ],
+              "slow_entry": [
+                453161393,
+                358,
+                1
+              ],
+              "fast_exit": [
+                453161394,
+                170,
+                1
+              ],
+              "slow_exit": [
+                453161408,
+                559,
+                1
+              ]
+            },
+            {
+              "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.000189037,
+              "slow_net": -0.00688138,
+              "difference": -0.006692343,
+              "fast_entry": [
+                452903198,
+                3,
+                1
+              ],
+              "slow_entry": [
+                452903199,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                452903223,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452903224,
+                241,
+                1
+              ]
+            },
+            {
+              "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.004461017,
+              "slow_net": -0.000505,
+              "difference": -0.004966017,
+              "fast_entry": [
+                452882158,
+                980,
+                1
+              ],
+              "slow_entry": [
+                452882159,
+                541,
+                1
+              ],
+              "fast_exit": [
+                452882183,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452882159,
+                541,
+                1
+              ]
+            },
+            {
+              "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.097080339,
+              "slow_net": -0.092952909,
+              "difference": 0.00412743,
+              "fast_entry": [
+                452927201,
+                930,
+                1
+              ],
+              "slow_entry": [
+                452927202,
+                686,
+                1
+              ],
+              "fast_exit": [
+                452927204,
+                652,
+                1
+              ],
+              "slow_exit": [
+                452927206,
+                872,
+                1
+              ]
+            },
+            {
+              "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.01865877,
+              "slow_net": -0.022336018,
+              "difference": -0.003677248,
+              "fast_entry": [
+                453039334,
+                162,
+                1
+              ],
+              "slow_entry": [
+                453039335,
+                -1,
+                1
+              ],
+              "fast_exit": [
+                453039360,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                453039361,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": -0.052781049,
+              "slow_net": -0.054250714,
+              "difference": -0.001469665,
+              "fast_entry": [
+                452964499,
+                180,
+                1
+              ],
+              "slow_entry": [
+                452964500,
+                171,
+                1
+              ],
+              "fast_exit": [
+                452964509,
+                409,
+                1
+              ],
+              "slow_exit": [
+                452964510,
+                52,
+                1
+              ]
+            },
+            {
+              "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+              "fast_status": "closed",
+              "slow_status": "failed",
+              "fast_net": 0.000525215,
+              "slow_net": -0.000505,
+              "difference": -0.001030215,
+              "fast_entry": [
+                452924131,
+                152,
+                1
+              ],
+              "slow_entry": [
+                452924132,
+                926,
+                1
+              ],
+              "fast_exit": [
+                452924156,
+                -1,
+                1
+              ],
+              "slow_exit": [
+                452924132,
+                926,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "rule": "s5_carryover",
+          "slow_minus_fast": 0.525909028,
+          "both_closed_difference": 0.022869748,
+          "failed_selection_difference": 0.50303928,
+          "pairs": [
+            {
+              "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+              "fast_status": "unresolved",
+              "slow_status": "failed",
+              "fast_net": -0.50354428,
+              "slow_net": -0.000505,
+              "difference": 0.50303928,
+              "fast_entry": [
+                452875849,
+                247,
+                1
+              ],
+              "slow_entry": [
+                452875850,
+                -1,
+                1
+              ],
+              "fast_exit": null,
+              "slow_exit": [
+                452875850,
+                -1,
+                1
+              ]
+            },
+            {
+              "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+              "fast_status": "closed",
+              "slow_status": "closed",
+              "fast_net": 0.093614005,
+              "slow_net": 0.116483753,
+              "difference": 0.022869748,
+              "fast_entry": [
+                453009683,
+                665,
+                1
+              ],
+              "slow_entry": [
+                453009684,
+                755,
+                1
+              ],
+              "fast_exit": [
+                453010045,
+                226,
+                1
+              ],
+              "slow_exit": [
+                453010046,
+                447,
+                1
+              ]
+            },
+            {
+              "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+              "fast_status": "unresolved",
+              "slow_status": "unresolved",
+              "fast_net": -0.50354428,
+              "slow_net": -0.50354428,
+              "difference": 0.0,
+              "fast_entry": [
+                452861947,
+                694,
+                1
+              ],
+              "slow_entry": [
+                452861948,
+                -1,
+                1
+              ],
+              "fast_exit": null,
+              "slow_exit": null
+            },
+            {
+              "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+              "fast_status": "unresolved",
+              "slow_status": "unresolved",
+              "fast_net": -0.50354428,
+              "slow_net": -0.50354428,
+              "difference": 0.0,
+              "fast_entry": [
+                452917977,
+                768,
+                1
+              ],
+              "slow_entry": [
+                452917978,
+                -1,
+                1
+              ],
+              "fast_exit": null,
+              "slow_exit": null
+            },
+            {
+              "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+              "fast_status": "unresolved",
+              "slow_status": "unresolved",
+              "fast_net": -0.50354428,
+              "slow_net": -0.50354428,
+              "difference": 0.0,
+              "fast_entry": [
+                452973512,
+                1084,
+                1
+              ],
+              "slow_entry": [
+                452973513,
+                453,
+                1
+              ],
+              "fast_exit": null,
+              "slow_exit": null
+            },
+            {
+              "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+              "fast_status": "unresolved",
+              "slow_status": "unresolved",
+              "fast_net": -0.50354428,
+              "slow_net": -0.50354428,
+              "difference": 0.0,
+              "fast_entry": [
+                453040688,
+                1549,
+                1
+              ],
+              "slow_entry": [
+                453040689,
+                247,
+                1
+              ],
+              "fast_exit": null,
+              "slow_exit": null
+            },
+            {
+              "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+              "fast_status": "unresolved",
+              "slow_status": "unresolved",
+              "fast_net": -0.50354428,
+              "slow_net": -0.50354428,
+              "difference": 0.0,
+              "fast_entry": [
+                453105615,
+                687,
+                1
+              ],
+              "slow_entry": [
+                453105616,
+                175,
+                1
+              ],
+              "fast_exit": null,
+              "slow_exit": null
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "source_checks": [
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "from_creation": true
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "from_creation": true
+    },
+    {
+      "mint": "B2cHLXt6GtDKmqYeyi6gHnftjRbGUyC3DpvjpqGLbsaC",
+      "from_creation": true
+    },
+    {
+      "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+      "from_creation": true
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "from_creation": true
+    },
+    {
+      "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+      "from_creation": true
+    },
+    {
+      "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+      "from_creation": true
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "from_creation": true
+    },
+    {
+      "mint": "GYTcHczXUBrNP6YjcbrE1U5Be3rJZiRXr9W9tTJ9pump",
+      "from_creation": true
+    },
+    {
+      "mint": "CyN7pyBtNmenjLemDvZLsw4cQWXLpMcQZxXM73YvQhNL",
+      "from_creation": true
+    },
+    {
+      "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+      "from_creation": true
+    },
+    {
+      "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+      "from_creation": true
+    },
+    {
+      "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+      "from_creation": true
+    },
+    {
+      "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+      "from_creation": true
+    },
+    {
+      "mint": "5pX6x7SErdk7QyMsytDX85CXSeYBspuCpKTEy5wAcygR",
+      "from_creation": true
+    },
+    {
+      "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+      "from_creation": true
+    },
+    {
+      "mint": "5RwHdFaF4pBmzkbAQJFPEBcosbGLphUwaDfkHZXupump",
+      "from_creation": true
+    },
+    {
+      "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+      "from_creation": true
+    },
+    {
+      "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+      "from_creation": true
+    },
+    {
+      "mint": "2CCjUsxXyKMPHi29NQW5ihV1bnA5J1sAffHSt6fujE7z",
+      "from_creation": true
+    },
+    {
+      "mint": "HiU21Zwv2eT6m38EUig63KiDWLCZDB3EQqa1zF7xpump",
+      "from_creation": true
+    },
+    {
+      "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+      "from_creation": true
+    },
+    {
+      "mint": "4LuGz5HmKsZi5ryDU9LcTH71J6K4rHWa5igotsjLpump",
+      "from_creation": true
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "from_creation": true
+    },
+    {
+      "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+      "from_creation": true
+    },
+    {
+      "mint": "EFkAYLwTvuxE5sWABko7Km9Kv1AouckVEMBXP4g7DxJg",
+      "from_creation": true
+    },
+    {
+      "mint": "8CkviU1qVZNiNHcUmmS6EHr9gurpYj9KMPqhWdRfu6jY",
+      "from_creation": true
+    },
+    {
+      "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+      "from_creation": true
+    },
+    {
+      "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+      "from_creation": true
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "from_creation": true
+    },
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "from_creation": true
+    },
+    {
+      "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+      "from_creation": true
+    },
+    {
+      "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+      "from_creation": true
+    },
+    {
+      "mint": "8ooCS78TjFYh2c2rzFi2tFfoZ4BEUXtsg1jQYEeFu4dN",
+      "from_creation": true
+    },
+    {
+      "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+      "from_creation": true
+    },
+    {
+      "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+      "from_creation": true
+    },
+    {
+      "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+      "from_creation": true
+    },
+    {
+      "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+      "from_creation": true
+    },
+    {
+      "mint": "BqKtSwVLopuoQtug1QPZ8uwRqEwe18Yc55CGKRthpump",
+      "from_creation": true
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "from_creation": true
+    },
+    {
+      "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+      "from_creation": true
+    },
+    {
+      "mint": "1vVNUWXprqSjhEjhrg6C9moZLwp4efDaF86Gh4HHLs",
+      "from_creation": true
+    },
+    {
+      "mint": "Cb8E7jxUsbmqQYHF9J51G5nc9tKj18whkrMXMLEVQ36K",
+      "from_creation": true
+    },
+    {
+      "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+      "from_creation": true
+    },
+    {
+      "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+      "from_creation": true
+    },
+    {
+      "mint": "7cKYt3z7htdDTJiUmrLcn9jC9ZqFBSymnVXRpdLopump",
+      "from_creation": true
+    },
+    {
+      "mint": "EKEGnSgrEoX52dAB2xrbrtu4kKziTRzXyeNhfKZ9pump",
+      "from_creation": true
+    },
+    {
+      "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+      "from_creation": true
+    },
+    {
+      "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+      "from_creation": true
+    },
+    {
+      "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+      "from_creation": true
+    },
+    {
+      "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+      "from_creation": true
+    },
+    {
+      "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+      "from_creation": true
+    },
+    {
+      "mint": "RizuZSNVSv2zYvsTQu8sGPGGFBusiH9Hstio436ZjAi",
+      "from_creation": true
+    },
+    {
+      "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+      "from_creation": true
+    },
+    {
+      "mint": "AtPR2zYhKdmP3BuPACx8hqpkFmoQam8P9vimvmHupump",
+      "from_creation": true
+    },
+    {
+      "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+      "from_creation": true
+    },
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "from_creation": true
+    },
+    {
+      "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+      "from_creation": true
+    }
+  ],
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/signals.py": "0657c4e06f21eac3ca8fc6ff50333ddc791dd81f34d26f213eebc6a85bed6bf3",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "eb310089ae4e43b22ed95ae3c1a7f601678379913b0a151c0d740cf88afd00b9",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/ledger.py": "2f409b54fed6e558910cc9963d20222faba9a204564df79705c1c79d07be1d1b",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/SIGNALS.json": "8ccd655a7df9f52a6100d2e7a7f5d415e7192e84e4a05b53bc1a547cf0f64638",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/REPLAY_RESULTS.json.gz": "6c476b4906eff3c6092670bcadaac54a80ff3857d044553c3b31ec83bd8afc55",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/FUNDED_RESULTS.json": "ae1480ebdfe7620d346658d5c696f581081c2b12247549abc712db1d8a91dbf0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+  "passes": [
+    {
+      "signature": "4VqDssGKvHSyHCXL2yTD3rg3mtXWMAbcGDvLA4uQ6u6yxy3wirrFdgVfEjbepPQcWFRb7YoQUuEtw2MS8E4ZYPY",
+      "owner": "DjVH4noEiT56tmdQfw4VtYpufJ7ts2NcMcSyr6p7Kphk",
+      "accounts": [
+        "3szXQmvsKm63M3HR1rJquG89Pc2YeycrRuXrHprUGs2X"
+      ],
+      "added": [
+        "4Uqcyy636maG7czvfnf8fpqZ87E7zY8i89ZRHwzL3jne64xpeDkXShQY5Sk1wijAQEmz23Agnv7wMSqxjm4fTjuB"
+      ]
+    },
+    {
+      "signature": "2Mn6AFZEwhn3nvL7NnCuKSG2qnKQSm6NeN3L7gsinTQfYkDi6CWj4sFuNTw4xEUabk8df43FUwcWj183YHQaxp9L",
+      "owner": "F5ufy8dKWieDnNxFFAxtmocM36H3VjS2tDtn4RSwwL2D",
+      "accounts": [
+        "FD2hsAbF1UDkRgnLzSp8ZauNcCHpNv2oHiguqBpurjYr"
+      ],
+      "added": [
+        "2qiwR5sUWy9DLyyQM1x3pyW1yRh4vxASYRHcVCvTRHh2LmutndsR7p7bZ2zaLBBHiqV6RCvthqubPm5F9HcGLi7X"
+      ]
+    },
+    {
+      "signature": "39jik9Pora36g8pfqwraYQbX1F6ZbSFxib5UJHqgXHTcDqeXBNiFWu13Lm5o7pMeXD8RrkegK7VBimT51Dip9dEv",
+      "owner": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+      "accounts": [
+        "3MYV34MSDEbUnCKdStCS87Ryb1S5jc8ifKzMGS62ijCw"
+      ],
+      "added": [
+        "3ATS9MzcNV3o8MHXyTxbmX5eeTWuBdjM78Q8VmTQJJzq8ssVk8M1CgAv3PacReQte1wJAW6hxTwU7zUqsMFbiSrg"
+      ]
+    },
+    {
+      "signature": "659ocNJx7hVMwvvnyyxio7NpuYBc3cfgrx2doqeub24zyd9FNgimqpmFaxNL7xTfqXGFSQKLpNafkiUAGwV5X2o9",
+      "owner": "FaNaUysvKBbfoRAhu7P7R5wPfHe7PaCXs9xy5LgLj3gu",
+      "accounts": [
+        "CziYH1sqmawR5uz6di3WHLYfPvwkn5jwpJbLxypDwaJH"
+      ],
+      "added": [
+        "wzaYADAcSPFyF9hBfmGaz4NL9ajz3skH9JcTPNqRVewEJ3Cts2RpJtpcJc6wJtQbR8Fyajq2EtC8PQC2tkpBpSV"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 248,
+  "curve_groups": 245,
+  "initial_precompletion_gap": true
+}

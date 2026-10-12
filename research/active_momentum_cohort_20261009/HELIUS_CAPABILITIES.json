@@ -1,0 +1,30 @@
+{
+  "provider": "helius",
+  "checked_utc": "2026-10-09T18:25:47.897514+00:00",
+  "samples": [
+    {
+      "month": "2026-08",
+      "slot": 441666345,
+      "status": "ok",
+      "signature_count": 1869,
+      "alchemy_signature_count": 1869,
+      "exact_signature_order_match": true,
+      "same_blockhash": true,
+      "same_block_time": true,
+      "routing_eligible": true,
+      "elapsed_seconds": 0.4973152200000186
+    },
+    {
+      "month": "2026-09",
+      "slot": 447527916,
+      "status": "ok",
+      "signature_count": 1643,
+      "alchemy_signature_count": 1643,
+      "exact_signature_order_match": true,
+      "same_blockhash": true,
+      "same_block_time": true,
+      "routing_eligible": true,
+      "elapsed_seconds": 0.316287260000081
+    }
+  ]
+}

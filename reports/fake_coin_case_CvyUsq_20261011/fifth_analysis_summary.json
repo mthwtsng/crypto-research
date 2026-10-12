@@ -1,0 +1,179 @@
+{
+  "mint": "GKGnAwdnLjS9M3qeaxjALjeQnRCweWbTNK1FkbCepump",
+  "case_type": "outcome-selected bounded receipt review; suspicious behavior is not a causal or ownership finding",
+  "inputs": {
+    "observations": "fifth_ghost_observations.jsonl",
+    "holder_screens": "fifth_ghost_holder_screen.jsonl",
+    "fake_detector": "fifth_ghost_fake_detector.jsonl",
+    "trades": "fifth_ghost_trades.jsonl",
+    "intents": "fifth_ghost_intents.jsonl",
+    "amm_evidence": "fifth_ghost_amm_evidence.jsonl",
+    "manifest": "fifth_MANIFEST.json"
+  },
+  "coverage": {
+    "supported_sol_receipt_events": 214,
+    "unique_signatures": 214,
+    "buy_receipts": 147,
+    "sell_receipts": 67,
+    "external_wallets": 55,
+    "creator_wallets": 1,
+    "amm_rows": 0,
+    "receipts_with_rtokens_raw_zero": 0,
+    "frozen_window_utc": ["2026-10-12T00:09:08Z", "2026-10-12T00:17:58Z"],
+    "limitations": [
+      "bounded curve receipt sample, not full lifetime account or token-transfer history",
+      "one-second event timestamps; slot and transaction index order transactions but do not establish millisecond spacing",
+      "no funding or ownership RPC was performed for this fifth-case report",
+      "pool reserve changes are not executable exit prices"
+    ]
+  },
+  "curve_path": {
+    "first_event": {
+      "time_utc": "2026-10-12T00:09:08Z",
+      "slot": 455843550,
+      "transaction_index": 311,
+      "side": "buy",
+      "wallet_role": "creator",
+      "quote_sol": 9.876543209,
+      "tokens": 265758513.8939
+    },
+    "peak": {
+      "time_utc": "2026-10-12T00:14:57Z",
+      "slot": 455845151,
+      "real_sol_reserve": 34.125787887
+    },
+    "last_event": {
+      "time_utc": "2026-10-12T00:17:58Z",
+      "slot": 455845975,
+      "transaction_index": 818,
+      "real_sol_reserve": 0.0150662,
+      "rtokens_raw": 792561406596683
+    },
+    "peak_to_last_real_reserve_change_pct": -99.95585,
+    "graduation_observed": false,
+    "largest_single_sell_overall": {
+      "time_utc": "2026-10-12T00:09:46Z",
+      "slot": 455843725,
+      "transaction_index": 110,
+      "wallet_role": "creator",
+      "tokens_raw": 265758513893900,
+      "quote_sol": 10.150628736,
+      "reserve_before_sol": 10.504874371,
+      "reserve_after_sol": 0.354245635,
+      "reserve_change_pct": -96.63,
+      "note": "sold the same raw token amount as the creator's observed first buy; receipt alone does not establish the creator's complete inventory"
+    },
+    "largest_individual_sell_after_peak": {
+      "time_utc": "2026-10-12T00:15:20Z",
+      "slot": 455845252,
+      "transaction_index": 751,
+      "wallet": "7dc8hZdy6hPG3tcCfLM77ZZsQ48tDM8dDMSm9LoW6uxL",
+      "signature_prefix": "2ydbBYLS",
+      "reserve_before_sol": 34.125787887,
+      "reserve_after_sol": 30.51982289,
+      "reserve_decrease_sol": 3.605964997,
+      "reserve_decrease_pct": 10.57
+    },
+    "synchronized_sell_second": {
+      "time_utc": "2026-10-12T00:15:20Z",
+      "distinct_wallets": 31,
+      "sell_receipts": 31,
+      "slot_range": [455845252, 455845253],
+      "transaction_index_range": [751, 899],
+      "gross_quote_sol": 34.088360294,
+      "event_tokens_sold": 569680873.6082,
+      "reserve_at_first_event_after_state_sol": 30.51982289,
+      "reserve_after_31st_receipt_sol": 0.037427593,
+      "interpretation": "strong synchronized-exit timing compatible with automation or rapid common reaction; timing alone does not establish common ownership, wash trading, or causality"
+    },
+    "gross_receipt_quote_sol": {
+      "buys": 60.810160036,
+      "sells": 60.795093836,
+      "warning": "gross receipt totals are not profitability, wash-volume, or realized-PnL estimates"
+    }
+  },
+  "entry_and_admission": {
+    "paper_trade": true,
+    "actual_fill_established": false,
+    "strategy": "S1 / DevDumpAbsorption",
+    "not_strategy": "S5",
+    "whitelisted": false,
+    "holder_screen_time_utc": "2026-10-12T00:09:52.596Z",
+    "paper_open_time_utc": "2026-10-12T00:09:53.949Z",
+    "screen_precedes_open_ms": 1353,
+    "screen_status": "watch",
+    "screen_coverage": {
+      "holder_sample_complete": true,
+      "holder_wallets_observed": 9,
+      "receipt_probe_complete": true,
+      "receipt_records_received": 15,
+      "funding_probe_complete": false,
+      "funding_records_received": 0,
+      "cross_launch_probe_complete": false,
+      "cross_launch_records_received": 2,
+      "retained_supply_lower_bound_bps": null,
+      "supporting_wallets": []
+    },
+    "paper_open_fields": {
+      "our_signature": null,
+      "placement_calibrated": false,
+      "entry_cost_sol": 0.501505
+    },
+    "policy_recorded_at_screen": {
+      "hard_block_requires": "verified narrow launch funder + corroborated receipt group + retained supply",
+      "min_cluster_wallets": 3,
+      "max_narrow_funder_degree": 8,
+      "min_retained_supply_bps": 2000,
+      "watch_entry": "allow with partial coverage logged",
+      "unknown_entry": "skip"
+    },
+    "interpretation": "The paper entry proceeded with Watch because Watch admission is allowed. The required retained-supply lower bound and funding proof were unavailable, so the hard-block rule was not established. This is missing evidence, not evidence of a clean launch."
+  },
+  "later_verdicts": {
+    "stale_evidence_unknown_utc": [
+      "2026-10-12T00:09:46.489Z",
+      "2026-10-12T00:11:23.023Z",
+      "2026-10-12T00:15:35.969Z"
+    ],
+    "missing_mint_supply_unknown_utc": ["2026-10-12T00:12:56.958Z"],
+    "interpretation": "Detector code maps stale or future required evidence to Unknown; serialized flags do not identify the specific stale input. Unknown skips admission; a fresh unexpired Watch can pass the readiness check."
+  },
+  "prior_case_comparison": {
+    "cutoff_definition": "first 17 non-creator participants and nine screen holders as of the S1 paper-open screen; retrospective completed-tape overlap is separately reported",
+    "entry_slice_unique_wallet_overlap": {
+      "Cvy": 0,
+      "7xJK": 0,
+      "Cfiyy": 0,
+      "DgT6": 0
+    },
+    "entry_screen_holder_overlap": {
+      "Cvy": 0,
+      "7xJK": 0,
+      "Cfiyy": 0,
+      "DgT6": 0
+    },
+    "completed_tape_exact_address_overlap": {
+      "Cvy": 3,
+      "7xJK": 1,
+      "Cfiyy": 0,
+      "DgT6": 0
+    },
+    "major_inventory_comparison": {
+      "Cvy_and_7xJK": "different wallets in the earlier reviews each bought exactly 15.799270901 SOL / 360271445579211 raw tokens and later disposed of the observed inventory in many pieces",
+      "Cfiyy_and_DgT6": "four duplicated early buyer-to-holder transfer amounts across launches total about 71.019% of nominal supply in each; root's transfer review provides the transaction/owner evidence",
+      "GKGnA_entry": "none of the named prior seed buyers, relay recipients, or major seller wallets occurs in its entry holder or first-participant slice"
+    },
+    "paired_Cvy_wallets": {
+      "pairs": [["B9ksm…", "CMcK…"], ["Hy4Zur…", "7dGV…"]],
+      "observed_in_GKGnA_receipts": false,
+      "conclusion": "their prior synchronized sequences do not implicate this mint"
+    },
+    "interpretation": "The first-buyer/holder slice is not linked by exact address to these four selected prior receipt cohorts. The bounded comparison cannot rule out indirect supply transfer, unobserved funding ancestry, or other unobserved cross-launch relations."
+  },
+  "evidence_supported_followup": [
+    "For research, retain high-resolution receipt ordering and measure multi-wallet sell bursts as a distinct synchronized-exit feature; do not treat timing alone as ownership or self-dealing proof.",
+    "Record funding and cross-launch probe completeness at each decision. A Watch verdict with null retained supply and incomplete funding is uncertainty, not a negative finding.",
+    "Keep ownership/funding, retained supply, and receipt behavior as separate corroborating dimensions; this single outcome-selected case does not validate a universal block threshold."
+  ],
+  "report": "FIFTH_COIN.md"
+}

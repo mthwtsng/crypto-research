@@ -1,0 +1,182 @@
+[
+  {
+    "variant": "broad_demand",
+    "rule": "s3_deadman",
+    "reasons": {
+      "scratch": {
+        "n": 24,
+        "net_SOL": -3.318367017,
+        "mean_SOL": -0.13826529237500002,
+        "worst_SOL": -0.292644402
+      },
+      "runner_trail": {
+        "n": 7,
+        "net_SOL": 1.530933077,
+        "mean_SOL": 0.2187047252857143,
+        "worst_SOL": 0.030997164
+      },
+      "failed": {
+        "n": 10,
+        "net_SOL": -0.005050000000000001,
+        "mean_SOL": -0.000505,
+        "worst_SOL": -0.000505
+      },
+      "runner_timeout_undefined": {
+        "n": 1,
+        "net_SOL": -0.50354428,
+        "mean_SOL": -0.50354428,
+        "worst_SOL": -0.50354428
+      },
+      "deadman": {
+        "n": 1,
+        "net_SOL": -0.296959275,
+        "mean_SOL": -0.296959275,
+        "worst_SOL": -0.296959275
+      }
+    }
+  },
+  {
+    "variant": "confirmed_control",
+    "rule": "s3_deadman",
+    "reasons": {
+      "failed": {
+        "n": 8,
+        "net_SOL": -0.00404,
+        "mean_SOL": -0.000505,
+        "worst_SOL": -0.000505
+      },
+      "scratch": {
+        "n": 12,
+        "net_SOL": -1.508247587,
+        "mean_SOL": -0.12568729891666666,
+        "worst_SOL": -0.266880146
+      },
+      "runner_trail": {
+        "n": 4,
+        "net_SOL": 0.885118334,
+        "mean_SOL": 0.2212795835,
+        "worst_SOL": 0.012912505
+      },
+      "deadman": {
+        "n": 2,
+        "net_SOL": -0.21738421000000002,
+        "mean_SOL": -0.10869210500000001,
+        "worst_SOL": -0.285125805
+      }
+    }
+  },
+  {
+    "variant": "confirmed_full10",
+    "rule": "s3_deadman",
+    "reasons": {
+      "failed": {
+        "n": 8,
+        "net_SOL": -0.00404,
+        "mean_SOL": -0.000505,
+        "worst_SOL": -0.000505
+      },
+      "scratch": {
+        "n": 10,
+        "net_SOL": -1.4451612409999999,
+        "mean_SOL": -0.1445161241,
+        "worst_SOL": -0.266880146
+      },
+      "confirmed_profit_target": {
+        "n": 8,
+        "net_SOL": 0.68577028,
+        "mean_SOL": 0.085721285,
+        "worst_SOL": 0.052479199
+      }
+    }
+  },
+  {
+    "variant": "confirmed_full5",
+    "rule": "s3_deadman",
+    "reasons": {
+      "failed": {
+        "n": 8,
+        "net_SOL": -0.00404,
+        "mean_SOL": -0.000505,
+        "worst_SOL": -0.000505
+      },
+      "scratch": {
+        "n": 8,
+        "net_SOL": -1.2516212389999999,
+        "mean_SOL": -0.15645265487499999,
+        "worst_SOL": -0.266880146
+      },
+      "confirmed_profit_target": {
+        "n": 10,
+        "net_SOL": 0.471686739,
+        "mean_SOL": 0.0471686739,
+        "worst_SOL": 0.009732296
+      }
+    }
+  },
+  {
+    "variant": "confirmed_scratch3",
+    "rule": "s3_deadman",
+    "reasons": {
+      "failed": {
+        "n": 8,
+        "net_SOL": -0.00404,
+        "mean_SOL": -0.000505,
+        "worst_SOL": -0.000505
+      },
+      "scratch": {
+        "n": 11,
+        "net_SOL": -1.187712898,
+        "mean_SOL": -0.10797389981818181,
+        "worst_SOL": -0.265257765
+      },
+      "deadman": {
+        "n": 2,
+        "net_SOL": -0.051997953,
+        "mean_SOL": -0.0259989765,
+        "worst_SOL": -0.119739548
+      },
+      "runner_trail": {
+        "n": 5,
+        "net_SOL": 0.973767955,
+        "mean_SOL": 0.194753591,
+        "worst_SOL": 0.012912505
+      }
+    }
+  },
+  {
+    "variant": "first_time_demand",
+    "rule": "s3_deadman",
+    "reasons": {
+      "scratch": {
+        "n": 24,
+        "net_SOL": -3.318367017,
+        "mean_SOL": -0.13826529237500002,
+        "worst_SOL": -0.292644402
+      },
+      "runner_trail": {
+        "n": 7,
+        "net_SOL": 1.530933077,
+        "mean_SOL": 0.2187047252857143,
+        "worst_SOL": 0.030997164
+      },
+      "failed": {
+        "n": 10,
+        "net_SOL": -0.005050000000000001,
+        "mean_SOL": -0.000505,
+        "worst_SOL": -0.000505
+      },
+      "runner_timeout_undefined": {
+        "n": 1,
+        "net_SOL": -0.50354428,
+        "mean_SOL": -0.50354428,
+        "worst_SOL": -0.50354428
+      },
+      "deadman": {
+        "n": 1,
+        "net_SOL": -0.296959275,
+        "mean_SOL": -0.296959275,
+        "worst_SOL": -0.296959275
+      }
+    }
+  }
+]

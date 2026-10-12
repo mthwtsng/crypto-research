@@ -1,0 +1,56 @@
+{
+  "mint": "BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump",
+  "capture_started_at_utc": "2026-10-12T00:43:11.030747+00:00",
+  "sources": {
+    "data/ghost_observations.jsonl": {
+      "prefix_bytes": 1471984569,
+      "scanned_bytes": 1471984569,
+      "sha256_scanned_prefix": "337997e915d1a03ed12160f2bf14b06fb4411f7e588163b5ed6c86222133c761",
+      "matching_rows": 1332,
+      "complete_lines_scanned": 265840,
+      "file_mtime_observed_after_scan_utc": "2026-10-12T00:43:12.613796+00:00"
+    },
+    "data/ghost_fake_detector.jsonl": {
+      "prefix_bytes": 22052374,
+      "scanned_bytes": 22052374,
+      "sha256_scanned_prefix": "260a7336a14251b31b0594641a63914f0f7d63c6a5dc36f7f232978e1ec3c229",
+      "matching_rows": 15,
+      "complete_lines_scanned": 10406,
+      "file_mtime_observed_after_scan_utc": "2026-10-12T00:43:12.538170+00:00"
+    },
+    "data/ghost_holder_screen.jsonl": {
+      "prefix_bytes": 286555550,
+      "scanned_bytes": 286555550,
+      "sha256_scanned_prefix": "6f679d81a9d349119451b3857a134da702f70330414a9417495b76f0c9159015",
+      "matching_rows": 40,
+      "complete_lines_scanned": 22358,
+      "file_mtime_observed_after_scan_utc": "2026-10-12T00:43:12.522249+00:00"
+    },
+    "data/ghost_trades.jsonl": {
+      "prefix_bytes": 467129,
+      "scanned_bytes": 467129,
+      "sha256_scanned_prefix": "ed823b06032f944ae38451f7d1584c5a857ca891dce83ebcb672a3e458381c9f",
+      "matching_rows": 2,
+      "complete_lines_scanned": 234,
+      "file_mtime_observed_after_scan_utc": "2026-10-12T00:42:18.060691+00:00"
+    },
+    "data/ghost_intents.jsonl": {
+      "prefix_bytes": 2265141,
+      "scanned_bytes": 2265141,
+      "sha256_scanned_prefix": "55ffc25bd27ad4126c8d4ceec6bd12ec20d10f930c3cfdf594c2dd1ec444a799",
+      "matching_rows": 4,
+      "complete_lines_scanned": 1018,
+      "file_mtime_observed_after_scan_utc": "2026-10-12T00:42:18.060691+00:00"
+    },
+    "data/ghost_amm_evidence.jsonl": {
+      "prefix_bytes": 34434477,
+      "scanned_bytes": 34434477,
+      "sha256_scanned_prefix": "9eb7175c18db5de48e3c9310f519cd69abfbc2941966fccb06f89ec9c5bdb85c",
+      "matching_rows": 412,
+      "complete_lines_scanned": 9260,
+      "file_mtime_observed_after_scan_utc": "2026-10-12T00:43:09.829614+00:00"
+    }
+  },
+  "capture_finished_at_utc": "2026-10-12T00:43:12.969415+00:00",
+  "total_matching_rows": 1805
+}

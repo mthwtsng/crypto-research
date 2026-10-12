@@ -1,0 +1,24 @@
+{
+  "frozen_at": "2026-10-08T03:35:26.152778+00:00",
+  "status": "all October3\u20136data inspected; retrospective development",
+  "recipes": [
+    "baseline",
+    "confirmed_scratch3"
+  ],
+  "policies": [
+    "baseline",
+    "warmup10",
+    "positive10"
+  ],
+  "new_policy_looks": 2,
+  "prior_logged_development_looks": 26,
+  "gate": "last10resolved independent0.50SOL shadow attempts per strategy; admit only when sum>0; failures pay network fee, unresolved ignored; continue shadow tracking while paused",
+  "control": "same10resolved warmup but no positive-net gate",
+  "limitations": "Sampled launches do not establish complete live strategy opportunity coverage. Shadow own impact is modeled, not measured. S5 may never warm up because custody is unresolved; no claim of profitable migration execution.",
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/VARIANT_REPLAY.json.gz": "76d929e9bf146cffeddc7a55f3e1651e56b2649f46b88daeae7d65ac7ea7021e",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/TRANSFER_REPLAY.json.gz": "bb7dad6faaa4dfcb1bc04811bd00bf3aeb283ee6244e52a7e6298e697bfbd070",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/demand_and_bounce_cycle/REPLAY.json.gz": "42541b753143b099179e778dade3d2500d417f76e213edcb2a939b678a503267",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/shadow_feedback.py": "a547e5e9dfc678e54feb31bc15f559996f869f9026694da000f26ea878eb04c3"
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "capture_completed_at_utc": "2026-10-12T03:45:02.108708+00:00",
+  "capture_method": "Read-only. JSON/JSONL sources were opened and bounded at each file\u2019s initial fstat byte size; JSONL counts include only newline-terminated records within that captured prefix. Per-file mtimes and prefix SHA-256 hashes are recorded. Large logs without vm_id were hashed only over a 65,536-byte prefix and excluded from VM counts. Concurrent writers mean files have per-file cutoffs, not a single atomic cross-file transaction.",
+  "capture_started_at_utc": "2026-10-12T03:44:59.082610+00:00",
+  "checkpoint": {
+    "coverage_counter_definition": "Counts are recomputed over checkpoint.curves, a HashMap keyed by mint. Categories overlap: missing_creation means !creation_receipt_seen; incomplete_history means tracking_error present; complete uses the source entry_tracking_ready predicate.",
+    "manifest": {
+      "captured_prefix_bytes": 51747114,
+      "complete_read": true,
+      "mtime_ns": 1791776698278406965,
+      "path": "data/ghost_runtime_state.json",
+      "prefix_sha256": "fc1ed3b0c9507f8f462945388542856cecb31b438888f993e37ba4571ab1d998",
+      "size_bytes_at_open": 51747114
+    },
+    "selected_fields": {
+      "saved_at_ms": 1791776698112,
+      "tracking_counts_recomputed": {
+        "complete": 478,
+        "incomplete_history": 6905,
+        "missing_creation": 3776,
+        "unique_curve_mints": 7764
+      },
+      "tracking_error_reasons_by_unique_mint": {
+        "creation history missing; setup features incomplete": 1610,
+        "ordered custody coverage incomplete; setup history needs repair": 581,
+        "out-of-order or duplicate receipt quarantined": 2,
+        "receipt reserve transition gap or inconsistency": 562,
+        "restart gap; launch history needs backfill": 3225,
+        "unrecognized successful trade; mint history needs backfill": 324,
+        "unscoped receipt coverage gap; backfill required": 475,
+        "wallet custody differs from covered swap history": 126
+      },
+      "unique_curve_mints": 7764,
+      "vm_id": "ghost-v2-20261012T032117"
+    }
+  },
+  "findings": {
+    "actual_current_vm_hard_blocks": "summary active_fake_coin_blocks, total_shielded_coins and VM-scoped fake-verdict event log are checked independently; use these exact fields in the frozen prefix.",
+    "false_block_audit": "No false-block rate is measurable from a zero-block sample; no blocked-mint outcome cohort exists. Unknown skips are not hard blocks and cannot be labeled false blocks without a candidate/outcome comparison.",
+    "no_cross_file_future_join": true,
+    "pnl_or_edge_claim": false,
+    "rpc_calls": 0
+  },
+  "limitations": [
+    "The setup audit rows are logged when a source candidate exists or when tracking first errors; they are not a census of all launches or all entry opportunities.",
+    "Raw candidate rows on incomplete observed history are diagnostic only, even when holder_ready=true. Candidate rows with complete history and holder_ready=true still need scan, entry-mode, duplicate-mint, cash, position-capacity, and quote guards; those gates are not all emitted on the audit row.",
+    "The same setup audit row records holder_ready but not a per-row fake status or every gate failure reason; unavailable controls remain explicitly unknown.",
+    "Holder/fake verdict event counts are repeated events and unique-mint counts; they are not unique launch counts.",
+    "No RPC, replay, backtest, profitability, or strategy-edge analysis was performed."
+  ],
+  "rootlogs_inventory": "No rootlogs file/directory was found in the bounded repository and /tmp inventory; current VM-scoped records were found under data/ defaults.",
+  "source_path_defaults": {
+    "checkpoint": "data/ghost_runtime_state.json",
+    "fake_detector": "data/ghost_fake_detector.jsonl",
+    "force_sells": "data/ghost_force_sells.jsonl",
+    "holder_screen": "data/ghost_holder_screen.jsonl",
+    "intents": "data/ghost_intents.jsonl",
+    "source": "src/bin/curve_detector.rs and scripts/run_shadow_detector.sh",
+    "summary": "data/ghost_summary.json",
+    "trades": "data/ghost_trades.jsonl",
+    "variant_signals": "data/ghost_variant_signals.jsonl"
+  },
+  "source_review": {
+    "admission_semantics_from_current_worktree": "holder_screen_ready requires an unexpired Clear or Watch fake verdict plus a recent holder screen; Unknown or expired/not-yet-ready skips. A current non-whitelisted Blocked verdict is the hard shield veto. Watch is allowed with partial-coverage logging. Circuit breakers are disabled in the persisted summary.",
+    "entry_semantics_from_current_worktree": "Entry evaluation requires entry_tracking_ready and the screening window; entry_tracking_ready requires no tracking_error, positive supply, decimals, authoritative reserves, known fee policy, and supported SOL quote. In reclaim mode, S2/S4 breakout signals arm a watch; a buy after at least 8% pullback must return to the level within 180 seconds before try_open_signal.",
+    "git_head": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+    "source_scope_limit": "These hashes identify local worktree source, not the running VM binary or environment. Effective MAX_POSITIONS is absent from saved summary/checkpoint; launcher source default is 10 and is not asserted as active.",
+    "working_tree_source_hashes": {
+      "scripts/run_shadow_detector.sh": {
+        "sha256": "4b6dd646cf5fed4c113eee32e1d6f5e2945c1b1ed7e2b024311b9eba15440e47",
+        "size_bytes": 7397
+      },
+      "src/bin/curve_detector.rs": {
+        "sha256": "7e3f01dc66e5b9a8dc411043e43d6e30ac2c9b27f3bb319dcb3ba42b3d02c291",
+        "size_bytes": 216453
+      },
+      "src/bot/curve_detector.rs": {
+        "sha256": "2c2dda3ff7046245c7dba1c68936ed9304275b9333caf1391bdd605a24c4136f",
+        "size_bytes": 151532
+      },
+      "src/bot/fake_coin_detector.rs": {
+        "sha256": "63219c5cf05f65e10fd0954e5ab6b887f5046f788e8249c7a365c1d1470f129b",
+        "size_bytes": 68165
+      },
+      "src/bot/fake_coin_history.rs": {
+        "sha256": "e44ee28be095fa278500a84ac51db9cab1f25c7890f3bf6b37d8e73bff89f892",
+        "size_bytes": 103435
+      },
+      "src/bot/holder_screen.rs": {
+        "sha256": "d76a154d3948af110c810f6925999defc133363d89126b4e85709c17c4020f9a",
+        "size_bytes": 97710
+      }
+    }
+  },
+  "summary": {
+    "manifest": {
+      "captured_prefix_bytes": 10687,
+      "complete_read": true,
+      "mtime_ns": 1791776697339797444,
+      "path": "data/ghost_summary.json",
+      "prefix_sha256": "f4a66cc0467e1684beae9455fac46b448d3c64d459c2f98c7d672a00fce04273",
+      "size_bytes_at_open": 10687
+    },
+    "selected_fields": {
+      "active_fake_coin_blocks": [],
+      "active_positions_count": 1,
+      "calculation_model_revision": "persistent_curve_v4",
+      "circuit_breaker_statuses": {
+        "S1": {
+          "consecutive_losses": 3,
+          "cooldown_remaining_secs": 0,
+          "is_cooling": false,
+          "is_enforced": false,
+          "strategy_code": "S1",
+          "streak_limit": 5,
+          "trip_count": 0
+        },
+        "S2": {
+          "consecutive_losses": 0,
+          "cooldown_remaining_secs": 0,
+          "is_cooling": false,
+          "is_enforced": false,
+          "strategy_code": "S2",
+          "streak_limit": 8,
+          "trip_count": 0
+        },
+        "S3": {
+          "consecutive_losses": 0,
+          "cooldown_remaining_secs": 0,
+          "is_cooling": false,
+          "is_enforced": false,
+          "strategy_code": "S3",
+          "streak_limit": 10,
+          "trip_count": 0
+        },
+        "S4": {
+          "consecutive_losses": 2,
+          "cooldown_remaining_secs": 0,
+          "is_cooling": false,
+          "is_enforced": false,
+          "strategy_code": "S4",
+          "streak_limit": 6,
+          "trip_count": 0
+        },
+        "S5": {
+          "consecutive_losses": 0,
+          "cooldown_remaining_secs": 0,
+          "is_cooling": false,
+          "is_enforced": false,
+          "strategy_code": "S5",
+          "streak_limit": 5,
+          "trip_count": 0
+        }
+      },
+      "circuit_breakers_enabled": false,
+      "disabled_strategies": "",
+      "entry_mode": "reclaim",
+      "execution_model": "persistent_counterfactual_curve_receive_clock_v4",
+      "failed_buy_attempts": 0,
+      "fake_coin_status_counts": {
+        "unknown": 10,
+        "unknown_or_expired": 7742,
+        "watch": 12
+      },
+      "historical_shield_record_count": 0,
+      "holder_screen_counts": {
+        "blacklisted": 0,
+        "clear_current": 72,
+        "completed_unknown_or_expired": 139,
+        "in_flight": 1
+      },
+      "holder_screen_policy": {
+        "blocked_rescreen_ms": 5000,
+        "clear_rescreen_ms": 10000,
+        "config": {
+          "evidence_ttl_ms": 604800000,
+          "funding_lookback_ms": 86400000,
+          "funding_postlaunch_ms": 0,
+          "holder_snapshot_ttl_ms": 30000,
+          "max_narrow_funder_degree": 8,
+          "min_cluster_wallets": 4,
+          "min_retained_supply_bps": 2000
+        },
+        "demand_replacement_admission": false,
+        "failed_activity_is_successful_volume": false,
+        "funding_min_pairs": 2,
+        "funding_min_sources": 2,
+        "hard_block": "repeated_verified_inventory_relay_recipe_plus_repeated_material_funding_plus_prior_observed_collapse_plus_current_retained_supply",
+        "history_days": 7,
+        "history_persisted_in_runtime_checkpoint": true,
+        "launch_volume_admission": false,
+        "legacy_narrow_funder_gate": false,
+        "low_sol_balance_admission": false,
+        "prior_min_peak_sol": 20,
+        "prior_min_reserve_drain_pct": 90,
+        "recipe_min_initial_supply_bps": 5000,
+        "recipe_min_relay_wallets": 4,
+        "retained_supply": "current_sample_lower_bound_over_actual_mint_supply",
+        "size_or_timing_alone_admission": false,
+        "threshold_calibration": "initial_user_authorized_heuristic_not_profitability_validated",
+        "top_token_accounts": 20,
+        "tracked_wallet_exception": "existing_whitelist_bypasses_admission_verdict",
+        "unknown_entry": "skip",
+        "version": "repeated_custody_fabrication_v4",
+        "watch_entry": "allow_with_partial_coverage_logged"
+      },
+      "max_positions": null,
+      "min_scan_mcap_usd": 6400.0,
+      "stream_connected": true,
+      "total_shielded_coins": 0,
+      "tracking_coverage_counts": {
+        "complete": 478,
+        "incomplete_history": 6905,
+        "missing_creation": 3776
+      },
+      "updated_at_utc": "2026-10-12T03:44:57.339894590+00:00",
+      "uptime_secs": 1401,
+      "vm_id": "ghost-v2-20261012T032117"
+    }
+  },
+  "title": "Read-only current shadow shield and entry-funnel audit",
+  "unscoped_log_prefixes": {
+    "data/ghost_observations.jsonl": {
+      "captured_prefix_bytes": 65536,
+      "exists": true,
+      "mtime_ns": 1791776701898787245,
+      "path": "data/ghost_observations.jsonl",
+      "prefix_sha256": "e8862b75a9c387ccdd2fe98a6e26dab3cd0e4c312278164e190805675d6d300f",
+      "reason": "row schema lacks vm_id; prefix not used to count current-VM events",
+      "size_bytes_at_open": 362308023,
+      "vm_scoped": false
+    },
+    "data/ghost_shielded_coins.jsonl": {
+      "captured_prefix_bytes": 65536,
+      "exists": true,
+      "mtime_ns": 1791760130022985035,
+      "path": "data/ghost_shielded_coins.jsonl",
+      "prefix_sha256": "78d0d6cba3633efd7f1ef3601930b3ff94ca0ca4790c4d6bc34734c3685a5713",
+      "reason": "row schema lacks vm_id; prefix not used to count current-VM events",
+      "size_bytes_at_open": 391304,
+      "vm_scoped": false
+    }
+  },
+  "vm_scope": {
+    "checkpoint_vm_id_matches": true,
+    "run_id_start_utc": "2026-10-12T03:21:17Z",
+    "summary_updated_at_utc": "2026-10-12T03:44:57.339894590+00:00",
+    "summary_uptime_secs": 1401,
+    "summary_vm_id_matches": true,
+    "vm_id": "ghost-v2-20261012T032117"
+  },
+  "vm_scoped_logs": {
+    "data/ghost_fake_detector.jsonl": {
+      "fake_coin_verdict_rows_by_status": {
+        "unknown": 2225,
+        "watch": 661
+      },
+      "fake_coin_verdict_unique_mints_by_status": {
+        "unknown": 1242,
+        "watch": 136
+      },
+      "hard_block_rows": 0,
+      "hard_block_unique_mints": 0,
+      "manifest": {
+        "captured_prefix_bytes": 89397075,
+        "complete_newline_terminated_rows": 37892,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 76,
+        "max_row_bytes": 35297,
+        "mtime_ns": 1791776700313455549,
+        "path": "data/ghost_fake_detector.jsonl",
+        "prefix_sha256": "c210040ff0d99684365029633fcebaff7c7d11df161fe066bc45be9eb4023368",
+        "size_bytes_at_open": 89397075
+      },
+      "reason_flag_event_counts": {
+        "cross_launch_probe_incomplete": 661,
+        "funding_probe_incomplete": 661,
+        "holder_sample_incomplete": 76,
+        "invalid_holder_balances": 76,
+        "invalid_holder_baseline": 76,
+        "inventory_relay_evidence_ignored": 399,
+        "missing_holder_snapshot": 1439,
+        "missing_launch_time": 262,
+        "missing_mint_supply": 355,
+        "prior_fabrication_evidence_ignored": 399,
+        "receipt_probe_incomplete": 661,
+        "stale_evidence": 355
+      },
+      "reason_flag_unique_mints": {
+        "cross_launch_probe_incomplete": 136,
+        "funding_probe_incomplete": 136,
+        "holder_sample_incomplete": 50,
+        "invalid_holder_balances": 50,
+        "invalid_holder_baseline": 50,
+        "inventory_relay_evidence_ignored": 85,
+        "missing_holder_snapshot": 1207,
+        "missing_launch_time": 51,
+        "missing_mint_supply": 99,
+        "prior_fabrication_evidence_ignored": 85,
+        "receipt_probe_incomplete": 136,
+        "stale_evidence": 118
+      },
+      "reason_flags_overlap": "One verdict can have multiple flags; repeated verdict rows are not unique opportunities.",
+      "vm_rows_by_event": {
+        "FABRICATION_AMM_OUTCOME_OBSERVATION": 272,
+        "FABRICATION_RECIPE_SCAN": 151,
+        "FAKE_COIN_VERDICT": 2886
+      },
+      "vm_unique_mints_by_event": {
+        "FABRICATION_AMM_OUTCOME_OBSERVATION": 1,
+        "FABRICATION_RECIPE_SCAN": 95,
+        "FAKE_COIN_VERDICT": 1244
+      }
+    },
+    "data/ghost_force_sells.jsonl": {
+      "manifest": {
+        "captured_prefix_bytes": 2240,
+        "complete_newline_terminated_rows": 16,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 0,
+        "max_row_bytes": 142,
+        "mtime_ns": 1791775092499538988,
+        "path": "data/ghost_force_sells.jsonl",
+        "prefix_sha256": "83562d2a43183bf39655bbca67b1778a171804a8f3f969f3f391fe56cbd7e4ca",
+        "size_bytes_at_open": 2240
+      },
+      "trade_event_rows_by_event_and_strategy": {},
+      "unique_mints_by_event": {}
+    },
+    "data/ghost_holder_screen.jsonl": {
+      "holder_report_rows_by_status": {
+        "clear": 1180,
+        "unknown": 531
+      },
+      "holder_report_unique_mints_by_status": {
+        "clear": 137,
+        "unknown": 107
+      },
+      "manifest": {
+        "captured_prefix_bytes": 464831729,
+        "complete_newline_terminated_rows": 33227,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 0,
+        "max_row_bytes": 33183,
+        "mtime_ns": 1791776700634518991,
+        "path": "data/ghost_holder_screen.jsonl",
+        "prefix_sha256": "22f0378c312266934f36c615b00373772de4be2a13f5fd4d4ac8f80c8642052d",
+        "size_bytes_at_open": 464831729
+      },
+      "nested_fake_verdict_rows_by_status": {
+        "unknown": 531,
+        "watch": 1180
+      },
+      "nested_fake_verdict_unique_mints_by_status": {
+        "unknown": 107,
+        "watch": 137
+      },
+      "vm_rows_by_event": {
+        "HOLDER_SCREEN": 1711
+      },
+      "vm_unique_mints_by_event": {
+        "HOLDER_SCREEN": 149
+      }
+    },
+    "data/ghost_intents.jsonl": {
+      "manifest": {
+        "captured_prefix_bytes": 122556910,
+        "complete_newline_terminated_rows": 355008,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 398,
+        "max_row_bytes": 19649,
+        "mtime_ns": 1791776699387001405,
+        "path": "data/ghost_intents.jsonl",
+        "prefix_sha256": "c66e5240ac43a84d9ef7d8e82631a0bac75fc422c1818fa48ca9ca0bdd320c22",
+        "size_bytes_at_open": 122556910
+      },
+      "side_rows_by_event": {
+        "FILL__buy": 6,
+        "FILL__sell": 5,
+        "INTENT__buy": 6,
+        "INTENT__sell": 5
+      },
+      "unique_intent_ids": 11,
+      "unique_mints_by_event": {
+        "FILL": 6,
+        "INTENT": 6
+      },
+      "vm_scoped_rows_by_event": {
+        "FILL": 11,
+        "INTENT": 11,
+        "TRACKING_RECEIPT_UNRESOLVED": 27339
+      }
+    },
+    "data/ghost_trades.jsonl": {
+      "manifest": {
+        "captured_prefix_bytes": 19934,
+        "complete_newline_terminated_rows": 11,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 0,
+        "max_row_bytes": 2124,
+        "mtime_ns": 1791776657691537653,
+        "path": "data/ghost_trades.jsonl",
+        "prefix_sha256": "20d9eb615efe1d7b227c74d9cd2896273d6e6bd7d95d58fadf1b6cc37aa2b2d6",
+        "size_bytes_at_open": 19934
+      },
+      "trade_event_rows_by_event_and_strategy": {
+        "CLOSE__S1": 3,
+        "CLOSE__S4": 2,
+        "OPEN__S1": 3,
+        "OPEN__S4": 3
+      },
+      "unique_mints_by_event": {
+        "CLOSE": 5,
+        "OPEN": 6
+      }
+    },
+    "data/ghost_trades_master.jsonl": {
+      "manifest": {
+        "captured_prefix_bytes": 1605600,
+        "complete_newline_terminated_rows": 810,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 0,
+        "max_row_bytes": 5480,
+        "mtime_ns": 1791775277735601197,
+        "path": "data/ghost_trades_master.jsonl",
+        "prefix_sha256": "573073ec780a7d624ec775d9eaef7ca9823eea855dc2cd075a3c0767eca093b9",
+        "size_bytes_at_open": 1605600
+      },
+      "trade_event_rows_by_event_and_strategy": {},
+      "unique_mints_by_event": {}
+    },
+    "data/ghost_variant_signals.jsonl": {
+      "manifest": {
+        "captured_prefix_bytes": 3096105,
+        "complete_newline_terminated_rows": 4356,
+        "exists": true,
+        "incomplete_final_row": false,
+        "invalid_json_rows_in_prefix": 2,
+        "max_row_bytes": 1429,
+        "mtime_ns": 1791776697383365151,
+        "path": "data/ghost_variant_signals.jsonl",
+        "prefix_sha256": "005d4ab006af3f9fa3e905da51e3a53a7c458f84603706de2ce492abd05ed91c",
+        "size_bytes_at_open": 3096105
+      },
+      "raw_candidate_audit": {
+        "audit_scope_note": "Rows are event rows and repeated mint signals, not unique opportunity denominators. Complete basis means source-observed tracking checks passed; holder_ready is the logged composite holder/fake-verdict readiness at that row. This observer does not log per-row fake status or all remaining admission gates.",
+        "candidate_items_by_strategy": {
+          "DevDumpAbsorption": 22,
+          "PreGraduationCarryover": 10,
+          "SurvivalShelfBreakout": 9,
+          "UpperAthBreakout": 21
+        },
+        "candidate_rows": 62,
+        "candidate_rows_by_basis_and_holder_ready": {
+          "covered_observed_history__holder_ready_false": 14,
+          "covered_observed_history__holder_ready_true": 10,
+          "incomplete_observed_history_diagnostic_only__holder_ready_false": 11,
+          "incomplete_observed_history_diagnostic_only__holder_ready_true": 27
+        },
+        "candidate_rows_by_history_basis": {
+          "covered_observed_history": 24,
+          "incomplete_observed_history_diagnostic_only": 38
+        },
+        "candidate_rows_by_holder_ready": {
+          "false": 25,
+          "true": 37
+        },
+        "candidate_unique_mints_by_basis_and_holder_ready": {
+          "covered_observed_history__holder_ready_false": 6,
+          "covered_observed_history__holder_ready_true": 9,
+          "incomplete_observed_history_diagnostic_only__holder_ready_false": 8,
+          "incomplete_observed_history_diagnostic_only__holder_ready_true": 9
+        },
+        "candidate_unique_mints_by_history_basis": {
+          "covered_observed_history": 14,
+          "incomplete_observed_history_diagnostic_only": 14
+        },
+        "candidate_unique_mints_by_holder_ready": {
+          "false": 13,
+          "true": 18
+        },
+        "distinct_candidate_mints_seen_in_both_bases": 2,
+        "strategy_candidate_items_by_basis_and_holder_ready": {
+          "covered_observed_history__holder_ready_false": {
+            "DevDumpAbsorption": 4,
+            "SurvivalShelfBreakout": 3,
+            "UpperAthBreakout": 7
+          },
+          "covered_observed_history__holder_ready_true": {
+            "DevDumpAbsorption": 4,
+            "UpperAthBreakout": 6
+          },
+          "incomplete_observed_history_diagnostic_only__holder_ready_false": {
+            "DevDumpAbsorption": 2,
+            "PreGraduationCarryover": 1,
+            "SurvivalShelfBreakout": 4,
+            "UpperAthBreakout": 4
+          },
+          "incomplete_observed_history_diagnostic_only__holder_ready_true": {
+            "DevDumpAbsorption": 12,
+            "PreGraduationCarryover": 9,
+            "SurvivalShelfBreakout": 2,
+            "UpperAthBreakout": 4
+          }
+        },
+        "strategy_candidate_items_by_history_basis": {
+          "covered_observed_history": {
+            "DevDumpAbsorption": 8,
+            "SurvivalShelfBreakout": 3,
+            "UpperAthBreakout": 13
+          },
+          "incomplete_observed_history_diagnostic_only": {
+            "DevDumpAbsorption": 14,
+            "PreGraduationCarryover": 10,
+            "SurvivalShelfBreakout": 6,
+            "UpperAthBreakout": 8
+          }
+        },
+        "tracking_error_unique_mints_by_history_basis": {
+          "incomplete_observed_history_diagnostic_only": {
+            "creation history missing; setup features incomplete": 1,
+            "receipt reserve transition gap or inconsistency": 1,
+            "restart gap; launch history needs backfill": 4,
+            "unrecognized successful trade; mint history needs backfill": 7,
+            "unscoped receipt coverage gap; backfill required": 1
+          }
+        },
+        "tracking_errors_on_candidate_rows_by_history_basis": {
+          "incomplete_observed_history_diagnostic_only": {
+            "creation history missing; setup features incomplete": 2,
+            "receipt reserve transition gap or inconsistency": 6,
+            "restart gap; launch history needs backfill": 8,
+            "unrecognized successful trade; mint history needs backfill": 20,
+            "unscoped receipt coverage gap; backfill required": 2
+          }
+        },
+        "unique_candidate_mints": 26
+      },
+      "vm_rows_by_event": {
+        "BREAKOUT_SIGNAL": 6,
+        "RECLAIM_ENTRY": 5,
+        "RECLAIM_EXPIRED": 2,
+        "SETUP_TRACKING_AUDIT": 334
+      },
+      "vm_unique_mints_by_event": {
+        "BREAKOUT_SIGNAL": 6,
+        "RECLAIM_ENTRY": 5,
+        "RECLAIM_EXPIRED": 2,
+        "SETUP_TRACKING_AUDIT": 285
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pool": "8mnNvUocTaC3QwhugDpRjJJXEAJ2RGZx8dtqPrvbhhtT",
+  "groups_checked": 690,
+  "source_audit": {
+    "pool": "8mnNvUocTaC3QwhugDpRjJJXEAJ2RGZx8dtqPrvbhhtT",
+    "groups": 691,
+    "signals": [
+      "amm_second_wave",
+      "amm_pullback_recovery"
+    ],
+    "counts": {
+      "boost_initializations": 1,
+      "swaps": 632,
+      "zero_fee_source_swaps": 28,
+      "boost_burns": 28
+    },
+    "errors": [],
+    "good": true,
+    "genesis": true,
+    "migration": {
+      "pool": "8mnNvUocTaC3QwhugDpRjJJXEAJ2RGZx8dtqPrvbhhtT",
+      "mint": "CXdRBoRWmWWeUDHkFgmH6D566sFFccaTsrgCGaGSpump",
+      "quote_mint": "So11111111111111111111111111111111111111112",
+      "time": 1787286180,
+      "slot": 440610683,
+      "index": 896,
+      "signature": "5CJxT9z1jCfC2qi6ahbUMvhBANMLt6nmUiMJ9LFSRKMyuimsG6Qo7HTPyQJG2NrACjovaQY1iZzuTpGv97EnYgKh",
+      "instruction": "migrate_v2",
+      "base_vault": "HPjioNQ13VELtqvmMDcXEGYdY5QhUJbBXntKAV8qdhdu",
+      "quote_vault": "ChqXeX6ZCj7oaG3ahJKs3ZgRGppWC8jbz7tiFetQd4KN",
+      "creator": "9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5",
+      "coin_creator": "AJk4xjeq1NYYg9svGZ49avUGwj9LKxKo5Lq8zo1rUq88",
+      "is_mayhem_mode": false,
+      "is_holder_reward": false
+    }
+  },
+  "whole_source_parity": true
+}

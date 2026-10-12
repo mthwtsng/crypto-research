@@ -1,0 +1,98 @@
+{
+  "scope": "closed observed source-cycle cash partition only; protocol/network/tips/rent in actual legs; captured failed costs separately; open/inherited/unclassified/missing-refund exposure not marked; not entire wallet profit or copy replay",
+  "rows": [
+    {
+      "wallet": {
+        "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+        "name": "broke bot lol"
+      },
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 4,
+        "transaction_count": 2856,
+        "status_counts": {
+          "success": 2008,
+          "failed": 848,
+          "unknown": 0
+        },
+        "payer_failed_count": 842,
+        "min_block_time": 1789966352,
+        "max_block_time": 1791778210,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "carryover_closed_cycles": 21,
+      "carryover_closed_cycle_cash_sol": 6.781614029,
+      "other_closed_cycles": 394,
+      "other_closed_cycle_cash_sol": 0.405137405,
+      "captured_failed_payer_network_sol_separate": 1.059174675,
+      "open_cycle_count": 0,
+      "open_marked_pnl": null,
+      "combined_wallet_marked_pnl": null
+    },
+    {
+      "wallet": {
+        "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+        "name": "bot12"
+      },
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 8130,
+        "status_counts": {
+          "success": 3160,
+          "failed": 4970,
+          "unknown": 0
+        },
+        "payer_failed_count": 4961,
+        "min_block_time": 1789970565,
+        "max_block_time": 1791776599,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "carryover_closed_cycles": 22,
+      "carryover_closed_cycle_cash_sol": 10.388061431,
+      "other_closed_cycles": 484,
+      "other_closed_cycle_cash_sol": -17.614661519,
+      "captured_failed_payer_network_sol_separate": 34.436005402,
+      "open_cycle_count": 13,
+      "open_marked_pnl": null,
+      "combined_wallet_marked_pnl": null
+    },
+    {
+      "wallet": {
+        "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+        "name": "1 sol bot"
+      },
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 8700,
+          "failed": 1300,
+          "unknown": 0
+        },
+        "payer_failed_count": 1290,
+        "min_block_time": 1791154997,
+        "max_block_time": 1791777644,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "carryover_closed_cycles": 93,
+      "carryover_closed_cycle_cash_sol": 26.601630304,
+      "other_closed_cycles": 4135,
+      "other_closed_cycle_cash_sol": 69.603718479,
+      "captured_failed_payer_network_sol_separate": 0.287419,
+      "open_cycle_count": 0,
+      "open_marked_pnl": null,
+      "combined_wallet_marked_pnl": null
+    }
+  ]
+}

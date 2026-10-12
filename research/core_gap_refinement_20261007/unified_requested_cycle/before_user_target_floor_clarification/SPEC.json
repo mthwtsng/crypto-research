@@ -1,0 +1,20 @@
+{
+  "frozen_at": "2026-10-08T03:50:24.227865+00:00",
+  "source": "explicit user-requested unified comparison",
+  "data": "1800creation-selected October3\u20136launches, inspected retrospective development",
+  "constraints": {
+    "bankroll": 15,
+    "ticket": 0.5,
+    "max_open": 2
+  },
+  "entries": "S3two_buy_groups: two separate completed buying groups, new distinct noncreator buyer>=0.05SOL, within2slots of dip, reserve8\u201318; other four original entries unchanged",
+  "exit": "S3only: no3s/10s/21s scratches,8s grace before trail; arm at executable20% at any age,8percentage-point giveback,hard60/120s timeout; profit arm can occur during grace; other four original lower-endpoint exits retained",
+  "developer_gate": "universal creator held/creation-event authenticated total mint supply<=15%, after whole qualifying source transaction, independent ablation; associated wallets unknown; no later new signal search after filter rejection",
+  "portfolio": "no positive10,no warmup,S5 eligible from first signal;latest original breakers on/off",
+  "look_count": "four prescribed horizon\u00d7developer variants;prior28loggedlooks plus two recovery entry definitions=30; total34; paused old recovery sell experiment was not run",
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/unified_requested.py": "491793f88b4811256122ad5c09e7703d671273dd1156ee83c5692aa7d210e1c9",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/recovery_sequence.py": "96029cf824c4f15ce1425a1bd2d5c5501919c23e00d1af48121510fcf59453ce",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "11599ed5347433aca658968f633ef6efe307b1643d505d67ec11bf9785f594ae"
+  }
+}

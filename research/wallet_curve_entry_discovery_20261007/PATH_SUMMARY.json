@@ -1,0 +1,82 @@
+[
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "entries": 10,
+    "matched_controls": 10,
+    "entry_medians": {
+      "age": 210.0,
+      "reserve_SOL": 14.5451156835,
+      "breadth": 127.5,
+      "recent_buyers": 2.5,
+      "fresh_buyers": 1.0,
+      "drawdown": 0.1654346917966098,
+      "dominance": 0.5032603305949668
+    },
+    "paired_median_differences": {
+      "recent_buyers": -0.5,
+      "fresh_buyers": -0.5,
+      "drawdown": 0.0,
+      "recent_buy_SOL": -0.049762142
+    }
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "entries": 10,
+    "matched_controls": 6,
+    "entry_medians": {
+      "age": 37.0,
+      "reserve_SOL": 10.791977584000001,
+      "breadth": 47.0,
+      "recent_buyers": 12.0,
+      "fresh_buyers": 9.5,
+      "drawdown": 0.2443928895325736,
+      "dominance": 0.18570102142169587
+    },
+    "paired_median_differences": {
+      "recent_buyers": 5.0,
+      "fresh_buyers": 3.0,
+      "drawdown": 0.004160292506861063,
+      "recent_buy_SOL": 5.5375254895
+    }
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "entries": 10,
+    "matched_controls": 5,
+    "entry_medians": {
+      "age": 29.5,
+      "reserve_SOL": 19.74775855,
+      "breadth": 75.0,
+      "recent_buyers": 12.0,
+      "fresh_buyers": 11.0,
+      "drawdown": 0.07250151838372404,
+      "dominance": 0.22815221674173333
+    },
+    "paired_median_differences": {
+      "recent_buyers": 5,
+      "fresh_buyers": 5,
+      "drawdown": 0.0,
+      "recent_buy_SOL": 6.818767305999998
+    }
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "entries": 10,
+    "matched_controls": 9,
+    "entry_medians": {
+      "age": 24.0,
+      "reserve_SOL": 15.6973442175,
+      "breadth": 57.0,
+      "recent_buyers": 9.5,
+      "fresh_buyers": 8.5,
+      "drawdown": 0.13983409250402834,
+      "dominance": 0.3095290645491082
+    },
+    "paired_median_differences": {
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "drawdown": -0.005712004629188638,
+      "recent_buy_SOL": 0.25830500999999995
+    }
+  }
+]

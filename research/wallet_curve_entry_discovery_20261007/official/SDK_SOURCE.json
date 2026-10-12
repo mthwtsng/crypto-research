@@ -1,0 +1,16 @@
+{
+  "version": "3.0.0",
+  "tarball": "https://registry.npmjs.org/@pump-fun/pump-sdk/-/pump-sdk-3.0.0.tgz",
+  "integrity": "sha512-va3uFjyRWXmz1xUAeQlPDq5/UTNBZ0fPGtGAXi5LU03bmoxM+EW3P9Sj8btQmvZcrnmSyftPQm7Q62JnFoQPTQ==",
+  "sha256": "9f5b4f4177626a68c437462d30591d6748017cbbcee0af467e9994bc5cfe52bd",
+  "retained": [
+    "package/src/bondingCurve.ts",
+    "package/src/errors.ts",
+    "package/src/onlineSdk.ts",
+    "package/src/idl/pump_amm.ts",
+    "package/src/idl/pump_fees.ts",
+    "package/src/idl/pump.ts",
+    "package/src/sdk.ts",
+    "package/src/state.ts"
+  ]
+}

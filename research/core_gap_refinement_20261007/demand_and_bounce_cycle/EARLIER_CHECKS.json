@@ -1,0 +1,10 @@
+{
+  "default_signal_parity": true,
+  "prefix_checks": 44,
+  "pre_deadline_timer_fills": [],
+  "completed_curve_sales": [],
+  "token_errors": [],
+  "source_evidence": "All eligible mints remain within original600creation-selected cohort; repaired approved source parity in parent pilot.",
+  "delayed_failed": 48,
+  "extremes": []
+}

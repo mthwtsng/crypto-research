@@ -1,0 +1,11 @@
+{
+  "frozen_at": "2026-10-08T02:18:55.869489+00:00",
+  "start": 1791158400,
+  "end": 1791331200,
+  "per_hour": 25,
+  "seed": "core-gap-later-transfer-oct05-oct06-v1",
+  "selection": "ordinary normal-SOL creations, minimum-hash 25 per each of 48 complete hourly strata",
+  "capture_seconds": 1800,
+  "label": "later sampled transfer; not future forward confirmation; other-wallet studies may have observed individual coins",
+  "purpose": "check entry and exit-gap direction across a broader later cohort; retain all original five families and unresolved carryover"
+}

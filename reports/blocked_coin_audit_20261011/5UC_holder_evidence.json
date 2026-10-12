@@ -1,0 +1,149 @@
+[
+  {
+    "event": "HOLDER_SCREEN",
+    "mint": "5UC38iV4AJexEXMAH1VZZT9r9DXz1yxdqFfUcWbJWMVB",
+    "policy": {
+      "clear_ttl_ms": 30000,
+      "low_balance_fraction_gte": 0.5,
+      "low_balance_lamports": 1000000000,
+      "minimum_wallet_sample": 5,
+      "recent_wallet_rule_enabled": false,
+      "top_token_accounts": 20
+    },
+    "primary_rate_limited": false,
+    "report": {
+      "audit_completed_at_ms": 1791756448302,
+      "audit_started_at_ms": 1791756448235,
+      "evidence": [
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": true,
+          "rank": 1,
+          "recent": null,
+          "sol_balance_lamports": 181379194,
+          "summed_token_amount_raw": "120919074249637",
+          "token_accounts": [
+            "ETMPFf5FcoEPhyvjPRD6dAse1CkEPrYVm7CtuCQ7LDUR"
+          ],
+          "wallet": "2MrkVnbfG63fnjEDrEX5ps5QjSbK49S69YbSeFczrbY9"
+        },
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": false,
+          "rank": 2,
+          "recent": null,
+          "sol_balance_lamports": 26055773098,
+          "summed_token_amount_raw": "31489358630924",
+          "token_accounts": [
+            "8tzLgUc17LVqju2ATXvMnnSQ6tveDag9jR1JsogPUGgM"
+          ],
+          "wallet": "Gn5S3eosHp8z3KCERPqmTXqhnsJN7vimfQSgGNvkLm5z"
+        },
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": false,
+          "rank": 3,
+          "recent": null,
+          "sol_balance_lamports": 146935970061,
+          "summed_token_amount_raw": "24028814011855",
+          "token_accounts": [
+            "6y79RTs9BBnrWADWnbYbykMuz43taAUZd3uuidwMuuLe"
+          ],
+          "wallet": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT"
+        },
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": false,
+          "rank": 4,
+          "recent": null,
+          "sol_balance_lamports": 19657709733,
+          "summed_token_amount_raw": "16350664266543",
+          "token_accounts": [
+            "C1hyBkq4673uJSUM4pFLM8nGKZ7hgXiS4P61hw2p6CZv"
+          ],
+          "wallet": "9pjfWz4qS3cUiKxf1yBi7WnA5CkbndDbpn4Z5r7f7azR"
+        },
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": false,
+          "rank": 5,
+          "recent": null,
+          "sol_balance_lamports": 10566102044,
+          "summed_token_amount_raw": "14644273097559",
+          "token_accounts": [
+            "BoVAnti2tgUqqMfKMcxzWasXCsqJBX5V4AUNi4Az37xn"
+          ],
+          "wallet": "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk"
+        },
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": false,
+          "rank": 6,
+          "recent": null,
+          "sol_balance_lamports": 218253043929,
+          "summed_token_amount_raw": "4382948891853",
+          "token_accounts": [
+            "8pcp3gb3uF94yPJLoGhnLkqKpGaJSMc2PupMwET8hbTi"
+          ],
+          "wallet": "HxcdEi6CWzQtPCmM8E2maEZ3oYVGZxESqCWU1iPzmhVW"
+        },
+        {
+          "activity_provenance": "Disabled by active balance-only policy; not queried",
+          "balance_provenance": "getMultipleAccounts(base64): account lamports; present wallets require System Program owner, executable=false, and an on-curve address; missing on-curve addresses are treated as 0 lamports",
+          "errors": [],
+          "first_activity_recent": null,
+          "funding_provenance": "Disabled by active balance-only policy; not queried",
+          "funding_recent": null,
+          "low_sol": true,
+          "rank": 7,
+          "recent": null,
+          "sol_balance_lamports": 33014321,
+          "summed_token_amount_raw": "1785357737104",
+          "token_accounts": [
+            "9y7esaVetFy42xiHz4uFKR6P1EkKXjmqqzy7Ntp2RjpZ"
+          ],
+          "wallet": "D2DEr4TjbGvwXmuNtmEQmEcvHEEhckuojPqQttio43oF"
+        }
+      ],
+      "low_sol_wallets": 2,
+      "reason": "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply",
+      "recent_wallets": 0,
+      "sample_scope": "Owners grouped by summed holdings across getTokenLargestAccounts' top 20 token accounts, then restricted to system-owned, non-executable, on-curve wallet accounts; this is not a full top-20 unique-wallet supply census. Recent activity and funding checks are disabled by the active balance-only policy.",
+      "sampled_wallets": 7,
+      "status": "blocked",
+      "unknown_wallets": 0
+    },
+    "rpc_provider": "primary",
+    "vm_id": "ghost-v2-20261011T220021"
+  }
+]

@@ -1,0 +1,3266 @@
+[
+  {
+    "hour": 0,
+    "start_utc": "2026-10-03T06:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.020968474,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.020968474,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.07289772100000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.07289772100000003,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.020968474,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.020968474,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.07289772100000003,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.07289772100000003,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 1,
+    "start_utc": "2026-10-03T07:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.000505,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.000505,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.2815422819999999,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.26411643100000015,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.006331501999999977,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 2,
+    "start_utc": "2026-10-03T08:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 4,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.12420483300000004,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.12420483300000004,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.12420483300000004,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.12420483300000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.047774132000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": -0.047774132000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": 0.009819224000000001,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": 0.009819224000000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.03809200299999997,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.03809200299999997,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.08246223999999998,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.08246223999999998,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.047774132000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": -0.047774132000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": 0.009819224000000001,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": 0.009819224000000001,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 3,
+    "start_utc": "2026-10-03T09:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.00101,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.00101,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.023639923,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.023639923,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.000505,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.000505,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.08159856000000003,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.08159856000000003,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.00101,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.00101,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.023639923,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.023639923,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 4,
+    "start_utc": "2026-10-03T10:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 3,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.10865342300000001,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.10865342300000001,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.14460329700000008,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.14460329700000008,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.24267876,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.24833572300000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.225551234,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.23635497000000008,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.02119960900000007,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.04475749299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.5544054,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.38388797599999996,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.24267876,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.24833572300000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.225551234,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.23635497000000008,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 5,
+    "start_utc": "2026-10-03T11:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 5,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.005708720000000044,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.005708720000000044,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.005708720000000044,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.005708720000000044,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 5,
+        "known_net": -0.244233559,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 5,
+        "known_net": -0.244233559,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 5,
+        "known_net": -0.20839560899999998,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 5,
+        "known_net": -0.20839560899999998,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.6855578940000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.7158291469999999,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.634346431,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.7111964150000003,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 5,
+        "known_net": -0.20399472199999996,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 5,
+        "known_net": -0.20399472199999996,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 5,
+        "known_net": -0.16212224299999994,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 5,
+        "known_net": -0.16212224299999994,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 6,
+    "start_utc": "2026-10-03T12:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.014411743999999962,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.014411743999999962,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.017607454000000036,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.017607454000000036,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.13662922400000005,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.13662922400000005,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.13585773200000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.13585773200000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.014411743999999962,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.014411743999999962,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.017607454000000036,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.017607454000000036,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 7,
+    "start_utc": "2026-10-03T13:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.227325336,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.22682033599999998,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.24832486800000003,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.188783834,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.150518035,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.150518035,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.151013035,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.151013035,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.044554768999999966,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 8,
+    "start_utc": "2026-10-03T14:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.048213378,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 9,
+    "start_utc": "2026-10-03T15:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 3,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.10542169800000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.10542169800000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.13213297099999996,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.13213297099999996,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.09293554300000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.09293554300000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.10895907099999998,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.10895907099999998,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.10542169800000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.10542169800000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.136785825,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.136785825,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 10,
+    "start_utc": "2026-10-03T16:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.01675390299999993,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 11,
+    "start_utc": "2026-10-03T17:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 4,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.10474231999999999,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.13937183300000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.12179734899999993,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.0992716239999999,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.5561414730000002,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.37092458500000025,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.899828961,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.675741016,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.12684477799999996,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.161474291,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.15446939999999998,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.17699512500000003,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 12,
+    "start_utc": "2026-10-03T18:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.03749092800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.03749092800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.03749092800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.03749092800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.04602680099999998,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.04602680099999998,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.5431418929999999,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.5431418929999999,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.22532331599999994,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.20774631599999996,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.22518423700000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.2077929300000001,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 13,
+    "start_utc": "2026-10-03T19:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 4,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.051205978999999964,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.051205978999999964,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.601448134,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.601448134,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.05725374700000002,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": -0.05725374700000002,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.09283218400000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": -0.09283218400000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.2984492450000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.14763762400000002,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.17523712000000002,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.1357359640000001,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.023560182,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.023560182,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.05913861900000002,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.05913861900000002,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 14,
+    "start_utc": "2026-10-03T20:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.08066363199999999,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.08066363199999999,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.09622788099999996,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.09622788099999996,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.21430393600000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.21430393600000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.28831220900000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.28831220900000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.6211300119999998,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.6211300119999998,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.616816297,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.616816297,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.202594092,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.202594092,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.27343036700000006,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.27343036700000006,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 15,
+    "start_utc": "2026-10-03T21:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.013947409999999952,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.013947409999999952,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.004006753000000042,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.004006753000000042,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.002473627999999993,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.002473627999999993,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.005897709000000041,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.005897709000000041,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 16,
+    "start_utc": "2026-10-03T22:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 2,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.14847412000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.21285234700000008,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": 0.17139025500000005,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.2299758290000001,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.20549302800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.20549302800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.205584412,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.205584412,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.579434194,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.23911337300000005,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.581029539,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.24358332300000002,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.196668218,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.196668218,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.027981162999999983,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.027981162999999983,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 17,
+    "start_utc": "2026-10-03T23:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 4,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.034758822999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.034758822999999966,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.10107360100000005,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.081917852,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": 0.5844325940000001,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": 0.4945584330000001,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": 0.5508385760000001,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": 0.4573299860000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.23348058500000002,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": -0.23348058500000002,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.34310691199999993,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": 0.1912144589999999,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": -0.04843549800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": -0.04843549800000002,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 4,
+        "known_net": 0.517873221,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 4,
+        "known_net": 0.468402684,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 18,
+    "start_utc": "2026-10-04T00:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 3,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.09955244399999998,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.09955244399999998,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.273085297,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.4415524299999999,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.004343957000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.004343957000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.12218290699999998,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.2378646379999999,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.4508925740000001,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.13259273600000016,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.7426285489999999,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.567137412,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.004343957000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.004343957000000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": 0.12218290699999998,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": 0.2378646379999999,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 19,
+    "start_utc": "2026-10-04T01:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 3,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.19273711899999996,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.19273711899999996,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.18966825199999998,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.18966825199999998,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.43430600299999994,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.43430600299999994,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.813350061,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.813350061,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.18063912599999998,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.18063912599999998,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.230517223,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.230517223,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 20,
+    "start_utc": "2026-10-04T02:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.015355682999999995,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 21,
+    "start_utc": "2026-10-04T03:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.019126828000000026,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.019126828000000026,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.019101836000000025,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.019101836000000025,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 0,
+        "known_net": 0,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.019126828000000026,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.019126828000000026,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.019101836000000025,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.019101836000000025,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 22,
+    "start_utc": "2026-10-04T04:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 3,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.070983408,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.070983408,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.070983408,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": -0.070983408,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.14455687900000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.14455687900000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.20707064000000003,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.20707064000000003,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.19078798499999994,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.10778456,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 2,
+        "known_net": -0.19330561200000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 2,
+        "known_net": 0.11235737199999996,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.08109372300000002,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.08109372300000002,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 3,
+        "known_net": -0.08966014900000004,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 3,
+        "known_net": -0.08966014900000004,
+        "unknown": 0
+      }
+    ]
+  },
+  {
+    "hour": 23,
+    "start_utc": "2026-10-04T05:59:02+00:00",
+    "prepared": 25,
+    "signal_coins": 1,
+    "cells": [
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.000505,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.000505,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": 0.12700841999999996,
+        "unknown": 0
+      },
+      {
+        "rule": "dislocation",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": 0.12700841999999996,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.06034045799999997,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.06034045799999997,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.060420915000000006,
+        "unknown": 0
+      },
+      {
+        "rule": "liquidity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.060420915000000006,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.22742194200000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.22742194200000004,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.22692694200000005,
+        "unknown": 0
+      },
+      {
+        "rule": "mature_fresh",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.22692694200000005,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.06034045799999997,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "next_slot_tail",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.06034045799999997,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "full_timer",
+        "attempts": 1,
+        "known_net": -0.060420915000000006,
+        "unknown": 0
+      },
+      {
+        "rule": "velocity",
+        "scenario": "same_slot_one",
+        "mode": "staged_ladder",
+        "attempts": 1,
+        "known_net": -0.060420915000000006,
+        "unknown": 0
+      }
+    ]
+  }
+]

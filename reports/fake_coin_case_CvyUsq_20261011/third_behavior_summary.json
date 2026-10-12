@@ -1,0 +1,214 @@
+{
+  "case": {
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "creator": "Fabbi4uTLHQSRHsc3t5UAFhZVuwmmsUj1hcN9nD5dK3J",
+    "capture_utc": "2026-10-11T23:56:15.640Z",
+    "inputs": [
+      "third_MANIFEST.json",
+      "third_ghost_observations.jsonl",
+      "third_ghost_holder_screen.jsonl",
+      "third_ghost_fake_detector.jsonl",
+      "third_ghost_intents.jsonl",
+      "third_ghost_trades.jsonl",
+      "third_rpc_manifest.json",
+      "third_rpc_incoming_transfers.json",
+      "early_inventory_transfers.json",
+      "shared_funder_summary.json",
+      "second_analysis_summary.json",
+      "target_events.json"
+    ],
+    "scope": "Read-only bounded receipt, holder-screen, transfer and selected funding review. The independent root transfer review supplies parsed SPL TransferChecked and post-token-balance owner verification. No RPC, source edit, runtime change, backtest or PnL claim."
+  },
+  "entry": {
+    "first_receipt_utc": "2026-10-11T23:51:42Z",
+    "first_verdict": "unknown:missing_holder_snapshot",
+    "entry_holder_screen_utc": "2026-10-11T23:53:34.752Z",
+    "entry_holder_screen_age_seconds": 10.638,
+    "entry_verdict": "watch",
+    "paper_open_utc": "2026-10-11T23:53:45.390Z",
+    "strategy": "S5",
+    "whitelisted": false,
+    "actual_fill_established": false,
+    "our_signature": null,
+    "entry_receipt_cutoff": {
+      "slot": 455839313,
+      "transaction_index": 927,
+      "signature": "5ik7j4SheKvqAruq4yXJrNhRnmexHwaNUkZEJwSNyBpX3RGD97HA5aXy4RDjVeLuKpLjjg3KKX5Zk5T7vZJ4n3ny"
+    },
+    "screen": {
+      "holder_wallets": 19,
+      "holder_sample_complete": true,
+      "receipt_records_received": 164,
+      "receipt_probe_complete": true,
+      "funding_records_received": 0,
+      "funding_wallets_sampled": 8,
+      "funding_wallet_population": 19,
+      "funding_probe_complete_reported": true,
+      "funding_error_reports_sampling_8_of_19": true,
+      "source_profiles_complete_reported": true,
+      "cross_launch_records_received": 0,
+      "cross_launch_probe_complete": false,
+      "retained_supply_lower_bound_bps": null,
+      "reason_flags": [
+        "weak_fingerprint_only",
+        "cross_launch_probe_incomplete"
+      ],
+      "report_coverage": "complete",
+      "primary_rate_limited": true,
+      "coverage_semantics_note": "Per-sampled-wallet probes succeeded, but only 8 of 19 eligible holder wallets were sampled; the report's aggregate funding complete flag does not represent complete roster coverage."
+    },
+    "later_unknown": {
+      "utc": "2026-10-11T23:54:26.609Z",
+      "reason": "missing_mint_supply",
+      "stale_evidence_flag": false
+    }
+  },
+  "pre_entry_curve": {
+    "receipt_observation_count": 308,
+    "receipt_time_start_utc": "2026-10-11T23:51:42Z",
+    "receipt_time_end_utc": "2026-10-11T23:54:27Z",
+    "external_receipts_through_entry": 224,
+    "external_users_through_entry": 152,
+    "buys_through_entry": 174,
+    "sells_through_entry": 50,
+    "users_with_both_directions_through_entry": 22,
+    "real_sol_curve_reserve": {
+      "first_observed_sol": 0.296250054,
+      "pre_entry_high_sol": 72.141858131,
+      "pre_entry_high_utc": "2026-10-11T23:52:26Z",
+      "pre_entry_low_after_high_sol": 53.519308383,
+      "entry_signal_sol": 72.018477517,
+      "graduation_boundary_sol": 84.0,
+      "interpretation": "Rapid reserve expansion, material pullback, and recovery. Reserve is not price return or PnL."
+    }
+  },
+  "initial_inventory_relay": {
+    "transfer_time_after_creation_seconds": {
+      "Cfiyy": 3,
+      "DgT6": 2
+    },
+    "sum_raw_units_per_launch": 710189998989883,
+    "sum_tokens_six_decimals_per_launch": 710189998.989883,
+    "share_of_nominal_one_billion_supply_pct": 71.0189998989883,
+    "amounts_repeat_exactly_across_launches": true,
+    "source_and_recipient_wallet_sets_repeat_exactly": false,
+    "confirmed_method": "Successful parsed TransferChecked instructions; recipient token-account owners confirmed from transaction post-token balances; each source has an exact earlier frozen curve-buy match.",
+    "pairs": [
+      {
+        "raw_amount": 352243820712452,
+        "cfiyy_buyer": "95Sp1Fr...",
+        "cfiyy_recipient": "3rroAW...",
+        "dgt6_buyer": "FySVY5...",
+        "dgt6_recipient": "BbiQH6...",
+        "dgt6_pre_entry_sells": 19,
+        "dgt6_pre_entry_sell_raw": 352243820712452,
+        "dgt6_entry_holder_sample": "not present in top 19"
+      },
+      {
+        "raw_amount": 182270662645082,
+        "cfiyy_buyer": "ExZV17...",
+        "cfiyy_recipient": "GV1Pw...",
+        "dgt6_buyer": "ikPSWAPS...",
+        "dgt6_recipient": "7pVSNB...",
+        "dgt6_pre_entry_sells": 8,
+        "dgt6_pre_entry_sell_raw": 152400000000000,
+        "dgt6_entry_holder_raw": 48920662645082,
+        "dgt6_entry_holder_pct_supply": 4.8920662645082,
+        "unreconciled_difference_raw": 19050000000000
+      },
+      {
+        "raw_amount": 106467965872131,
+        "cfiyy_buyer": "5QTUm8...",
+        "cfiyy_recipient": "DhrDvy...",
+        "dgt6_buyer": "DDPvEh...",
+        "dgt6_recipient": "B1fvn...",
+        "dgt6_pre_entry_sells": 1,
+        "dgt6_pre_entry_sell_raw": 19050000000000,
+        "dgt6_entry_holder_raw": 87417965872131,
+        "dgt6_entry_holder_pct_supply": 8.7417965872131,
+        "balance_reconciles_to_transfer_less_saved_sells": true
+      },
+      {
+        "raw_amount": 69207549760218,
+        "cfiyy_buyer": "9ka2hX...",
+        "cfiyy_recipient": "4VXsn...",
+        "dgt6_buyer": "2XUT95...",
+        "dgt6_recipient": "BMxDP...",
+        "dgt6_pre_entry_sells": 0,
+        "dgt6_pre_entry_sell_raw": 0,
+        "dgt6_entry_holder_raw": 69207549760218,
+        "dgt6_entry_holder_pct_supply": 6.920754976021801,
+        "balance_reconciles_to_transfer_less_saved_sells": true
+      }
+    ],
+    "fixed_sell_ladder_raw_amount": 19050000000000,
+    "not_proven": [
+      "common beneficial ownership",
+      "self-dealing",
+      "fabricated volume"
+    ]
+  },
+  "entry_holder_concentration": {
+    "resolved_top19_pct_supply_sum": 34.0513130787003,
+    "top3_wallets": [
+      "B1fvnK6dj5F8275cNHMmJZywvzZMstjfr9LXpbpnKzye",
+      "BMxDPG8wzexASs4FuNAaTWb4ouSoGTPp3QDALfeHJ7Xp",
+      "7pVSNBmhe6qwkvn8LQSJF5MMLAPn3AQv6AT4irbWU5kq"
+    ],
+    "top3_pct_supply_sum": 20.5546178277431,
+    "cfiyy_receipt_cohort_addresses_in_top19": 15,
+    "cfiyy_receipt_cohort_top19_share_pct_supply": 12.365988117881901,
+    "interpretation": "Sampled retention is concentration evidence only. At entry, no single confirmed narrow launch-window funding source linked the three largest retained wallets."
+  },
+  "cross_launch_cohort": {
+    "dgt6_pre_entry_external_users": 152,
+    "cfiyy_external_users": 234,
+    "exact_addresses_shared_by_entry": 112,
+    "shared_fraction_of_dgt6_pre_entry_pct": 73.6842105263158,
+    "shared_fraction_of_cfiyy_pct": 47.8632478632479,
+    "per_wallet_prior_to_first_dgt6_gap_seconds_min": 790,
+    "per_wallet_prior_to_first_dgt6_gap_seconds_max": 1008,
+    "gap_all_exceeds_detector_10m_ttl": true,
+    "shared_with_receipts_from_both_sides_at_dgt6_entry": 13,
+    "dgt6_full_capture_external_users": 199,
+    "dgt6_full_capture_exact_cfiyy_overlap": 143,
+    "cvy_full_capture_exact_dgt6_overlap": 5,
+    "cvy_exact_dgt6_overlap_by_entry": 4,
+    "interpretation": "Strong repeated address cohort between adjacent Cfiyy and DgT6 tapes; low Cvy overlap. Exact-address association does not prove common control or fake volume."
+  },
+  "selected_funding_families": [
+    {
+      "source": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+      "cross_case_link": "same signature sent 0.065732 SOL to Cfiyy GV1Pw... and DgT6 B1fvn...",
+      "bounded_50_signature_recipient_count": 53
+    },
+    {
+      "source": "BmFdpraQhkiDQE6SnfG5omcA1VwzqfXrwtNYBwWTymy6",
+      "cross_case_link": "sent 0.057667 SOL to Cfiyy 3rro... and DgT6 BbiQH6...; also selected creator funding",
+      "bounded_50_signature_recipient_count": 28
+    },
+    {
+      "source": "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
+      "cross_case_link": "sent selected funding to Cfiyy DhrD... and DgT6 creator Fabbi..., BMxDP..., and 7pVSNB...",
+      "bounded_50_signature_recipient_count": 34
+    }
+  ],
+  "policy_gaps_supported_by_this_case": [
+    "The entry funding completeness flag stayed true despite a 8-of-19 holder funding sample.",
+    "The 10-minute exact-address history expired before the repeated Cfiyy cohort returned; checkpoint restore also clears that history.",
+    "The detector receipt ring was under its 256 cap at DgT6 entry but later saturated.",
+    "The current relationship input captures curve buyers and bounded System Program SOL transfers, but not the initial SPL inventory relay path."
+  ],
+  "recommended_research_only_followups": [
+    "Add verified mint-specific SPL transfer custody edges with recipient-owner attribution and balance reconciliation.",
+    "Persist cross-launch exact-address cohorts for measured longer horizons and report age coverage.",
+    "Separate per-wallet funding probe success from complete holder-roster coverage and from source-profile candidate completeness.",
+    "Measure false positives on ordinary launches before any admission-policy or threshold change."
+  ],
+  "limits": [
+    "Frozen DgT6 observation sample ends at 23:54:27 UTC and is not a full lifecycle receipt graph.",
+    "Selected funding transactions are bounded; complete source degree and full wallet history remain unknown.",
+    "Token inventory for 7pVSNB... has a 19.05-million-token screen-to-receipt reconciliation difference in the available sample.",
+    "No evidence here establishes beneficial ownership, fabricated volume, live order execution, or profitability."
+  ]
+}

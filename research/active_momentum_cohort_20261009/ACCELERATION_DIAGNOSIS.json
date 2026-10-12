@@ -1,0 +1,52 @@
+{
+  "checked_utc": "2026-10-09T18:18:55.687766+00:00",
+  "investigation": "provider_docs_and_local_pacing",
+  "observed_issues": [
+    "request-rate pacing ignores documented method CU costs",
+    "concurrent 429s repeatedly halve shared rate for one burst",
+    "sleeping reserved starts do not recheck newer shared backoff",
+    "status file can remain collecting after process stops"
+  ],
+  "page_size_docs_vs_observation": {
+    "documented_full_page_max": 100,
+    "observed_full_transaction_bodies_per_page": 1000,
+    "sample_pages": 5,
+    "decision": "retain measured working 1000 limit; do not invalidate cache or multiply history pages"
+  },
+  "provider_requirements": "complete Aug/Sep archive, canonical ordered block signatures, authenticated full address history including failed receipts",
+  "new_live_grpc_feed_required": false,
+  "sources": [
+    "https://www.alchemy.com/docs/reference/throughput",
+    "https://www.alchemy.com/docs/reference/compute-unit-costs",
+    "https://www.alchemy.com/docs/chains/solana/solana-api-endpoints/get-transactions-for-address"
+  ],
+  "scope": "collection only, no simulations or trading changes",
+  "user_dashboard_report": {
+    "reported_utc": "2026-10-09T18:22:13.271263+00:00",
+    "plan": "Free",
+    "monthly_used_cu": 13400000,
+    "monthly_limit_cu": 30000000,
+    "monthly_remaining_cu": 16600000,
+    "throughput_limit_cu_per_second": 500,
+    "peak_last7days_cu_per_second": 602.7,
+    "source": "user-provided dashboard, takes precedence over generic documentation tier example"
+  },
+  "pacing_fix": {
+    "on_disk_algorithm": "weighted_jit_v2",
+    "local_default_budget_cu_per_second": 400,
+    "tests_passed": 23,
+    "live_activation": "pending controlled restart; existing externally restarted workers imported prior module",
+    "rpc_pool_sha256": "f60c7f4bf92fdf721b07ec9c918a37166e5a0ed6b606f747cbd94da64cbd735c"
+  },
+  "additional_probe": {
+    "file": "FULL_BLOCK_CAPABILITIES.json",
+    "result": "Solami full mode also mismatched canonical ordered signatures in both monthly samples; leave archive routing disabled"
+  },
+  "planning_estimate": {
+    "sample_admitted_coins": 14,
+    "checked_block_slots": 4255,
+    "sample_mean_slots": 303.92857142857144,
+    "projected_block_check_cu_for_2000_before_cache_reuse": 24314285.714285713,
+    "limitations": "small nonrepresentative early sample; excludes history calls/retries; shared slot-cache reuse may reduce requests"
+  }
+}

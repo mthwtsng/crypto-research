@@ -1,0 +1,18 @@
+{
+  "entry": {
+    "signature": "2rfD3n16jqnQTPhB3CQoyVwSKaB7BUJHtGQdfD1PuEpCgdzHfK1MjW246Zws94nv9NZwG2N8VzBEsBkxYvHecPZa",
+    "slot": 455838080,
+    "meta_err": null,
+    "slot_matches": true,
+    "program_data_exact_match": true,
+    "program_data_sha256": "7ff8bcad0ebbe0b9a0fa705d6c7516d754fa3848915207c26f756d237302e73d"
+  },
+  "exit_trigger": {
+    "signature": "4T73GvmPFksakZWVn2X1WLVeLysThZucjE5WB6STaoghLKuKf7mPkcw3qLDfAWdcrzxpCPEcA4Snq4kS4Exe7DXj",
+    "slot": 455838208,
+    "meta_err": null,
+    "slot_matches": true,
+    "program_data_exact_match": true,
+    "program_data_sha256": "351036f7f95f53e5b41bf137065b13b6d732c3233cd9e4909bd480d1caef68fb"
+  }
+}

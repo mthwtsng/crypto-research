@@ -1,0 +1,55 @@
+{
+  "accounting_anchor": "data/ghost_summary.json updated_at_utc 2026-10-11T07:34:47.754946230+00:00",
+  "frozen_report_evidence": {
+    "current_vm_trades.jsonl": {
+      "rows": 42,
+      "sha256": "52ff950b07c597790bf3c14d8a152cc2100abe42dac05cf6286279440c635a38",
+      "size_bytes": 89601
+    },
+    "ghost_summary.json": {
+      "sha256": "260d0b1378107e27cd8d64873ca50cbb32400ff75dcb40f769e25c90e7cf2c47",
+      "size_bytes": 27627
+    },
+    "runtime_state_excerpt.json": {
+      "sha256": "540dedaf55ebd9094082bca2ac33779bceae62126e30f07595eccc22178b1e89",
+      "size_bytes": 1298
+    }
+  },
+  "full_raw_snapshot_in_tmp": {
+    "ghost_runtime_state.json": {
+      "read_size_bytes": 8831052,
+      "sha256": "785276bed3110a4f6ee2a5134db4bc8001448c3c915f3fc9bd5703933cab2816",
+      "size_bytes": 8831052,
+      "snapshot_path": "/tmp/new_profit_20261011_snapshot/ghost_runtime_state.json",
+      "source": "data/ghost_runtime_state.json",
+      "source_mtime_ns": 1791704095859881716,
+      "source_mtime_utc": "2026-10-11T07:34:55.859882+00:00"
+    },
+    "ghost_summary.json": {
+      "read_size_bytes": 27627,
+      "sha256": "260d0b1378107e27cd8d64873ca50cbb32400ff75dcb40f769e25c90e7cf2c47",
+      "size_bytes": 27627,
+      "snapshot_path": "/tmp/new_profit_20261011_snapshot/ghost_summary.json",
+      "source": "data/ghost_summary.json",
+      "source_mtime_ns": 1791704087750735317,
+      "source_mtime_utc": "2026-10-11T07:34:47.750735+00:00"
+    },
+    "ghost_trades.jsonl": {
+      "read_size_bytes": 234398,
+      "sha256": "31a332709913b5c76994512d5ace7941e23a8ef396cb94729e96c8be1b90388e",
+      "size_bytes": 234398,
+      "snapshot_path": "/tmp/new_profit_20261011_snapshot/ghost_trades.jsonl",
+      "source": "data/ghost_trades.jsonl",
+      "source_mtime_ns": 1791704047159343565,
+      "source_mtime_utc": "2026-10-11T07:34:07.159343+00:00"
+    }
+  },
+  "previous_report": {
+    "path": "reports/shadow_situation_20261011/REPORT.md",
+    "sha256": "b19b700f95713a3548a45f727ee58db7e898b50ebca995de3de18742459e839a"
+  },
+  "read_note": "Source files were stat-checked before and after each read; no source changed during snapshot reads.",
+  "selection": "Current VM rows only, exact JSONL lines from the frozen raw trade log; includes OPEN and CLOSE events, no other VM IDs.",
+  "snapshot_created_utc": "2026-10-11T07:34:56Z",
+  "vm_id": "ghost-v2-20261011T064058"
+}

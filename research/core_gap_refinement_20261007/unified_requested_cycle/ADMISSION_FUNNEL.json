@@ -1,0 +1,21 @@
+{
+  "creation_selected_launches": 1800,
+  "candidate_strategy_signals": 223,
+  "unique_signaled_mints": 166,
+  "signals_by_strategy": {
+    "S1": 36,
+    "S2": 49,
+    "S3": 29,
+    "S4": 89,
+    "S5": 20
+  },
+  "central85_full_portfolio": {
+    "admitted_attempts": 8,
+    "capacity_skips": 214,
+    "same_mint_open_skips": 1,
+    "cash_skips": 0,
+    "breaker_trips": 0,
+    "unresolved_carryovers": 2
+  },
+  "interpretation": "Replay coverage gaps retain unknown positions indefinitely; this is not observed multi-day live holding. Increasing coin count alone does not fix admission blockage."
+}

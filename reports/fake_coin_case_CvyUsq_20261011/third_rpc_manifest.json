@@ -1,0 +1,17 @@
+{
+  "asof_utc": "2026-10-11T23:57:58.292389+00:00",
+  "wallets": [
+    "Fabbi4uTLHQSRHsc3t5UAFhZVuwmmsUj1hcN9nD5dK3J",
+    "BbiQH6H9eatoKLfejwoqG1hFg8W8XHXiAwbYJecamaAg",
+    "B1fvnK6dj5F8275cNHMmJZywvzZMstjfr9LXpbpnKzye",
+    "BMxDPG8wzexASs4FuNAaTWb4ouSoGTPp3QDALfeHJ7Xp",
+    "7pVSNBmhe6qwkvn8LQSJF5MMLAPn3AQv6AT4irbWU5kq",
+    "5BAqToxLmn1a4yQdy6Q2FUAEWxHSSy4oELVML5VgufBZ",
+    "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc"
+  ],
+  "signature_limit": 100,
+  "selection": "before firsttargetreceipt; first8+last8 successful plusfirsttargetreceipt",
+  "transactions_requested": 48,
+  "transactions_resolved": 48,
+  "funding_history_complete": false
+}

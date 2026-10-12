@@ -1,0 +1,34 @@
+{
+  "frozen_at": "2026-10-08T02:20:55.471479+00:00",
+  "after_results": "9 individual refinements already inspected",
+  "new_looks": 5,
+  "new_configs": {
+    "deadman_next_group": {
+      "entry": "dip_next_group"
+    },
+    "joint_keep_targets_dead10": {
+      "s4_timeout": 20,
+      "s4_stop": 0.15
+    },
+    "joint_lower_target_dead10": {
+      "s1_target": 0.1,
+      "s4_timeout": 20,
+      "s4_stop": 0.15
+    },
+    "joint_keep_targets_dead3": {
+      "s3_scratch": 3,
+      "s4_timeout": 20,
+      "s4_stop": 0.15
+    },
+    "joint_lower_target_dead3": {
+      "s1_target": 0.1,
+      "s3_scratch": 3,
+      "s4_timeout": 20,
+      "s4_stop": 0.15
+    }
+  },
+  "entry_control": "first eventful completed curve group within2slots after dip, without a recovery-buy condition; new min-output reference at that signal",
+  "joint_entry_rules": "same-signal dev breadth filter; causal recovery confirmation on dead-man; other original signals unchanged",
+  "selection_honesty": "retrospective selected combinations; fresh sample not yet inspected; no combined profits known at freeze",
+  "hash": "380ab025527d8e08cf74d6cc204658e22776d33f069b3be8eedfbb57becea5b0"
+}

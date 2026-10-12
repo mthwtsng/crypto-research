@@ -1,0 +1,22 @@
+{
+  "frozen_at": "2026-10-08T02:34:06.448987+00:00",
+  "evidence": "Recovery-confirmed entries have executable+5% within10s on5/6 fills, versus6/15 original; still negative under inherited runner exits",
+  "new_exit_looks": 3,
+  "configs": {
+    "confirmed_full5": {
+      "entry": "dip_confirm",
+      "s3_full_target": 0.05
+    },
+    "confirmed_full10": {
+      "entry": "dip_confirm",
+      "s3_full_target": 0.1
+    },
+    "confirmed_half10": {
+      "entry": "dip_confirm",
+      "s3_half_target": 0.1
+    }
+  },
+  "controls": "same recovery-confirmed entry, original exits; fixed causal fills and all fees; peaks are not assumed fills",
+  "status": "development on Oct3\u20134, fresh-transfer outcomes not inspected",
+  "hash": "983db340f47809405216419f4e02e63bdc80ee0d0fc14086f59bbcc21cf20205"
+}

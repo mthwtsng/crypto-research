@@ -1,0 +1,33 @@
+{
+  "created": "2026-10-07T18:12:57.699767+00:00",
+  "source_sha256": "96f69d2187d932f6fa1f39f1f9bd41e60cf584037caa5c822d1fe6061f34b058",
+  "entry_looks": 4,
+  "exit_looks": 0,
+  "rule_names": [
+    "broad_recovery",
+    "fresh_expansion",
+    "quiet_absorption",
+    "late_continuation"
+  ],
+  "bankroll_SOL": 15,
+  "ticket_SOL": 0.5,
+  "maximum_ticket_SOL": 0.75,
+  "max_positions": 2,
+  "placement": [
+    "fast",
+    "central80",
+    "central85",
+    "slow"
+  ],
+  "min_tokens_fraction": 0.97,
+  "horizons_seconds": [
+    10,
+    30,
+    60,
+    180,
+    600
+  ],
+  "data": "600 previously inspected outcome-independent normal-SOL creation-sampled launches; retrospective development. Source wallet40 histories used for hypotheses only, not performance cohort.",
+  "migration": "authenticate rtokens exhaustion and actual pool availability; preserve custody; no universal84SOL boundary or synthetic opening state",
+  "stage": "entry diagnostics before any exit optimization"
+}

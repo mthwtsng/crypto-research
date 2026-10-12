@@ -1,0 +1,25 @@
+{
+  "exit_code": 124,
+  "observations": 1743,
+  "creations": 8,
+  "trade_events": 1609,
+  "complete_instruction_events": 1609,
+  "tracking_counts": {
+    "complete": 1,
+    "incomplete_history": 81,
+    "missing_creation": 77
+  },
+  "checkpoint_tracking_reasons": {
+    "wallet custody differs from covered swap history": 1,
+    "ordered custody coverage incomplete; setup history needs repair": 2,
+    "creation history missing; setup features incomplete": 97,
+    "stream history interrupted; backfill required": 5
+  },
+  "sol_usd_price": 111.42,
+  "sol_usd_price_source": "coingecko_simple_price",
+  "sol_usd_price_source_at_ms": 1791766658000,
+  "active_positions": 0,
+  "closed_trades": 0,
+  "calculation_model_revision": "persistent_curve_v4",
+  "paper_entries_disabled": true
+}

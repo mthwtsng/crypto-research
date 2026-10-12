@@ -1,0 +1,18 @@
+{
+  "exit_code": 124,
+  "observations": 807,
+  "creations": 11,
+  "complete_instruction_events": 521,
+  "trade_events": 799,
+  "tracking_counts": {
+    "complete": 0,
+    "incomplete_history": 70,
+    "missing_creation": 63
+  },
+  "sol_usd_price": null,
+  "sol_usd_price_source": "CoinGecko_simple_price_timestamped",
+  "active_positions": 0,
+  "closed_trades": 0,
+  "calculation_model_revision": "persistent_curve_v4",
+  "paper_entries_disabled": true
+}

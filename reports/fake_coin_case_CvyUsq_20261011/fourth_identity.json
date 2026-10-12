@@ -1,0 +1,9 @@
+{
+  "supplied_address": "Htgwb58PvcZ9qqRu7UcMEn9JdV9vzdTdDLHW9f3ockDW",
+  "type": "Pump bonding curve account",
+  "token_mints_owned_in_authenticated_transaction": [
+    "7xJKazFtFNEGUQB85KaFn5GDYGGFjUeNBTD8D1mQpump"
+  ],
+  "resolution_signature": "2KE9LztZdZySp1Joyum31CqftU8BTkRNoTggTyDoVSTSbKpZGttf452r9PddntEG4uhuAMRUYc5mDneAquyJqxpP",
+  "block_time": 1791763247
+}

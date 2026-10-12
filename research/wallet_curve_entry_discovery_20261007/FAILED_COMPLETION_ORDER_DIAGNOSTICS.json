@@ -1,0 +1,257 @@
+{
+  "scope": "Counterfactual quote-only completion diagnostics, no full failed-transaction execution or migration proof. Bounds use last retained source fee rates; dynamic fee uncertainty remains.",
+  "coverage": [
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "status": "collected",
+      "receipts": 369
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "status": "collected",
+      "receipts": 30
+    },
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "status": "collected",
+      "receipts": 16
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "status": "collected",
+      "receipts": 252
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "status": "collected",
+      "receipts": 4794
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "status": "collected",
+      "receipts": 1024
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "status": "collected",
+      "receipts": 2097
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "status": "collected",
+      "receipts": 669
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "status": "collected",
+      "receipts": 11547
+    }
+  ],
+  "rows": [
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "rule": "quiet_absorption",
+      "counts": {
+        "public_completion_failed_buys": 10,
+        "quote_limit_compatible": 6
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "rule": "broad_recovery",
+      "counts": {
+        "public_completion_failed_buys": 10,
+        "quote_limit_compatible": 6
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "rule": "late_continuation",
+      "counts": {
+        "public_completion_failed_buys": 3,
+        "quote_limit_compatible": 1
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "public_completion_failed_buys": 3,
+        "quote_limit_compatible": 1
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "rule": "late_continuation",
+      "counts": {
+        "public_completion_failed_buys": 3
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "rule": "fresh_expansion",
+      "counts": {
+        "public_completion_failed_buys": 2,
+        "quote_limit_compatible": 1
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "rule": "quiet_absorption",
+      "counts": {
+        "public_completion_failed_buys": 2,
+        "quote_limit_compatible": 1
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "rule": "late_continuation",
+      "counts": {
+        "public_completion_failed_buys": 2,
+        "quote_limit_compatible": 1
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "rule": "broad_recovery",
+      "counts": {
+        "public_completion_failed_buys": 5,
+        "quote_limit_compatible": 2
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "rule": "fresh_expansion",
+      "counts": {
+        "public_completion_failed_buys": 5,
+        "quote_limit_compatible": 2
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "rule": "late_continuation",
+      "counts": {
+        "public_completion_failed_buys": 5,
+        "quote_limit_compatible": 3
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "rule": "fresh_expansion",
+      "counts": {
+        "public_completion_failed_buys": 5,
+        "quote_limit_compatible": 3
+      },
+      "completion_candidates": []
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "public_completion_failed_buys": 24,
+        "quote_limit_compatible": 8,
+        "quote_could_exhaust_remaining": 1
+      },
+      "completion_candidates": [
+        {
+          "signature": "25mJoJ2Q3xDqwGwKk57QvhQF7CAbvRVeQywB9zeDPGmUTk7erS1q37zUs7Sa4onH3XF3gvVaT1kDwC36TBaiBr4x",
+          "slot": 453040695,
+          "index": 1097,
+          "time": 1791059201,
+          "instruction": "buy_exact_quote_in_v2",
+          "gross_lamports": 142295332,
+          "tokens_raw": 342461275347
+        }
+      ]
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "rule": "late_continuation",
+      "counts": {
+        "public_completion_failed_buys": 24,
+        "quote_limit_compatible": 7,
+        "quote_could_exhaust_remaining": 1
+      },
+      "completion_candidates": [
+        {
+          "signature": "25mJoJ2Q3xDqwGwKk57QvhQF7CAbvRVeQywB9zeDPGmUTk7erS1q37zUs7Sa4onH3XF3gvVaT1kDwC36TBaiBr4x",
+          "slot": 453040695,
+          "index": 1097,
+          "time": 1791059201,
+          "instruction": "buy_exact_quote_in_v2",
+          "gross_lamports": 132204607,
+          "tokens_raw": 318148386423
+        }
+      ]
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "rule": "fresh_expansion",
+      "counts": {},
+      "completion_candidates": []
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "rule": "quiet_absorption",
+      "counts": {},
+      "completion_candidates": []
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "rule": "late_continuation",
+      "counts": {},
+      "completion_candidates": []
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "rule": "fresh_expansion",
+      "counts": {
+        "public_completion_failed_buys": 7,
+        "quote_limit_compatible": 5,
+        "quote_could_exhaust_remaining": 1
+      },
+      "completion_candidates": [
+        {
+          "signature": "5HtX6akbpfGp56awa6DjvW8zoQCAUV7Hizw4763ZeXpKHnmkVnYmQGBNHL2k2MS1P48U2DhQ5DorSDREwqPbRatq",
+          "slot": 453183740,
+          "index": 743,
+          "time": 1791097440,
+          "instruction": "buy_exact_sol_in",
+          "gross_lamports": 302688715,
+          "tokens_raw": 729485076921
+        }
+      ]
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "rule": "broad_recovery",
+      "counts": {
+        "public_completion_failed_buys": 7,
+        "quote_limit_compatible": 4,
+        "quote_could_exhaust_remaining": 1
+      },
+      "completion_candidates": [
+        {
+          "signature": "5HtX6akbpfGp56awa6DjvW8zoQCAUV7Hizw4763ZeXpKHnmkVnYmQGBNHL2k2MS1P48U2DhQ5DorSDREwqPbRatq",
+          "slot": 453183740,
+          "index": 743,
+          "time": 1791097440,
+          "instruction": "buy_exact_sol_in",
+          "gross_lamports": 121073736,
+          "tokens_raw": 291334236584
+        }
+      ]
+    }
+  ]
+}

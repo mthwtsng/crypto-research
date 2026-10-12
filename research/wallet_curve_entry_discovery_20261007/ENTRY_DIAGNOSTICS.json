@@ -1,0 +1,752 @@
+[
+  {
+    "rule": "broad_recovery",
+    "scenario": "fast",
+    "attempts": 40,
+    "statuses": {
+      "covered": 34,
+      "partial": 6
+    },
+    "reasons": {
+      "counterparty_liquidity": 4
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 40,
+        "mean": -0.003977509299999998,
+        "median": -0.007068035,
+        "positive": 19
+      },
+      "30": {
+        "n": 40,
+        "mean": -0.012619776050000003,
+        "median": 0.00439911,
+        "positive": 21
+      },
+      "60": {
+        "n": 40,
+        "mean": -0.02069409485,
+        "median": -0.047031167,
+        "positive": 17
+      },
+      "180": {
+        "n": 39,
+        "mean": 0.13705164682051282,
+        "median": -0.145921366,
+        "positive": 15
+      },
+      "600": {
+        "n": 34,
+        "mean": -0.3638354895882353,
+        "median": -0.500759086,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "broad_recovery",
+    "scenario": "central80",
+    "attempts": 40,
+    "statuses": {
+      "covered": 29,
+      "failed": 7,
+      "partial": 4
+    },
+    "reasons": {
+      "entry_guard": 7,
+      "counterparty_liquidity": 2
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 33,
+        "mean": -0.057848520787878784,
+        "median": -0.026654146,
+        "positive": 13
+      },
+      "30": {
+        "n": 33,
+        "mean": -0.057361363212121215,
+        "median": -0.027355878,
+        "positive": 15
+      },
+      "60": {
+        "n": 33,
+        "mean": -0.05425830472727273,
+        "median": -0.082563364,
+        "positive": 13
+      },
+      "180": {
+        "n": 32,
+        "mean": 0.099734692875,
+        "median": -0.110050633,
+        "positive": 12
+      },
+      "600": {
+        "n": 29,
+        "mean": -0.3420839502758621,
+        "median": -0.511004472,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "broad_recovery",
+    "scenario": "central85",
+    "attempts": 40,
+    "statuses": {
+      "covered": 29,
+      "failed": 7,
+      "partial": 4
+    },
+    "reasons": {
+      "entry_guard": 7,
+      "counterparty_liquidity": 2
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 33,
+        "mean": -0.05741285290909091,
+        "median": -0.026654146,
+        "positive": 13
+      },
+      "30": {
+        "n": 33,
+        "mean": -0.05690864993939394,
+        "median": -0.027355878,
+        "positive": 15
+      },
+      "60": {
+        "n": 33,
+        "mean": -0.053768733757575765,
+        "median": -0.082563364,
+        "positive": 13
+      },
+      "180": {
+        "n": 32,
+        "mean": 0.1016265274375,
+        "median": -0.110050633,
+        "positive": 12
+      },
+      "600": {
+        "n": 29,
+        "mean": -0.3420839502758621,
+        "median": -0.511004472,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "broad_recovery",
+    "scenario": "slow",
+    "attempts": 40,
+    "statuses": {
+      "covered": 23,
+      "failed": 14,
+      "partial": 3
+    },
+    "reasons": {
+      "entry_guard": 14,
+      "counterparty_liquidity": 1
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 26,
+        "mean": -0.09761641023076922,
+        "median": -0.069858101,
+        "positive": 7
+      },
+      "30": {
+        "n": 26,
+        "mean": -0.0984968356923077,
+        "median": -0.057450083,
+        "positive": 9
+      },
+      "60": {
+        "n": 26,
+        "mean": -0.09856557253846154,
+        "median": -0.15259862899999999,
+        "positive": 9
+      },
+      "180": {
+        "n": 25,
+        "mean": 0.02852317448000001,
+        "median": -0.0741799,
+        "positive": 10
+      },
+      "600": {
+        "n": 23,
+        "mean": -0.3215363687826087,
+        "median": -0.511004472,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "fresh_expansion",
+    "scenario": "fast",
+    "attempts": 46,
+    "statuses": {
+      "covered": 38,
+      "partial": 8
+    },
+    "reasons": {
+      "counterparty_liquidity": 6
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 46,
+        "mean": -0.04416592917391304,
+        "median": -0.035741037,
+        "positive": 18
+      },
+      "30": {
+        "n": 46,
+        "mean": -0.05155119413043478,
+        "median": -0.064794714,
+        "positive": 18
+      },
+      "60": {
+        "n": 46,
+        "mean": 0.011583358478260865,
+        "median": -0.0003971039999999997,
+        "positive": 23
+      },
+      "180": {
+        "n": 44,
+        "mean": 0.11069280854545455,
+        "median": -0.23511653500000002,
+        "positive": 19
+      },
+      "600": {
+        "n": 38,
+        "mean": -0.3846098868421053,
+        "median": -0.571075709,
+        "positive": 4
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "fresh_expansion",
+    "scenario": "central80",
+    "attempts": 46,
+    "statuses": {
+      "covered": 35,
+      "partial": 8,
+      "failed": 3
+    },
+    "reasons": {
+      "counterparty_liquidity": 6,
+      "entry_guard": 3
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 43,
+        "mean": -0.04219556130232558,
+        "median": -0.035619268,
+        "positive": 18
+      },
+      "30": {
+        "n": 43,
+        "mean": -0.04105616469767442,
+        "median": -0.065032052,
+        "positive": 18
+      },
+      "60": {
+        "n": 43,
+        "mean": 0.001087945348837204,
+        "median": 0.006784164,
+        "positive": 22
+      },
+      "180": {
+        "n": 41,
+        "mean": 0.13924086912195122,
+        "median": -0.149344616,
+        "positive": 18
+      },
+      "600": {
+        "n": 35,
+        "mean": -0.46094118868571426,
+        "median": -0.558475894,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "fresh_expansion",
+    "scenario": "central85",
+    "attempts": 46,
+    "statuses": {
+      "covered": 35,
+      "partial": 8,
+      "failed": 3
+    },
+    "reasons": {
+      "counterparty_liquidity": 6,
+      "entry_guard": 3
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 43,
+        "mean": -0.038975757627906976,
+        "median": -0.035619268,
+        "positive": 18
+      },
+      "30": {
+        "n": 43,
+        "mean": -0.040412144418604655,
+        "median": -0.064557376,
+        "positive": 18
+      },
+      "60": {
+        "n": 43,
+        "mean": 0.001768549860465111,
+        "median": 0.006784164,
+        "positive": 22
+      },
+      "180": {
+        "n": 41,
+        "mean": 0.13960989443902438,
+        "median": -0.149344616,
+        "positive": 18
+      },
+      "600": {
+        "n": 35,
+        "mean": -0.46061103800000003,
+        "median": -0.558475894,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "fresh_expansion",
+    "scenario": "slow",
+    "attempts": 46,
+    "statuses": {
+      "covered": 30,
+      "partial": 7,
+      "failed": 9
+    },
+    "reasons": {
+      "counterparty_liquidity": 6,
+      "entry_guard": 9
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 37,
+        "mean": -0.01628381972972973,
+        "median": -0.033906452,
+        "positive": 15
+      },
+      "30": {
+        "n": 37,
+        "mean": -0.0020874605405405435,
+        "median": -0.036180638,
+        "positive": 17
+      },
+      "60": {
+        "n": 37,
+        "mean": 0.07020787416216216,
+        "median": 0.018038026,
+        "positive": 20
+      },
+      "180": {
+        "n": 35,
+        "mean": 0.24169364440000002,
+        "median": -0.069812036,
+        "positive": 17
+      },
+      "600": {
+        "n": 30,
+        "mean": -0.4893346862,
+        "median": -0.55024027,
+        "positive": 1
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "quiet_absorption",
+    "scenario": "fast",
+    "attempts": 27,
+    "statuses": {
+      "covered": 21,
+      "partial": 6
+    },
+    "reasons": {
+      "counterparty_liquidity": 3
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 27,
+        "mean": -0.015322213333333338,
+        "median": -0.004116942,
+        "positive": 13
+      },
+      "30": {
+        "n": 27,
+        "mean": -0.0014811361481481486,
+        "median": 0.029314726,
+        "positive": 17
+      },
+      "60": {
+        "n": 27,
+        "mean": 0.051201824444444446,
+        "median": 0.12463767,
+        "positive": 18
+      },
+      "180": {
+        "n": 26,
+        "mean": 0.23597659776923077,
+        "median": 0.164582114,
+        "positive": 16
+      },
+      "600": {
+        "n": 21,
+        "mean": -0.2640170649523809,
+        "median": -0.43911395,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "quiet_absorption",
+    "scenario": "central80",
+    "attempts": 27,
+    "statuses": {
+      "failed": 5,
+      "covered": 17,
+      "partial": 5
+    },
+    "reasons": {
+      "entry_guard": 5,
+      "counterparty_liquidity": 2
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 22,
+        "mean": -0.040584906272727275,
+        "median": -0.024815300999999998,
+        "positive": 9
+      },
+      "30": {
+        "n": 22,
+        "mean": -0.05729189063636364,
+        "median": 0.004744783,
+        "positive": 11
+      },
+      "60": {
+        "n": 22,
+        "mean": -0.026156390818181816,
+        "median": 0.070295595,
+        "positive": 13
+      },
+      "180": {
+        "n": 21,
+        "mean": 0.16355879533333334,
+        "median": 0.054788766,
+        "positive": 11
+      },
+      "600": {
+        "n": 17,
+        "mean": -0.1999544403529412,
+        "median": -0.412226292,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "quiet_absorption",
+    "scenario": "central85",
+    "attempts": 27,
+    "statuses": {
+      "failed": 5,
+      "covered": 17,
+      "partial": 5
+    },
+    "reasons": {
+      "entry_guard": 5,
+      "counterparty_liquidity": 2
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 22,
+        "mean": -0.04064452281818182,
+        "median": -0.025325241,
+        "positive": 9
+      },
+      "30": {
+        "n": 22,
+        "mean": -0.05766745127272727,
+        "median": 0.004744783,
+        "positive": 11
+      },
+      "60": {
+        "n": 22,
+        "mean": -0.026956480636363637,
+        "median": 0.070295595,
+        "positive": 13
+      },
+      "180": {
+        "n": 21,
+        "mean": 0.16034526380952382,
+        "median": 0.054788766,
+        "positive": 11
+      },
+      "600": {
+        "n": 17,
+        "mean": -0.1999544403529412,
+        "median": -0.412226292,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "quiet_absorption",
+    "scenario": "slow",
+    "attempts": 27,
+    "statuses": {
+      "failed": 7,
+      "covered": 16,
+      "partial": 4
+    },
+    "reasons": {
+      "entry_guard": 7,
+      "counterparty_liquidity": 2
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 20,
+        "mean": -0.06989069989999999,
+        "median": -0.031047879,
+        "positive": 7
+      },
+      "30": {
+        "n": 20,
+        "mean": -0.0824563157,
+        "median": -0.0016062920000000005,
+        "positive": 10
+      },
+      "60": {
+        "n": 20,
+        "mean": -0.027769943900000003,
+        "median": 0.070787106,
+        "positive": 12
+      },
+      "180": {
+        "n": 19,
+        "mean": 0.17039285294736842,
+        "median": 0.037711792,
+        "positive": 10
+      },
+      "600": {
+        "n": 16,
+        "mean": -0.18854605525,
+        "median": -0.424409363,
+        "positive": 3
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "late_continuation",
+    "scenario": "fast",
+    "attempts": 7,
+    "statuses": {
+      "partial": 7
+    },
+    "reasons": {
+      "counterparty_liquidity": 7
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 7,
+        "mean": -0.010697127714285715,
+        "median": -0.001209296,
+        "positive": 3
+      },
+      "30": {
+        "n": 4,
+        "mean": -0.008239964,
+        "median": 0.017045668000000003,
+        "positive": 2
+      },
+      "60": {
+        "n": 3,
+        "mean": -0.07398153933333333,
+        "median": -0.071838542,
+        "positive": 1
+      },
+      "180": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      },
+      "600": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "late_continuation",
+    "scenario": "central80",
+    "attempts": 7,
+    "statuses": {
+      "partial": 7
+    },
+    "reasons": {
+      "counterparty_liquidity": 7
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 7,
+        "mean": -0.010166127714285716,
+        "median": -0.012862454,
+        "positive": 3
+      },
+      "30": {
+        "n": 4,
+        "mean": -0.014670832499999998,
+        "median": 0.011668638000000002,
+        "positive": 2
+      },
+      "60": {
+        "n": 3,
+        "mean": -0.08238191933333333,
+        "median": -0.069825766,
+        "positive": 1
+      },
+      "180": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      },
+      "600": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "late_continuation",
+    "scenario": "central85",
+    "attempts": 7,
+    "statuses": {
+      "partial": 7
+    },
+    "reasons": {
+      "counterparty_liquidity": 7
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 7,
+        "mean": -0.010166127714285716,
+        "median": -0.012862454,
+        "positive": 3
+      },
+      "30": {
+        "n": 4,
+        "mean": -0.014670832499999998,
+        "median": 0.011668638000000002,
+        "positive": 2
+      },
+      "60": {
+        "n": 3,
+        "mean": -0.08238191933333333,
+        "median": -0.069825766,
+        "positive": 1
+      },
+      "180": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      },
+      "600": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  },
+  {
+    "rule": "late_continuation",
+    "scenario": "slow",
+    "attempts": 7,
+    "statuses": {
+      "partial": 7
+    },
+    "reasons": {
+      "counterparty_liquidity": 7
+    },
+    "migration_continuation_needed": 0,
+    "horizons": {
+      "10": {
+        "n": 7,
+        "mean": -0.007440904000000001,
+        "median": 0.009880026,
+        "positive": 4
+      },
+      "30": {
+        "n": 4,
+        "mean": -0.009959782499999997,
+        "median": 0.024149159000000003,
+        "positive": 2
+      },
+      "60": {
+        "n": 3,
+        "mean": -0.06985952466666666,
+        "median": -0.069825766,
+        "positive": 1
+      },
+      "180": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      },
+      "600": {
+        "n": 0,
+        "mean": null,
+        "median": null,
+        "positive": 0
+      }
+    },
+    "scope": "initial entry opportunities, censored cases retained; not executable exit PnL"
+  }
+]

@@ -1,0 +1,3479 @@
+[
+  {
+    "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+    "rule": "s5_carryover",
+    "reserve": 72.13455812,
+    "age": 442,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 2.295927054,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "unresolved",
+    "baseline_net_SOL": -0.50354428,
+    "baseline_exit": null,
+    "baseline_hold": null,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.087660104,
+      "spot_return": -0.058525085971823376,
+      "MFE": -0.030711366,
+      "MAE": -0.090820884,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.095962812,
+      "spot_return": -0.06705656055172604,
+      "MFE": -0.030711366,
+      "MAE": -0.121930786,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.007068286,
+      "spot_return": 0.024301175753562276,
+      "MFE": 0.022996122,
+      "MAE": -0.121930786,
+      "spot_MFE": 0.0552054473656749,
+      "net_hits": {
+        "0.02": 24,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+    "rule": "s1_dev_absorption",
+    "reserve": 3.224055183,
+    "age": 2,
+    "recent_buyers": 5,
+    "recent_buy_SOL": 1.800197527,
+    "recent_sell_SOL": 7.841776756,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.026234877,
+    "baseline_exit": "timeout",
+    "baseline_hold": 6,
+    "neutral_MFE_before_exit": 0.073033106,
+    "neutral_MFE_after_exit_until60": 0.168248238,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.014372958,
+      "spot_return": 0.016875880603943072,
+      "MFE": 0.073033106,
+      "MAE": -0.045028498,
+      "spot_MFE": 0.10720871680014477,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 2,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.054491016,
+      "spot_return": 0.08803860327001245,
+      "MFE": 0.073033106,
+      "MAE": -0.045028498,
+      "spot_MFE": 0.10720871680014477,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 2,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.123105058,
+      "spot_return": 0.15899543209361622,
+      "MFE": 0.168248238,
+      "MAE": -0.045028498,
+      "spot_MFE": 0.20570774722664353,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 2,
+        "0.1": 21,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.557181948,
+    "age": 69,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 3.91111111,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.090446716,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 32,
+    "neutral_MFE_before_exit": 0.367416258,
+    "neutral_MFE_after_exit_until60": 0.3665556,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.09560902,
+      "spot_return": 0.13035645414907315,
+      "MFE": 0.09560902,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.13035645414907315,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 4,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.336448884,
+      "spot_return": 0.37927493698201165,
+      "MFE": 0.367416258,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.4113156248032688,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 4,
+        "0.1": 11,
+        "0.2": 14,
+        "0.25": 14
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.319776874,
+      "spot_return": 0.36202825132990624,
+      "MFE": 0.367416258,
+      "MAE": -0.078127758,
+      "spot_MFE": 0.4113156248032688,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 4,
+        "0.1": 11,
+        "0.2": 14,
+        "0.25": 14
+      }
+    }
+  },
+  {
+    "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+    "rule": "s4_upper_ath",
+    "reserve": 17.598311621,
+    "age": 83,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 2.444444443,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.004461017,
+    "baseline_exit": "velocity_timeout",
+    "baseline_hold": 7,
+    "neutral_MFE_before_exit": 0.070393232,
+    "neutral_MFE_after_exit_until60": 0.03735046,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.126085672,
+      "spot_return": -0.09825574143997595,
+      "MFE": 0.070393232,
+      "MAE": -0.126085672,
+      "spot_MFE": 0.10424023778488767,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.303463388,
+      "spot_return": -0.28078094005836496,
+      "MFE": 0.070393232,
+      "MAE": -0.303463388,
+      "spot_MFE": 0.10424023778488767,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.099060352,
+      "spot_return": -0.07042169661992348,
+      "MFE": 0.070393232,
+      "MAE": -0.303641468,
+      "spot_MFE": 0.10424023778488767,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.609763655,
+    "age": 30,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 2.537321218,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.046338225,
+    "baseline_exit": "shelf_invalidation",
+    "baseline_hold": 12,
+    "neutral_MFE_before_exit": 0.049977526,
+    "neutral_MFE_after_exit_until60": -0.017130058,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.039793236,
+      "spot_return": 0.07275547032207386,
+      "MFE": 0.049977526,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.08326877465690385,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.210362694,
+      "spot_return": -0.18516473780367138,
+      "MFE": 0.049977526,
+      "MAE": -0.210362694,
+      "spot_MFE": 0.08326877465690385,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.401206014,
+      "spot_return": -0.3814843095408972,
+      "MFE": 0.049977526,
+      "MAE": -0.401206014,
+      "spot_MFE": 0.08326877465690385,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+    "rule": "s4_upper_ath",
+    "reserve": 16.017738345,
+    "age": 30,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 1.541757034,
+    "recent_sell_SOL": 1.052298103,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.000189192,
+    "baseline_exit": "velocity_timeout",
+    "baseline_hold": 7,
+    "neutral_MFE_before_exit": -0.000376314,
+    "neutral_MFE_after_exit_until60": 0.018962658,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.01291357,
+      "spot_return": 0.04497606366031759,
+      "MFE": 0.012997878,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.045062997068993305,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.028527506,
+      "spot_return": 0.002251116224778027,
+      "MFE": 0.012997878,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.045062997068993305,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.018140074,
+      "spot_return": 0.05036550240128723,
+      "MFE": 0.018962658,
+      "MAE": -0.22970867,
+      "spot_MFE": 0.05121374978879878,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+    "rule": "s2_survival_shelf",
+    "reserve": 10.825917254,
+    "age": 76,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 0.097777776,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.230128211,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 84,
+    "neutral_MFE_before_exit": 0.95064983,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.090248888,
+      "spot_return": 0.12483638853764045,
+      "MFE": 0.13932606,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.1755241421474567,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 5,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.061013576,
+      "spot_return": 0.09465190739888252,
+      "MFE": 0.13932606,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.1755241421474567,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 5,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.451809886,
+      "spot_return": 0.49874268625418416,
+      "MFE": 0.451809886,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.49874268625418416,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 5,
+        "0.2": 45,
+        "0.25": 47
+      }
+    }
+  },
+  {
+    "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+    "rule": "s1_dev_absorption",
+    "reserve": 1.843581162,
+    "age": 5,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 0.701135799,
+    "recent_sell_SOL": 1.42755145,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.027388692,
+    "baseline_exit": "timeout",
+    "baseline_hold": 6,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.0968588,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.0968588,
+      "spot_return": -0.0683169112890718,
+      "MFE": -0.030711366,
+      "MAE": -0.0968588,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.103536122,
+      "spot_return": -0.07521019798351092,
+      "MFE": -0.030711366,
+      "MAE": -0.103536122,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.103536122,
+      "spot_return": -0.07521019798351092,
+      "MFE": -0.030711366,
+      "MAE": -0.103536122,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.163115497,
+    "age": 273,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 0.969810259,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.062524821,
+    "baseline_exit": "shelf_invalidation",
+    "baseline_hold": 40,
+    "neutral_MFE_before_exit": 0.05977723,
+    "neutral_MFE_after_exit_until60": -0.086206998,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.026958924,
+      "spot_return": 0.05949841966273928,
+      "MFE": 0.033153904,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.06589161019537348,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.018391366,
+      "spot_return": 0.05065732172189796,
+      "MFE": 0.033153904,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.06589161019537348,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.086206998,
+      "spot_return": -0.057225189604074966,
+      "MFE": 0.05977723,
+      "MAE": -0.16363079,
+      "spot_MFE": 0.09337073797661222,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 20,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+    "rule": "s3_deadman",
+    "reserve": 13.602670563,
+    "age": 2,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 2.035350033,
+    "recent_sell_SOL": 4.872243298,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.085057791,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 0,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": 0.26185269,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.060208086,
+      "spot_return": 0.09379772739768799,
+      "MFE": 0.26185269,
+      "MAE": -0.104797474,
+      "spot_MFE": 0.3020803740483968,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.170456818,
+      "spot_return": -0.14402049227733993,
+      "MFE": 0.26185269,
+      "MAE": -0.170456818,
+      "spot_MFE": 0.3020803740483968,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.324715368,
+      "spot_return": -0.3027729006203541,
+      "MFE": 0.26185269,
+      "MAE": -0.335877646,
+      "spot_MFE": 0.3020803740483968,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    }
+  },
+  {
+    "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+    "rule": "s4_upper_ath",
+    "reserve": 19.179475147,
+    "age": 2,
+    "recent_buyers": 12,
+    "recent_buy_SOL": 8.775746951,
+    "recent_sell_SOL": 6.035835632,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.084187819,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": -0.02673996,
+    "neutral_MFE_after_exit_until60": -0.13500121,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.187885718,
+      "spot_return": -0.16186905555473574,
+      "MFE": -0.02673996,
+      "MAE": -0.314033286,
+      "spot_MFE": 0.004092666545838952,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.364693954,
+      "spot_return": -0.3436982592160369,
+      "MFE": -0.02673996,
+      "MAE": -0.364693954,
+      "spot_MFE": 0.004092666545838952,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.483025628,
+      "spot_return": -0.4652198864113286,
+      "MFE": -0.02673996,
+      "MAE": -0.49162181,
+      "spot_MFE": 0.004092666545838952,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+    "rule": "s5_carryover",
+    "reserve": 73.313806201,
+    "age": 535,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 3.79802469,
+    "recent_sell_SOL": 0.606180503,
+    "whale_remaining_max": null,
+    "baseline_status": "unresolved",
+    "baseline_net_SOL": -0.50354428,
+    "baseline_exit": null,
+    "baseline_hold": null,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.080832612,
+      "spot_return": -0.05150789438578729,
+      "MFE": -0.019896736,
+      "MAE": -0.081501396,
+      "spot_MFE": 0.011115075096637339,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.004963396,
+      "spot_return": 0.026464002708732615,
+      "MFE": -0.004963396,
+      "MAE": -0.090890594,
+      "spot_MFE": 0.026464002708732615,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.18238845,
+      "MAE": -0.090890594,
+      "spot_MFE": 0.21909833147810276,
+      "net_hits": {
+        "0.02": 20,
+        "0.05": 21,
+        "0.1": 34,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "7cKYt3z7htdDTJiUmrLcn9jC9ZqFBSymnVXRpdLopump",
+    "rule": "s3_deadman",
+    "reserve": 11.73723922,
+    "age": 36,
+    "recent_buyers": 0,
+    "recent_buy_SOL": 0.0,
+    "recent_sell_SOL": 3.681603497,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.251072413,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.498598028,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.501821954,
+      "spot_return": -0.48474327810749496,
+      "MFE": -0.030711366,
+      "MAE": -0.501821954,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.498750312,
+      "spot_return": -0.4815909315145612,
+      "MFE": -0.030711366,
+      "MAE": -0.50333748,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.503487634,
+      "spot_return": -0.4864526709482285,
+      "MFE": -0.030711366,
+      "MAE": -0.503487634,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+    "rule": "s4_upper_ath",
+    "reserve": 18.424974614,
+    "age": 98,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 1.466666666,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.024488393,
+    "baseline_exit": "velocity_timeout",
+    "baseline_hold": 7,
+    "neutral_MFE_before_exit": 0.063674322,
+    "neutral_MFE_after_exit_until60": 2.565729604,
+    "horizon10": {
+      "complete": true,
+      "net_return": 4.48e-06,
+      "spot_return": 0.031656997522817365,
+      "MFE": 0.067467398,
+      "MAE": -0.050551032,
+      "spot_MFE": 0.10121304182358304,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 3,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.559279082,
+      "spot_return": 0.6092782001290111,
+      "MFE": 0.76645838,
+      "MAE": -0.050551032,
+      "spot_MFE": 0.8237810159827426,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 3,
+        "0.1": 15,
+        "0.2": 15,
+        "0.25": 15
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 1.650016374,
+      "spot_return": 1.7413033650922691,
+      "MFE": 2.565729604,
+      "MAE": -0.050551032,
+      "spot_MFE": 2.6962802332190887,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 3,
+        "0.1": 15,
+        "0.2": 15,
+        "0.25": 15
+      }
+    }
+  },
+  {
+    "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.739880288,
+    "age": 53,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 3.039440391,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.003463843,
+    "baseline_exit": "breakeven_ratchet",
+    "baseline_hold": 8,
+    "neutral_MFE_before_exit": 0.11005165,
+    "neutral_MFE_after_exit_until60": 0.116964864,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.060871514,
+      "spot_return": 0.0944921051445271,
+      "MFE": 0.11005165,
+      "MAE": -0.048085468,
+      "spot_MFE": 0.14526554197271668,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 4,
+        "0.1": 4,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.008509914,
+      "spot_return": 0.022899666083655346,
+      "MFE": 0.11005165,
+      "MAE": -0.080885252,
+      "spot_MFE": 0.14526554197271668,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 4,
+        "0.1": 4,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.002587018,
+      "spot_return": 0.03434729107432277,
+      "MFE": 0.116964864,
+      "MAE": -0.080885252,
+      "spot_MFE": 0.15240442679366395,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 4,
+        "0.1": 4,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.017250209,
+    "age": 181,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 3.366250776,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.122386406,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 48,
+    "neutral_MFE_before_exit": 0.414526852,
+    "neutral_MFE_after_exit_until60": 0.391104234,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.072853376,
+      "spot_return": -0.04345897485973471,
+      "MFE": -0.030711366,
+      "MAE": -0.072853376,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.040850522,
+      "spot_return": -0.010457561412652083,
+      "MFE": -0.030711366,
+      "MAE": -0.081656206,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.36789287,
+      "spot_return": 0.41184959742167937,
+      "MFE": 0.414526852,
+      "MAE": -0.091619506,
+      "spot_MFE": 0.46012023816719094,
+      "net_hits": {
+        "0.02": 35,
+        "0.05": 35,
+        "0.1": 35,
+        "0.2": 46,
+        "0.25": 46
+      }
+    }
+  },
+  {
+    "mint": "EFkAYLwTvuxE5sWABko7Km9Kv1AouckVEMBXP4g7DxJg",
+    "rule": "s1_dev_absorption",
+    "reserve": 1.074899316,
+    "age": 3,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 0.691358022,
+    "recent_sell_SOL": 4.238104173,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.025393558,
+    "baseline_exit": "timeout",
+    "baseline_hold": 6,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": 0.205866186,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.050787116,
+      "spot_return": -0.02074373582485889,
+      "MFE": -0.030711366,
+      "MAE": -0.050787116,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.050787116,
+      "spot_return": -0.02074373582485889,
+      "MFE": -0.030711366,
+      "MAE": -0.050787116,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.16134607,
+      "spot_return": 0.19869554989967186,
+      "MFE": 0.205866186,
+      "MAE": -0.050787116,
+      "spot_MFE": 0.24481601940310127,
+      "net_hits": {
+        "0.02": 46,
+        "0.05": 46,
+        "0.1": 46,
+        "0.2": 46,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "5pX6x7SErdk7QyMsytDX85CXSeYBspuCpKTEy5wAcygR",
+    "rule": "s1_dev_absorption",
+    "reserve": 2.954239742,
+    "age": 6,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 1.231904214,
+    "recent_sell_SOL": 6.467389495,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.072581225,
+    "baseline_exit": "floor_invalidation",
+    "baseline_hold": 4,
+    "neutral_MFE_before_exit": 0.16020378,
+    "neutral_MFE_after_exit_until60": 0.004124704,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.114291264,
+      "spot_return": -0.08629274694104738,
+      "MFE": 0.16020378,
+      "MAE": -0.195109972,
+      "spot_MFE": 0.1974163488309293,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.194133504,
+      "spot_return": -0.16864600878721114,
+      "MFE": 0.16020378,
+      "MAE": -0.195109972,
+      "spot_MFE": 0.1974163488309293,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.190630528,
+      "spot_return": -0.1650345641184352,
+      "MFE": 0.16020378,
+      "MAE": -0.195109972,
+      "spot_MFE": 0.1974163488309293,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "4LuGz5HmKsZi5ryDU9LcTH71J6K4rHWa5igotsjLpump",
+    "rule": "s3_deadman",
+    "reserve": 15.658279534,
+    "age": 3,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 0.055423152,
+    "recent_sell_SOL": 10.866935097,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.293257285,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.58651457,
+      "spot_return": -0.5714636985948969,
+      "MFE": -0.030711366,
+      "MAE": -0.58651457,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.58651457,
+      "spot_return": -0.5714636985948969,
+      "MFE": -0.030711366,
+      "MAE": -0.58651457,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.58651457,
+      "spot_return": -0.5714636985948969,
+      "MFE": -0.030711366,
+      "MAE": -0.58651457,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+    "rule": "s5_carryover",
+    "reserve": 72.605570597,
+    "age": 240,
+    "recent_buyers": 5,
+    "recent_buy_SOL": 7.168125188,
+    "recent_sell_SOL": 0.114821186,
+    "whale_remaining_max": null,
+    "baseline_status": "unresolved",
+    "baseline_net_SOL": -0.50354428,
+    "baseline_exit": null,
+    "baseline_hold": null,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.203067136,
+      "MAE": -0.040244362,
+      "spot_MFE": 0.2403722086296336,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 2,
+        "0.1": 2,
+        "0.2": 3,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.203067136,
+      "MAE": -0.040244362,
+      "spot_MFE": 0.2403722086296336,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 2,
+        "0.1": 2,
+        "0.2": 3,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.203067136,
+      "MAE": -0.040244362,
+      "spot_MFE": 0.2403722086296336,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 2,
+        "0.1": 2,
+        "0.2": 3,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "AtPR2zYhKdmP3BuPACx8hqpkFmoQam8P9vimvmHupump",
+    "rule": "s3_deadman",
+    "reserve": 15.442455135,
+    "age": 2,
+    "recent_buyers": 15,
+    "recent_buy_SOL": 9.821420174,
+    "recent_sell_SOL": 26.051423765,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.252831065,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.507312136,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.50566213,
+      "spot_return": -0.4886782528839223,
+      "MFE": -0.030711366,
+      "MAE": -0.5072779,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.50566213,
+      "spot_return": -0.4886782528839223,
+      "MFE": -0.030711366,
+      "MAE": -0.5072779,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.507312136,
+      "spot_return": -0.49037147596554576,
+      "MFE": -0.030711366,
+      "MAE": -0.507312136,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+    "rule": "s1_dev_absorption",
+    "reserve": 4.023313322,
+    "age": 29,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 0.953868037,
+    "recent_sell_SOL": 3.454948877,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.042923419,
+    "baseline_exit": "timeout",
+    "baseline_hold": 6,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.07828268,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.12484502,
+      "spot_return": -0.09716077165861015,
+      "MFE": -0.030711366,
+      "MAE": -0.178882274,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.133587222,
+      "spot_return": -0.1061787872768285,
+      "MFE": -0.030711366,
+      "MAE": -0.178882274,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.209135272,
+      "spot_return": -0.18407148093532366,
+      "MFE": -0.030711366,
+      "MAE": -0.209135272,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+    "rule": "s4_upper_ath",
+    "reserve": 18.762619024,
+    "age": 2,
+    "recent_buyers": 15,
+    "recent_buy_SOL": 13.589532858,
+    "recent_sell_SOL": 2.219197484,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.184944125,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": 0.592431014,
+    "neutral_MFE_after_exit_until60": 0.528693836,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.183475334,
+      "spot_return": 0.22089228800645322,
+      "MFE": 0.592431014,
+      "MAE": -0.141976824,
+      "spot_MFE": 0.6435519133847607,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.046573136,
+      "spot_return": 0.07966379872993179,
+      "MFE": 0.592431014,
+      "MAE": -0.141976824,
+      "spot_MFE": 0.6435519133847607,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.040087902,
+      "spot_return": -0.009662001383288099,
+      "MFE": 0.592431014,
+      "MAE": -0.141976824,
+      "spot_MFE": 0.6435519133847607,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    }
+  },
+  {
+    "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+    "rule": "s3_deadman",
+    "reserve": 10.62734115,
+    "age": 2,
+    "recent_buyers": 0,
+    "recent_buy_SOL": 0.0,
+    "recent_sell_SOL": 4.816124753,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.137477152,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.272752706,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.274954304,
+      "spot_return": -0.25164798955984125,
+      "MFE": -0.030711366,
+      "MAE": -0.274954304,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.275543944,
+      "spot_return": -0.25225474514692936,
+      "MFE": -0.030711366,
+      "MAE": -0.275543944,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.428349488,
+      "spot_return": -0.40936098332802007,
+      "MFE": -0.030711366,
+      "MAE": -0.433507002,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+    "rule": "s4_upper_ath",
+    "reserve": 16.2510801,
+    "age": 25,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 2.209754028,
+    "recent_sell_SOL": 1.283959891,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.037537659,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": 0.895628852,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.22707139,
+      "spot_return": 0.26598058076396436,
+      "MFE": 0.227891476,
+      "MAE": -0.11785548,
+      "spot_MFE": 0.2668275691052413,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 5,
+        "0.1": 6,
+        "0.2": 9,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.526822694,
+      "spot_return": 0.5758884178477497,
+      "MFE": 0.54051798,
+      "MAE": -0.11785548,
+      "spot_MFE": 0.5900626599496896,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 5,
+        "0.1": 6,
+        "0.2": 9,
+        "0.25": 10
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.725284154,
+      "spot_return": 0.7814112080402011,
+      "MFE": 0.895628852,
+      "MAE": -0.11785548,
+      "spot_MFE": 0.958016551435775,
+      "net_hits": {
+        "0.02": 4,
+        "0.05": 5,
+        "0.1": 6,
+        "0.2": 9,
+        "0.25": 10
+      }
+    }
+  },
+  {
+    "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+    "rule": "s4_upper_ath",
+    "reserve": 17.523827812,
+    "age": 111,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 3.437037035,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.024019035,
+    "baseline_exit": "velocity_timeout",
+    "baseline_hold": 7,
+    "neutral_MFE_before_exit": 0.059340482,
+    "neutral_MFE_after_exit_until60": 1.33751237,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.17467729,
+      "spot_return": 0.21182714858203533,
+      "MFE": 0.17467729,
+      "MAE": -0.033795342,
+      "spot_MFE": 0.21182714858203533,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 9,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.290651348,
+      "spot_return": 0.33157551291871834,
+      "MFE": 0.59389444,
+      "MAE": -0.033795342,
+      "spot_MFE": 0.6451237192353978,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 9,
+        "0.2": 12,
+        "0.25": 15
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 1.33751237,
+      "spot_return": 1.4163835042081026,
+      "MFE": 1.33751237,
+      "MAE": -0.033795342,
+      "spot_MFE": 1.4163835042081026,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 9,
+        "0.2": 12,
+        "0.25": 15
+      }
+    }
+  },
+  {
+    "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+    "rule": "s5_carryover",
+    "reserve": 72.305130078,
+    "age": 149,
+    "recent_buyers": 12,
+    "recent_buy_SOL": 6.830296025,
+    "recent_sell_SOL": 2.096013192,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.089805739,
+    "baseline_exit": "AMM_runner_trail",
+    "baseline_hold": 98,
+    "neutral_MFE_before_exit": 0.367963458,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.0108598,
+      "spot_return": 0.042729503573203376,
+      "MFE": 0.11968525,
+      "MAE": -0.049471596,
+      "spot_MFE": 0.1546174291491973,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 3,
+        "0.1": 4,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.034611742,
+      "spot_return": -0.004008722261499398,
+      "MFE": 0.11968525,
+      "MAE": -0.103041992,
+      "spot_MFE": 0.1546174291491973,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 3,
+        "0.1": 4,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.147055532,
+      "spot_return": -0.11955056814444764,
+      "MFE": 0.11968525,
+      "MAE": -0.248162468,
+      "spot_MFE": 0.1546174291491973,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 3,
+        "0.1": 4,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+    "rule": "s3_deadman",
+    "reserve": 11.575156966,
+    "age": 0,
+    "recent_buyers": 7,
+    "recent_buy_SOL": 22.591421362,
+    "recent_sell_SOL": 12.17792945,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.081636604,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 2,
+    "neutral_MFE_before_exit": 0.232931134,
+    "neutral_MFE_after_exit_until60": 0.47642703,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.24240247,
+      "spot_return": 0.2820154184832333,
+      "MFE": 0.47642703,
+      "MAE": -0.146111356,
+      "spot_MFE": 0.5241626032475126,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 1,
+        "0.2": 1,
+        "0.25": 3
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.011780492,
+      "spot_return": 0.019526402481827354,
+      "MFE": 0.47642703,
+      "MAE": -0.146111356,
+      "spot_MFE": 0.5241626032475126,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 1,
+        "0.2": 1,
+        "0.25": 3
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.02482213,
+      "spot_return": 0.057289853706425475,
+      "MFE": 0.47642703,
+      "MAE": -0.146111356,
+      "spot_MFE": 0.5241626032475126,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 1,
+        "0.2": 1,
+        "0.25": 3
+      }
+    }
+  },
+  {
+    "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+    "rule": "s4_upper_ath",
+    "reserve": 18.721566542,
+    "age": 10,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 1.669528267,
+    "recent_sell_SOL": 0.774196256,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.028218846,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": 0.423539008,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.041265906,
+      "spot_return": 0.07419202311773554,
+      "MFE": 0.042656344,
+      "MAE": -0.104398754,
+      "spot_MFE": 0.07562564091954505,
+      "net_hits": {
+        "0.02": 7,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.040327254,
+      "spot_return": 0.07322422829439268,
+      "MFE": 0.06206452,
+      "MAE": -0.104398754,
+      "spot_MFE": 0.09563810490708646,
+      "net_hits": {
+        "0.02": 7,
+        "0.05": 10,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.396582324,
+      "spot_return": 0.4410032861947184,
+      "MFE": 0.423539008,
+      "MAE": -0.104398754,
+      "spot_MFE": 0.46886787919898576,
+      "net_hits": {
+        "0.02": 7,
+        "0.05": 10,
+        "0.1": 26,
+        "0.2": 40,
+        "0.25": 45
+      }
+    }
+  },
+  {
+    "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+    "rule": "s3_deadman",
+    "reserve": 15.088841267,
+    "age": 129,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 0.08248505,
+    "recent_sell_SOL": 24.411947382,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.270490316,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.550465462,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.540980632,
+      "spot_return": -0.5248001074951998,
+      "MFE": -0.030711366,
+      "MAE": -0.540980632,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.557910952,
+      "spot_return": -0.5421639184299263,
+      "MFE": -0.030711366,
+      "MAE": -0.557910952,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.565690176,
+      "spot_return": -0.5501411054790166,
+      "MFE": -0.030711366,
+      "MAE": -0.565690176,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+    "rule": "s1_dev_absorption",
+    "reserve": 4.979827376,
+    "age": 23,
+    "recent_buyers": 5,
+    "recent_buy_SOL": 2.415753173,
+    "recent_sell_SOL": 3.863343136,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.031724638,
+    "baseline_exit": "timeout",
+    "baseline_hold": 6,
+    "neutral_MFE_before_exit": 0.240541136,
+    "neutral_MFE_after_exit_until60": 0.29302695,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.056955764,
+      "spot_return": 0.09054935880387416,
+      "MFE": 0.240541136,
+      "MAE": -0.03947189,
+      "spot_MFE": 0.2804283192512882,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.087915242,
+      "spot_return": 0.12254614083280035,
+      "MFE": 0.29302695,
+      "MAE": -0.03947189,
+      "spot_MFE": 0.3347746763655046,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 12
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.202793632,
+      "spot_return": 0.24135922603037918,
+      "MFE": 0.29302695,
+      "MAE": -0.03947189,
+      "spot_MFE": 0.3347746763655046,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 12
+      }
+    }
+  },
+  {
+    "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.736308305,
+    "age": 68,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 1.192888887,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.302826666,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 50,
+    "neutral_MFE_before_exit": 0.262773096,
+    "neutral_MFE_after_exit_until60": 1.291670952,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.090737502,
+      "spot_return": -0.06189492048651879,
+      "MFE": -0.030711366,
+      "MAE": -0.114565,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.114858828,
+      "spot_return": -0.0867574056191801,
+      "MFE": -0.030711366,
+      "MAE": -0.114858828,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.910140818,
+      "spot_return": 0.9740866957252639,
+      "MFE": 1.291670952,
+      "MAE": -0.114858828,
+      "spot_MFE": 1.370906857672587,
+      "net_hits": {
+        "0.02": 46,
+        "0.05": 46,
+        "0.1": 46,
+        "0.2": 49,
+        "0.25": 49
+      }
+    }
+  },
+  {
+    "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+    "rule": "s3_deadman",
+    "reserve": 8.116177308,
+    "age": 16,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 1.846814813,
+    "recent_sell_SOL": 19.425526612,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.07303255,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.153585918,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.1460651,
+      "spot_return": -0.11909252970897855,
+      "MFE": -0.030711366,
+      "MAE": -0.14773589,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.153585918,
+      "spot_return": -0.12685129667845407,
+      "MFE": -0.030711366,
+      "MAE": -0.153585918,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.153585918,
+      "spot_return": -0.12685129667845407,
+      "MFE": -0.030711366,
+      "MAE": -0.153585918,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "2CCjUsxXyKMPHi29NQW5ihV1bnA5J1sAffHSt6fujE7z",
+    "rule": "s3_deadman",
+    "reserve": 12.355196146,
+    "age": 1,
+    "recent_buyers": 5,
+    "recent_buy_SOL": 3.519284998,
+    "recent_sell_SOL": 4.20517941,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.153155121,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": -0.329057834,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.306310242,
+      "spot_return": -0.2838746092463278,
+      "MFE": -0.030711366,
+      "MAE": -0.306310242,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.496948126,
+      "spot_return": -0.47975278473379057,
+      "MFE": -0.030711366,
+      "MAE": -0.496948126,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.496948126,
+      "spot_return": -0.47975278473379057,
+      "MFE": -0.030711366,
+      "MAE": -0.496948126,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.200393821,
+    "age": 395,
+    "recent_buyers": 5,
+    "recent_buy_SOL": 3.513425094,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.067128834,
+    "baseline_exit": "shelf_invalidation",
+    "baseline_hold": 3,
+    "neutral_MFE_before_exit": -0.023609102,
+    "neutral_MFE_after_exit_until60": 0.028672972,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.202335966,
+      "spot_return": -0.17686997084909706,
+      "MFE": -0.023609102,
+      "MAE": -0.204768958,
+      "spot_MFE": 0.007325461816793943,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.151074186,
+      "spot_return": -0.12407197569164174,
+      "MFE": -0.023609102,
+      "MAE": -0.204768958,
+      "spot_MFE": 0.007325461816793943,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.024948134,
+      "spot_return": 0.005944311701771898,
+      "MFE": 0.028672972,
+      "MAE": -0.204768958,
+      "spot_MFE": 0.061264978689644645,
+      "net_hits": {
+        "0.02": 48,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+    "rule": "s4_upper_ath",
+    "reserve": 21.445188902,
+    "age": 6,
+    "recent_buyers": 8,
+    "recent_buy_SOL": 3.821150636,
+    "recent_sell_SOL": 1.786234772,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.074671675,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": 0.131159534,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.075131562,
+      "spot_return": -0.04575479625833767,
+      "MFE": 0.057305946,
+      "MAE": -0.14934335,
+      "spot_MFE": 0.09070551722833908,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 3,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.091399374,
+      "spot_return": -0.06250757577590615,
+      "MFE": 0.057305946,
+      "MAE": -0.25127516,
+      "spot_MFE": 0.09070551722833908,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 3,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.079088388,
+      "spot_return": -0.04982977021040891,
+      "MFE": 0.131159534,
+      "MAE": -0.25127516,
+      "spot_MFE": 0.1668581167132559,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 3,
+        "0.1": 41,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+    "rule": "s3_deadman",
+    "reserve": 15.950649335,
+    "age": 17,
+    "recent_buyers": 5,
+    "recent_buy_SOL": 1.476444441,
+    "recent_sell_SOL": 8.147347489,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.092536439,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 3,
+    "neutral_MFE_before_exit": 0.227475274,
+    "neutral_MFE_after_exit_until60": 0.388786864,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.099582324,
+      "spot_return": 0.1343765718043859,
+      "MFE": 0.240652926,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.2800198561519025,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 2,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.235869232,
+      "spot_return": 0.27507861150212776,
+      "MFE": 0.281218392,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.32192821085193746,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 2,
+        "0.25": 15
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.343527022,
+      "spot_return": -0.3220105032380549,
+      "MFE": 0.388786864,
+      "MAE": -0.398563012,
+      "spot_MFE": 0.43311595742153197,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 2,
+        "0.25": 15
+      }
+    }
+  },
+  {
+    "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+    "rule": "s4_upper_ath",
+    "reserve": 16.670043213,
+    "age": 31,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 2.363558721,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.01865877,
+    "baseline_exit": "velocity_timeout",
+    "baseline_hold": 7,
+    "neutral_MFE_before_exit": -0.001098438,
+    "neutral_MFE_after_exit_until60": 1.274095346,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.1248005,
+      "spot_return": -0.09694137339490283,
+      "MFE": -0.001098438,
+      "MAE": -0.132606106,
+      "spot_MFE": 0.030526047603575357,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.043934252,
+      "spot_return": 0.0769610875361999,
+      "MFE": 0.140140704,
+      "MAE": -0.132606106,
+      "spot_MFE": 0.1762176221049505,
+      "net_hits": {
+        "0.02": 14,
+        "0.05": 15,
+        "0.1": 15,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.964426694,
+      "spot_return": 1.0293120473801065,
+      "MFE": 1.274095346,
+      "MAE": -0.132606106,
+      "spot_MFE": 1.3508931247677753,
+      "net_hits": {
+        "0.02": 14,
+        "0.05": 15,
+        "0.1": 15,
+        "0.2": 22,
+        "0.25": 26
+      }
+    }
+  },
+  {
+    "mint": "8ooCS78TjFYh2c2rzFi2tFfoZ4BEUXtsg1jQYEeFu4dN",
+    "rule": "s1_dev_absorption",
+    "reserve": 3.074347309,
+    "age": 7,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 3.074347301,
+    "recent_sell_SOL": 3.739496599,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.10343514,
+    "baseline_exit": "floor_invalidation",
+    "baseline_hold": 5,
+    "neutral_MFE_before_exit": -0.024827454,
+    "neutral_MFE_after_exit_until60": -0.074624698,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.20687028,
+      "spot_return": -0.18176753031803328,
+      "MFE": -0.024827454,
+      "MAE": -0.20687028,
+      "spot_MFE": 0.006077720367578365,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.206288402,
+      "spot_return": -0.18116776376670085,
+      "MFE": -0.024827454,
+      "MAE": -0.20687028,
+      "spot_MFE": 0.006077720367578365,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.206288402,
+      "spot_return": -0.18116776376670085,
+      "MFE": -0.024827454,
+      "MAE": -0.20687028,
+      "spot_MFE": 0.006077720367578365,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+    "rule": "s5_carryover",
+    "reserve": 72.659448224,
+    "age": 394,
+    "recent_buyers": 6,
+    "recent_buy_SOL": 3.724430195,
+    "recent_sell_SOL": 0.256289025,
+    "whale_remaining_max": null,
+    "baseline_status": "unresolved",
+    "baseline_net_SOL": -0.50354428,
+    "baseline_exit": null,
+    "baseline_hold": null,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.084549284,
+      "MAE": -0.080123046,
+      "spot_MFE": 0.11848943228143805,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 1,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.084549284,
+      "MAE": -0.080123046,
+      "spot_MFE": 0.11848943228143805,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 1,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.084549284,
+      "MAE": -0.080123046,
+      "spot_MFE": 0.11848943228143805,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 1,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+    "rule": "s4_upper_ath",
+    "reserve": 19.208506324,
+    "age": 7,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 2.933333333,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.058660552,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 5,
+    "neutral_MFE_before_exit": -0.011561478,
+    "neutral_MFE_after_exit_until60": -0.016045388,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.155509634,
+      "spot_return": -0.1285336921099115,
+      "MFE": -0.011561478,
+      "MAE": -0.156230294,
+      "spot_MFE": 0.019734167349173548,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.331188146,
+      "spot_return": -0.3092448029687095,
+      "MFE": -0.011561478,
+      "MAE": -0.379486012,
+      "spot_MFE": 0.019734167349173548,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.016045388,
+      "spot_return": 0.015113191259143788,
+      "MFE": -0.011561478,
+      "MAE": -0.379486012,
+      "spot_MFE": 0.019734167349173548,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+    "rule": "s2_survival_shelf",
+    "reserve": 10.877674056,
+    "age": 460,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 1.125925924,
+    "recent_sell_SOL": 0.008783187,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.053315777,
+    "baseline_exit": "shelf_invalidation",
+    "baseline_hold": 103,
+    "neutral_MFE_before_exit": -0.028120026,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.028120026,
+      "spot_return": 0.002672928012945608,
+      "MFE": -0.028120026,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.002672928012945608,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.069896202,
+      "spot_return": -0.04041073560344022,
+      "MFE": -0.028120026,
+      "MAE": -0.076505154,
+      "spot_MFE": 0.002672928012945608,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.052422568,
+      "spot_return": -0.02239225823475577,
+      "MFE": -0.028120026,
+      "MAE": -0.099656104,
+      "spot_MFE": 0.002672928012945608,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "B2cHLXt6GtDKmqYeyi6gHnftjRbGUyC3DpvjpqGLbsaC",
+    "rule": "s1_dev_absorption",
+    "reserve": 1.878147356,
+    "age": 4,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 2.684444442,
+    "recent_sell_SOL": 2.4691358,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.041154433,
+    "baseline_exit": "floor_invalidation",
+    "baseline_hold": 0,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": -0.030711366,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.135434182,
+      "spot_return": -0.10813128683218931,
+      "MFE": -0.030711366,
+      "MAE": -0.141187836,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.135434182,
+      "spot_return": -0.10813128683218931,
+      "MFE": -0.030711366,
+      "MAE": -0.141187836,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.135434182,
+      "spot_return": -0.10813128683218931,
+      "MFE": -0.030711366,
+      "MAE": -0.141187836,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+    "rule": "s4_upper_ath",
+    "reserve": 20.714405843,
+    "age": 139,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 2.029618056,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.057668207,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 4,
+    "neutral_MFE_before_exit": 0.207547298,
+    "neutral_MFE_after_exit_until60": 0.220437472,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.181464946,
+      "spot_return": 0.21876872217748589,
+      "MFE": 0.220437472,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.25898706221693346,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.01998414,
+      "spot_return": 0.05224054849848825,
+      "MFE": 0.220437472,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.25898706221693346,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.015681362,
+      "spot_return": 0.015486039682716779,
+      "MFE": 0.220437472,
+      "MAE": -0.154550836,
+      "spot_MFE": 0.25898706221693346,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+    "rule": "s3_deadman",
+    "reserve": 10.597951818,
+    "age": 31,
+    "recent_buyers": 0,
+    "recent_buy_SOL": 0.0,
+    "recent_sell_SOL": 5.410570432,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.214961576,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 0,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": 0.510142428,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.257257268,
+      "spot_return": 0.2974233531193917,
+      "MFE": 0.510142428,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.5591920701466278,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.234657206,
+      "spot_return": -0.21016665106388333,
+      "MFE": 0.510142428,
+      "MAE": -0.275604318,
+      "spot_MFE": 0.5591920701466278,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.42662301,
+      "spot_return": -0.40757898129346903,
+      "MFE": 0.510142428,
+      "MAE": -0.42662301,
+      "spot_MFE": 0.5591920701466278,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 0,
+        "0.25": 0
+      }
+    }
+  },
+  {
+    "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+    "rule": "s5_carryover",
+    "reserve": 72.159476458,
+    "age": 252,
+    "recent_buyers": 9,
+    "recent_buy_SOL": 2.659514421,
+    "recent_sell_SOL": 0.583068728,
+    "whale_remaining_max": null,
+    "baseline_status": "unresolved",
+    "baseline_net_SOL": -0.50354428,
+    "baseline_exit": null,
+    "baseline_hold": null,
+    "neutral_MFE_before_exit": null,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.0681738,
+      "spot_return": -0.038500770407237206,
+      "MFE": 0.0431612,
+      "MAE": -0.141833076,
+      "spot_MFE": 0.07593563379794466,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.05935879,
+      "spot_return": 0.09258828547635578,
+      "MFE": 0.131051758,
+      "MAE": -0.141833076,
+      "spot_MFE": 0.16630680724863023,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 13,
+        "0.1": 16,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": false,
+      "net_return": null,
+      "spot_return": null,
+      "MFE": 0.216200426,
+      "MAE": -0.141833076,
+      "spot_MFE": 0.2538847148642398,
+      "net_hits": {
+        "0.02": 3,
+        "0.05": 13,
+        "0.1": 16,
+        "0.2": 29,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+    "rule": "s3_deadman",
+    "reserve": 12.422732663,
+    "age": 3,
+    "recent_buyers": 11,
+    "recent_buy_SOL": 5.840859772,
+    "recent_sell_SOL": 7.072389827,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.151348134,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 2,
+    "neutral_MFE_before_exit": 0.408307774,
+    "neutral_MFE_after_exit_until60": 2.329016102,
+    "horizon10": {
+      "complete": true,
+      "net_return": 1.353748164,
+      "spot_return": 1.4357401665737513,
+      "MFE": 1.398099412,
+      "MAE": -0.095416104,
+      "spot_MFE": 1.481953892655734,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 1,
+        "0.25": 1
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 1.25598131,
+      "spot_return": 1.3339108065264456,
+      "MFE": 1.450463836,
+      "MAE": -0.095416104,
+      "spot_MFE": 1.5365327987225883,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 1,
+        "0.25": 1
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 1.733453556,
+      "spot_return": 1.831773471199297,
+      "MFE": 2.329016102,
+      "MAE": -0.095416104,
+      "spot_MFE": 2.454597244561321,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 0,
+        "0.1": 0,
+        "0.2": 1,
+        "0.25": 1
+      }
+    }
+  },
+  {
+    "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+    "rule": "s2_survival_shelf",
+    "reserve": 11.862553959,
+    "age": 42,
+    "recent_buyers": 8,
+    "recent_buy_SOL": 3.316613545,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.230320864,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 154,
+    "neutral_MFE_before_exit": 0.978660634,
+    "neutral_MFE_after_exit_until60": null,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.095001584,
+      "spot_return": -0.06628493919888012,
+      "MFE": -0.030711366,
+      "MAE": -0.095001584,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.03463454,
+      "spot_return": -0.0040460092361521705,
+      "MFE": 0.00768503,
+      "MAE": -0.140127384,
+      "spot_MFE": 0.03960609731064113,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.044183054,
+      "spot_return": 0.07726646644978863,
+      "MFE": 0.056259794,
+      "MAE": -0.140127384,
+      "spot_MFE": 0.08973044730292234,
+      "net_hits": {
+        "0.02": 26,
+        "0.05": 26,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+    "rule": "s4_upper_ath",
+    "reserve": 17.521508891,
+    "age": 4,
+    "recent_buyers": 20,
+    "recent_buy_SOL": 12.176390441,
+    "recent_sell_SOL": 7.935953925,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.042792383,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": 0.018290884,
+    "neutral_MFE_after_exit_until60": 1.553780566,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.833892408,
+      "spot_return": 0.8936870756400015,
+      "MFE": 0.856785234,
+      "MAE": -0.101050488,
+      "spot_MFE": 0.9174154363601235,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 2,
+        "0.2": 4,
+        "0.25": 4
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.660059128,
+      "spot_return": 0.7136115786825661,
+      "MFE": 0.856785234,
+      "MAE": -0.101050488,
+      "spot_MFE": 0.9174154363601235,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 2,
+        "0.2": 4,
+        "0.25": 4
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 1.003742884,
+      "spot_return": 1.0698091109369843,
+      "MFE": 1.553780566,
+      "MAE": -0.101050488,
+      "spot_MFE": 1.6412439707728357,
+      "net_hits": {
+        "0.02": 2,
+        "0.05": 2,
+        "0.1": 2,
+        "0.2": 4,
+        "0.25": 4
+      }
+    }
+  },
+  {
+    "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+    "rule": "s2_survival_shelf",
+    "reserve": 12.453624853,
+    "age": 32,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 3.82657359,
+    "recent_sell_SOL": 0.126567682,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.103152616,
+    "baseline_exit": "shelf_invalidation",
+    "baseline_hold": 3,
+    "neutral_MFE_before_exit": -0.02015135,
+    "neutral_MFE_after_exit_until60": 0.108071402,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.181561796,
+      "spot_return": -0.15545684003505977,
+      "MFE": -0.02015135,
+      "MAE": -0.21123251,
+      "spot_MFE": 0.010890478251545321,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.070131848,
+      "spot_return": 0.10403987256368352,
+      "MFE": 0.070131848,
+      "MAE": -0.21123251,
+      "spot_MFE": 0.10403987256368352,
+      "net_hits": {
+        "0.02": 19,
+        "0.05": 19,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.5073028,
+      "spot_return": -0.49033917195716736,
+      "MFE": 0.108071402,
+      "MAE": -0.5073028,
+      "spot_MFE": 0.14320527005616834,
+      "net_hits": {
+        "0.02": 19,
+        "0.05": 19,
+        "0.1": 24,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "1vVNUWXprqSjhEjhrg6C9moZLwp4efDaF86Gh4HHLs",
+    "rule": "s3_deadman",
+    "reserve": 13.916904366,
+    "age": 1,
+    "recent_buyers": 2,
+    "recent_buy_SOL": 1.955555556,
+    "recent_sell_SOL": 6.787453699,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.15431085,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": 0.021494296,
+    "neutral_MFE_after_exit_until60": -0.311931066,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.3086217,
+      "spot_return": -0.2861794177917286,
+      "MFE": 0.021494296,
+      "MAE": -0.347656248,
+      "spot_MFE": 0.053838542634295106,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.448251178,
+      "spot_return": -0.42966713905481313,
+      "MFE": 0.021494296,
+      "MAE": -0.448251178,
+      "spot_MFE": 0.053838542634295106,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.515775464,
+      "spot_return": -0.4989772320777439,
+      "MFE": 0.021494296,
+      "MAE": -0.515775464,
+      "spot_MFE": 0.053838542634295106,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "BqKtSwVLopuoQtug1QPZ8uwRqEwe18Yc55CGKRthpump",
+    "rule": "s1_dev_absorption",
+    "reserve": 3.927771623,
+    "age": 35,
+    "recent_buyers": 3,
+    "recent_buy_SOL": 0.335802456,
+    "recent_sell_SOL": 1.179221149,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.069826651,
+    "baseline_exit": "floor_invalidation",
+    "baseline_hold": 3,
+    "neutral_MFE_before_exit": 0.085203338,
+    "neutral_MFE_after_exit_until60": -0.139600886,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.176373728,
+      "spot_return": -0.15030448484915504,
+      "MFE": 0.085203338,
+      "MAE": -0.176373728,
+      "spot_MFE": 0.11978342166197842,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 1,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.171235152,
+      "spot_return": -0.1450064967550454,
+      "MFE": 0.085203338,
+      "MAE": -0.176373728,
+      "spot_MFE": 0.11978342166197842,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 1,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.244483404,
+      "spot_return": -0.22049578569982609,
+      "MFE": 0.085203338,
+      "MAE": -0.244483404,
+      "spot_MFE": 0.11978342166197842,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 1,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "Cb8E7jxUsbmqQYHF9J51G5nc9tKj18whkrMXMLEVQ36K",
+    "rule": "s3_deadman",
+    "reserve": 11.055812625,
+    "age": 2,
+    "recent_buyers": 11,
+    "recent_buy_SOL": 9.339550323,
+    "recent_sell_SOL": 5.936081948,
+    "whale_remaining_max": 0.0,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.008190049,
+    "baseline_exit": "scratch",
+    "baseline_hold": 10,
+    "neutral_MFE_before_exit": 0.005334766,
+    "neutral_MFE_after_exit_until60": -0.022150704,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.016380098,
+      "spot_return": 0.014784160524192735,
+      "MFE": 0.005334766,
+      "MAE": -0.084474364,
+      "spot_MFE": 0.03718897554567624,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.022150704,
+      "spot_return": 0.008830956805202295,
+      "MFE": 0.005334766,
+      "MAE": -0.133996016,
+      "spot_MFE": 0.03718897554567624,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.439329944,
+      "spot_return": -0.420636010463295,
+      "MFE": 0.005334766,
+      "MAE": -0.446246,
+      "spot_MFE": 0.03718897554567624,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  },
+  {
+    "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+    "rule": "s3_deadman",
+    "reserve": 14.75035207,
+    "age": 3,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 6.233972565,
+    "recent_sell_SOL": 5.480677994,
+    "whale_remaining_max": 0.20000000000000612,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.048981559,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": 0.0287508,
+    "neutral_MFE_after_exit_until60": 0.786037866,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.280972362,
+      "spot_return": 0.3217300531965326,
+      "MFE": 0.404562076,
+      "MAE": -0.1467562,
+      "spot_MFE": 0.44951266642514565,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 1,
+        "0.1": 1,
+        "0.2": 1,
+        "0.25": 1
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.372342766,
+      "spot_return": 0.41618942402027437,
+      "MFE": 0.786037866,
+      "MAE": -0.1467562,
+      "spot_MFE": 0.8446094040065415,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 1,
+        "0.1": 1,
+        "0.2": 1,
+        "0.25": 1
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.523096696,
+      "spot_return": -0.5064584597924516,
+      "MFE": 0.786037866,
+      "MAE": -0.523096696,
+      "spot_MFE": 0.8446094040065415,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 1,
+        "0.1": 1,
+        "0.2": 1,
+        "0.25": 1
+      }
+    }
+  },
+  {
+    "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+    "rule": "s4_upper_ath",
+    "reserve": 17.090010001,
+    "age": 122,
+    "recent_buyers": 1,
+    "recent_buy_SOL": 1.466666666,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": 0.082126533,
+    "baseline_exit": "runner_trail",
+    "baseline_hold": 13,
+    "neutral_MFE_before_exit": 0.225717094,
+    "neutral_MFE_after_exit_until60": 0.425956914,
+    "horizon10": {
+      "complete": true,
+      "net_return": 0.150654264,
+      "spot_return": 0.1870589984723876,
+      "MFE": 0.225717094,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.2645524039846763,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 1,
+        "0.1": 5,
+        "0.2": 6,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": 0.213970918,
+      "spot_return": 0.25242310942241586,
+      "MFE": 0.264987934,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.3051114490329785,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 1,
+        "0.1": 5,
+        "0.2": 6,
+        "0.25": 14
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.410282864,
+      "spot_return": 0.4552683807898421,
+      "MFE": 0.425956914,
+      "MAE": -0.030711366,
+      "spot_MFE": 0.4714757304474875,
+      "net_hits": {
+        "0.02": 1,
+        "0.05": 1,
+        "0.1": 5,
+        "0.2": 6,
+        "0.25": 14
+      }
+    }
+  },
+  {
+    "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+    "rule": "s4_upper_ath",
+    "reserve": 19.661541404,
+    "age": 5,
+    "recent_buyers": 9,
+    "recent_buy_SOL": 8.620864195,
+    "recent_sell_SOL": 0.0,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.053961644,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 5,
+    "neutral_MFE_before_exit": 0.029120188,
+    "neutral_MFE_after_exit_until60": 0.31874095,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.150618676,
+      "spot_return": -0.12349371597748637,
+      "MFE": 0.029120188,
+      "MAE": -0.158258974,
+      "spot_MFE": 0.06166364795893142,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.122561768,
+      "spot_return": -0.0946081016456084,
+      "MFE": 0.029120188,
+      "MAE": -0.416107,
+      "spot_MFE": 0.06166364795893142,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": 0.05478336,
+      "spot_return": 0.08812103379664715,
+      "MFE": 0.31874095,
+      "MAE": -0.416107,
+      "spot_MFE": 0.36052480768281203,
+      "net_hits": {
+        "0.02": 0,
+        "0.05": 26,
+        "0.1": 26,
+        "0.2": 26,
+        "0.25": 26
+      }
+    }
+  },
+  {
+    "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+    "rule": "s4_upper_ath",
+    "reserve": 20.727103792,
+    "age": 10,
+    "recent_buyers": 4,
+    "recent_buy_SOL": 6.128085197,
+    "recent_sell_SOL": 2.096023302,
+    "whale_remaining_max": null,
+    "baseline_status": "closed",
+    "baseline_net_SOL": -0.090735585,
+    "baseline_exit": "breakout_rejected",
+    "baseline_hold": 1,
+    "neutral_MFE_before_exit": -0.030711366,
+    "neutral_MFE_after_exit_until60": 0.044102886,
+    "horizon10": {
+      "complete": true,
+      "net_return": -0.194392448,
+      "spot_return": -0.16852768203754176,
+      "MFE": -0.030711366,
+      "MAE": -0.319266622,
+      "spot_MFE": 0.0,
+      "net_hits": {
+        "0.02": null,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon20": {
+      "complete": true,
+      "net_return": -0.193811266,
+      "spot_return": -0.16792967516812718,
+      "MFE": 0.044102886,
+      "MAE": -0.319266622,
+      "spot_MFE": 0.07709855103009566,
+      "net_hits": {
+        "0.02": 13,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    },
+    "horizon60": {
+      "complete": true,
+      "net_return": -0.385138522,
+      "spot_return": -0.36463748266832907,
+      "MFE": 0.044102886,
+      "MAE": -0.524178784,
+      "spot_MFE": 0.07709855103009566,
+      "net_hits": {
+        "0.02": 13,
+        "0.05": null,
+        "0.1": null,
+        "0.2": null,
+        "0.25": null
+      }
+    }
+  }
+]

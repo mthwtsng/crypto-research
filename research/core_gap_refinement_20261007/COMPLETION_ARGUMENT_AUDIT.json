@@ -1,0 +1,138 @@
+[
+  {
+    "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+    "instruction": "buy",
+    "requested": 2812834267114,
+    "received": 2812834267114,
+    "difference": 0,
+    "signature": "5B1htj63Nc6WADgdLouTKdZUkPMvZ43scKLcnBomZ8xRJySFqoXbhUejzikhDXYWJ1EKGwomTNM6NJcDwAbWDfoE"
+  },
+  {
+    "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+    "instruction": "buy",
+    "requested": 19649022429871,
+    "received": 19649022429871,
+    "difference": 0,
+    "signature": "nVHNBoytygxt1f2uHNmjAoitvuNPAk8NLbnsRhMfXGxgyg4D7fCxGSvaLvJX6SddA8v1pyN6nZmmMaFqm5KemLd"
+  },
+  {
+    "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+    "instruction": "buy",
+    "requested": 353546503458,
+    "received": 353546503458,
+    "difference": 0,
+    "signature": "C5xCeWwmVbr51ex7mLJyRghW7udpCm5kgrsu7hDr6KxokPrAsHEMhVFyLBqQK2mzDypZMvssvniqH5ePxin1Y7e"
+  },
+  {
+    "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+    "instruction": "buy_v2",
+    "requested": 607121531908,
+    "received": 607121531908,
+    "difference": 0,
+    "signature": "X5FyYNrev3tA7GkQnBLoAdoskwyXhQ8XVZnMrLh54yx8L6RAS64yjydKpvHWzLFNnhPVbBBKT1SZaJDBAHkTS3D"
+  },
+  {
+    "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+    "instruction": "buy",
+    "requested": 1770454344953,
+    "received": 1770454344953,
+    "difference": 0,
+    "signature": "4GWJ4aRfUFFS6fF18s5cLfPjyjxCSRPcGjSDoY3oMpSZ3H8ScrYSbvTfVyDa5YyEGr363yds1G1tZaH5dceDEbMQ"
+  },
+  {
+    "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+    "instruction": "buy",
+    "requested": 758024255139,
+    "received": 758024255139,
+    "difference": 0,
+    "signature": "31S4qd1idxYpVR8eayoHxTA86mcY5MdjBjwVwB94LeBiJB4hCM8UzRaaj1XUa8cmBHzgMBGWjhz1gNmZdfsxnEXt"
+  },
+  {
+    "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+    "instruction": "buy_v2",
+    "requested": 25127232054000,
+    "received": 25127232054000,
+    "difference": 0,
+    "signature": "4ZuY9zLJNEqejxgS586F4VEWqSNDPCdSmUjdgULtoMaNJamNm9b56rFbsyiZyqf9BRzimpdxPErjTkdE6oEqNyyE"
+  },
+  {
+    "mint": "2wCKKCrEdwDLv7SvoZDV6HieJMr73uFVAD5TdcJUpump",
+    "instruction": "buy",
+    "requested": 1241116157913,
+    "received": 1241116157913,
+    "difference": 0,
+    "signature": "4ALHDVcDRFEttwCRhFshyFRme37uqKmpw383PJ8MNVqoCMEJkd6M5uc7sSHpRVPZWN53iCa9iTSV9sFw5KdyyNuJ"
+  },
+  {
+    "mint": "Ej9z4z3gxFzz7aSkG2VQDwtsfvWTZaYUJr11HXEWpump",
+    "instruction": "buy_v2",
+    "requested": 4059114323085,
+    "received": 4059114323085,
+    "difference": 0,
+    "signature": "2hUT1FwP5RveoApSgWzyUt61m8QYZZNaVJX2tpC1KKA321GYzNhXCcAJYontqWFxHn2hAJLuX1FQ1tg3kKgFuiDd"
+  },
+  {
+    "mint": "DmST7JayW46G1z8Xa4hQNUy932m6nto87n2YGCjSpump",
+    "instruction": "buy_v2",
+    "requested": 32657735788604,
+    "received": 32657735788604,
+    "difference": 0,
+    "signature": "3b6bgd2PhWj8vgELiwhzjQ9s3h4fWuWpZZP8FiEwM8mTAowJM4E8i9ckXYUvSnXkvhFXpoGxMSEp9pUoCSo56s7c"
+  },
+  {
+    "mint": "5QKaTewC5rTw5d4k24CG3vcqh77CFXc2dmJsPe5gpump",
+    "instruction": "buy",
+    "requested": 1133210041833,
+    "received": 1133210041833,
+    "difference": 0,
+    "signature": "2e2jBV6iEzGFVAHnpcw4kYfvNtA67JPkaug4VrpPEPmDDsHNhMUhZEVvGGfZNitDnmskkJaDB2rFTbjFp5j5QXAk"
+  },
+  {
+    "mint": "6f7zDC6vRuwLBFnCQjKSKqUpt6q95J2nobQCuyfppump",
+    "instruction": "buy_v2",
+    "requested": 2323321112962,
+    "received": 2323321112962,
+    "difference": 0,
+    "signature": "5KWfKFG7KX8TKHRpxdN7kNprKo3z6VrdLQo1o5QZV2t2RRgnw3K9yMAQyL1Usbz1PpHMATNJjHBp1eSjDb4GsnaX"
+  },
+  {
+    "mint": "EbJ8UVhKMsum1qAZv8NmvrWhMNsp72PKF9id66XkBEoK",
+    "instruction": "buy",
+    "requested": 6934491891123,
+    "received": 6934491891123,
+    "difference": 0,
+    "signature": "5thfG2gzMvR1BeMtXmtxhzcA2Ezue9d8oZ2PrQjTEgTXzfp8wZqTR1oewWtec569SeaMMwPhr53GkN6jCT3KbF2h"
+  },
+  {
+    "mint": "uZQFWBUMXpJ7v1yBqPQeeh6qbmDACu1DvJ1EwT1pump",
+    "instruction": "buy",
+    "requested": 1474068193821,
+    "received": 1474068193821,
+    "difference": 0,
+    "signature": "4Xcs7JetzArB3E4DCTbD3VE5NgspCRfU8SvWMScxKFj6hNXNUJz8t2TRwiChJ5RZqoLioQZXAM6koyBze9wH7MEF"
+  },
+  {
+    "mint": "X9YUYVmoTNM6MyME5a66ApnEx2EcVSwG4NsbrG9g4Hs",
+    "instruction": "buy",
+    "requested": 1601964828267,
+    "received": 1601964828267,
+    "difference": 0,
+    "signature": "64b1cTu2ojNd9ee3BbM8iYd83uxnDyc5fUbXHUiX8MQ7nDBGkRWb3qEN8ZUKmA73yzYUSvK8WUSd3XNHmfg8hhpn"
+  },
+  {
+    "mint": "DqGwVksZ1ZPYpF7LPtugbxcwVHR8xxryJx2M11MJpump",
+    "instruction": "buy",
+    "requested": 291633108664,
+    "received": 291633108664,
+    "difference": 0,
+    "signature": "z2rXAehsrySSUt3jqaQ7JLZj9oN47GnAmsSQG1JqTRGyoTep1HqPBRTz9teLBAkwZS81rw8Y6LgLFA4mNeBPEWu"
+  },
+  {
+    "mint": "HJek92mMvwih7fBwb2r3X5FJ44yjue21fTVbYPGXpump",
+    "instruction": "buy_v2",
+    "requested": 1731811138153,
+    "received": 1731811138153,
+    "difference": 0,
+    "signature": "kTttcrFNcYymZy3uDxjD3nqB9yTZ4f7tdJ8MSr9ukfpGsUrrxM9tg1gxzePJmnKUGaC3w3eSqXNFv4AUCwk8pMW"
+  }
+]

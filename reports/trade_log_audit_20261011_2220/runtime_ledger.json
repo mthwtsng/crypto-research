@@ -1,0 +1,3345 @@
+{
+  "saved_at_ms": 1791757298661,
+  "vm_id": "ghost-v2-20261011T220021",
+  "bankroll_initial": 15.0,
+  "virtual_cash": 14.235016243999999,
+  "circuit_breakers": {
+    "UpperAthBreakout": {
+      "consecutive_losses": 1,
+      "cooldown_secs": 14400,
+      "cooldown_until": 0,
+      "loss_ceiling_sol": 0.75,
+      "streak_limit": 6,
+      "trade_history": [
+        [
+          1791756299,
+          -0.09517315699999995
+        ],
+        [
+          1791756378,
+          -0.098003065
+        ],
+        [
+          1791756529,
+          -0.09395514499999996
+        ],
+        [
+          1791756549,
+          0.08684115800000003
+        ],
+        [
+          1791757052,
+          -0.12205017799999995
+        ]
+      ],
+      "trip_count": 0,
+      "window_secs": 28800
+    }
+  },
+  "paper_positions": [],
+  "closed_positions": [
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 14.77348160442129,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 2.380284638,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 3.836486474,
+      "entry_slot": 455809019,
+      "entry_time": 1791756218,
+      "entry_time_ms": 1791756218977,
+      "exit_reason": "S1 Floor Invalidation / Stop Loss (ROI: -11.2%, below_trough: false)",
+      "exit_reserve_sol": 1.927763743,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756229,
+      "exit_time_ms": 1791756229773,
+      "exit_trigger_reserve_sol": 2.380284638,
+      "fill_reserve_sol": 3.836486474,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1357563,
+        "curve_sol_raw": 452520895,
+        "detail": "S1 Floor Invalidation / Stop Loss (ROI: -11.2%, below_trough: false)",
+        "expected_output_raw": 446864383,
+        "filled_at_ms": 1791756229773,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 446864383,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 4298949,
+        "quoted_tokens_raw": 14089982503331,
+        "ready_at_ms": 1791756229742,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 1927763743,
+          "rtokens_raw": 728313429002254,
+          "vsol_raw": 31927763743,
+          "vtokens_raw": 1008213429002254
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 2380284638,
+          "rtokens_raw": 714223446498923,
+          "vsol_raw": 32380284638,
+          "vtokens_raw": 994123446498923
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 14089982503331,
+        "triggered_at_ms": 1791756229672
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "6RMqJFRzSHjcU9fM2pnGDvpCH3C3tCAPkjvUKFFmpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 14089982503331,
+      "peak_executable_roi": 0.08831031794299163,
+      "pending_buy": {
+        "expected_tokens_raw": 14089982503331,
+        "last_error": null,
+        "min_tokens_raw": 12680984252997,
+        "ready_at_ms": 1791756218926,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 3342659315,
+          "rtokens_raw": 685529897192432,
+          "vsol_raw": 33342659315,
+          "vtokens_raw": 965429897192432
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756218856,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 219.73411469021488,
+      "post_exit_note": "Left on table (+219.7%)",
+      "post_exit_reserve_sol": 6.163718337,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.445359383,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -19.011209322437338,
+      "signal_reserve_sol": 3.342659315,
+      "signal_trough_spot": 3.2247231049351565e-05,
+      "state": "Closed",
+      "strategy": "DevDumpAbsorption",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 2.836303532078266,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 1.043359347,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 17.904769021,
+      "entry_slot": 455808990,
+      "entry_time": 1791756212,
+      "entry_time_ms": 1791756212747,
+      "exit_reason": "S3 Relative -18% Stop Loss 18s grace (ROI: -59.3%)",
+      "exit_reserve_sol": 0.835229896,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756230,
+      "exit_time_ms": 1791756230864,
+      "exit_trigger_reserve_sol": 1.043359347,
+      "fill_reserve_sol": 17.904769021,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 624389,
+        "curve_sol_raw": 208129451,
+        "detail": "S3 Relative -18% Stop Loss 18s grace (ROI: -59.3%)",
+        "expected_output_raw": 205527832,
+        "filled_at_ms": 1791756230864,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 205527832,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 1977230,
+        "quoted_tokens_raw": 6999042235207,
+        "ready_at_ms": 1791756230832,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 835229896,
+          "rtokens_raw": 764035791618398,
+          "vsol_raw": 30835229896,
+          "vtokens_raw": 1043935791618398
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 1043359347,
+          "rtokens_raw": 757036749383191,
+          "vsol_raw": 31043359347,
+          "vtokens_raw": 1036936749383191
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 6999042235207,
+        "triggered_at_ms": 1791756230762
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "4tvJ2EZAawYTFw84obX1ewozi7vUvBLe6oCwd8Bypump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 6999042235207,
+      "peak_executable_roi": 0.11829448360435105,
+      "pending_buy": {
+        "expected_tokens_raw": 6999042235207,
+        "last_error": null,
+        "min_tokens_raw": 6299138011686,
+        "ready_at_ms": 1791756212665,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 17410941862,
+          "rtokens_raw": 399057194247355,
+          "vsol_raw": 47410941862,
+          "vtokens_raw": 678957194247355
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756212595,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -95.6387413603787,
+      "post_exit_note": "Dump escaped (-95.6%)",
+      "post_exit_reserve_sol": 0.036426536,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.204022832,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -19.948012312195253,
+      "signal_reserve_sol": 17.410941862,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "DislocationFloor",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 4.175794729131721,
+      "buy_slippage_pct": 3.771950950960712,
+      "current_reserve_sol": 9.797317063,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 12.319771465,
+      "entry_slot": 455809341,
+      "entry_time": 1791756287,
+      "entry_time_ms": 1791756287939,
+      "exit_reason": "Curve reserves <= 9.8 SOL invalidation",
+      "exit_reserve_sol": 9.360300296,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756295,
+      "exit_time_ms": 1791756295897,
+      "exit_trigger_reserve_sol": 9.797317063,
+      "fill_reserve_sol": 12.319771465,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1311051,
+        "curve_sol_raw": 437016767,
+        "detail": "Curve reserves <= 9.8 SOL invalidation",
+        "expected_output_raw": 431554056,
+        "filled_at_ms": 1791756295897,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 431554056,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 4151660,
+        "quoted_tokens_raw": 8980631561286,
+        "ready_at_ms": 1791756295866,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 9360300296,
+          "rtokens_raw": 537929128297943,
+          "vsol_raw": 39360300296,
+          "vtokens_raw": 817829128297943
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 9797317063,
+          "rtokens_raw": 528948496736657,
+          "vsol_raw": 39797317063,
+          "vtokens_raw": 808848496736657
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 8980631561286,
+        "triggered_at_ms": 1791756295796
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "25jFCBZSM1L1bLvoeSy8WZKJQ8HDaHdNNmm85726pump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 8980631561286,
+      "peak_executable_roi": 0.0,
+      "pending_buy": {
+        "expected_tokens_raw": 9332654719737,
+        "last_error": null,
+        "min_tokens_raw": 8399389247763,
+        "ready_at_ms": 1791756287899,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 11024861394,
+          "rtokens_raw": 504746162923526,
+          "vsol_raw": 41024861394,
+          "vtokens_raw": 784646162923526
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756287829,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 13.150408182160756,
+      "post_exit_note": "Stabilized (+13.2%)",
+      "post_exit_reserve_sol": 10.591217992,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.430049056,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -4.4605759330828665,
+      "signal_reserve_sol": 11.024861394,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "SurvivalShelfBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 2.343127577801307,
+      "buy_slippage_pct": 8.07222574250469,
+      "current_reserve_sol": 17.141185287,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 21.569382911,
+      "entry_slot": 455809329,
+      "entry_time": 1791756285,
+      "entry_time_ms": 1791756285450,
+      "exit_reason": "Rejection Stop (>=25 slots, ROI: -19.0%)",
+      "exit_reserve_sol": 16.728185951,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756299,
+      "exit_time_ms": 1791756299317,
+      "exit_trigger_reserve_sol": 17.141185287,
+      "fill_reserve_sol": 21.569382911,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1238999,
+        "curve_sol_raw": 412999336,
+        "detail": "Rejection Stop (>=25 slots, ROI: -19.0%)",
+        "expected_output_raw": 407836843,
+        "filled_at_ms": 1791756299317,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 407836843,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3923494,
+        "quoted_tokens_raw": 6035189518978,
+        "ready_at_ms": 1791756299296,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 16728185951,
+          "rtokens_raw": 408977589211181,
+          "vsol_raw": 46728185951,
+          "vtokens_raw": 688877589211181
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 17141185287,
+          "rtokens_raw": 402942399692203,
+          "vsol_raw": 47141185287,
+          "vtokens_raw": 682842399692203
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 6035189518978,
+        "triggered_at_ms": 1791756299226
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "2UCyAN8NgEdkYFEaegTTrBimny7QoxuDVBB9XPHXpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 6035189518978,
+      "peak_executable_roi": 0.0,
+      "pending_buy": {
+        "expected_tokens_raw": 6565142654355,
+        "last_error": null,
+        "min_tokens_raw": 5908628388919,
+        "ready_at_ms": 1791756285424,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 18960592837,
+          "rtokens_raw": 377567530685322,
+          "vsol_raw": 48960592837,
+          "vtokens_raw": 657467530685322
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756285354,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -65.6379114935868,
+      "post_exit_note": "Dump escaped (-65.6%)",
+      "post_exit_reserve_sol": 5.748154062,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.406331843,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -2.4093977696701074,
+      "signal_reserve_sol": 18.960592837,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "UpperAthBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": 0.22614272240555938,
+      "amm_opened_at_ms": 1791756280256,
+      "amm_own_base_added": 1487554585243,
+      "amm_own_quote_removed": 498541946,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 0.6752967644897634,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 85.005360165,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 73.621255716,
+      "entry_slot": 455808914,
+      "entry_time": 1791756193,
+      "entry_time_ms": 1791756193902,
+      "exit_reason": "S5 AMM 18% relative trailing exit (Peak: +22.6%, Exit: -2.1%)",
+      "exit_reserve_sol": null,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756340,
+      "exit_time_ms": 1791756340408,
+      "exit_trigger_reserve_sol": null,
+      "fill_reserve_sol": 73.621255716,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": {
+          "base_decimals": 6,
+          "base_reserve_raw": 229816598111126,
+          "base_supply_raw": 990608652772928,
+          "base_vault": "7kC2Lj1GrzaVjQJQqgfJ2HSwZzroUVsidFRhMFzArLL",
+          "buyback_basis_points": 5000,
+          "context_slot": 455809571,
+          "creator_fee_bps": 30,
+          "creator_fees_raw": 83577152,
+          "fee_deferred_mode": false,
+          "fee_tiers": [
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 2,
+              "market_cap_lamports_threshold": 0,
+              "protocol_fee_bps": 93
+            },
+            {
+              "creator_fee_bps": 95,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 90,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 1470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 85,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 2460000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 80,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 3440000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 75,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 4420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 70,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 9820000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 65,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 14740000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 60,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 19650000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 55,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 24560000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 50,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 29470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 45,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 34380000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 40,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 39300000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 35,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 44210000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 49120000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 28,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 54030000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 25,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 58940000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 23,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 63860000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 20,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 68770000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 18,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 73681000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 15,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 78590000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 13,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 83500000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 10,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 88400000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 8,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 93330000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 5,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 98240000000000,
+              "protocol_fee_bps": 5
+            }
+          ],
+          "global_fallback_fees": null,
+          "lp_fee_bps": 2,
+          "mint": "4S4hM9NAfS5ZvZ2QB65ScwEF6KHrbDqf8xqpuzwSpump",
+          "observed_at_ms": 1791756340407,
+          "opened_at_ms": 1791756280256,
+          "pool": "3bRdDXgDEux9SBPLK379GwfkBgSGBvb2UzpAMC4s2RW6",
+          "protocol_fee_bps": 93,
+          "protocol_fees_raw": 129544562,
+          "quote_reserve_raw": 59166664889,
+          "quote_vault": "B5ovLAHTMgjkuMBxfqZKqtS9nsz27opeq7Y4A8v3mJXF",
+          "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+          "supports_fee_deferred_mode": true,
+          "virtual_quote_reserve_raw": 17371383804
+        },
+        "amm_state_before": {
+          "base_decimals": 6,
+          "base_reserve_raw": 228329043525883,
+          "base_supply_raw": 990608652772928,
+          "base_vault": "7kC2Lj1GrzaVjQJQqgfJ2HSwZzroUVsidFRhMFzArLL",
+          "buyback_basis_points": 5000,
+          "context_slot": 455809571,
+          "creator_fee_bps": 30,
+          "creator_fees_raw": 83577152,
+          "fee_deferred_mode": false,
+          "fee_tiers": [
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 2,
+              "market_cap_lamports_threshold": 0,
+              "protocol_fee_bps": 93
+            },
+            {
+              "creator_fee_bps": 95,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 90,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 1470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 85,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 2460000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 80,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 3440000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 75,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 4420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 70,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 9820000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 65,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 14740000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 60,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 19650000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 55,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 24560000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 50,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 29470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 45,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 34380000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 40,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 39300000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 35,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 44210000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 49120000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 28,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 54030000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 25,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 58940000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 23,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 63860000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 20,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 68770000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 18,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 73681000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 15,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 78590000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 13,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 83500000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 10,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 88400000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 8,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 93330000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 5,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 98240000000000,
+              "protocol_fee_bps": 5
+            }
+          ],
+          "global_fallback_fees": null,
+          "lp_fee_bps": 2,
+          "mint": "4S4hM9NAfS5ZvZ2QB65ScwEF6KHrbDqf8xqpuzwSpump",
+          "observed_at_ms": 1791756340407,
+          "opened_at_ms": 1791756280256,
+          "pool": "3bRdDXgDEux9SBPLK379GwfkBgSGBvb2UzpAMC4s2RW6",
+          "protocol_fee_bps": 93,
+          "protocol_fees_raw": 129544562,
+          "quote_reserve_raw": 59665206835,
+          "quote_vault": "B5ovLAHTMgjkuMBxfqZKqtS9nsz27opeq7Y4A8v3mJXF",
+          "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+          "supports_fee_deferred_mode": true,
+          "virtual_quote_reserve_raw": 17371383804
+        },
+        "creator_fee_raw": 1495926,
+        "curve_sol_raw": 498641675,
+        "detail": "S5 AMM 18% relative trailing exit (Peak: +22.6%, Exit: -2.1%); authenticated reserve quote; provisional paper fill, not an on-chain sale",
+        "expected_output_raw": 492408652,
+        "filled_at_ms": 1791756340408,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 99729,
+        "min_output_raw": 0,
+        "net_sol_raw": 492408652,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 4637368,
+        "quoted_tokens_raw": 1487554585243,
+        "ready_at_ms": 1791756340368,
+        "side": "sell",
+        "state_after": null,
+        "state_before": null,
+        "status": "paper_filled_migrated_full",
+        "tokens_raw": 1487554585243,
+        "triggered_at_ms": 1791756340298
+      },
+      "migration_amm": {
+        "base_decimals": 6,
+        "base_reserve_raw": 229816598111126,
+        "base_supply_raw": 990608652772928,
+        "base_vault": "7kC2Lj1GrzaVjQJQqgfJ2HSwZzroUVsidFRhMFzArLL",
+        "buyback_basis_points": 5000,
+        "context_slot": 455809571,
+        "creator_fee_bps": 30,
+        "creator_fees_raw": 83577152,
+        "fee_deferred_mode": false,
+        "fee_tiers": [
+          {
+            "creator_fee_bps": 30,
+            "lp_fee_bps": 2,
+            "market_cap_lamports_threshold": 0,
+            "protocol_fee_bps": 93
+          },
+          {
+            "creator_fee_bps": 95,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 420000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 90,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 1470000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 85,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 2460000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 80,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 3440000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 75,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 4420000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 70,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 9820000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 65,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 14740000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 60,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 19650000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 55,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 24560000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 50,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 29470000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 45,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 34380000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 40,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 39300000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 35,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 44210000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 30,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 49120000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 28,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 54030000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 25,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 58940000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 23,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 63860000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 20,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 68770000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 18,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 73681000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 15,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 78590000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 13,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 83500000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 10,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 88400000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 8,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 93330000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 5,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 98240000000000,
+            "protocol_fee_bps": 5
+          }
+        ],
+        "global_fallback_fees": null,
+        "lp_fee_bps": 2,
+        "mint": "4S4hM9NAfS5ZvZ2QB65ScwEF6KHrbDqf8xqpuzwSpump",
+        "observed_at_ms": 1791756340407,
+        "opened_at_ms": 1791756280256,
+        "pool": "3bRdDXgDEux9SBPLK379GwfkBgSGBvb2UzpAMC4s2RW6",
+        "protocol_fee_bps": 93,
+        "protocol_fees_raw": 129544562,
+        "quote_reserve_raw": 59166664889,
+        "quote_vault": "B5ovLAHTMgjkuMBxfqZKqtS9nsz27opeq7Y4A8v3mJXF",
+        "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+        "supports_fee_deferred_mode": true,
+        "virtual_quote_reserve_raw": 17371383804
+      },
+      "migration_detected_at_ms": 1791756276977,
+      "mint": "4S4hM9NAfS5ZvZ2QB65ScwEF6KHrbDqf8xqpuzwSpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 1487554585243,
+      "peak_executable_roi": 0.22614272240555938,
+      "pending_buy": {
+        "expected_tokens_raw": 1487554585243,
+        "last_error": null,
+        "min_tokens_raw": 1338799126718,
+        "ready_at_ms": 1791756193881,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 73127428557,
+          "rtokens_raw": 32238106563028,
+          "vsol_raw": 103127428557,
+          "vtokens_raw": 312138106563028
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756193811,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -86.61719165437196,
+      "post_exit_note": "AMM -86.6% vs our exit price, 896s after exit",
+      "post_exit_reserve_sol": null,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.490903652,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": null,
+      "signal_reserve_sol": 73.127428557,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "PreGraduationCarryover",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 2.774008486623769,
+      "buy_slippage_pct": 2.3240152132736336,
+      "current_reserve_sol": 13.993277333,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 18.295761125,
+      "entry_slot": 455809441,
+      "entry_time": 1791756311,
+      "entry_time_ms": 1791756311372,
+      "exit_reason": "Rejection Stop (>=25 slots, ROI: -19.5%)",
+      "exit_reserve_sol": 13.583143727,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756378,
+      "exit_time_ms": 1791756378413,
+      "exit_trigger_reserve_sol": 13.993277333,
+      "fill_reserve_sol": 18.295761125,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1230401,
+        "curve_sol_raw": 410133606,
+        "detail": "Rejection Stop (>=25 slots, ROI: -19.5%)",
+        "expected_output_raw": 405006935,
+        "filled_at_ms": 1791756378413,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 405006935,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3896270,
+        "quoted_tokens_raw": 6885594859111,
+        "ready_at_ms": 1791756378309,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 13583143727,
+          "rtokens_raw": 458688302157567,
+          "vsol_raw": 43583143727,
+          "vtokens_raw": 738588302157567
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 13993277333,
+          "rtokens_raw": 451802707298456,
+          "vsol_raw": 43993277333,
+          "vtokens_raw": 731702707298456
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 6885594859111,
+        "triggered_at_ms": 1791756378239
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "GipinCxdGRt2itPubsPDwRcGDye1c9cPA7kx9mCPpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 6885594859111,
+      "peak_executable_roi": 0.09461377852663497,
+      "pending_buy": {
+        "expected_tokens_raw": 7049424558294,
+        "last_error": null,
+        "min_tokens_raw": 6344482102464,
+        "ready_at_ms": 1791756311359,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 17240335443,
+          "rtokens_raw": 401509219112045,
+          "vsol_raw": 47240335443,
+          "vtokens_raw": 681409219112045
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756311289,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -44.73022376199142,
+      "post_exit_note": "Dump escaped (-44.7%)",
+      "post_exit_reserve_sol": 7.507373144,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.403501935,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -2.930933163404059,
+      "signal_reserve_sol": 17.240335443,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "UpperAthBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": -0.23624864557681372,
+      "amm_opened_at_ms": 1791756344197,
+      "amm_own_base_added": 1319732522182,
+      "amm_own_quote_removed": 596064770,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 0.6211389940560919,
+      "buy_slippage_pct": 0.4822969429850832,
+      "current_reserve_sol": 85.005359507,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 79.997314096,
+      "entry_slot": 455809581,
+      "entry_time": 1791756342,
+      "entry_time_ms": 1791756342203,
+      "exit_reason": "S5 AMM 18% relative trailing exit (Peak: +43.6%, Exit: +16.4%)",
+      "exit_reserve_sol": null,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756430,
+      "exit_time_ms": 1791756430079,
+      "exit_trigger_reserve_sol": null,
+      "fill_reserve_sol": 79.997314096,
+      "is_closed": true,
+      "is_whitelisted": true,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": {
+          "base_decimals": 6,
+          "base_reserve_raw": 216874875622179,
+          "base_supply_raw": 990701722460681,
+          "base_vault": "MRxnmJjLyTKwx6RWGCcuxLyUdBiWCWGYAZHUSMen9RK",
+          "buyback_basis_points": 5000,
+          "context_slot": 455809973,
+          "creator_fee_bps": 30,
+          "creator_fees_raw": 2824258574,
+          "fee_deferred_mode": false,
+          "fee_tiers": [
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 2,
+              "market_cap_lamports_threshold": 0,
+              "protocol_fee_bps": 93
+            },
+            {
+              "creator_fee_bps": 95,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 90,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 1470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 85,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 2460000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 80,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 3440000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 75,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 4420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 70,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 9820000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 65,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 14740000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 60,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 19650000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 55,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 24560000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 50,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 29470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 45,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 34380000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 40,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 39300000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 35,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 44210000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 49120000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 28,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 54030000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 25,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 58940000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 23,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 63860000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 20,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 68770000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 18,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 73681000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 15,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 78590000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 13,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 83500000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 10,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 88400000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 8,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 93330000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 5,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 98240000000000,
+              "protocol_fee_bps": 5
+            }
+          ],
+          "global_fallback_fees": null,
+          "lp_fee_bps": 2,
+          "mint": "p9CMs7VaWHHX1YjjcUMKufsAiVkq417XdVozGJTpump",
+          "observed_at_ms": 1791756430079,
+          "opened_at_ms": 1791756344197,
+          "pool": "B5BroH6EBud7geVcoxVTnCxsA9qd5EDALzdpLRQyC6qx",
+          "protocol_fee_bps": 93,
+          "protocol_fees_raw": 564196689,
+          "quote_reserve_raw": 67624988903,
+          "quote_vault": "Hmp2NWX4bfHTgXuMx462oCpxUf5jCBpDzhDGXeEKgAgx",
+          "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+          "supports_fee_deferred_mode": true,
+          "virtual_quote_reserve_raw": 14196050118
+        },
+        "amm_state_before": {
+          "base_decimals": 6,
+          "base_reserve_raw": 216215009361088,
+          "base_supply_raw": 990701722460681,
+          "base_vault": "MRxnmJjLyTKwx6RWGCcuxLyUdBiWCWGYAZHUSMen9RK",
+          "buyback_basis_points": 5000,
+          "context_slot": 455809973,
+          "creator_fee_bps": 30,
+          "creator_fees_raw": 2824258574,
+          "fee_deferred_mode": false,
+          "fee_tiers": [
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 2,
+              "market_cap_lamports_threshold": 0,
+              "protocol_fee_bps": 93
+            },
+            {
+              "creator_fee_bps": 95,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 90,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 1470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 85,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 2460000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 80,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 3440000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 75,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 4420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 70,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 9820000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 65,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 14740000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 60,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 19650000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 55,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 24560000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 50,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 29470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 45,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 34380000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 40,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 39300000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 35,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 44210000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 49120000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 28,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 54030000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 25,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 58940000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 23,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 63860000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 20,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 68770000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 18,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 73681000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 15,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 78590000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 13,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 83500000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 10,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 88400000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 8,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 93330000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 5,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 98240000000000,
+              "protocol_fee_bps": 5
+            }
+          ],
+          "global_fallback_fees": null,
+          "lp_fee_bps": 2,
+          "mint": "p9CMs7VaWHHX1YjjcUMKufsAiVkq417XdVozGJTpump",
+          "observed_at_ms": 1791756430079,
+          "opened_at_ms": 1791756344197,
+          "pool": "B5BroH6EBud7geVcoxVTnCxsA9qd5EDALzdpLRQyC6qx",
+          "protocol_fee_bps": 93,
+          "protocol_fees_raw": 564196689,
+          "quote_reserve_raw": 67874648314,
+          "quote_vault": "Hmp2NWX4bfHTgXuMx462oCpxUf5jCBpDzhDGXeEKgAgx",
+          "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+          "supports_fee_deferred_mode": true,
+          "virtual_quote_reserve_raw": 14196050118
+        },
+        "creator_fee_raw": 749129,
+        "curve_sol_raw": 249709353,
+        "detail": "S5 AMM 18% relative trailing exit (Peak: +43.6%, Exit: +16.4%); authenticated reserve quote; provisional paper fill, not an on-chain sale",
+        "expected_output_raw": 243791088,
+        "filled_at_ms": 1791756430079,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 49942,
+        "min_output_raw": 0,
+        "net_sol_raw": 246587985,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 2322297,
+        "quoted_tokens_raw": 659866261091,
+        "ready_at_ms": 1791756429615,
+        "side": "sell",
+        "state_after": null,
+        "state_before": null,
+        "status": "paper_filled_migrated_full",
+        "tokens_raw": 659866261091,
+        "triggered_at_ms": 1791756429545
+      },
+      "migration_amm": {
+        "base_decimals": 6,
+        "base_reserve_raw": 216874875622179,
+        "base_supply_raw": 990701722460681,
+        "base_vault": "MRxnmJjLyTKwx6RWGCcuxLyUdBiWCWGYAZHUSMen9RK",
+        "buyback_basis_points": 5000,
+        "context_slot": 455809973,
+        "creator_fee_bps": 30,
+        "creator_fees_raw": 2824258574,
+        "fee_deferred_mode": false,
+        "fee_tiers": [
+          {
+            "creator_fee_bps": 30,
+            "lp_fee_bps": 2,
+            "market_cap_lamports_threshold": 0,
+            "protocol_fee_bps": 93
+          },
+          {
+            "creator_fee_bps": 95,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 420000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 90,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 1470000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 85,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 2460000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 80,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 3440000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 75,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 4420000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 70,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 9820000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 65,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 14740000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 60,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 19650000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 55,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 24560000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 50,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 29470000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 45,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 34380000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 40,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 39300000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 35,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 44210000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 30,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 49120000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 28,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 54030000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 25,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 58940000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 23,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 63860000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 20,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 68770000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 18,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 73681000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 15,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 78590000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 13,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 83500000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 10,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 88400000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 8,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 93330000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 5,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 98240000000000,
+            "protocol_fee_bps": 5
+          }
+        ],
+        "global_fallback_fees": null,
+        "lp_fee_bps": 2,
+        "mint": "p9CMs7VaWHHX1YjjcUMKufsAiVkq417XdVozGJTpump",
+        "observed_at_ms": 1791756430079,
+        "opened_at_ms": 1791756344197,
+        "pool": "B5BroH6EBud7geVcoxVTnCxsA9qd5EDALzdpLRQyC6qx",
+        "protocol_fee_bps": 93,
+        "protocol_fees_raw": 564196689,
+        "quote_reserve_raw": 67624988903,
+        "quote_vault": "Hmp2NWX4bfHTgXuMx462oCpxUf5jCBpDzhDGXeEKgAgx",
+        "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+        "supports_fee_deferred_mode": true,
+        "virtual_quote_reserve_raw": 14196050118
+      },
+      "migration_detected_at_ms": 1791756342826,
+      "mint": "p9CMs7VaWHHX1YjjcUMKufsAiVkq417XdVozGJTpump",
+      "network_fees_raw": 4515000,
+      "original_tokens": 1319732522182,
+      "peak_executable_roi": 0.43552360594610223,
+      "pending_buy": {
+        "expected_tokens_raw": 1326128398910,
+        "last_error": null,
+        "min_tokens_raw": 1193515559019,
+        "ready_at_ms": 1791756342196,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 79238506979,
+          "rtokens_raw": 14776309758153,
+          "vsol_raw": 109238506979,
+          "vtokens_raw": 294676309758153
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756342126,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -88.64248597938544,
+      "post_exit_note": "AMM -88.6% vs our exit price, 865s after exit",
+      "post_exit_reserve_sol": null,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.586512348,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": null,
+      "signal_reserve_sol": 79.238506979,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "PreGraduationCarryover",
+      "tokens_held": 0,
+      "tranche1_intent_fired": true,
+      "tranche1_proceeds": 0.341429363,
+      "tranche1_sold": true,
+      "whitelisted_by": "Decu: 4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9"
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 2.6265182605066384,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 15.129170079,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 19.295415803,
+      "entry_slot": 455810359,
+      "entry_time": 1791756516,
+      "entry_time_ms": 1791756516202,
+      "exit_reason": "Rejection Stop (>=25 slots, ROI: -18.7%)",
+      "exit_reserve_sol": 14.714937313,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756529,
+      "exit_time_ms": 1791756529105,
+      "exit_trigger_reserve_sol": 15.129170079,
+      "fill_reserve_sol": 19.295415803,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1242699,
+        "curve_sol_raw": 414232766,
+        "detail": "Rejection Stop (>=25 slots, ROI: -18.7%)",
+        "expected_output_raw": 409054855,
+        "filled_at_ms": 1791756529105,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 409054855,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3935212,
+        "quoted_tokens_raw": 6607778151791,
+        "ready_at_ms": 1791756529058,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 14714937313,
+          "rtokens_raw": 439993664325031,
+          "vsol_raw": 44714937313,
+          "vtokens_raw": 719893664325031
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 15129170079,
+          "rtokens_raw": 433385886173240,
+          "vsol_raw": 45129170079,
+          "vtokens_raw": 713285886173240
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 6607778151791,
+        "triggered_at_ms": 1791756528988
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "9nkjGKF8V6dRUei1F4TCCfBRZMrArTi3wCaNdzRhpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 6607778151791,
+      "peak_executable_roi": 0.004794664061175873,
+      "pending_buy": {
+        "expected_tokens_raw": 6607778151791,
+        "last_error": null,
+        "min_tokens_raw": 5947000336611,
+        "ready_at_ms": 1791756516166,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 18801588644,
+          "rtokens_raw": 379709675658925,
+          "vsol_raw": 48801588644,
+          "vtokens_raw": 659609675658925
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756516096,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 66.59428606836634,
+      "post_exit_note": "Left on table (+66.6%)",
+      "post_exit_reserve_sol": 24.514244762,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.407549855,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -2.7379741508423816,
+      "signal_reserve_sol": 18.801588644,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "UpperAthBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 3.0709149799949653,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 21.426392453,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 16.574609669,
+      "entry_slot": 455810346,
+      "entry_time": 1791756513,
+      "entry_time_ms": 1791756513552,
+      "exit_reason": "Trailing Stop (Peak: +28.5%, Exit: +19.6%)",
+      "exit_reserve_sol": 20.117748632,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756549,
+      "exit_time_ms": 1791756549514,
+      "exit_trigger_reserve_sol": 21.426392453,
+      "fill_reserve_sol": 16.574609669,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 871951,
+        "curve_sol_raw": 290650021,
+        "detail": "Trailing Stop (Peak: +28.5%, Exit: +19.6%)",
+        "expected_output_raw": 298691739,
+        "filled_at_ms": 1791756549514,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 287016894,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 2761176,
+        "quoted_tokens_raw": 3703368121077,
+        "ready_at_ms": 1791756549508,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 20117748632,
+          "rtokens_raw": 362387433846609,
+          "vsol_raw": 50117748632,
+          "vtokens_raw": 642287433846609
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 20408398653,
+          "rtokens_raw": 358684065725532,
+          "vsol_raw": 50408398653,
+          "vtokens_raw": 638584065725532
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 3703368121077,
+        "triggered_at_ms": 1791756549438
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "2QND2BgPqJDLvht8AjfTbxxi5fmQhSbGhnaJCTJEpump",
+      "network_fees_raw": 4515000,
+      "original_tokens": 7406736242153,
+      "peak_executable_roi": 0.28503007547282694,
+      "pending_buy": {
+        "expected_tokens_raw": 7406736242153,
+        "last_error": null,
+        "min_tokens_raw": 6666062617937,
+        "ready_at_ms": 1791756513547,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 16080782510,
+          "rtokens_raw": 418655848546739,
+          "vsol_raw": 46080782510,
+          "vtokens_raw": 698555848546739
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756513477,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -8.545766534061162,
+      "post_exit_note": "Stabilized (-8.5%)",
+      "post_exit_reserve_sol": 18.398532802,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.588346158,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -1.4241686765427475,
+      "signal_reserve_sol": 16.08078251,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "UpperAthBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": true,
+      "tranche1_proceeds": 0.302834264,
+      "tranche1_sold": true,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 21.754701200993054,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 0.986872039,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 2.763806206,
+      "entry_slot": 455810462,
+      "entry_time": 1791756537,
+      "entry_time_ms": 1791756537902,
+      "exit_reason": "S1 Floor Invalidation / Stop Loss (ROI: -13.3%, below_trough: true)",
+      "exit_reserve_sol": 0.544796071,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756590,
+      "exit_time_ms": 1791756590576,
+      "exit_trigger_reserve_sol": 0.986872039,
+      "fill_reserve_sol": 2.763806206,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1326228,
+        "curve_sol_raw": 442075968,
+        "detail": "S1 Floor Invalidation / Stop Loss (ROI: -13.3%, below_trough: true)",
+        "expected_output_raw": 436550018,
+        "filled_at_ms": 1791756590576,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 436550018,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 4199722,
+        "quoted_tokens_raw": 15034982114375,
+        "ready_at_ms": 1791756590575,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 544796071,
+          "rtokens_raw": 773962006105177,
+          "vsol_raw": 30544796071,
+          "vtokens_raw": 1053862006105177
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 986872039,
+          "rtokens_raw": 758927023990802,
+          "vsol_raw": 30986872039,
+          "vtokens_raw": 1038827023990802
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 15034982114375,
+        "triggered_at_ms": 1791756590505
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "7KUiSLDvM3modKnLMLVQmJRxSpBUbWAkjoqxNAzspump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 15034982114375,
+      "peak_executable_roi": 0.12436409008883258,
+      "pending_buy": {
+        "expected_tokens_raw": 15034982114375,
+        "last_error": null,
+        "min_tokens_raw": 13531483902937,
+        "ready_at_ms": 1791756537902,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 2269979047,
+          "rtokens_raw": 717621566626850,
+          "vsol_raw": 32269979047,
+          "vtokens_raw": 997521566626850
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756537832,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 70.90164826096918,
+      "post_exit_note": "Left on table (+70.9%)",
+      "post_exit_reserve_sol": 0.931065465,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.435045018,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -44.79567264343173,
+      "signal_reserve_sol": 2.269979047,
+      "signal_trough_spot": 2.9944140246225728e-05,
+      "state": "Closed",
+      "strategy": "DevDumpAbsorption",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 31.471132307379545,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 5.81701025,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 2.062970443,
+      "entry_slot": 455810152,
+      "entry_time": 1791756471,
+      "entry_time_ms": 1791756471111,
+      "exit_reason": "Trailing Stop (Peak: +42.0%, Exit: +26.9%)",
+      "exit_reserve_sol": 5.445382051,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756690,
+      "exit_time_ms": 1791756690583,
+      "exit_trigger_reserve_sol": 5.81701025,
+      "fill_reserve_sol": 2.062970443,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1114885,
+        "curve_sol_raw": 371628199,
+        "detail": "Trailing Stop (Peak: +42.0%, Exit: +26.9%)",
+        "expected_output_raw": 366982846,
+        "filled_at_ms": 1791756690583,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 366982846,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3530468,
+        "quoted_tokens_raw": 9422814612314,
+        "ready_at_ms": 1791756690565,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 5445382051,
+          "rtokens_raw": 628257797971314,
+          "vsol_raw": 35445382051,
+          "vtokens_raw": 908157797971314
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 5817010250,
+          "rtokens_raw": 618834983359000,
+          "vsol_raw": 35817010250,
+          "vtokens_raw": 898734983359000
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 9422814612314,
+        "triggered_at_ms": 1791756690495
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "3TwWvvdXNFhkFgdfxHms32JdJAr33trd4MQcMe9cpump",
+      "network_fees_raw": 4515000,
+      "original_tokens": 15704691020523,
+      "peak_executable_roi": 0.42033199868396126,
+      "pending_buy": {
+        "expected_tokens_raw": 15704691020523,
+        "last_error": null,
+        "min_tokens_raw": 14134221918470,
+        "ready_at_ms": 1791756471038,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 1569143284,
+          "rtokens_raw": 739766569232695,
+          "vsol_raw": 31569143284,
+          "vtokens_raw": 1019666569232695
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756470968,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -62.20299410172644,
+      "post_exit_note": "Dump escaped (-62.2%)",
+      "post_exit_reserve_sol": 2.058191375,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.636546424,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -6.388646109055762,
+      "signal_reserve_sol": 1.569143284,
+      "signal_trough_spot": 2.9297327302140764e-05,
+      "state": "Closed",
+      "strategy": "DevDumpAbsorption",
+      "tokens_held": 0,
+      "tranche1_intent_fired": true,
+      "tranche1_proceeds": 0.271068578,
+      "tranche1_sold": true,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": 0.1975004536345601,
+      "amm_opened_at_ms": 1791756764754,
+      "amm_own_base_added": 1494921179444,
+      "amm_own_quote_removed": 380794094,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 0.6776599341020706,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 85.005361897,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 73.36624209,
+      "entry_slot": 455811272,
+      "entry_time": 1791756717,
+      "entry_time_ms": 1791756717429,
+      "exit_reason": "S5 AMM hard stop (-40.1% vs pool open, ROI -28.2%)",
+      "exit_reserve_sol": null,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756769,
+      "exit_time_ms": 1791756769700,
+      "exit_trigger_reserve_sol": null,
+      "fill_reserve_sol": 73.36624209,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": {
+          "base_decimals": 6,
+          "base_reserve_raw": 263475677881796,
+          "base_supply_raw": 998683526420750,
+          "base_vault": "FYotXFM76ivzdqetgCfTX3qcSwtysm8F1dt1hymdmSVQ",
+          "buyback_basis_points": 5000,
+          "context_slot": 455811512,
+          "creator_fee_bps": 30,
+          "creator_fees_raw": 44029690,
+          "fee_deferred_mode": false,
+          "fee_tiers": [
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 2,
+              "market_cap_lamports_threshold": 0,
+              "protocol_fee_bps": 93
+            },
+            {
+              "creator_fee_bps": 95,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 90,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 1470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 85,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 2460000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 80,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 3440000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 75,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 4420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 70,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 9820000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 65,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 14740000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 60,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 19650000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 55,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 24560000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 50,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 29470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 45,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 34380000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 40,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 39300000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 35,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 44210000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 49120000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 28,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 54030000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 25,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 58940000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 23,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 63860000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 20,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 68770000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 18,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 73681000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 15,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 78590000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 13,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 83500000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 10,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 88400000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 8,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 93330000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 5,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 98240000000000,
+              "protocol_fee_bps": 5
+            }
+          ],
+          "global_fallback_fees": null,
+          "lp_fee_bps": 2,
+          "mint": "ko27hHdMKaJATnGLbruQJNTgoy1oC3TNP2RnRqopump",
+          "observed_at_ms": 1791756769699,
+          "opened_at_ms": 1791756764754,
+          "pool": "6MYK9Lr2JoLTZUhLijNYpNvowFZ7HboWfQzE5TKi5PNa",
+          "protocol_fee_bps": 93,
+          "protocol_fees_raw": 68246016,
+          "quote_reserve_raw": 49274295798,
+          "quote_vault": "ENGg2v5N2uX1raMGkGEw2Lnxo8xC6h4T4Um9rSESZNR9",
+          "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+          "supports_fee_deferred_mode": true,
+          "virtual_quote_reserve_raw": 17472230170
+        },
+        "amm_state_before": {
+          "base_decimals": 6,
+          "base_reserve_raw": 261980756702352,
+          "base_supply_raw": 998683526420750,
+          "base_vault": "FYotXFM76ivzdqetgCfTX3qcSwtysm8F1dt1hymdmSVQ",
+          "buyback_basis_points": 5000,
+          "context_slot": 455811512,
+          "creator_fee_bps": 30,
+          "creator_fees_raw": 44029690,
+          "fee_deferred_mode": false,
+          "fee_tiers": [
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 2,
+              "market_cap_lamports_threshold": 0,
+              "protocol_fee_bps": 93
+            },
+            {
+              "creator_fee_bps": 95,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 90,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 1470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 85,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 2460000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 80,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 3440000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 75,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 4420000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 70,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 9820000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 65,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 14740000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 60,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 19650000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 55,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 24560000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 50,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 29470000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 45,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 34380000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 40,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 39300000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 35,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 44210000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 30,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 49120000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 28,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 54030000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 25,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 58940000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 23,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 63860000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 20,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 68770000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 18,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 73681000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 15,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 78590000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 13,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 83500000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 10,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 88400000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 8,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 93330000000000,
+              "protocol_fee_bps": 5
+            },
+            {
+              "creator_fee_bps": 5,
+              "lp_fee_bps": 20,
+              "market_cap_lamports_threshold": 98240000000000,
+              "protocol_fee_bps": 5
+            }
+          ],
+          "global_fallback_fees": null,
+          "lp_fee_bps": 2,
+          "mint": "ko27hHdMKaJATnGLbruQJNTgoy1oC3TNP2RnRqopump",
+          "observed_at_ms": 1791756769699,
+          "opened_at_ms": 1791756764754,
+          "pool": "6MYK9Lr2JoLTZUhLijNYpNvowFZ7HboWfQzE5TKi5PNa",
+          "protocol_fee_bps": 93,
+          "protocol_fees_raw": 68246016,
+          "quote_reserve_raw": 49655089892,
+          "quote_vault": "ENGg2v5N2uX1raMGkGEw2Lnxo8xC6h4T4Um9rSESZNR9",
+          "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+          "supports_fee_deferred_mode": true,
+          "virtual_quote_reserve_raw": 17472230170
+        },
+        "creator_fee_raw": 1142611,
+        "curve_sol_raw": 380870269,
+        "detail": "S5 AMM hard stop (-40.1% vs pool open, ROI -28.2%); authenticated reserve quote; provisional paper fill, not an on-chain sale",
+        "expected_output_raw": 361454343,
+        "filled_at_ms": 1791756769700,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 76175,
+        "min_output_raw": 0,
+        "net_sol_raw": 376109389,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3542094,
+        "quoted_tokens_raw": 1494921179444,
+        "ready_at_ms": 1791756769394,
+        "side": "sell",
+        "state_after": null,
+        "state_before": null,
+        "status": "paper_filled_migrated_full",
+        "tokens_raw": 1494921179444,
+        "triggered_at_ms": 1791756769324
+      },
+      "migration_amm": {
+        "base_decimals": 6,
+        "base_reserve_raw": 263475677881796,
+        "base_supply_raw": 998683526420750,
+        "base_vault": "FYotXFM76ivzdqetgCfTX3qcSwtysm8F1dt1hymdmSVQ",
+        "buyback_basis_points": 5000,
+        "context_slot": 455811512,
+        "creator_fee_bps": 30,
+        "creator_fees_raw": 44029690,
+        "fee_deferred_mode": false,
+        "fee_tiers": [
+          {
+            "creator_fee_bps": 30,
+            "lp_fee_bps": 2,
+            "market_cap_lamports_threshold": 0,
+            "protocol_fee_bps": 93
+          },
+          {
+            "creator_fee_bps": 95,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 420000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 90,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 1470000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 85,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 2460000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 80,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 3440000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 75,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 4420000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 70,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 9820000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 65,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 14740000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 60,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 19650000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 55,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 24560000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 50,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 29470000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 45,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 34380000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 40,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 39300000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 35,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 44210000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 30,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 49120000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 28,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 54030000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 25,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 58940000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 23,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 63860000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 20,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 68770000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 18,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 73681000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 15,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 78590000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 13,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 83500000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 10,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 88400000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 8,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 93330000000000,
+            "protocol_fee_bps": 5
+          },
+          {
+            "creator_fee_bps": 5,
+            "lp_fee_bps": 20,
+            "market_cap_lamports_threshold": 98240000000000,
+            "protocol_fee_bps": 5
+          }
+        ],
+        "global_fallback_fees": null,
+        "lp_fee_bps": 2,
+        "mint": "ko27hHdMKaJATnGLbruQJNTgoy1oC3TNP2RnRqopump",
+        "observed_at_ms": 1791756769699,
+        "opened_at_ms": 1791756764754,
+        "pool": "6MYK9Lr2JoLTZUhLijNYpNvowFZ7HboWfQzE5TKi5PNa",
+        "protocol_fee_bps": 93,
+        "protocol_fees_raw": 68246016,
+        "quote_reserve_raw": 49274295798,
+        "quote_vault": "ENGg2v5N2uX1raMGkGEw2Lnxo8xC6h4T4Um9rSESZNR9",
+        "source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+        "supports_fee_deferred_mode": true,
+        "virtual_quote_reserve_raw": 17472230170
+      },
+      "migration_detected_at_ms": 1791756763284,
+      "mint": "ko27hHdMKaJATnGLbruQJNTgoy1oC3TNP2RnRqopump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 1494921179444,
+      "peak_executable_roi": 0.1975004536345601,
+      "pending_buy": {
+        "expected_tokens_raw": 1494921179444,
+        "last_error": null,
+        "min_tokens_raw": 1345429061499,
+        "ready_at_ms": 1791756717411,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 72872414931,
+          "rtokens_raw": 33011880270556,
+          "vsol_raw": 102872414931,
+          "vtokens_raw": 312911880270556
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756717341,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -25.790638987378234,
+      "post_exit_note": "AMM -25.8% vs our exit price, 526s after exit",
+      "post_exit_reserve_sol": null,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.374604389,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": null,
+      "signal_reserve_sol": 72.872414931,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "PreGraduationCarryover",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 33.86371641695427,
+      "buy_slippage_pct": -13.080874111686992,
+      "current_reserve_sol": 1.181245466,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 1.952105255,
+      "entry_slot": 455811756,
+      "entry_time": 1791756822,
+      "entry_time_ms": 1791756822811,
+      "exit_reason": "S1 Floor Invalidation / Stop Loss (ROI: -7.7%, below_trough: true)",
+      "exit_reserve_sol": 0.710783095,
+      "exit_slippage_pct": null,
+      "exit_time": 1791756833,
+      "exit_time_ms": 1791756833114,
+      "exit_trigger_reserve_sol": 1.181245466,
+      "fill_reserve_sol": 1.952105255,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1411388,
+        "curve_sol_raw": 470462371,
+        "detail": "S1 Floor Invalidation / Stop Loss (ROI: -7.7%, below_trough: true)",
+        "expected_output_raw": 464581590,
+        "filled_at_ms": 1791756833114,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 464581590,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 4469393,
+        "quoted_tokens_raw": 15814720543721,
+        "ready_at_ms": 1791756833088,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 710783095,
+          "rtokens_raw": 768266044694807,
+          "vsol_raw": 30710783095,
+          "vtokens_raw": 1048166044694807
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 1181245466,
+          "rtokens_raw": 752451324151086,
+          "vsol_raw": 31181245466,
+          "vtokens_raw": 1032351324151086
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 15814720543721,
+        "triggered_at_ms": 1791756833018
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "4XqNeVXyVa5ezRMCL8LsxsM5AFk71CHh9PVkSSTcpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 15814720543721,
+      "peak_executable_roi": 0.0,
+      "pending_buy": {
+        "expected_tokens_raw": 13985318620814,
+        "last_error": null,
+        "min_tokens_raw": 12586786758732,
+        "ready_at_ms": 1791756822783,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 3468107696,
+          "rtokens_raw": 681911176680010,
+          "vsol_raw": 33468107696,
+          "vtokens_raw": 961811176680010
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791756822713,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 77.98683028610857,
+      "post_exit_note": "Left on table (+78.0%)",
+      "post_exit_reserve_sol": 1.265100301,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.46307659,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -39.82765517764112,
+      "signal_reserve_sol": 3.468107696,
+      "signal_trough_spot": 3.062930905385908e-05,
+      "state": "Closed",
+      "strategy": "DevDumpAbsorption",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 2.756686600012803,
+      "buy_slippage_pct": 2.0161651223400523,
+      "current_reserve_sol": 12.760098657,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 18.407621168,
+      "entry_slot": 455812788,
+      "entry_time": 1791757049,
+      "entry_time_ms": 1791757049742,
+      "exit_reason": "Severe Dump Stop (ROI: -24.3%)",
+      "exit_reserve_sol": 12.374316558,
+      "exit_slippage_pct": null,
+      "exit_time": 1791757052,
+      "exit_time_ms": 1791757052541,
+      "exit_trigger_reserve_sol": 12.760098657,
+      "fill_reserve_sol": 18.407621168,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1157347,
+        "curve_sol_raw": 385782099,
+        "detail": "Severe Dump Stop (ROI: -24.3%)",
+        "expected_output_raw": 380959822,
+        "filled_at_ms": 1791757052541,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 380959822,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3664930,
+        "quoted_tokens_raw": 6853645628074,
+        "ready_at_ms": 1791757052530,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 12374316558,
+          "rtokens_raw": 479758271650404,
+          "vsol_raw": 42374316558,
+          "vtokens_raw": 759658271650404
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 12760098657,
+          "rtokens_raw": 472904626022330,
+          "vsol_raw": 42760098657,
+          "vtokens_raw": 752804626022330
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 6853645628074,
+        "triggered_at_ms": 1791757052460
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "27LEMKLUaZV3WE7c8n5SsB7HyC8FUnEj8dsFb7L2pump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 6853645628074,
+      "peak_executable_roi": 0.0,
+      "pending_buy": {
+        "expected_tokens_raw": 6994669719379,
+        "last_error": null,
+        "min_tokens_raw": 6295202747441,
+        "ready_at_ms": 1791757049575,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 17425835103,
+          "rtokens_raw": 398843979851930,
+          "vsol_raw": 47425835103,
+          "vtokens_raw": 678743979851930
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791757049505,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 83.903490591468,
+      "post_exit_note": "Left on table (+83.9%)",
+      "post_exit_reserve_sol": 22.756800087,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.379454822,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -3.023347306083446,
+      "signal_reserve_sol": 17.425835103,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "UpperAthBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 4.087317068844909,
+      "buy_slippage_pct": 4.3386250386524665,
+      "current_reserve_sol": 7.947666661,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 12.575766257,
+      "entry_slot": 455813406,
+      "entry_time": 1791757185,
+      "entry_time_ms": 1791757185573,
+      "exit_reason": "Curve reserves <= 9.8 SOL invalidation",
+      "exit_reserve_sol": 7.164509172,
+      "exit_slippage_pct": null,
+      "exit_time": 1791757188,
+      "exit_time_ms": 1791757188501,
+      "exit_trigger_reserve_sol": 7.947666661,
+      "fill_reserve_sol": 12.575766257,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1153896,
+        "curve_sol_raw": 384631776,
+        "detail": "Curve reserves <= 9.8 SOL invalidation",
+        "expected_output_raw": 387886973,
+        "filled_at_ms": 1791757188501,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 379823878,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 3654002,
+        "quoted_tokens_raw": 8872330925587,
+        "ready_at_ms": 1791757188377,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 7164509172,
+          "rtokens_raw": 586248937116570,
+          "vsol_raw": 37164509172,
+          "vtokens_raw": 866148937116570
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 7549140948,
+          "rtokens_raw": 577376606190983,
+          "vsol_raw": 37549140948,
+          "vtokens_raw": 857276606190983
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 8872330925587,
+        "triggered_at_ms": 1791757188307
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "HLYkD9KsnmKWStaV1HE1B1oYJJMpEsok4E1aT1kWpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 8872330925587,
+      "peak_executable_roi": 0.014744012522307892,
+      "pending_buy": {
+        "expected_tokens_raw": 9274726533224,
+        "last_error": null,
+        "min_tokens_raw": 8347253879901,
+        "ready_at_ms": 1791757185533,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 11153544038,
+          "rtokens_raw": 502292660757989,
+          "vsol_raw": 41153544038,
+          "vtokens_raw": 782192660757989
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791757185463,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": -60.788086628748616,
+      "post_exit_note": "Dump escaped (-60.8%)",
+      "post_exit_reserve_sol": 2.80934113,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.378318878,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -5.09504033173338,
+      "signal_reserve_sol": 11.153544038,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "SurvivalShelfBreakout",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 25.660273266340194,
+      "buy_slippage_pct": 0.0,
+      "current_reserve_sol": 0.953344628,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 2.418308453,
+      "entry_slot": 455813487,
+      "entry_time": 1791757203,
+      "entry_time_ms": 1791757203034,
+      "exit_reason": "S1 Floor Invalidation / Stop Loss (ROI: -11.6%, below_trough: true)",
+      "exit_reserve_sol": 0.502830419,
+      "exit_slippage_pct": null,
+      "exit_time": 1791757206,
+      "exit_time_ms": 1791757206863,
+      "exit_trigger_reserve_sol": 0.953344628,
+      "fill_reserve_sol": 2.418308453,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 1351543,
+        "curve_sol_raw": 450514209,
+        "detail": "S1 Floor Invalidation / Stop Loss (ROI: -11.6%, below_trough: true)",
+        "expected_output_raw": 444882781,
+        "filled_at_ms": 1791757206863,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 444882781,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 4279885,
+        "quoted_tokens_raw": 15359665149501,
+        "ready_at_ms": 1791757206830,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 502830419,
+          "rtokens_raw": 775411904321232,
+          "vsol_raw": 30502830419,
+          "vtokens_raw": 1055311904321232
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 953344628,
+          "rtokens_raw": 760052239171731,
+          "vsol_raw": 30953344628,
+          "vtokens_raw": 1039952239171731
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 15359665149501,
+        "triggered_at_ms": 1791757206760
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "CkUgbPRVoGafAKXYsCjBTkrpHnm8nEwnrYmK1M6Fpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 15359665149501,
+      "peak_executable_roi": 0.0,
+      "pending_buy": {
+        "expected_tokens_raw": 15359665149501,
+        "last_error": null,
+        "min_tokens_raw": 13823698634550,
+        "ready_at_ms": 1791757203027,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 1924481294,
+          "rtokens_raw": 728417089227369,
+          "vsol_raw": 31924481294,
+          "vtokens_raw": 1008317089227369
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791757202957,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 832.2681701164145,
+      "post_exit_note": "Left on table (+832.3%)",
+      "post_exit_reserve_sol": 4.687727946,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.443377781,
+      "ratchet_active": false,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -47.2561753397744,
+      "signal_reserve_sol": 1.924481294,
+      "signal_trough_spot": 3.064316801707419e-05,
+      "state": "Closed",
+      "strategy": "DevDumpAbsorption",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    },
+    {
+      "amm_open_roi": null,
+      "amm_opened_at_ms": null,
+      "amm_own_base_added": 0,
+      "amm_own_quote_removed": 0,
+      "amm_own_virtual_delta": 0,
+      "buy_delay_ms": 70,
+      "buy_impact_pct": 3.424219015312824,
+      "buy_slippage_pct": 0.9943953763759117,
+      "current_reserve_sol": 23.859843345,
+      "entry_cost_sol": 0.501505,
+      "entry_reserve_sol": 14.915426852,
+      "entry_slot": 455813846,
+      "entry_time": 1791757279,
+      "entry_time_ms": 1791757279374,
+      "exit_reason": "S3 Trailing Exit (Peak: +51.1%, Exit: +39.2%)",
+      "exit_reserve_sol": 22.750654319,
+      "exit_slippage_pct": null,
+      "exit_time": 1791757284,
+      "exit_time_ms": 1791757284401,
+      "exit_trigger_reserve_sol": 23.859843345,
+      "fill_reserve_sol": 14.915426852,
+      "is_closed": true,
+      "is_whitelisted": false,
+      "landing_delay_ms": 70,
+      "last_fill": {
+        "amm_state_after": null,
+        "amm_state_before": null,
+        "creator_fee_raw": 2093485,
+        "curve_sol_raw": 697828133,
+        "detail": "S3 Trailing Exit (Peak: +51.1%, Exit: +39.2%)",
+        "expected_output_raw": 699683050,
+        "filled_at_ms": 1791757284401,
+        "gross_cost_raw": null,
+        "lp_fee_raw": 0,
+        "min_output_raw": 0,
+        "net_sol_raw": 689105280,
+        "network_fee_raw": 1505000,
+        "protocol_fee_raw": 6629368,
+        "quoted_tokens_raw": 7967209243811,
+        "ready_at_ms": 1791757284213,
+        "side": "sell",
+        "state_after": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 22750654319,
+          "rtokens_raw": 330329400677539,
+          "vsol_raw": 52750654319,
+          "vtokens_raw": 610229400677539
+        },
+        "state_before": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 23448482452,
+          "rtokens_raw": 322362191433728,
+          "vsol_raw": 53448482452,
+          "vtokens_raw": 602262191433728
+        },
+        "status": "filled_full_close",
+        "tokens_raw": 7967209243811,
+        "triggered_at_ms": 1791757284143
+      },
+      "migration_amm": null,
+      "migration_detected_at_ms": null,
+      "mint": "7KTJhHTipxSWKQQrYi1xHNBV5X9LjNizwMGBaBVmpump",
+      "network_fees_raw": 3010000,
+      "original_tokens": 7967209243811,
+      "peak_executable_roi": 0.5108645497053869,
+      "pending_buy": {
+        "expected_tokens_raw": 8047230532149,
+        "last_error": null,
+        "min_tokens_raw": 7242507478934,
+        "ready_at_ms": 1791757279341,
+        "signal_quote_state": {
+          "creator_fee_bps": 30,
+          "protocol_fee_bps": 95,
+          "rsol_raw": 14198960819,
+          "rtokens_raw": 448397668828061,
+          "vsol_raw": 44198960819,
+          "vtokens_raw": 728297668828061
+        },
+        "status": "Filled",
+        "submitted_at_ms": 1791757279271,
+        "ticket_raw": 500000000
+      },
+      "pending_exit": null,
+      "post_exit_change_pct": 90.61959281224838,
+      "post_exit_note": "Left on table (+90.6%)",
+      "post_exit_reserve_sol": 43.367204625,
+      "post_migration_spot_sol": null,
+      "proceeds_sol": 0.68760028,
+      "ratchet_active": true,
+      "sell_delay_ms": 70,
+      "sell_impact_pct": -2.97600552371986,
+      "signal_reserve_sol": 14.198960819,
+      "signal_trough_spot": null,
+      "state": "Closed",
+      "strategy": "DislocationFloor",
+      "tokens_held": 0,
+      "tranche1_intent_fired": false,
+      "tranche1_proceeds": 0.0,
+      "tranche1_sold": false,
+      "whitelisted_by": null
+    }
+  ],
+  "failed_buy_attempts": 0,
+  "failed_buy_costs": {}
+}

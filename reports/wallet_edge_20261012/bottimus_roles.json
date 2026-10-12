@@ -1,0 +1,116 @@
+{
+  "payer": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+  "co_signed_event_users": {
+    "H1as9cJbd6Uhu7Lv5drRCFKg7nbPnNk3ymeYkJt1dZzQ": 699,
+    "EK2jmNwVtnv8cHuQKELbMKF8Y7t75aJ9jduayvpCbC6W": 659,
+    "J2BA2Nkf9XYVpCUVJio7aaL4vCzxthzGYhFTxsAsDaUy": 700,
+    "GApPtVhB94qhwJ2KCDiSv69pZoaqs9znUMnjWEgCd3LW": 715,
+    "Had6pusVmdPaXzoWCEAQJQ4dMttPx7YCvii1Udd4nnPT": 735,
+    "DhMmikTXrfk1bn87XSd9AiMYVNFpFMuDJG593eS4kuvZ": 736,
+    "C6DDrhm8nxVewhZEmswpb1Wmcji3RPcHV7XS7uKFF5FU": 684,
+    "9a6x28w1qWLxJGs1FMi5MLMDzhgnWnm38SYzkKbrc7kR": 704,
+    "7Ut1gh36seBkUiYuPx3rNQbuLE7QLT53YJRo3wsGAZRZ": 682,
+    "82s2hm9RFxesfpSLsLg8kwxKz5XWn1Xorf2GyFQey8Xy": 734,
+    "3fdJGPWsoE1dhQNp1H1kwgYn6HFexSoWFAet7SCbTmTn": 698,
+    "BNhVytqZgi1Dj9cQR51c5Qc9Nz82jBgYCSd3GmfKAZd6": 716
+  },
+  "examples": {
+    "H1as9cJbd6Uhu7Lv5drRCFKg7nbPnNk3ymeYkJt1dZzQ": {
+      "signature": "4M2ZFjhth5jMfCQB21GqPds59Zvy4AGuBzMWvJxAJxTRzJGpMSTex4uPVwtpiFyscuztotUrhkcdF6MChBm4rJfn",
+      "mint": "9m88qqZNg2yV2X8JtvSprFeiqK4sNTkwYHHfTLGM3HhG",
+      "side": "buy",
+      "time": 1791370058,
+      "slot": 454200492,
+      "index": 312
+    },
+    "EK2jmNwVtnv8cHuQKELbMKF8Y7t75aJ9jduayvpCbC6W": {
+      "signature": "4VLyGqCLVZEyMYcDUeXSboF4DS8ny3JUqRtq6Ve7oPDBEBs71MHAuCqfk1RADgitqGjiy2XhBstTBJyYm5i13yhc",
+      "mint": "8YZCabBWoZXvsfPPhCudDDtvNZzNJNneAnXYgXSdr33V",
+      "side": "buy",
+      "time": 1791370187,
+      "slot": 454200964,
+      "index": 106
+    },
+    "J2BA2Nkf9XYVpCUVJio7aaL4vCzxthzGYhFTxsAsDaUy": {
+      "signature": "5bdZkfUx4JBxpsyFcoGTZ6ydvtWPvqbxFHF89giPUFekEJMHERLE8vqxg93LyQM8oa6oMeD16qFBRs7HpCpzqFBb",
+      "mint": "A42AofiY4LzzHhYWggXtbmy6dYWtYzGuhrmrhhgHKrRv",
+      "side": "buy",
+      "time": 1791370409,
+      "slot": 454201787,
+      "index": 170
+    },
+    "GApPtVhB94qhwJ2KCDiSv69pZoaqs9znUMnjWEgCd3LW": {
+      "signature": "5diz3f4ASkQ2MQBKh9Jgacw98EMgyBLjzkYwD4y3BurTs9adddEboz7z8vzTxkcipVpuWimtzCZeWUZ3xMtaAL7n",
+      "mint": "CF2h71ocokU1WNsZ9yHyPt1JHnxArzLUhEszMFRVpump",
+      "side": "buy",
+      "time": 1791370488,
+      "slot": 454202086,
+      "index": 637
+    },
+    "Had6pusVmdPaXzoWCEAQJQ4dMttPx7YCvii1Udd4nnPT": {
+      "signature": "3JEYVZUY1LRhhSrjcxd8X6NYrcR7CGxxoveaYv4AwiQMghSFBsW2drd3r9ykQUNmAv4TYHzYbrn6zHYdkcjsKSh8",
+      "mint": "CF2h71ocokU1WNsZ9yHyPt1JHnxArzLUhEszMFRVpump",
+      "side": "buy",
+      "time": 1791370488,
+      "slot": 454202086,
+      "index": 651
+    },
+    "DhMmikTXrfk1bn87XSd9AiMYVNFpFMuDJG593eS4kuvZ": {
+      "signature": "36HTwvdoayZjouMRCBY4GCHsHcv6U7FYpqVjSuSJYKfFLSY6rJq8GyKBah1gnUMUEAoFka1vyHWoF5uaZPcPugtR",
+      "mint": "48AT7awuGtGwKzjj3pSS6GzGNuyBt73XcnneWe5upump",
+      "side": "buy",
+      "time": 1791370497,
+      "slot": 454202118,
+      "index": 13
+    },
+    "C6DDrhm8nxVewhZEmswpb1Wmcji3RPcHV7XS7uKFF5FU": {
+      "signature": "dETdpMaNwWZkMAZwcyYT5C4s2uJS64Deoq2pWRBpHQX3xp1J85snmTJA1bTSw95156RKP6Yjy5VRbF38iPZLnFM",
+      "mint": "6CJri6nxFhHqYTUPR3pwbjN1uN47BA99cus4wqWVpump",
+      "side": "buy",
+      "time": 1791370813,
+      "slot": 454203312,
+      "index": 639
+    },
+    "9a6x28w1qWLxJGs1FMi5MLMDzhgnWnm38SYzkKbrc7kR": {
+      "signature": "3rtf3QaartbbFsF4Ve75fAyy9hEZDwxeWpyRBBn1KFjrJVZ66ymbV3NSmi7CgdmpVMNQUoMX57oir2CE5XkeQesx",
+      "mint": "HcWvt58DHVacyqEUR9Co5QhnNPXje12qkeEs53hSD7Bn",
+      "side": "buy",
+      "time": 1791371077,
+      "slot": 454204301,
+      "index": 540
+    },
+    "7Ut1gh36seBkUiYuPx3rNQbuLE7QLT53YJRo3wsGAZRZ": {
+      "signature": "pb95rZdYdwiGCwDoZ1vsa3gCP3m1DwsLN1AzHVw6Xi1LhYKChKGuYi3zH9imp1ZsDEdCigjs7Wkwby6R2cgt7Mb",
+      "mint": "EzczcUisfdgeFZ2FdoKQu5ngFXEH68zamrUaFF23pump",
+      "side": "buy",
+      "time": 1791371609,
+      "slot": 454206302,
+      "index": 704
+    },
+    "82s2hm9RFxesfpSLsLg8kwxKz5XWn1Xorf2GyFQey8Xy": {
+      "signature": "2dkFv7x9tBfpcmQCbQhzk28rugLRrUKyciFxJho7qDopLpaMq6BNV7kHCKoHTkascKnqh34rdbFjDeuB8b9tSoit",
+      "mint": "J5WTHntnKoi5vDcGt8KDLrQZFfdgKaPpreNGFGFvL2fk",
+      "side": "buy",
+      "time": 1791371702,
+      "slot": 454206654,
+      "index": 993
+    },
+    "3fdJGPWsoE1dhQNp1H1kwgYn6HFexSoWFAet7SCbTmTn": {
+      "signature": "41ADvgfQaXwjCJjpGbkfTabtHHFBZXQBMLZCkdnzzabBPbdghW63Q9VufBJthkyA349SKUoE96Mw1zUJpAUsiXau",
+      "mint": "5BaQPX6VDFT9nk5oispr9Q6Dn5wSRv7THxqpqgQrpump",
+      "side": "buy",
+      "time": 1791372394,
+      "slot": 454209228,
+      "index": 696
+    },
+    "BNhVytqZgi1Dj9cQR51c5Qc9Nz82jBgYCSd3GmfKAZd6": {
+      "signature": "46kdeGrg1Y4688jcverN7vQfKSFsQyNruFRKHUUi7nzawqNkNx9XUKWEphQLCE4aYVcPaw56bMqrXtAqxMEtatyy",
+      "mint": "7yVmom6b9EXANb81FFVcp7W9Ue9oRpPYkGiHSaTUpump",
+      "side": "buy",
+      "time": 1791372674,
+      "slot": 454210272,
+      "index": 1304
+    }
+  },
+  "scope": "authenticated event trader is distinct co-signer; links execution roles but not shared beneficial ownership; all10 not accounted by earlier single Had6 subset"
+}

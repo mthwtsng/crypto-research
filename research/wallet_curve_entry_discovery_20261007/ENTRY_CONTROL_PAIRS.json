@@ -1,0 +1,902 @@
+[
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "GA1THM24JjfZjsz2YrQw7yA9dsgfBXJ5Up7iu3vCHyHY",
+    "entry": {
+      "age": 9,
+      "reserve_SOL": 10.645547044,
+      "breadth": 27,
+      "recent_buyers": 19,
+      "fresh_buyers": 19,
+      "recent_buy_SOL": 13.328078018,
+      "dominance": 0.15408363915836135,
+      "recent_sell_SOL": 15.405269239,
+      "drawdown": 0.22318651596681682,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 8,
+      "reserve_SOL": 10.931555102,
+      "breadth": 15,
+      "recent_buyers": 7,
+      "fresh_buyers": 7,
+      "recent_buy_SOL": 4.872944668,
+      "dominance": 0.3636289647687007,
+      "recent_sell_SOL": 9.19933753,
+      "drawdown": 0.2122157395182317,
+      "last_side": "sell"
+    },
+    "control_signature": "5NRDwHcY5GvP6hANjDNqRfFQvXSGdySH4kyf5ARY5dAvKo8Vit9mbJBQwgEz9A1FvKEDdoNyWaxeevribSJCFqCF",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "D3e5g2eUAMtZ5YaDWEDpuwi9cQHLr4G1rujv3a39JBR2",
+    "entry": {
+      "age": 24,
+      "reserve_SOL": 30.170548077,
+      "breadth": 140,
+      "recent_buyers": 14,
+      "fresh_buyers": 12,
+      "recent_buy_SOL": 12.925203575,
+      "dominance": 0.22694678006261113,
+      "recent_sell_SOL": 7.025740513,
+      "drawdown": 0.04940278131906117,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 22,
+      "reserve_SOL": 24.456762237,
+      "breadth": 132,
+      "recent_buyers": 9,
+      "fresh_buyers": 8,
+      "recent_buy_SOL": 5.870433261,
+      "dominance": 0.2523632267216401,
+      "recent_sell_SOL": 5.637168575,
+      "drawdown": 0.15356664987816315,
+      "last_side": "buy"
+    },
+    "control_signature": "43AGF1QBAvupNm1wWPGzk1VkZVPpuBBNwNibZSZRyMVZwNb2cM4tMiCWQ5nFgEN9Zm5KFkTPr6Sh7GdGDnsxCs2V",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "7LNj3dsxBg5HEPrGaJdH5h2pNazzCc9vXbQw8PGXpump",
+    "entry": {
+      "age": 103,
+      "reserve_SOL": 12.197775907,
+      "breadth": 74,
+      "recent_buyers": 4,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.267988126,
+      "dominance": 0.3049227860192582,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.19196452204227288,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 102,
+      "reserve_SOL": 12.197775907,
+      "breadth": 74,
+      "recent_buyers": 4,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.267988126,
+      "dominance": 0.3049227860192582,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.19196452204227288,
+      "last_side": "buy"
+    },
+    "control_signature": "fPhssggPedFq6aCe7KZmrNfAHnSPiJyHKEUFHDfF8wFhSmb88Nnx4zadL6WwpfyPwuhSMFHDsMop8jCbnaoYBvE",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "7uypGttFntVBfMBhySak8XHMPbQGXCrHWfYpftLdpump",
+    "entry": {
+      "age": 303,
+      "reserve_SOL": 13.739355248,
+      "breadth": 257,
+      "recent_buyers": 2,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 1.466666667,
+      "dominance": 0.5426355632857647,
+      "recent_sell_SOL": 0.505171329,
+      "drawdown": 0.5811410301271803,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 295,
+      "reserve_SOL": 13.237886036,
+      "breadth": 255,
+      "recent_buyers": 2,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 1.208361657,
+      "dominance": 0.6593050204670637,
+      "recent_sell_SOL": 2.835813918,
+      "drawdown": 0.5906903616015564,
+      "last_side": "sell"
+    },
+    "control_signature": "2HPMNBER3rbEi55Jh52z7NerQwWj9QGWLBvhiNSLJCBpkGWjypyeaa7prFPfWF5DoEa94YQxDy6cMcdaMQXhvKvq",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "FJb34aqJzoFH6wgEyjm3zk8Zg5kn4Qzz6AGTiLmad5wQ",
+    "entry": {
+      "age": 55,
+      "reserve_SOL": 6.690591012,
+      "breadth": 42,
+      "recent_buyers": 9,
+      "fresh_buyers": 9,
+      "recent_buy_SOL": 7.5285596,
+      "dominance": 0.25843974337401804,
+      "recent_sell_SOL": 2.304247104,
+      "drawdown": 0.2655992630983304,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 54,
+      "reserve_SOL": 6.326030831,
+      "breadth": 37,
+      "recent_buyers": 4,
+      "fresh_buyers": 4,
+      "recent_buy_SOL": 4.908641971,
+      "dominance": 0.396378269691489,
+      "recent_sell_SOL": 0.048888887,
+      "drawdown": 0.28012086919010903,
+      "last_side": "buy"
+    },
+    "control_signature": "4FkYRXG1D1FUXuedjQMsAkDYpBvbizTzaheWwGLJA4sLBKbPTaxYZPJVv2qX9ogDyMCVKVPdfu8FNxrncnJyJBvP",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "5Z5WvVb6ZV5mwVJu3yoPoFeQFJ9jfERR2iXjg4nXpump",
+    "entry": {
+      "age": 263,
+      "reserve_SOL": 25.834147643,
+      "breadth": 92,
+      "recent_buyers": 8,
+      "fresh_buyers": 5,
+      "recent_buy_SOL": 9.492379906,
+      "dominance": 0.36416474648417846,
+      "recent_sell_SOL": 8.7621e-05,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 236,
+      "reserve_SOL": 20.898629792,
+      "breadth": 83,
+      "recent_buyers": 1,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.098765431,
+      "dominance": 1.0,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "control_signature": "5XqM61B98XYkUgjDGhLJzgGZJbFkKsHNWrSBTHXcv1B9Kk4MSRefamjwaEbz9RLoJv63ik52ndGPgfmYcAuw7SJL",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "Bq7eGyJPTViPQhdCsHaKMDArPC8Vzp84MSdjcsnDpump",
+    "entry": {
+      "age": 369,
+      "reserve_SOL": 15.131328437,
+      "breadth": 194,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.258368447,
+      "drawdown": 0.32258532816385344,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 368,
+      "reserve_SOL": 15.389696884,
+      "breadth": 194,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.31480698132837814,
+      "last_side": "buy"
+    },
+    "control_signature": "2LPw6gjLYnW2qkigebVGiBnW5LWiQsTFGUkBQwfDBwp6qqDxpau5WL8nwNEXjXRsBxLftJQZ7cQkU2m2ykSLi7Ke",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "5Vw22peqbuP7xvQPH4ZrYm6YTDpgzNTM4cKZECAepump",
+    "entry": {
+      "age": 281,
+      "reserve_SOL": 12.938353699,
+      "breadth": 119,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.109293464,
+      "drawdown": 0.16268657717003454,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 278,
+      "reserve_SOL": 12.938353699,
+      "breadth": 119,
+      "recent_buyers": 2,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.323700296,
+      "dominance": 0.6979373259516575,
+      "recent_sell_SOL": 0.109293464,
+      "drawdown": 0.16268657717003454,
+      "last_side": "sell"
+    },
+    "control_signature": "2Db4M5M28HyU353dGmjhBFVifKJCQM6LVTSJ77beoPo7DxZa9FWgAQ19Je1LriyJip4P7mctRZue46eocMzTFVct",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "EmLT3CmuBPWXMXDanijgs5d3PHbSGcLbdyXhJpUDpump",
+    "entry": {
+      "age": 47,
+      "reserve_SOL": 13.563747355,
+      "breadth": 92,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.98765432,
+      "dominance": 1.0,
+      "recent_sell_SOL": 0.761285983,
+      "drawdown": 0.2594874500808464,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 44,
+      "reserve_SOL": 13.14592518,
+      "breadth": 91,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.2448272,
+      "dominance": 1.0,
+      "recent_sell_SOL": 4.247658397,
+      "drawdown": 0.2736239205985532,
+      "last_side": "sell"
+    },
+    "control_signature": "3xc6sY7ZtdKKu8aGWJRuoPg5HPWiyqANHvdEZFHj8odSE48rUrMo51dVYjmpSqKW5ZqTF5iUaprnEkE85Svcp6VS",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "EbHuK37KGvyuRGCdbTWdX3mzTafvw7GUKQzL83SEmtp5",
+    "entry": {
+      "age": 1940,
+      "reserve_SOL": 7.735092223,
+      "breadth": 194,
+      "recent_buyers": 5,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 2.642640735,
+      "dominance": 0.5979802294238078,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.49351478640229407,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 1937,
+      "reserve_SOL": 7.735092223,
+      "breadth": 194,
+      "recent_buyers": 5,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 2.642640735,
+      "dominance": 0.5979802294238078,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.49351478640229407,
+      "last_side": "buy"
+    },
+    "control_signature": "2mgQJPEuSAf5sUBCJ1AimebtDJ5q1zQfxE6ziSADQokNM3jL1qxSepM1gwMdTZjyo9gpWSZ3L8csZQABXUKFmy7H",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "6BPXgr3YqUnY7cUttwatMGX4L9pVMkJbT6a5pkJBpump",
+    "entry": {
+      "age": 8,
+      "reserve_SOL": 22.645353606,
+      "breadth": 54,
+      "recent_buyers": 52,
+      "fresh_buyers": 52,
+      "recent_buy_SOL": 37.624596206,
+      "dominance": 0.09546669410972176,
+      "recent_sell_SOL": 17.044394768,
+      "drawdown": 0.1571126221939898,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 8,
+      "reserve_SOL": 20.863748616,
+      "breadth": 40,
+      "recent_buyers": 38,
+      "fresh_buyers": 38,
+      "recent_buy_SOL": 27.714454402,
+      "dominance": 0.12960369938730573,
+      "recent_sell_SOL": 8.849956751,
+      "drawdown": 0.046682118679609697,
+      "last_side": "sell"
+    },
+    "control_signature": "35knSfU7pjTMmG6d7vakfB8tQmhrDu9GNW2Q5aMAHHxVPpjrxnpPBGqnwVSVhPxVvadXsfDZPceG1AKseZZzAWRE",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "HZiJCAv43ax1meFUB8Q1sKh9VHpds3R9drcqQcf2pump",
+    "entry": {
+      "age": 175,
+      "reserve_SOL": 22.100332175,
+      "breadth": 136,
+      "recent_buyers": 4,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 2.080132153,
+      "dominance": 0.5032603305949668,
+      "recent_sell_SOL": 0.720678577,
+      "drawdown": 0.07154262974777292,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 173,
+      "reserve_SOL": 22.100332175,
+      "breadth": 136,
+      "recent_buyers": 11,
+      "fresh_buyers": 6,
+      "recent_buy_SOL": 4.529818283,
+      "dominance": 0.2311015430638192,
+      "recent_sell_SOL": 3.998018658,
+      "drawdown": 0.07154262974777292,
+      "last_side": "buy"
+    },
+    "control_signature": "64eWTasxKQVpsxR8RvV6Hg3BGxSDGfzz5FUTTTJewYTJD63YqgC9ctcGyJs5M78mGpZ9ptrkbGz48XYYetAxCefm",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "BnBS5M46eQ35vomwk9WoGTNV3m52gFWfaqvG2LFggfvE",
+    "entry": {
+      "age": 245,
+      "reserve_SOL": 51.246686619,
+      "breadth": 252,
+      "recent_buyers": 7,
+      "fresh_buyers": 6,
+      "recent_buy_SOL": 2.018648997,
+      "dominance": 0.4843723591635381,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.0031597193053086725,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 243,
+      "reserve_SOL": 51.148908842,
+      "breadth": 251,
+      "recent_buyers": 6,
+      "fresh_buyers": 5,
+      "recent_buy_SOL": 1.92087122,
+      "dominance": 0.5090282819688454,
+      "recent_sell_SOL": 1.557564365,
+      "drawdown": 0.005557606048098185,
+      "last_side": "buy"
+    },
+    "control_signature": "3wx5bJMmKFxYBBAeNcXhNCHevuJyXL2nuKv6xEXQhJ1S1QsMDtSsnDDbvrFx7edVoCZG2PQFfswakRbPZYDgJLqb",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "Hgbsej4DQiAm33SwJG4RkqWeVHWPZkEGUQbjYVbvpump",
+    "entry": {
+      "age": 67,
+      "reserve_SOL": 11.478238976,
+      "breadth": 85,
+      "recent_buyers": 5,
+      "fresh_buyers": 4,
+      "recent_buy_SOL": 0.689320491,
+      "dominance": 0.2865588149185021,
+      "recent_sell_SOL": 1.121837237,
+      "drawdown": 0.16818280642318506,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 66,
+      "reserve_SOL": 11.533021605,
+      "breadth": 84,
+      "recent_buyers": 10,
+      "fresh_buyers": 8,
+      "recent_buy_SOL": 3.62132973,
+      "dominance": 0.49091850495480843,
+      "recent_sell_SOL": 1.273017371,
+      "drawdown": 0.16598410046050927,
+      "last_side": "buy"
+    },
+    "control_signature": "2Bco7TpfwbSTEKQrWCPNpGhj5P7Xh7NCMn1YHBK5e718XByv4yibXef4MJrqohrTf36sWd91XBM7xqY9avnXMHub",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "DRwbR2oefHtGjThos1oioRDPx2Hf48Qd18GDN23w4xhY",
+    "entry": {
+      "age": 337,
+      "reserve_SOL": 18.032395164,
+      "breadth": 48,
+      "recent_buyers": 9,
+      "fresh_buyers": 5,
+      "recent_buy_SOL": 10.637037028,
+      "dominance": 0.18570102142169587,
+      "recent_sell_SOL": 2.544478192,
+      "drawdown": 0.11040095901174485,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 286,
+      "reserve_SOL": 17.590490884,
+      "breadth": 41,
+      "recent_buyers": 4,
+      "fresh_buyers": 4,
+      "recent_buy_SOL": 2.091309021,
+      "dominance": 0.654560791472816,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.12669451443686375,
+      "last_side": "buy"
+    },
+    "control_signature": "3ZxPJGdvQ7vg5fyasUniPbSW7wunTYmcNzesRQw8EPhTB4N35bn3MxeszdfSJZ3wya2X3FBkXvMvNuBC7CEbwNGz",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "8gyMYipc8SxvkmAGgse3sGN2VCq4mgATX1ceENdNcYFd",
+    "entry": {
+      "age": 35,
+      "reserve_SOL": 19.564792314,
+      "breadth": 32,
+      "recent_buyers": 10,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 9.319077318,
+      "dominance": 0.22791306687600552,
+      "recent_sell_SOL": 0.423581069,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 35,
+      "reserve_SOL": 16.621582438,
+      "breadth": 31,
+      "recent_buyers": 9,
+      "fresh_buyers": 9,
+      "recent_buy_SOL": 6.375867442,
+      "dominance": 0.22465478949021098,
+      "recent_sell_SOL": 0.423581069,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "control_signature": "kxa46Mfig8PNYqzjsb1tLss2EgvyuQNoKrgnW5p1uswLWuHsFS24LRAMfZ7ioD9YDK3Nvx4oAErnhH7zLDEEQF5",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "DpZZt9GTzMM9iy2ZWAGrpR924oQyhdJ3rruAgPczpump",
+    "entry": {
+      "age": 71,
+      "reserve_SOL": 17.655333187,
+      "breadth": 58,
+      "recent_buyers": 8,
+      "fresh_buyers": 7,
+      "recent_buy_SOL": 5.831847835,
+      "dominance": 0.27702011501471213,
+      "recent_sell_SOL": 0.952272555,
+      "drawdown": 0.008085347800425802,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 55,
+      "reserve_SOL": 14.475837718,
+      "breadth": 44,
+      "recent_buyers": 17,
+      "fresh_buyers": 15,
+      "recent_buy_SOL": 9.205827902,
+      "dominance": 0.21242582153584996,
+      "recent_sell_SOL": 6.374619746,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "control_signature": "4S6PduUkSzQLnJozcPrAHz628VesZhXDej5nprocrr5UfCC3XMMfuVT6nHtAsPieuR7vfdi5TpMiyJuotHMx82Fs",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "AMGe8KVdHCpmspNNg4aQuogyVu34oX12SWdiYggYrTm4",
+    "entry": {
+      "age": 23,
+      "reserve_SOL": 12.252168354,
+      "breadth": 37,
+      "recent_buyers": 12,
+      "fresh_buyers": 11,
+      "recent_buy_SOL": 10.798288111,
+      "dominance": 0.27439191569464505,
+      "recent_sell_SOL": 4.870975831,
+      "drawdown": 0.05256893315942024,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 23,
+      "reserve_SOL": 9.918204957,
+      "breadth": 29,
+      "recent_buyers": 3,
+      "fresh_buyers": 3,
+      "recent_buy_SOL": 4.245126732,
+      "dominance": 0.6979680815333548,
+      "recent_sell_SOL": 0.602395134,
+      "drawdown": 0.006421693781604509,
+      "last_side": "sell"
+    },
+    "control_signature": "2ss3rGjb9ZuMH2eKBW2n6PYLETng5DNFe9ydGsZpqZVRzpUUgBD9zMmdr1sQ2MTSz3PZjpDZTgSWfsB24J1itsWm",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "GN7sBBdsx7w8StnXJjRAitpZGruGS1rqwVrVnSnJs2ac",
+    "entry": {
+      "age": 37,
+      "reserve_SOL": 20.818769492,
+      "breadth": 50,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.097777777,
+      "dominance": 1.0,
+      "recent_sell_SOL": 2.093671084,
+      "drawdown": 0.0769004630938892,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 35,
+      "reserve_SOL": 21.182666847,
+      "breadth": 50,
+      "recent_buyers": 4,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 1.29816543,
+      "dominance": 0.7703178484732874,
+      "recent_sell_SOL": 1.827445465,
+      "drawdown": 0.06363307510226734,
+      "last_side": "sell"
+    },
+    "control_signature": "577PhFNtdEgSiJdZctd7WMvydWyEJM4PaohKtXNgc55sZ3bYthyvzmhx7n7cE45wseJe6GHgUmUVW2fahjvprxK6",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "rDjfP6wXjKA1uQEvrhgjb4njyvsqzBWaRUMyBQH9BnR",
+    "entry": {
+      "age": 23,
+      "reserve_SOL": 22.588210092,
+      "breadth": 82,
+      "recent_buyers": 34,
+      "fresh_buyers": 30,
+      "recent_buy_SOL": 20.758011775,
+      "dominance": 0.1903177108588956,
+      "recent_sell_SOL": 11.528418257,
+      "drawdown": 0.12490600505187899,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 21,
+      "reserve_SOL": 21.782090613,
+      "breadth": 71,
+      "recent_buyers": 34,
+      "fresh_buyers": 32,
+      "recent_buy_SOL": 24.639866494,
+      "dominance": 0.1603343623619879,
+      "recent_sell_SOL": 16.610410243,
+      "drawdown": 0.15152883839298692,
+      "last_side": "sell"
+    },
+    "control_signature": "3BEJ28az1FiTawkHMsb4QvfLksG1CnWMDMKKY5AgzPnEcFx2ST39J5EppMP5i9cDVyeuHGVKSM7eMzRBr1rFDQuc",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "4HtR71CczfxwpiJWXrqbNGpLktmj3dvo57qidjMQpump",
+    "entry": {
+      "age": 25,
+      "reserve_SOL": 17.784818232,
+      "breadth": 56,
+      "recent_buyers": 8,
+      "fresh_buyers": 7,
+      "recent_buy_SOL": 2.032549829,
+      "dominance": 0.4810596832851373,
+      "recent_sell_SOL": 1.663740301,
+      "drawdown": 0.03632830525510766,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 25,
+      "reserve_SOL": 17.642989446,
+      "breadth": 51,
+      "recent_buyers": 2,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 0.293333332,
+      "dominance": 0.6666666678030303,
+      "recent_sell_SOL": 0.06635259,
+      "drawdown": 0.0420403098842963,
+      "last_side": "sell"
+    },
+    "control_signature": "3x47H4i1EzTVLcQC69gXX5DQnu5ZTXmLiRNMec8oGgaZkLPbbTwwbkwsGjT8nHaPjPR73rX6dpBU2HxMKBwxhNvf",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "4mwtS6WT28BeEGmBrLSF3WAkQEoXUmuZM95tfRMtpump",
+    "entry": {
+      "age": 508,
+      "reserve_SOL": 40.307866878,
+      "breadth": 445,
+      "recent_buyers": 27,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 14.451017129,
+      "dominance": 0.17491870755085864,
+      "recent_sell_SOL": 5.735892686,
+      "drawdown": 0.41414624617777007,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 506,
+      "reserve_SOL": 40.148662884,
+      "breadth": 444,
+      "recent_buyers": 26,
+      "fresh_buyers": 12,
+      "recent_buy_SOL": 16.118299488,
+      "dominance": 0.1568250571893084,
+      "recent_sell_SOL": 0.585230961,
+      "drawdown": 0.4167964376126331,
+      "last_side": "buy"
+    },
+    "control_signature": "4DfK33b9WmKr4dWbhvUXCsaJL9TjzwPFA2wNQBFdmxhtGYgm1cANHLgMzGJW1hRsg1ksFmcy4Nzac4GGtA23of5N",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "5d655oTg4fEEcipWrfQR1d9hLn7XhSEmSt8yURJMH8gi",
+    "entry": {
+      "age": 15,
+      "reserve_SOL": 9.313491732,
+      "breadth": 27,
+      "recent_buyers": 2,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 1.272098764,
+      "dominance": 0.9223602492235422,
+      "recent_sell_SOL": 0.57125758,
+      "drawdown": 0.1547621799561777,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 12,
+      "reserve_SOL": 8.612650548,
+      "breadth": 25,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.18462965265603626,
+      "last_side": "sell"
+    },
+    "control_signature": "LuqfUkDLGZ9QemPJTK9KPn2dUnTnEKGscHrJFsrH8pB2kYbXYtYGpQbQuYfGXUzCewVsNtnFWqeaykZMqLuFhcq",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "BTvgrVEJd7985TJhwu7ZN2ZxdGJvviyLMBedXXwupump",
+    "entry": {
+      "age": 141,
+      "reserve_SOL": 13.95890293,
+      "breadth": 115,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 1.436103841,
+      "drawdown": 0.35208278316863517,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 139,
+      "reserve_SOL": 13.95890293,
+      "breadth": 115,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.099524284,
+      "dominance": 1.0,
+      "recent_sell_SOL": 1.436103841,
+      "drawdown": 0.35208278316863517,
+      "last_side": "sell"
+    },
+    "control_signature": "gRtNJu6an2oEyrw5ZEhYbEFt3z9XFdrm6hRAu73PcVBEYA6dmyTFUYeErSXx1KQFMdDW2kxrmLbwfcrvLYbq2MU",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "G8jXowFsA7NRGRuLMD9GB9W9kFZudopAeb85eu7jsS6J",
+    "entry": {
+      "age": 6,
+      "reserve_SOL": 7.878264402,
+      "breadth": 23,
+      "recent_buyers": 18,
+      "fresh_buyers": 18,
+      "recent_buy_SOL": 7.375443728,
+      "dominance": 0.26514412245814645,
+      "recent_sell_SOL": 4.876667893,
+      "drawdown": 0.1280109943065474,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 5,
+      "reserve_SOL": 7.922891857,
+      "breadth": 18,
+      "recent_buyers": 13,
+      "fresh_buyers": 13,
+      "recent_buy_SOL": 5.074209164,
+      "dominance": 0.38539119925802096,
+      "recent_sell_SOL": 3.413982682,
+      "drawdown": 0.12595506183342564,
+      "last_side": "sell"
+    },
+    "control_signature": "4XZdQcw4EL4Jfnshai7ZMp66fee39LqVQXNfN6MybmTvZfNoX1HrY26NeoFFVgNJ2y6QAmaN6A6X7yDF4dyrtEfA",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "39dYrD3Qo7pZiP9n7uPVSGwFYarGpUPUYKWPJzAk97zF",
+    "entry": {
+      "age": 19,
+      "reserve_SOL": 48.457971539,
+      "breadth": 198,
+      "recent_buyers": 56,
+      "fresh_buyers": 46,
+      "recent_buy_SOL": 51.664755068,
+      "dominance": 0.07646638947189986,
+      "recent_sell_SOL": 29.583652125,
+      "drawdown": 0.24488241636522046,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 17,
+      "reserve_SOL": 49.832565499,
+      "breadth": 179,
+      "recent_buyers": 48,
+      "fresh_buyers": 41,
+      "recent_buy_SOL": 44.845987762,
+      "dominance": 0.11011624112747087,
+      "recent_sell_SOL": 29.042036989,
+      "drawdown": 0.2181911106756257,
+      "last_side": "sell"
+    },
+    "control_signature": "5XDSPFJ45jTZek3Zs8KpVcyiabwUqvJp374ViZqznS1sbKvorPCKtpBh5htFXc8MNssWPpb8RNbaQeWMiK8uKHL4",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "367vwbRPVi2vgEZqdEwEoMYNo5ESdypuznPT3isdpump",
+    "entry": {
+      "age": 468,
+      "reserve_SOL": 59.080455993,
+      "breadth": 336,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.094884411,
+      "dominance": 1.0,
+      "recent_sell_SOL": 1.535379841,
+      "drawdown": 0.12318635601506989,
+      "last_side": "sell"
+    },
+    "control": {
+      "age": 466,
+      "reserve_SOL": 59.080455993,
+      "breadth": 336,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.094884411,
+      "dominance": 1.0,
+      "recent_sell_SOL": 2.490746699,
+      "drawdown": 0.12318635601506989,
+      "last_side": "sell"
+    },
+    "control_signature": "5M1re4XCRMZ7i6X34rcsDivkshXXaFfjycZadp3eYcvFPQetbuUhW9rJ7ekUuGxC3q9g6X46DY7Jsd76i8D3Kpjz",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "9TETVzsgVyWEev9q69uXK4BjLYtmRfbsxZnkgYEipump",
+    "entry": {
+      "age": 52,
+      "reserve_SOL": 27.084440892,
+      "breadth": 77,
+      "recent_buyers": 11,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 10.972717255,
+      "dominance": 0.34203801408350426,
+      "recent_sell_SOL": 8.062783343,
+      "drawdown": 0.17063359903890174,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 50,
+      "reserve_SOL": 28.159013908,
+      "breadth": 75,
+      "recent_buyers": 14,
+      "fresh_buyers": 12,
+      "recent_buy_SOL": 12.830795315,
+      "dominance": 0.2925061406452652,
+      "recent_sell_SOL": 10.764588903,
+      "drawdown": 0.1391152737090945,
+      "last_side": "sell"
+    },
+    "control_signature": "4YBV8StUourWn6pQExus98emY9vAVFHiT4JddYN69MaQD5L3GeiEKiUvGdpVv4dAtN3RXsGe4ZymC8m1mtAtAUw2",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "GzxmNeAXdJSk2mjbRsdzTmfcASeVCEbzfUZJ89cpsRtX",
+    "entry": {
+      "age": 7,
+      "reserve_SOL": 8.335347196,
+      "breadth": 54,
+      "recent_buyers": 37,
+      "fresh_buyers": 37,
+      "recent_buy_SOL": 30.475324433,
+      "dominance": 0.19444997010706638,
+      "recent_sell_SOL": 36.763128806,
+      "drawdown": 0.5285107747747042,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 6,
+      "reserve_SOL": 9.416533739,
+      "breadth": 47,
+      "recent_buyers": 37,
+      "fresh_buyers": 37,
+      "recent_buy_SOL": 31.805602005,
+      "dominance": 0.18631704955838957,
+      "recent_sell_SOL": 32.571706417,
+      "drawdown": 0.5015405536638815,
+      "last_side": "sell"
+    },
+    "control_signature": "2VZoFvVT3PJoEpMhouCMJaSvVxFfHpJz3VcgKBqnxod1DjNCGJ6qEHxchuAJADzx5dfHz9ipS9gGyGhRf8TnvBRQ",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "8rL7khXPD5Li5j7rYiEFx5yjLWYZLkJfG5cxaaMGpump",
+    "entry": {
+      "age": 287,
+      "reserve_SOL": 6.687486032,
+      "breadth": 75,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.16644919,
+      "dominance": 1.0,
+      "recent_sell_SOL": 4.256529597,
+      "drawdown": 0.3777716169388443,
+      "last_side": "buy"
+    },
+    "control": {
+      "age": 286,
+      "reserve_SOL": 7.921977791,
+      "breadth": 75,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.083224198,
+      "dominance": 1.0,
+      "recent_sell_SOL": 3.416410721,
+      "drawdown": 0.3351925612168415,
+      "last_side": "sell"
+    },
+    "control_signature": "46sPjuemoW4X8KUXPH9AX2Tye88ZFPLH3zrA4mbS3zyekHoraFdNhA2pKFsPi4BTW8eu9PHpaWXVivQmTAz6a5vW",
+    "scope": "earlier same-coin state,>=3slots before entry; age and reserves matched; descriptive only, not causal effect or future profitability"
+  }
+]

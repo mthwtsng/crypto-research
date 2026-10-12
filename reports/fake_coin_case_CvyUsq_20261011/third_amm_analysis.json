@@ -1,0 +1,1674 @@
+{
+  "all_selected_transaction_slice": {
+    "block_time_end_utc": "2026-10-11T23:57:22Z",
+    "block_time_start_utc": "2026-10-11T23:55:17Z",
+    "distinct_seller_owners": 77,
+    "gross_buy_quote_in_sol": 11.401981952,
+    "gross_sell_quote_out_sol": 36.870241625,
+    "observed_buys": 28,
+    "observed_sells": 79,
+    "returned_transactions_with_both_vault_deltas": 116,
+    "seller_owners": [
+      "12vM2zTcF9ahjqSdUB12Kf2DYYn5Pk4wCr64ntLxBdD7",
+      "2yik7ZsLfFKAmmr9cCHhL1dTabiECnFKDeSVyTbxeETU",
+      "33NW9Zimwo9cVcgiPmrySR4B2UFF8SprTN88ratTWA87",
+      "3F53rgW2FALy5bfNZNRLhxGR6W7usksJzaHADxtx7orK",
+      "3F92F1XEJoqbF4izJBwTC7XUTo89RtEMF8Vn3j5VSdVU",
+      "3NVVrZvaNCZzUMcMUrbicNPd1Vf4kV1gUZ34pyDEhxix",
+      "3eDFkU5xwmYmJVS5WyCPK2qEk3uYu3s1W5pi7y57b5H6",
+      "4FpuSLX6TLffEk9U9jQ9pwbwd4Aw2NCRBFZYQdf4X4Uk",
+      "4JUovKSSsGV2m3hLpMo7PzgR9PsVQXmUai19PcsmpZJy",
+      "4eXVpjxkaStw9iXuesdgfm7s6ATiUUcF1CEvidadDHnn",
+      "4go9NPyTLpftonEXnweuypmSSfNzgjrzRXFK5Az6H2qw",
+      "4jfM8dYbK8QyHqyFm9fc6EtctBaMPCFwX5YSmddnqGo5",
+      "4nzWFyYe4e2oztK23o2GK4uiwqF54sWsP4zBnGYuBXzH",
+      "5981EnT1JLAfRqoBpn4jvd81ie5FXMgAJgkJnpYAsJs3",
+      "5DNAgKTu1PK45Ua9YkAmboo9qjuEJXi5LSHHiTLBsaU2",
+      "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc",
+      "5PRKFh5gPAGH4HCCTycfft5x9szbCNmvo5SkK2ED7xvP",
+      "5hfPL9MphVk8d9FZhD7rXfRywq6FggHQfRqaeFjiWi3n",
+      "6kB2Cd532jc9JD6FsDH3Caxo2Y8grjaEe1m1DJKopiH4",
+      "7HVGmPRxghSWaEMtRmogHeb3avBYYHKJyzmw9CmSndaW",
+      "7Mv3say8p7nTp1PCVqup2aXf7pYfCEy4R153v1C2Y9QG",
+      "7WX8dFrGhubBr2SoRUVHRwfWwhZf4GRhegzvHogASBvL",
+      "7qx4AcXbeKeGYk5pcoT67n1q5G1PfDU4GHtYNFkQuRnG",
+      "7y5aRdzh5ZBYDhM4qKBwXzUUjKBSBperbrgWiE7AoAHG",
+      "8zACDZq7sgYMcZ2P9szgHkLbcpDxV36sizDmbVPDsUdE",
+      "8zNH97v51PaiMYmEb5FgnAJ6BSKpwWnd1CBcPUdDnVmP",
+      "9G63EWM1d4bjubUzH458pguqHQHVtq2Eu9g4mGd1g74u",
+      "9jH6foRSjAUfPeKuLaLocC2yhqs7Uy9t29ZqrhDpePrd",
+      "9p7aE9fXaEXijLjJYej5HZfJXAo6ZcFTrygngEq243vk",
+      "9s7VxCx2m6m4w9DUKmbNiqPaPLpfR7rGnbfK5x9Q2obg",
+      "ACfTTLrTjdtTqa3z339trbg98VD1XfKWDxj7LxTCeeth",
+      "AgGaSMP426cwaGJ3ehtkLi2dCvjZg3efMR5YRjwpjetZ",
+      "AsK1HAHtURNaWXae2vgqewMK2Lu7Ci9UpmWG5aqfEUrM",
+      "BFcDNj8CLJAH4bUJG7GdkLroahtR3b2SFTt9K3dPJZPb",
+      "BWdhUQ1NmzB2oSXENTV7xAvXx4oHxUeq6ShNmr64K2bs",
+      "BZVcskCB3fKdr6o3T7VPvYhvU7BHDnzyh9ZQo1Aco6HH",
+      "BjfGPDuEEz54HZvvwfafBNuM8NdWRKFd8nkVndC7zYs5",
+      "CGr5CYVv6tG3XQ2sWHzr7a5q55LR9GuAq2eoMzD64ctd",
+      "CQTc3FxSukLQQUseN4RqxRCLRNWxuQXUyCNFH9GQsfKo",
+      "Cf4YaJKZg3R3GKZPomy5AMGvCMHwewxoDddtJmmNdoWN",
+      "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+      "D6CUDxgHh18ccsDrk2wSQ3toBr73LzwaGbx4kakqyMJA",
+      "D7m7HcU3bZj7d5No6q2b2EESGpwWfCXonSwFmVAvBq6y",
+      "DGFEvdrQi2mNyBdEthq3YN2EGDFfnvmqVDXLpAWKUkzi",
+      "DRpH25p2iK2UA2TaQX4r3g1mV447FGQLGB9KKaLViLiC",
+      "DVTpGE8fQxcA5JGWYT9gUYTxLqBpoGT5uYJLtQjayjdy",
+      "DjsKjPFET4LoSx3Lq8eWUpDpo7yWQH6JSmEAUF9rTpAH",
+      "DqH8MdY9ePSmWUD61AwFs4h1dJHAEmFLAGE2rjeQWR4K",
+      "E14EUrVnETx76y6kvp9fzBhQBazwyYwcGNJggBoT2AaX",
+      "E6cZWfGJkcNGdx3ZN9XtXGrEgFQwA4XXzPd8K8HUbDqN",
+      "EN8iDPcGucFT6NffNZD8n9XwfnnbQ5CDx6ekoC4yWyqE",
+      "EoivMVMZdouZAg8okqX6MEMikARGWGovAjvYzuN7kyiG",
+      "FURMjh5Z4xpAWQMx2gQHyboj7di617ExoRJxLrKjqcZu",
+      "FakckxEr9U29sWK7s3PNiit8c23xTi7XspbvB4nfLQih",
+      "FhP9YBepvA3FZir5m3K7D4jLqmf5WssARcEzohq5BtoA",
+      "Fj4MaricvK4GNxpvwf3NKezpkLDQbdgJbhGeCHuqrGdK",
+      "Fs6hMeh6xKb6mKgQNb25m88bCQo83kLpptjpN8HHFSzL",
+      "G24bSY5vmzGuB8nKT5xWhA7vRBNmbwvYQYzm4dC79LXk",
+      "G2JEG79kM4QL9tgGDuXvMTz3wD4XBPxf5VCXVJJCNHMs",
+      "GNXzpPLNx5JAVfZx4qos6cvGSFSZ5Q1uFuUVPf7zBagL",
+      "GTHNPgraTerbHWgpgPUnqvYdJriqNPvQFnkYTuXeAgs8",
+      "GUKss2JCn1AneSKWPFBaNBqWjMUrxhPhBBJzHKQCdo4Q",
+      "GUwWzxChyFSZmNRDdC5fE7pUrabLWtySiftnbS1M3h59",
+      "GVP8sopokPW4NnjgU2qG7QvzfbTE7qPtbiGQDFMqNAR4",
+      "GXaGoEb5fN1TRQEdguyNRjCcXVdzMF3EsKr7nGZTv7Pm",
+      "Getj5fcetgYJLhEHSHxCp2iuwquXNE4tvsXJBKqRe6B6",
+      "GxU5EtXvJ2NipS9JSnQfDoFXvW1gTTKYEFNTbKqSK3aW",
+      "H342VcFxxjRSvxpGYLTojwfq9osATi3ajwzvW4qasmYx",
+      "HLYrdQ5macsfdwn9jsV2xmiyNE2CZfiT9kWywtRVWycp",
+      "Hgb1wwNBWmktjHGXMNdgDx98ExRipLQMnujkNFWV4tLp",
+      "HgocuDwYvUMkgfn7NefAV2C7LBTDuBCSHiCTHwGhSsVA",
+      "HkUarWAnv3w2FMUNdQhn6FCMm45mwk9bd5pMYEXCQZqj",
+      "HrLzB8CiQnWCnLtzKrSHSjU6PisSU4FzAkMUeZbCK4ja",
+      "J3KkPCzxs5P2Hx5EVigKEiYVd1rscp7ueAFGG7P2uTPY",
+      "Ui8gmvuTMs1Lkt2bd49Ar33RExJMpL2b3oh4i8gXjAt",
+      "fQbffcEYd6KG2XNT7X7iE6us6g7spgBYVGo59qcxCrm",
+      "qpEmnFgZVjgQ7xnyczFnEhhmZnbamRG9yhBzc5ovV4Z"
+    ]
+  },
+  "finalized_account_state": {
+    "actual_quote_reserve_sol": 30.931066546,
+    "base_reserve_tokens": 364140256.482541,
+    "observed_at_utc": "2026-10-11T23:57:33.581033+00:00",
+    "slot": 455840327,
+    "supply_tokens": 941066861.559732
+  },
+  "frozen_snapshot_coverage": {
+    "first_source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+    "first_utc": "2026-10-11T23:54:28.696Z",
+    "last_source": "PumpSwap getMultipleAccounts confirmed; fees=fee_config_tiers; legacy sell accounting",
+    "last_utc": "2026-10-11T23:56:13.559Z",
+    "rows": 124
+  },
+  "incident_transaction_slice": {
+    "block_time_window_utc": [
+      "2026-10-11T23:55:10+00:00",
+      "2026-10-11T23:55:25+00:00"
+    ],
+    "distinct_seller_owners": 45,
+    "gross_buy_quote_in_sol": 2.143740161,
+    "gross_sell_quote_out_sol": 28.210629416,
+    "gross_tokens_sold_into_pool": 145286802.065687,
+    "net_quote_vault_change_sol": -26.066889255,
+    "observed_buys": 8,
+    "observed_sells": 47,
+    "program_instructions": {
+      "BoostBuyAndBurn": 1,
+      "Burn": 1,
+      "Buy": 1,
+      "BuyExactQuoteIn": 4,
+      "BuyExactQuoteInV2": 2,
+      "CloseAccount": 20,
+      "CreateTokenAccountWithSeed": 1,
+      "GetAccountDataSize": 4,
+      "GetFeesWithQuoteMint": 44,
+      "InitializeAccount3": 5,
+      "InitializeImmutableOwner": 4,
+      "PumpSwapV3": 1,
+      "Route": 2,
+      "RouteV2": 2,
+      "Sell": 39,
+      "SellPumpSwapPercentage": 2,
+      "SellV2": 8,
+      "Swap": 2,
+      "SwapWithSolFeeLog": 1,
+      "TransferChecked": 54,
+      "ValidateNonce": 1
+    },
+    "returned_transactions_with_both_vault_deltas": 64,
+    "seller_owner_is_signer_tx_count": 47,
+    "top_sellers": [
+      {
+        "owner": "EN8iDPcGucFT6NffNZD8n9XwfnnbQ5CDx6ekoC4yWyqE",
+        "sell_quote_lamports": 4948925812,
+        "sell_quote_sol": 4.948925812,
+        "signatures": [
+          "nvVXCiAdRWM5jCE7rdAdKuasmNmagwYE8EvWktPsqbANTEkYqRgJ3t3MFfzCQJqf44bDHUFQpZ32oj98MLnBT3i"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 18956844.599132,
+        "tokens_sold_raw": 18956844599132
+      },
+      {
+        "owner": "CGr5CYVv6tG3XQ2sWHzr7a5q55LR9GuAq2eoMzD64ctd",
+        "sell_quote_lamports": 2515613117,
+        "sell_quote_sol": 2.515613117,
+        "signatures": [
+          "41QTQYnM7QjfjwTNT2oMnomZtUe1DoVy25vz49EihRrUybVqhmkuQHudNJWxj4rnVYbsMNHcCL7ezRF4kjZnUCBk"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 14869590.237506,
+        "tokens_sold_raw": 14869590237506
+      },
+      {
+        "owner": "9p7aE9fXaEXijLjJYej5HZfJXAo6ZcFTrygngEq243vk",
+        "sell_quote_lamports": 2205634364,
+        "sell_quote_sol": 2.205634364,
+        "signatures": [
+          "3cRaLpLpM9UMuxGYMZxQibG3suKsJLryZFMQ3BDezanz6RKNNHNAVUwaesWGbWeTrozEYKzA2ZxtJKWRuanp8Q8"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 10467768.22781,
+        "tokens_sold_raw": 10467768227810
+      },
+      {
+        "owner": "5hfPL9MphVk8d9FZhD7rXfRywq6FggHQfRqaeFjiWi3n",
+        "sell_quote_lamports": 2002933088,
+        "sell_quote_sol": 2.002933088,
+        "signatures": [
+          "3qYVbtChantR1GcKPzRCCfFgzHoakd6RgGzkK6DemDjGcP3GWVfSt7YmaZ8xzEozYaXWhMRYoNbATrQQAwLjZabn"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 6716005.817303,
+        "tokens_sold_raw": 6716005817303
+      },
+      {
+        "owner": "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc",
+        "sell_quote_lamports": 1556503355,
+        "sell_quote_sol": 1.556503355,
+        "signatures": [
+          "2BiYn7EJ3JKjN9bmYbX4b1rJj1hTSEkAc5GE5GkP8edC6D8B2WXtDRaiLwRKgPhuRR51iP91BkS3jFpDx32ugz5d"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 11307071.330753,
+        "tokens_sold_raw": 11307071330753
+      },
+      {
+        "owner": "4nzWFyYe4e2oztK23o2GK4uiwqF54sWsP4zBnGYuBXzH",
+        "sell_quote_lamports": 1536267618,
+        "sell_quote_sol": 1.536267618,
+        "signatures": [
+          "4qWxtW89FZDcRp2yVJzUgpcUHW6H46jp8ZQKwFQCcnuLjB8yqqCT9ahHXGTLEhLco61FkmHxYxiaAeYe3tJuytLv"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 6716005.817303,
+        "tokens_sold_raw": 6716005817303
+      },
+      {
+        "owner": "DRpH25p2iK2UA2TaQX4r3g1mV447FGQLGB9KKaLViLiC",
+        "sell_quote_lamports": 1433943164,
+        "sell_quote_sol": 1.433943164,
+        "signatures": [
+          "3PLjA6TYUHjEDSK9PgkhoxymMWGQS8vPrBp44aKbyTmjoHsnj7169QxaJSyKrjRLJdiEwsqGk2Lh1AMv1utVtsG1"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 9155965.420031,
+        "tokens_sold_raw": 9155965420031
+      },
+      {
+        "owner": "Hgb1wwNBWmktjHGXMNdgDx98ExRipLQMnujkNFWV4tLp",
+        "sell_quote_lamports": 1279765840,
+        "sell_quote_sol": 1.27976584,
+        "signatures": [
+          "2A6o5nDsLAFYHP8xVYHVPy9HbYNXhFyx3DbXu7fch3ai6kTc5HQP1JuXsDXpDzEQArMxfGzkDJXCLE54x8Ggj3zy"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 6967387.153306,
+        "tokens_sold_raw": 6967387153306
+      },
+      {
+        "owner": "GXaGoEb5fN1TRQEdguyNRjCcXVdzMF3EsKr7nGZTv7Pm",
+        "sell_quote_lamports": 1164898319,
+        "sell_quote_sol": 1.164898319,
+        "signatures": [
+          "2edGEjriLDKYMeQWRs9zdS7wGpMeLtfB33fw3ykcatqPCsduDXiGKcYMprGNyDikA6oQTwAQrCKXZ6qXWNHbJT99"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 5315680.489204,
+        "tokens_sold_raw": 5315680489204
+      },
+      {
+        "owner": "Fj4MaricvK4GNxpvwf3NKezpkLDQbdgJbhGeCHuqrGdK",
+        "sell_quote_lamports": 1104396138,
+        "sell_quote_sol": 1.104396138,
+        "signatures": [
+          "RZy3TzH3Xe3V2ACMP5yYWrTEHx2Hdfqupykyd35hyWCQb4zxajhxmwnkzgRbjwCDk6qDcg5sd2W6RC3ZfQBtXLH"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 5546627.961562,
+        "tokens_sold_raw": 5546627961562
+      },
+      {
+        "owner": "BjfGPDuEEz54HZvvwfafBNuM8NdWRKFd8nkVndC7zYs5",
+        "sell_quote_lamports": 1090054403,
+        "sell_quote_sol": 1.090054403,
+        "signatures": [
+          "2KM6XiMeGmb1S3oKwV9zG4cYSCUbusxM6WAGvcD346TWXX6q1kLr5h8PafZG4GRZoQWUY8LFuijhmrMdpmuXUSwu"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 5694938.585067,
+        "tokens_sold_raw": 5694938585067
+      },
+      {
+        "owner": "GTHNPgraTerbHWgpgPUnqvYdJriqNPvQFnkYTuXeAgs8",
+        "sell_quote_lamports": 1004751101,
+        "sell_quote_sol": 1.004751101,
+        "signatures": [
+          "3cg3kspdYD9hwSdyy7H2125t8enQaeQ2ufZbZiRcUD1RBWvBKSPnq24bdcD6ynSYnVF2W3AfD6bNQfRkaHrgXjgB"
+        ],
+        "signer_tx_count": 1,
+        "tokens_sold": 6723001.480966,
+        "tokens_sold_raw": 6723001480966
+      }
+    ],
+    "txs": [
+      {
+        "base_delta_raw": 399013253479,
+        "block_time": 1791762919,
+        "instructions": [
+          "SellPumpSwapPercentage",
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -51124170,
+        "quote_post_lamports": 30197044018,
+        "quote_pre_lamports": 30248168188,
+        "seller_owners": [
+          "J3KkPCzxs5P2Hx5EVigKEiYVd1rscp7ueAFGG7P2uTPY"
+        ],
+        "seller_signers": [
+          "J3KkPCzxs5P2Hx5EVigKEiYVd1rscp7ueAFGG7P2uTPY"
+        ],
+        "signature": "21pCk5DFRACbACvuUZd8BvisTiPXKsEB7MhDDaNMBJadoJLbiaGwG8FfXouuhRLnfNSfgey3Wwix2ucpLbu5Qiz4",
+        "slot": 455839747
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 53540708294,
+        "quote_pre_lamports": 53540708294,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "2245QceJFaN79XXKeZ15946ZhpzHrjAF2QoZ6wTrSvrpDLyJKD7Pos2CsMg7vaac8HiffMPbJM5Rt4hoWwniHXWM",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 577399727581,
+        "block_time": 1791762918,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -92377602,
+        "quote_post_lamports": 35967644372,
+        "quote_pre_lamports": 36060021974,
+        "seller_owners": [
+          "4JUovKSSsGV2m3hLpMo7PzgR9PsVQXmUai19PcsmpZJy"
+        ],
+        "seller_signers": [
+          "4JUovKSSsGV2m3hLpMo7PzgR9PsVQXmUai19PcsmpZJy"
+        ],
+        "signature": "22uvuHneQhYibF55n3oB6nu7bScbkPNV6fxZ4u6E9d1gBM7FKnemHdjuj26HumVNeHo86deGTweR86fgka7j7f8A",
+        "slot": 455839741
+      },
+      {
+        "base_delta_raw": 94108685303,
+        "block_time": 1791762921,
+        "instructions": [
+          "RouteV2",
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -11621420,
+        "quote_post_lamports": 29347930690,
+        "quote_pre_lamports": 29359552110,
+        "seller_owners": [
+          "4go9NPyTLpftonEXnweuypmSSfNzgjrzRXFK5Az6H2qw"
+        ],
+        "seller_signers": [
+          "4go9NPyTLpftonEXnweuypmSSfNzgjrzRXFK5Az6H2qw"
+        ],
+        "signature": "29eqpsDLs7RDdpC9pYzjzGkL2XZPscbWRaX3szGGRbS83pBG35CV3stdAsGU3F2pbVz6QovtZ6u6v2tC6U8Wipt7",
+        "slot": 455839754
+      },
+      {
+        "base_delta_raw": 6967387153306,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1279765840,
+        "quote_post_lamports": 38969874375,
+        "quote_pre_lamports": 40249640215,
+        "seller_owners": [
+          "Hgb1wwNBWmktjHGXMNdgDx98ExRipLQMnujkNFWV4tLp"
+        ],
+        "seller_signers": [
+          "Hgb1wwNBWmktjHGXMNdgDx98ExRipLQMnujkNFWV4tLp"
+        ],
+        "signature": "2A6o5nDsLAFYHP8xVYHVPy9HbYNXhFyx3DbXu7fch3ai6kTc5HQP1JuXsDXpDzEQArMxfGzkDJXCLE54x8Ggj3zy",
+        "slot": 455839739
+      },
+      {
+        "base_delta_raw": 11307071330753,
+        "block_time": 1791762919,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1556503355,
+        "quote_post_lamports": 31187977691,
+        "quote_pre_lamports": 32744481046,
+        "seller_owners": [
+          "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc"
+        ],
+        "seller_signers": [
+          "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc"
+        ],
+        "signature": "2BiYn7EJ3JKjN9bmYbX4b1rJj1hTSEkAc5GE5GkP8edC6D8B2WXtDRaiLwRKgPhuRR51iP91BkS3jFpDx32ugz5d",
+        "slot": 455839745
+      },
+      {
+        "base_delta_raw": -617898785371,
+        "block_time": 1791762918,
+        "instructions": [
+          "GetAccountDataSize",
+          "InitializeImmutableOwner",
+          "InitializeAccount3",
+          "Buy",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 90754576,
+        "quote_post_lamports": 33619642584,
+        "quote_pre_lamports": 33528888008,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "2E8g7LVzgxdWzNA79CzDiKPeR2NrHjj6pyhGScB2P8KRBupmaHu3ZGS5TydN4vL2AG1zSCygoaAzhJ3wAr8xRhme",
+        "slot": 455839741
+      },
+      {
+        "base_delta_raw": 60368488459,
+        "block_time": 1791762920,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -7462267,
+        "quote_post_lamports": 29373192050,
+        "quote_pre_lamports": 29380654317,
+        "seller_owners": [
+          "G24bSY5vmzGuB8nKT5xWhA7vRBNmbwvYQYzm4dC79LXk"
+        ],
+        "seller_signers": [
+          "G24bSY5vmzGuB8nKT5xWhA7vRBNmbwvYQYzm4dC79LXk"
+        ],
+        "signature": "2GPUV8Sh9kKPDKmCnDt3ffR44QP638rdEc1PNJTpMzoiVGDYj1x2sJxsr6CaDeAidYnGThG99zLh41fo52S6WucR",
+        "slot": 455839751
+      },
+      {
+        "base_delta_raw": 5694938585067,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1090054403,
+        "quote_post_lamports": 40249640215,
+        "quote_pre_lamports": 41339694618,
+        "seller_owners": [
+          "BjfGPDuEEz54HZvvwfafBNuM8NdWRKFd8nkVndC7zYs5"
+        ],
+        "seller_signers": [
+          "BjfGPDuEEz54HZvvwfafBNuM8NdWRKFd8nkVndC7zYs5"
+        ],
+        "signature": "2KM6XiMeGmb1S3oKwV9zG4cYSCUbusxM6WAGvcD346TWXX6q1kLr5h8PafZG4GRZoQWUY8LFuijhmrMdpmuXUSwu",
+        "slot": 455839739
+      },
+      {
+        "base_delta_raw": 314496300893,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -61400343,
+        "quote_post_lamports": 41339694618,
+        "quote_pre_lamports": 41401094961,
+        "seller_owners": [
+          "3F92F1XEJoqbF4izJBwTC7XUTo89RtEMF8Vn3j5VSdVU"
+        ],
+        "seller_signers": [
+          "3F92F1XEJoqbF4izJBwTC7XUTo89RtEMF8Vn3j5VSdVU"
+        ],
+        "signature": "2PDakRBk4eTjQtUoLCrQErrZqij5xymNvHbTkPXbTGRqvhsBM6TQVyeggxXfhvcgjrzrwYW2RMgHhiKS5ApBAxCh",
+        "slot": 455839738
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 56230632214,
+        "quote_pre_lamports": 56230632214,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "2PbUpqafnhQncLrEY7xySej71NtnfA8LA7KVPFPwEoNsHCCWxC4y9K2yt2qUyUHxMnFWpc1Mgp6Liui6WcaB4VAU",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 2164646666586,
+        "block_time": 1791762918,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -383149360,
+        "quote_post_lamports": 38586725015,
+        "quote_pre_lamports": 38969874375,
+        "seller_owners": [
+          "AgGaSMP426cwaGJ3ehtkLi2dCvjZg3efMR5YRjwpjetZ"
+        ],
+        "seller_signers": [
+          "AgGaSMP426cwaGJ3ehtkLi2dCvjZg3efMR5YRjwpjetZ"
+        ],
+        "signature": "2TvViFWGbW9qz1ats4J6b1ytW7AcdLHGBXJCpcMMbc9vrQX7SknFYEUmc95dz8eposSSo7Ys6j8x7rHDpo5SJafC",
+        "slot": 455839740
+      },
+      {
+        "base_delta_raw": -2028967626381,
+        "block_time": 1791762917,
+        "instructions": [
+          "GetAccountDataSize",
+          "InitializeImmutableOwner",
+          "InitializeAccount3",
+          "BuyExactQuoteInV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 443039758,
+        "quote_post_lamports": 44722042698,
+        "quote_pre_lamports": 44279002940,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "2WYjXBXVhdgNJUJcyVPV3yZLipoSzowyD9dKU5ge5KPBa6sP83hBhg547sYGR2RoPEbSPyBGjGxYg4UGpD3Utu6n",
+        "slot": 455839737
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 53151891580,
+        "quote_pre_lamports": 53151891580,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "2Y5kBrZpq5LtvX6a6ycWDQ7noG5WXH359J82fv8e6fVTqiuc5n3a7JZN9bfJ3A3fVLprnkRwLPs9NYJ3ccz1eZuK",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 480530842666,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -116239125,
+        "quote_post_lamports": 47950426493,
+        "quote_pre_lamports": 48066665618,
+        "seller_owners": [
+          "8zACDZq7sgYMcZ2P9szgHkLbcpDxV36sizDmbVPDsUdE"
+        ],
+        "seller_signers": [
+          "8zACDZq7sgYMcZ2P9szgHkLbcpDxV36sizDmbVPDsUdE"
+        ],
+        "signature": "2ebpwrqcRMJBuTPgDZDWQZ6TUwFfGS2r1oyJYUcfE336BSAa8SyN84Vt9PEB4VpovyiKqm3XaXZ3Swh77MaGL3rR",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 5315680489204,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1164898319,
+        "quote_post_lamports": 44279002940,
+        "quote_pre_lamports": 45443901259,
+        "seller_owners": [
+          "GXaGoEb5fN1TRQEdguyNRjCcXVdzMF3EsKr7nGZTv7Pm"
+        ],
+        "seller_signers": [
+          "GXaGoEb5fN1TRQEdguyNRjCcXVdzMF3EsKr7nGZTv7Pm"
+        ],
+        "signature": "2edGEjriLDKYMeQWRs9zdS7wGpMeLtfB33fw3ykcatqPCsduDXiGKcYMprGNyDikA6oQTwAQrCKXZ6qXWNHbJT99",
+        "slot": 455839737
+      },
+      {
+        "base_delta_raw": 1922687874,
+        "block_time": 1791762924,
+        "instructions": [
+          "RouteV2",
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -236010,
+        "quote_post_lamports": 29214041645,
+        "quote_pre_lamports": 29214277655,
+        "seller_owners": [
+          "9s7VxCx2m6m4w9DUKmbNiqPaPLpfR7rGnbfK5x9Q2obg"
+        ],
+        "seller_signers": [
+          "9s7VxCx2m6m4w9DUKmbNiqPaPLpfR7rGnbfK5x9Q2obg"
+        ],
+        "signature": "2iuo5riDNozjr9E6YRM2vWKudYSqoqQnKjBx2HVXo6RxhaZLAenrTx6MJVnc8k44XtrhVnHjezfiVS465wAa4w8x",
+        "slot": 455839767
+      },
+      {
+        "base_delta_raw": 1032419370517,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -246135066,
+        "quote_post_lamports": 47412546815,
+        "quote_pre_lamports": 47658681881,
+        "seller_owners": [
+          "HkUarWAnv3w2FMUNdQhn6FCMm45mwk9bd5pMYEXCQZqj"
+        ],
+        "seller_signers": [
+          "HkUarWAnv3w2FMUNdQhn6FCMm45mwk9bd5pMYEXCQZqj"
+        ],
+        "signature": "2qggHEpKi4nNBDd5uzywBXPtZHJTKKM5s1co56EHXz3FygfBYZhzLvCKCNsEENQoBE22yHvpAqaFAEzSR8YPogNW",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 6054230504280,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -875161538,
+        "quote_post_lamports": 32744481046,
+        "quote_pre_lamports": 33619642584,
+        "seller_owners": [
+          "3F53rgW2FALy5bfNZNRLhxGR6W7usksJzaHADxtx7orK"
+        ],
+        "seller_signers": [
+          "3F53rgW2FALy5bfNZNRLhxGR6W7usksJzaHADxtx7orK"
+        ],
+        "signature": "2vUe2rHtzWVqoSHQm6eYEcJwY1s8cdHs4eL2GPjXkB7yHTyZ3JxJVHqMzm9dEdhvNqTgjiHj8GfJvJ8DTEG49bhe",
+        "slot": 455839742
+      },
+      {
+        "base_delta_raw": 68652274300,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -11089924,
+        "quote_post_lamports": 36060021974,
+        "quote_pre_lamports": 36071111898,
+        "seller_owners": [
+          "GNXzpPLNx5JAVfZx4qos6cvGSFSZ5Q1uFuUVPf7zBagL"
+        ],
+        "seller_signers": [
+          "GNXzpPLNx5JAVfZx4qos6cvGSFSZ5Q1uFuUVPf7zBagL"
+        ],
+        "signature": "361Np9FyLgQrf6ztQspqrkNL5yWSisSm1EHYegi2WRJW9YbCDuoCvWoAzZ5GBBitpe85QtG8ZLdcmMPEB3ZgC9QC",
+        "slot": 455839741
+      },
+      {
+        "base_delta_raw": 842824352236,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -199557075,
+        "quote_post_lamports": 47212989740,
+        "quote_pre_lamports": 47412546815,
+        "seller_owners": [
+          "DqH8MdY9ePSmWUD61AwFs4h1dJHAEmFLAGE2rjeQWR4K"
+        ],
+        "seller_signers": [
+          "DqH8MdY9ePSmWUD61AwFs4h1dJHAEmFLAGE2rjeQWR4K"
+        ],
+        "signature": "3Hd512QeZToSRqjAiWVdmXDe9hr1ANp8JYwUa6kdPKF3THE2SYohzTeRHaKB3HMpucmPku83sXW28Ekn7vou54Mu",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 1052339722224,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -328387214,
+        "quote_post_lamports": 56720982980,
+        "quote_pre_lamports": 57049370194,
+        "seller_owners": [
+          "E6cZWfGJkcNGdx3ZN9XtXGrEgFQwA4XXzPd8K8HUbDqN"
+        ],
+        "seller_signers": [
+          "E6cZWfGJkcNGdx3ZN9XtXGrEgFQwA4XXzPd8K8HUbDqN"
+        ],
+        "signature": "3LTBUiTpLsT4bdZwooGSvRbALEQMiCCqXiKPbaXPPAE2ncsvrdvtdyaKjYj9Jhe3TixjRhGdYMgG8hpQZsBoh5Rn",
+        "slot": 455839734
+      },
+      {
+        "base_delta_raw": 1373842859837,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -388816714,
+        "quote_post_lamports": 53151891580,
+        "quote_pre_lamports": 53540708294,
+        "seller_owners": [
+          "7y5aRdzh5ZBYDhM4qKBwXzUUjKBSBperbrgWiE7AoAHG"
+        ],
+        "seller_signers": [
+          "7y5aRdzh5ZBYDhM4qKBwXzUUjKBSBperbrgWiE7AoAHG"
+        ],
+        "signature": "3NLPL6uMAn1qnfWk5YCsBKGAJm7MAWZefPsukCvyFDa1YRXoyPNx5mRHU6xUVwsLcrK3mzaGsCsYQLMx5ya6nGTJ",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 9155965420031,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1433943164,
+        "quote_post_lamports": 34533701208,
+        "quote_pre_lamports": 35967644372,
+        "seller_owners": [
+          "DRpH25p2iK2UA2TaQX4r3g1mV447FGQLGB9KKaLViLiC"
+        ],
+        "seller_signers": [
+          "DRpH25p2iK2UA2TaQX4r3g1mV447FGQLGB9KKaLViLiC"
+        ],
+        "signature": "3PLjA6TYUHjEDSK9PgkhoxymMWGQS8vPrBp44aKbyTmjoHsnj7169QxaJSyKrjRLJdiEwsqGk2Lh1AMv1utVtsG1",
+        "slot": 455839741
+      },
+      {
+        "base_delta_raw": 25201494769,
+        "block_time": 1791762922,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -3080602,
+        "quote_post_lamports": 29294256414,
+        "quote_pre_lamports": 29297337016,
+        "seller_owners": [
+          "AsK1HAHtURNaWXae2vgqewMK2Lu7Ci9UpmWG5aqfEUrM"
+        ],
+        "seller_signers": [
+          "AsK1HAHtURNaWXae2vgqewMK2Lu7Ci9UpmWG5aqfEUrM"
+        ],
+        "signature": "3RJQxU7NXhc2vheurwMShnbPiD1HU5r6K4iT1h2Ge3XCTh72YgTEVMnqE13tZna9QZB5vumoSuknrXTSm7xXqjJ8",
+        "slot": 455839762
+      },
+      {
+        "base_delta_raw": 995968792250,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -239611766,
+        "quote_post_lamports": 47710814727,
+        "quote_pre_lamports": 47950426493,
+        "seller_owners": [
+          "DVTpGE8fQxcA5JGWYT9gUYTxLqBpoGT5uYJLtQjayjdy"
+        ],
+        "seller_signers": [
+          "DVTpGE8fQxcA5JGWYT9gUYTxLqBpoGT5uYJLtQjayjdy"
+        ],
+        "signature": "3W9kuKxGr9dZF7oHPYXseSoDXoRrefBWnoK3abwUiegrjjx4586RqFbpRAYUPxNK3G29hChWjU2ecU3ho9FKCMCb",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 218377122360,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -52961542,
+        "quote_post_lamports": 48066566834,
+        "quote_pre_lamports": 48119528376,
+        "seller_owners": [
+          "Fs6hMeh6xKb6mKgQNb25m88bCQo83kLpptjpN8HHFSzL"
+        ],
+        "seller_signers": [
+          "Fs6hMeh6xKb6mKgQNb25m88bCQo83kLpptjpN8HHFSzL"
+        ],
+        "signature": "3X8roF7Km2u8cUMYRWZrBzKmMFUfYvyLGkWXoBCYuQ3trWKPGFnhaZbpMRTJ3RacWcmJYLfthdHRnuSFTefgABSZ",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 270633982039,
+        "block_time": 1791762917,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -54529171,
+        "quote_post_lamports": 42505491099,
+        "quote_pre_lamports": 42560020270,
+        "seller_owners": [
+          "BWdhUQ1NmzB2oSXENTV7xAvXx4oHxUeq6ShNmr64K2bs"
+        ],
+        "seller_signers": [
+          "BWdhUQ1NmzB2oSXENTV7xAvXx4oHxUeq6ShNmr64K2bs"
+        ],
+        "signature": "3aDxZQrPEA5DmNSfstPoxrvonWHmDHtWw6tEEdNowVMqN5XiRrNEzcc9ePygFvJYakZMnnrFWf2giRmEju3jtyhz",
+        "slot": 455839738
+      },
+      {
+        "base_delta_raw": 10467768227810,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -2205634364,
+        "quote_post_lamports": 42560020270,
+        "quote_pre_lamports": 44765654634,
+        "seller_owners": [
+          "9p7aE9fXaEXijLjJYej5HZfJXAo6ZcFTrygngEq243vk"
+        ],
+        "seller_signers": [
+          "9p7aE9fXaEXijLjJYej5HZfJXAo6ZcFTrygngEq243vk"
+        ],
+        "signature": "3cRaLpLpM9UMuxGYMZxQibG3suKsJLryZFMQ3BDezanz6RKNNHNAVUwaesWGbWeTrozEYKzA2ZxtJKWRuanp8Q8",
+        "slot": 455839738
+      },
+      {
+        "base_delta_raw": 6723001480966,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1004751101,
+        "quote_post_lamports": 33528888008,
+        "quote_pre_lamports": 34533639109,
+        "seller_owners": [
+          "GTHNPgraTerbHWgpgPUnqvYdJriqNPvQFnkYTuXeAgs8"
+        ],
+        "seller_signers": [
+          "GTHNPgraTerbHWgpgPUnqvYdJriqNPvQFnkYTuXeAgs8"
+        ],
+        "signature": "3cg3kspdYD9hwSdyy7H2125t8enQaeQ2ufZbZiRcUD1RBWvBKSPnq24bdcD6ynSYnVF2W3AfD6bNQfRkaHrgXjgB",
+        "slot": 455839741
+      },
+      {
+        "base_delta_raw": -3847049007624,
+        "block_time": 1791762924,
+        "instructions": [
+          "InitializeAccount3",
+          "BuyExactQuoteIn",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 493925925,
+        "quote_post_lamports": 30510219262,
+        "quote_pre_lamports": 30016293337,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "3hPo3Fqbi1kx83zjnbXEv7KhLDR5eC3PuQ2u2aVcVuXL4BwZqjL6cwe5uNEb6C367aESgYc2HptByktCMuoz6Nuo",
+        "slot": 455839769
+      },
+      {
+        "base_delta_raw": 326630297951,
+        "block_time": 1791762922,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -39982250,
+        "quote_post_lamports": 29307948440,
+        "quote_pre_lamports": 29347930690,
+        "seller_owners": [
+          "5PRKFh5gPAGH4HCCTycfft5x9szbCNmvo5SkK2ED7xvP"
+        ],
+        "seller_signers": [
+          "5PRKFh5gPAGH4HCCTycfft5x9szbCNmvo5SkK2ED7xvP"
+        ],
+        "signature": "3hT832uZEanVNZD9FHkVvDzrCHgAHT4f8N93aGXWmT6dgH1WerpAg5dsYUhXYcgqYkL96ctWuzjEB8bZzV6Gyy94",
+        "slot": 455839759
+      },
+      {
+        "base_delta_raw": 86119343499,
+        "block_time": 1791762922,
+        "instructions": [
+          "SellPumpSwapPercentage",
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -10611424,
+        "quote_post_lamports": 29297337016,
+        "quote_pre_lamports": 29307948440,
+        "seller_owners": [
+          "7Mv3say8p7nTp1PCVqup2aXf7pYfCEy4R153v1C2Y9QG"
+        ],
+        "seller_signers": [
+          "7Mv3say8p7nTp1PCVqup2aXf7pYfCEy4R153v1C2Y9QG"
+        ],
+        "signature": "3nWX31o28KnEZ4MzLbK8g3snfknJDim84it2okRUXCKJiNnXfoVBvwn4nxfgMaRjhYed5J8LSBrjawSQ1QmYcVVK",
+        "slot": 455839760
+      },
+      {
+        "base_delta_raw": 6716005817303,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -2002933088,
+        "quote_post_lamports": 54227699126,
+        "quote_pre_lamports": 56230632214,
+        "seller_owners": [
+          "5hfPL9MphVk8d9FZhD7rXfRywq6FggHQfRqaeFjiWi3n"
+        ],
+        "seller_signers": [
+          "5hfPL9MphVk8d9FZhD7rXfRywq6FggHQfRqaeFjiWi3n"
+        ],
+        "signature": "3qYVbtChantR1GcKPzRCCfFgzHoakd6RgGzkK6DemDjGcP3GWVfSt7YmaZ8xzEozYaXWhMRYoNbATrQQAwLjZabn",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 1825187188488,
+        "block_time": 1791762924,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -233892287,
+        "quote_post_lamports": 30294112995,
+        "quote_pre_lamports": 30528005282,
+        "seller_owners": [
+          "7qx4AcXbeKeGYk5pcoT67n1q5G1PfDU4GHtYNFkQuRnG"
+        ],
+        "seller_signers": [
+          "7qx4AcXbeKeGYk5pcoT67n1q5G1PfDU4GHtYNFkQuRnG"
+        ],
+        "signature": "3xqNsENovCeJJVv5TEhNcQkb3ENUkGp5JnHksdMQmCf9EPaPXq2WykXjDGJLcruH9smzscHWzqcJCpoosFnp8DSE",
+        "slot": 455839770
+      },
+      {
+        "base_delta_raw": 6490037189732,
+        "block_time": 1791762920,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -816389701,
+        "quote_post_lamports": 29380654317,
+        "quote_pre_lamports": 30197044018,
+        "seller_owners": [
+          "3NVVrZvaNCZzUMcMUrbicNPd1Vf4kV1gUZ34pyDEhxix"
+        ],
+        "seller_signers": [
+          "3NVVrZvaNCZzUMcMUrbicNPd1Vf4kV1gUZ34pyDEhxix"
+        ],
+        "signature": "3yae73Ug1Wqg9sk1VMEmkSZnAaQ9XrvLqiKZfPAtXtXs3mijfwenVqzF6jFFvHoJZdKxHP6tJW1FE4ZmiKQsjH8Y",
+        "slot": 455839748
+      },
+      {
+        "base_delta_raw": 14869590237506,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -2515613117,
+        "quote_post_lamports": 36071111898,
+        "quote_pre_lamports": 38586725015,
+        "seller_owners": [
+          "CGr5CYVv6tG3XQ2sWHzr7a5q55LR9GuAq2eoMzD64ctd"
+        ],
+        "seller_signers": [
+          "CGr5CYVv6tG3XQ2sWHzr7a5q55LR9GuAq2eoMzD64ctd"
+        ],
+        "signature": "41QTQYnM7QjfjwTNT2oMnomZtUe1DoVy25vz49EihRrUybVqhmkuQHudNJWxj4rnVYbsMNHcCL7ezRF4kjZnUCBk",
+        "slot": 455839740
+      },
+      {
+        "base_delta_raw": 2390931247404,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -686990832,
+        "quote_post_lamports": 53540708294,
+        "quote_pre_lamports": 54227699126,
+        "seller_owners": [
+          "Cf4YaJKZg3R3GKZPomy5AMGvCMHwewxoDddtJmmNdoWN"
+        ],
+        "seller_signers": [
+          "Cf4YaJKZg3R3GKZPomy5AMGvCMHwewxoDddtJmmNdoWN"
+        ],
+        "signature": "4DKWNb23Tw4fDoD2GyumXQh764QEjqqZpicG86JoSSVYCoCtWjPqZiSkTyXcDoAsj8DAi8JsjR5rsuHHNsfqDJuu",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 98285189245,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -27608937,
+        "quote_post_lamports": 53068454188,
+        "quote_pre_lamports": 53096063125,
+        "seller_owners": [
+          "BZVcskCB3fKdr6o3T7VPvYhvU7BHDnzyh9ZQo1Aco6HH"
+        ],
+        "seller_signers": [
+          "BZVcskCB3fKdr6o3T7VPvYhvU7BHDnzyh9ZQo1Aco6HH"
+        ],
+        "signature": "4FjV7nwMUbA5GriYkQAwVdhYCP4uXrTiSaC29VBkTWbvemUbBeL7u15x2bvfuEcF8kL6tCA3pHqNauE7uosRSCBP",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 56230701110,
+        "quote_pre_lamports": 56230701110,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "4Jtbfdu34gb39SanzeSy7AmydNmPoYAJBt279uUkr68GBj29ThuUZcnVQKWGxenkqhNnX2FmKw8vqzqorjKfxcyq",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 344152705124,
+        "block_time": 1791762919,
+        "instructions": [
+          "SellV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -45509153,
+        "quote_post_lamports": 31142468538,
+        "quote_pre_lamports": 31187977691,
+        "seller_owners": [
+          "FURMjh5Z4xpAWQMx2gQHyboj7di617ExoRJxLrKjqcZu"
+        ],
+        "seller_signers": [
+          "FURMjh5Z4xpAWQMx2gQHyboj7di617ExoRJxLrKjqcZu"
+        ],
+        "signature": "4KzEAWPYwcesVKkBTFnLWdEWv2R4krgWzWK5QpikaF8a1abBFwPRTNXMs96rtUBHW8LDHPcLk3sW9HRwh9WH1hKm",
+        "slot": 455839745
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 53096063125,
+        "quote_pre_lamports": 53096063125,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "4Vkj2qfUhh2cCjPtVVmGeD3hmPpArzAXQaAmLAUFemKfQhZW5du2byXRZCUcRcebTkiDUHXkngMWzn6FZXyKPAjq",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 6716005817303,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1536267618,
+        "quote_post_lamports": 45443901259,
+        "quote_pre_lamports": 46980168877,
+        "seller_owners": [
+          "4nzWFyYe4e2oztK23o2GK4uiwqF54sWsP4zBnGYuBXzH"
+        ],
+        "seller_signers": [
+          "4nzWFyYe4e2oztK23o2GK4uiwqF54sWsP4zBnGYuBXzH"
+        ],
+        "signature": "4qWxtW89FZDcRp2yVJzUgpcUHW6H46jp8ZQKwFQCcnuLjB8yqqCT9ahHXGTLEhLco61FkmHxYxiaAeYe3tJuytLv",
+        "slot": 455839737
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 56230632214,
+        "quote_pre_lamports": 56230632214,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "4sNEwMTnDFQ73HP6P8fvqeMCBrtHWtdr5rBCzjbaofsLZYQ29BPowWiqrDZh7QnGkuyWskp7F8g4dw3d5ZK9WDTd",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": -1522937652892,
+        "block_time": 1791762925,
+        "instructions": [
+          "SwapWithSolFeeLog",
+          "Swap",
+          "GetAccountDataSize",
+          "InitializeImmutableOwner",
+          "InitializeAccount3",
+          "BuyExactQuoteInV2",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 198086074,
+        "quote_post_lamports": 30492199069,
+        "quote_pre_lamports": 30294112995,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "558aUsfJrmw5ta8EVHe9tgGhLsmSUiWfeTp8krejGiimP9D63TJpF1PAnyVdvvfnAY4xZbFDwTGR6i9LZr47w6L",
+        "slot": 455839773
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 56720982980,
+        "quote_pre_lamports": 56720982980,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "55W81XTE667BL74YmsSCudV2k6m9XdgnuBHkJ2Lj8XK4jzemEp83iCRv3HbRy3MV945je4Kgtg48RLF9EHmZYmgo",
+        "slot": 455839734
+      },
+      {
+        "base_delta_raw": -407478444,
+        "block_time": 1791762917,
+        "instructions": [
+          "BuyExactQuoteIn",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 98784,
+        "quote_post_lamports": 48066665618,
+        "quote_pre_lamports": 48066566834,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "57PiGRQbTvGX8BBW7s7PwTeUS7Z34fk6UzCKT6UPjij9QyTzJthXuMknCWH2Wcij7VhfqnNwfPwWTHkMuwAxfiu3",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 219347039198,
+        "block_time": 1791762917,
+        "instructions": [
+          "SellV2",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -52132846,
+        "quote_post_lamports": 47658681881,
+        "quote_pre_lamports": 47710814727,
+        "seller_owners": [
+          "5DNAgKTu1PK45Ua9YkAmboo9qjuEJXi5LSHHiTLBsaU2"
+        ],
+        "seller_signers": [
+          "5DNAgKTu1PK45Ua9YkAmboo9qjuEJXi5LSHHiTLBsaU2"
+        ],
+        "signature": "5KBCrbLVaYMhxBqk9fw2KerwFbZUsBGv312kkC51M8yaJfeDt3SDjno5evk7YvdyccmBF3u7gncyoXt42fwZ8y2F",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 248593703613,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -54185396,
+        "quote_post_lamports": 44667857302,
+        "quote_pre_lamports": 44722042698,
+        "seller_owners": [
+          "9G63EWM1d4bjubUzH458pguqHQHVtq2Eu9g4mGd1g74u"
+        ],
+        "seller_signers": [
+          "9G63EWM1d4bjubUzH458pguqHQHVtq2Eu9g4mGd1g74u"
+        ],
+        "signature": "5KuaXsy7aUKaG6efLq1o1cEwrkFAUiPU5ou7Ad7NHBP5PbnJq7KjmMhKin7ukWjxFJstGmD17erMskF39GghzES9",
+        "slot": 455839737
+      },
+      {
+        "base_delta_raw": 43533601854,
+        "block_time": 1791762920,
+        "instructions": [
+          "CreateTokenAccountWithSeed",
+          "Swap",
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -5377892,
+        "quote_post_lamports": 29359552110,
+        "quote_pre_lamports": 29364930002,
+        "seller_owners": [
+          "12vM2zTcF9ahjqSdUB12Kf2DYYn5Pk4wCr64ntLxBdD7"
+        ],
+        "seller_signers": [
+          "12vM2zTcF9ahjqSdUB12Kf2DYYn5Pk4wCr64ntLxBdD7"
+        ],
+        "signature": "5ZvtJmnPFJC4NJLUmSBwSKu3gWooS73vhjSvRFP6aKSaBz5JDb4Sez5sLnebJDQpEsk8z8i3jFite4NqhzwedEFU",
+        "slot": 455839752
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 56720982980,
+        "quote_pre_lamports": 56720982980,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "5eu16ri9Vt76NeGS4hooeKDD7Qcy8ciWyY5xQMJy2LcNj8dbTh85WsYa2bgB2NS6n2y6BQXQ1UdHoAFMgR6vnKaC",
+        "slot": 455839734
+      },
+      {
+        "base_delta_raw": 224726834,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -68896,
+        "quote_post_lamports": 56230632214,
+        "quote_pre_lamports": 56230701110,
+        "seller_owners": [
+          "HrLzB8CiQnWCnLtzKrSHSjU6PisSU4FzAkMUeZbCK4ja"
+        ],
+        "seller_signers": [
+          "HrLzB8CiQnWCnLtzKrSHSjU6PisSU4FzAkMUeZbCK4ja"
+        ],
+        "signature": "5qqCjpTbaD3pdDucj3wbPr9RVtYqpozcWL47vrtfApCSmpQ4BhyMWEwBYoET3D3P8LrrhrjfiP48mEZDbmHcKjzo",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 198508816000,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -55828455,
+        "quote_post_lamports": 53096063125,
+        "quote_pre_lamports": 53151891580,
+        "seller_owners": [
+          "FhP9YBepvA3FZir5m3K7D4jLqmf5WssARcEzohq5BtoA"
+        ],
+        "seller_signers": [
+          "FhP9YBepvA3FZir5m3K7D4jLqmf5WssARcEzohq5BtoA"
+        ],
+        "signature": "5vcZbmYGFDLLbKzgr894VTtho1t2aa88d9Dsz7mXCWiG2u7tC5rxrgwp8eTcn8yzzsewTxUb4gVHWE16uexAz5BS",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": -6423691805907,
+        "block_time": 1791762924,
+        "instructions": [
+          "BoostBuyAndBurn",
+          "Burn"
+        ],
+        "quote_delta_lamports": 802251692,
+        "quote_post_lamports": 30016293337,
+        "quote_pre_lamports": 29214041645,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "A6Bo5Gi6225UoKNp4pi6qBHZtTvMU8JMgMVrAmCYG9ZjL7EzK5ecWUu2gspFeFiLkEqAXzHGcwZ2MeEgg3DR6rs",
+        "slot": 455839768
+      },
+      {
+        "base_delta_raw": 6843762318255,
+        "block_time": 1791762919,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -894300350,
+        "quote_post_lamports": 30248168188,
+        "quote_pre_lamports": 31142468538,
+        "seller_owners": [
+          "4eXVpjxkaStw9iXuesdgfm7s6ATiUUcF1CEvidadDHnn"
+        ],
+        "seller_signers": [
+          "4eXVpjxkaStw9iXuesdgfm7s6ATiUUcF1CEvidadDHnn"
+        ],
+        "signature": "GNULXmrRaoTBNnszRpBGgCFCUh6vD3EaY1bDucR1ViiBL38k2MAXZPMwa6Ztaj4qJSyRw6Ef8td4BKrKNpg5K4Z",
+        "slot": 455839745
+      },
+      {
+        "base_delta_raw": 66861084991,
+        "block_time": 1791762920,
+        "instructions": [
+          "Route",
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -8262048,
+        "quote_post_lamports": 29364930002,
+        "quote_pre_lamports": 29373192050,
+        "seller_owners": [
+          "GxU5EtXvJ2NipS9JSnQfDoFXvW1gTTKYEFNTbKqSK3aW"
+        ],
+        "seller_signers": [
+          "GxU5EtXvJ2NipS9JSnQfDoFXvW1gTTKYEFNTbKqSK3aW"
+        ],
+        "signature": "JLtrswMnVF9VJA5FpvXJEpmYVAJMNPE5jX2DKWci5aemXuFCN636GJMcM9xQrR8dgdwvs6VuXT2zKVQDmAZNbUs",
+        "slot": 455839752
+      },
+      {
+        "base_delta_raw": -448183965715,
+        "block_time": 1791762917,
+        "instructions": [
+          "ValidateNonce",
+          "Route",
+          "GetAccountDataSize",
+          "InitializeImmutableOwner",
+          "InitializeAccount3",
+          "BuyExactQuoteIn",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 97797332,
+        "quote_post_lamports": 44765654634,
+        "quote_pre_lamports": 44667857302,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "Nep6U4dBgE68bua7zXgz2ENgc2HzSoCZ1UaWSUR1763h13FoeKDo3jJF1EbWSFvS8PiHFyXJjqipWU8sTSAyTkn",
+        "slot": 455839738
+      },
+      {
+        "base_delta_raw": 5546627961562,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -1104396138,
+        "quote_post_lamports": 41401094961,
+        "quote_pre_lamports": 42505491099,
+        "seller_owners": [
+          "Fj4MaricvK4GNxpvwf3NKezpkLDQbdgJbhGeCHuqrGdK"
+        ],
+        "seller_signers": [
+          "Fj4MaricvK4GNxpvwf3NKezpkLDQbdgJbhGeCHuqrGdK"
+        ],
+        "signature": "RZy3TzH3Xe3V2ACMP5yYWrTEHx2Hdfqupykyd35hyWCQb4zxajhxmwnkzgRbjwCDk6qDcg5sd2W6RC3ZfQBtXLH",
+        "slot": 455839738
+      },
+      {
+        "base_delta_raw": 989921351699,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -232820863,
+        "quote_post_lamports": 46980168877,
+        "quote_pre_lamports": 47212989740,
+        "seller_owners": [
+          "HkUarWAnv3w2FMUNdQhn6FCMm45mwk9bd5pMYEXCQZqj"
+        ],
+        "seller_signers": [
+          "HkUarWAnv3w2FMUNdQhn6FCMm45mwk9bd5pMYEXCQZqj"
+        ],
+        "signature": "g7reyhNAwcYk2w8RdKUzrZsyqmViuajGpxFaFRGKXQbtBTuBa4cdvtca6wYmDrwvMR31Ettvak2RrvYQMoWJrws",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": -137049900678,
+        "block_time": 1791762924,
+        "instructions": [
+          "PumpSwapV3",
+          "BuyExactQuoteIn",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": 17786020,
+        "quote_post_lamports": 30528005282,
+        "quote_pre_lamports": 30510219262,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "gpRiBbiWJ2ZSAVQ5Yjs4bgEjNNcbBwKaecbLQZBstWwgvQm26t1Z78vHYjQ6XfDnzaC4xwpdTPtVHcuDZA97r1E",
+        "slot": 455839770
+      },
+      {
+        "base_delta_raw": 18956844599132,
+        "block_time": 1791762917,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked",
+          "CloseAccount"
+        ],
+        "quote_delta_lamports": -4948925812,
+        "quote_post_lamports": 48119528376,
+        "quote_pre_lamports": 53068454188,
+        "seller_owners": [
+          "EN8iDPcGucFT6NffNZD8n9XwfnnbQ5CDx6ekoC4yWyqE"
+        ],
+        "seller_signers": [
+          "EN8iDPcGucFT6NffNZD8n9XwfnnbQ5CDx6ekoC4yWyqE"
+        ],
+        "signature": "nvVXCiAdRWM5jCE7rdAdKuasmNmagwYE8EvWktPsqbANTEkYqRgJ3t3MFfzCQJqf44bDHUFQpZ32oj98MLnBT3i",
+        "slot": 455839736
+      },
+      {
+        "base_delta_raw": 0,
+        "block_time": 1791762917,
+        "instructions": [],
+        "quote_delta_lamports": 0,
+        "quote_post_lamports": 56230632214,
+        "quote_pre_lamports": 56230632214,
+        "seller_owners": [],
+        "seller_signers": [],
+        "signature": "wZwX3vVyYgmMAjNAa2jFSYz1EYUixMiKbAu5t13XjMNk5hWB2oYHA53BWmpV69WYLkHAVsnEawA9JRddDno2AMH",
+        "slot": 455839735
+      },
+      {
+        "base_delta_raw": 407478444,
+        "block_time": 1791762918,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -62099,
+        "quote_post_lamports": 34533639109,
+        "quote_pre_lamports": 34533701208,
+        "seller_owners": [
+          "HrLzB8CiQnWCnLtzKrSHSjU6PisSU4FzAkMUeZbCK4ja"
+        ],
+        "seller_signers": [
+          "HrLzB8CiQnWCnLtzKrSHSjU6PisSU4FzAkMUeZbCK4ja"
+        ],
+        "signature": "wpZjZEu5Ef19v2xcBQ13y5iDcXHgNbV4iDpA9YZbRTM7GiStNkk1vRjW9UPZVRsHYRxyW3rLtZEv5tXagT1w3NB",
+        "slot": 455839741
+      },
+      {
+        "base_delta_raw": 650434535760,
+        "block_time": 1791762923,
+        "instructions": [
+          "Sell",
+          "GetFeesWithQuoteMint",
+          "TransferChecked"
+        ],
+        "quote_delta_lamports": -79978759,
+        "quote_post_lamports": 29214277655,
+        "quote_pre_lamports": 29294256414,
+        "seller_owners": [
+          "fQbffcEYd6KG2XNT7X7iE6us6g7spgBYVGo59qcxCrm"
+        ],
+        "seller_signers": [
+          "fQbffcEYd6KG2XNT7X7iE6us6g7spgBYVGo59qcxCrm"
+        ],
+        "signature": "x4Midy98oGmd989Cv7hKBADtiumyQYuWAokhdxWgb8V9QVg3jgtjcpPJdaonVXmvAicVjnHUb1WoJqSsAUY4Y1k",
+        "slot": 455839764
+      }
+    ],
+    "withdraw_instruction_seen": false
+  },
+  "known_wallet_match": {
+    "all_selected_seller_count": 77,
+    "all_selected_sellers_matching_cfiyy_bounded_funding_sample": [],
+    "all_selected_sellers_matching_cvy_rapid_burst": [],
+    "all_selected_sellers_matching_cvy_top_repeat20_four": [],
+    "all_selected_sellers_matching_prior_77axs_repeat_sellers": [],
+    "all_selected_sellers_matching_root_reported_cross_case_funded_wallets": [],
+    "all_selected_sellers_matching_third_manifest_wallets": [
+      "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc"
+    ],
+    "cfiyy_bounded_wallet_scope_size": 14,
+    "incident_seller_count": 45,
+    "incident_sellers_matching_third_manifest_wallets": [
+      "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc"
+    ],
+    "pregraduation_curve_receipt_comparison": {
+      "frozen_curve_event_count": 308,
+      "frozen_curve_user_count": 200,
+      "incident_seller_count": 45,
+      "incident_sellers_in_frozen_curve_user_set": 18,
+      "scope": "owner membership/observed receipts from the frozen local curve file; absence is not proof of no prior tokens or outside transfer",
+      "top_five_incident_seller_curve_provenance": [
+        {
+          "amm_sell_matches_curve_net_raw": false,
+          "amm_tokens_sold": 18956844.599132,
+          "curve_buy_count": 0,
+          "curve_buy_tokens": null,
+          "curve_net_at_frozen_cutoff_tokens": null,
+          "curve_net_minus_amm_sold_raw": null,
+          "curve_observed": false,
+          "curve_sell_count": 0,
+          "curve_sell_tokens": null,
+          "owner": "EN8iDPcGucFT6NffNZD8n9XwfnnbQ5CDx6ekoC4yWyqE"
+        },
+        {
+          "amm_sell_matches_curve_net_raw": false,
+          "amm_tokens_sold": 14869590.237506,
+          "curve_buy_count": 0,
+          "curve_buy_tokens": null,
+          "curve_net_at_frozen_cutoff_tokens": null,
+          "curve_net_minus_amm_sold_raw": null,
+          "curve_observed": false,
+          "curve_sell_count": 0,
+          "curve_sell_tokens": null,
+          "owner": "CGr5CYVv6tG3XQ2sWHzr7a5q55LR9GuAq2eoMzD64ctd"
+        },
+        {
+          "amm_sell_matches_curve_net_raw": false,
+          "amm_tokens_sold": 10467768.22781,
+          "curve_buy_count": 0,
+          "curve_buy_tokens": null,
+          "curve_net_at_frozen_cutoff_tokens": null,
+          "curve_net_minus_amm_sold_raw": null,
+          "curve_observed": false,
+          "curve_sell_count": 0,
+          "curve_sell_tokens": null,
+          "owner": "9p7aE9fXaEXijLjJYej5HZfJXAo6ZcFTrygngEq243vk"
+        },
+        {
+          "amm_sell_matches_curve_net_raw": true,
+          "amm_tokens_sold": 6716005.817303,
+          "curve_buy_count": 1,
+          "curve_buy_tokens": 6716005.817303,
+          "curve_net_at_frozen_cutoff_tokens": 6716005.817303,
+          "curve_net_minus_amm_sold_raw": 0,
+          "curve_observed": true,
+          "curve_sell_count": 0,
+          "curve_sell_tokens": 0.0,
+          "owner": "5hfPL9MphVk8d9FZhD7rXfRywq6FggHQfRqaeFjiWi3n"
+        },
+        {
+          "amm_sell_matches_curve_net_raw": false,
+          "amm_tokens_sold": 11307071.330753,
+          "curve_buy_count": 6,
+          "curve_buy_tokens": 11307171.330753,
+          "curve_net_at_frozen_cutoff_tokens": 11307171.330753,
+          "curve_net_minus_amm_sold_raw": 100000000,
+          "curve_observed": true,
+          "curve_sell_count": 0,
+          "curve_sell_tokens": 0.0,
+          "owner": "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc"
+        }
+      ]
+    },
+    "warning": "address overlap is not proof of common ownership; Cfiyy comparison is limited to the selected manifest wallets and recipients/sources in its bounded transfer sample"
+  },
+  "largest_absolute_sequential_quote_drop": {
+    "decline_pct": 32.68445131138697,
+    "from_quote_sol": 66.355928418,
+    "from_utc": "2026-10-11T23:55:17.557Z",
+    "observer_elapsed_ms": 761,
+    "to_quote_sol": 44.667857302,
+    "to_utc": "2026-10-11T23:55:18.318Z"
+  },
+  "largest_sequential_observed_quote_drop": {
+    "decline_pct": 32.68445131138697,
+    "from_base_tokens": 210976907.354239,
+    "from_quote_sol": 66.355928418,
+    "from_slot": 455839733,
+    "from_utc": "2026-10-11T23:55:17.557Z",
+    "from_virtual_quote_sol": 17.365710536,
+    "observer_elapsed_ms": 761,
+    "to_base_tokens": 284774178.349989,
+    "to_quote_sol": 44.667857302,
+    "to_slot": 455839737,
+    "to_utc": "2026-10-11T23:55:18.318Z",
+    "to_virtual_quote_sol": 17.361945708
+  },
+  "limits": [
+    "The 124-snapshot local series measures observer arrival time, not exact transaction-to-transaction elapsed execution time.",
+    "Pool signature history hit the two-page cap and does not reach the AMM opening; it covers the successful activity in the observed reserve-break window.",
+    "Transaction bodies are bounded; two selected bodies remain unavailable, one inside the steep sampled-reserve-break second and one later. A third previously missing body was recovered by the one targeted Alchemy retry.",
+    "The confirmed/finalized account sample is a later point in time than the frozen post-exit series and is not an estimate of stop execution quality.",
+    "No market-cap USD conversion or profitability/PnL estimate is made."
+  ],
+  "rpc_signature_coverage": {
+    "failed_signatures": 1881,
+    "fetched_at_utc": "2026-10-11T23:57:33.247375+00:00",
+    "history_exhausted": false,
+    "newest_signature_time_utc": "2026-10-11T23:57:24Z",
+    "oldest_signature_time_utc": "2026-10-11T23:55:17Z",
+    "page_cap": 2,
+    "pages_returned": [
+      1000,
+      1000
+    ],
+    "returned_bodies": 117,
+    "selected_success_bodies": 119,
+    "success_signatures": 119,
+    "unique_signatures": 2000,
+    "unresolved_bodies": [
+      {
+        "blockTime": 1791762917,
+        "error": "primary/fallback failure: HTTPError",
+        "signature": "2kC1wVmRyVX75CdFUCBDQV9dVXaNYa9PRLxwc7rpq2hzKmEArig7ocxnzhXREf5TBM7bxRJ7o8VU61ZcJx5g3pNp",
+        "slot": 455839735,
+        "targeted_alchemy_retry_error": "getTransaction HTTP 429"
+      },
+      {
+        "blockTime": 1791762933,
+        "error": "primary/fallback failure: HTTPError",
+        "signature": "5peCP8VgwMsFS2p5jFHK81gC55GEyfELvn9mUFou3SiDyVEMaCfCyZkthsocHK4exKytwMEjY7KVogADWtvjm5jQ",
+        "slot": 455839810
+      }
+    ]
+  },
+  "sample_peak_to_trough": {
+    "decline_pct": 61.67257405822838,
+    "last_quote_sol": 31.912606857,
+    "last_utc": "2026-10-11T23:56:13.559Z",
+    "peak_quote_sol": 79.483569033,
+    "peak_utc": "2026-10-11T23:54:55.341Z",
+    "trough_quote_sol": 30.464006057,
+    "trough_utc": "2026-10-11T23:55:30.542Z"
+  },
+  "target": {
+    "base_vault": "CXa9yFKacD14aorShxWcL1x7MwGhBG18K6KtQN9nVWge",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "pool": "7LAx8jrRB5zXgeH69RXs2FwXjmoXzTUXwfUU1fPrHbpc",
+    "quote_vault": "DLx6wfCAdH2t9WJ7oUcxYo4A1yFP6Lfh5DmGpbwKU57y"
+  },
+  "withdrawal_and_fee_sweep_checks": {
+    "fee_sweep_instruction_transactions": [
+      {
+        "base_delta_tokens": null,
+        "block_time_utc": "2026-10-11T23:57:24Z",
+        "instructions": [
+          "SweepProtocolFee",
+          "SweepCreatorFee",
+          "SweepProtocolFee",
+          "SweepCreatorFee",
+          "SweepProtocolFee",
+          "SweepCreatorFee",
+          "SweepProtocolFee"
+        ],
+        "quote_delta_sol": -0.237423097,
+        "signature": "2G4VHv6AeA82zJiipQzT4ht8FkeWW6adJCjLT6kuS1P93H9xjFjvwdPUxDRq6PyYkXFsPoHMKVQuLD42LcyjCyjF",
+        "slot": 455840320
+      }
+    ],
+    "note": "Fee-sweep instructions are recorded separately from a PumpSwap liquidity withdrawal; no withdrawal instruction was logged in the recovered body set.",
+    "withdraw_instruction_count_in_recovered_pool_transactions": 0,
+    "withdraw_instructions": []
+  }
+}

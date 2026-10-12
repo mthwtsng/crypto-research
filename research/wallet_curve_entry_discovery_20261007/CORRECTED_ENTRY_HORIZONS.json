@@ -1,0 +1,1046 @@
+{
+  "scope": "Entry-only fixed-source-intent curve liquidation quote diagnostics. No exit delivery, actual liquidation, AMM carryover, funded ledger or profitability claim. Coverage-censored means are not all-attempt returns. Integer-second deadline boundary remains a timing sensitivity.",
+  "rows": [
+    {
+      "scenario": "central80",
+      "rule": "broad_recovery",
+      "horizon_seconds": 10,
+      "attempts": 40,
+      "covered_quotes": 33,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.07650324515151515,
+      "median_quote_return": -0.027004742,
+      "positive_fraction": 0.36363636363636365
+    },
+    {
+      "scenario": "central80",
+      "rule": "broad_recovery",
+      "horizon_seconds": 30,
+      "attempts": 40,
+      "covered_quotes": 33,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.07370088357575758,
+      "median_quote_return": -0.037092658,
+      "positive_fraction": 0.3939393939393939
+    },
+    {
+      "scenario": "central80",
+      "rule": "broad_recovery",
+      "horizon_seconds": 60,
+      "attempts": 40,
+      "covered_quotes": 32,
+      "censored": {
+        "failed_entry": 7,
+        "completion_or_coverage_censored": 1
+      },
+      "mean_quote_return": -0.06319262125,
+      "median_quote_return": -0.091816932,
+      "positive_fraction": 0.40625
+    },
+    {
+      "scenario": "central80",
+      "rule": "broad_recovery",
+      "horizon_seconds": 180,
+      "attempts": 40,
+      "covered_quotes": 31,
+      "censored": {
+        "completion_or_coverage_censored": 2,
+        "failed_entry": 7
+      },
+      "mean_quote_return": 0.11385376587096774,
+      "median_quote_return": -0.079425308,
+      "positive_fraction": 0.3870967741935484
+    },
+    {
+      "scenario": "central80",
+      "rule": "broad_recovery",
+      "horizon_seconds": 600,
+      "attempts": 40,
+      "covered_quotes": 2,
+      "censored": {
+        "completion_or_coverage_censored": 31,
+        "failed_entry": 7
+      },
+      "mean_quote_return": 0.12344585999999999,
+      "median_quote_return": 0.12344585999999999,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "central80",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 10,
+      "attempts": 46,
+      "covered_quotes": 43,
+      "censored": {
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.06690625437209302,
+      "median_quote_return": -0.05761694,
+      "positive_fraction": 0.3488372093023256
+    },
+    {
+      "scenario": "central80",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 30,
+      "attempts": 46,
+      "covered_quotes": 43,
+      "censored": {
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.06449211990697674,
+      "median_quote_return": -0.08768568,
+      "positive_fraction": 0.37209302325581395
+    },
+    {
+      "scenario": "central80",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 60,
+      "attempts": 46,
+      "covered_quotes": 42,
+      "censored": {
+        "failed_entry": 3,
+        "completion_or_coverage_censored": 1
+      },
+      "mean_quote_return": -0.0058428507619047625,
+      "median_quote_return": -0.035724315,
+      "positive_fraction": 0.4523809523809524
+    },
+    {
+      "scenario": "central80",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 180,
+      "attempts": 46,
+      "covered_quotes": 39,
+      "censored": {
+        "completion_or_coverage_censored": 4,
+        "failed_entry": 3
+      },
+      "mean_quote_return": 0.18376622174358975,
+      "median_quote_return": -0.086510804,
+      "positive_fraction": 0.48717948717948717
+    },
+    {
+      "scenario": "central80",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 600,
+      "attempts": 46,
+      "covered_quotes": 4,
+      "censored": {
+        "completion_or_coverage_censored": 39,
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.07607561650000001,
+      "median_quote_return": -0.32936261499999997,
+      "positive_fraction": 0.25
+    },
+    {
+      "scenario": "central80",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 10,
+      "attempts": 27,
+      "covered_quotes": 22,
+      "censored": {
+        "failed_entry": 5
+      },
+      "mean_quote_return": -0.05544000172727273,
+      "median_quote_return": -0.026901551000000003,
+      "positive_fraction": 0.36363636363636365
+    },
+    {
+      "scenario": "central80",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 30,
+      "attempts": 27,
+      "covered_quotes": 22,
+      "censored": {
+        "failed_entry": 5
+      },
+      "mean_quote_return": -0.0858110820909091,
+      "median_quote_return": -0.025638104000000002,
+      "positive_fraction": 0.36363636363636365
+    },
+    {
+      "scenario": "central80",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 60,
+      "attempts": 27,
+      "covered_quotes": 22,
+      "censored": {
+        "failed_entry": 5
+      },
+      "mean_quote_return": -0.05056803609090909,
+      "median_quote_return": -0.002746205,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "central80",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 180,
+      "attempts": 27,
+      "covered_quotes": 20,
+      "censored": {
+        "failed_entry": 5,
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.1652256896,
+      "median_quote_return": 0.059159337,
+      "positive_fraction": 0.55
+    },
+    {
+      "scenario": "central80",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 600,
+      "attempts": 27,
+      "covered_quotes": 3,
+      "censored": {
+        "failed_entry": 5,
+        "completion_or_coverage_censored": 19
+      },
+      "mean_quote_return": 0.058783502000000015,
+      "median_quote_return": -0.00930108,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "central80",
+      "rule": "late_continuation",
+      "horizon_seconds": 10,
+      "attempts": 7,
+      "covered_quotes": 7,
+      "censored": {},
+      "mean_quote_return": -0.01962778542857143,
+      "median_quote_return": -0.019505316,
+      "positive_fraction": 0.42857142857142855
+    },
+    {
+      "scenario": "central80",
+      "rule": "late_continuation",
+      "horizon_seconds": 30,
+      "attempts": 7,
+      "covered_quotes": 5,
+      "censored": {
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.0037630168000000047,
+      "median_quote_return": 0.07413028,
+      "positive_fraction": 0.6
+    },
+    {
+      "scenario": "central80",
+      "rule": "late_continuation",
+      "horizon_seconds": 60,
+      "attempts": 7,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 4
+      },
+      "mean_quote_return": -0.09055341,
+      "median_quote_return": -0.0773411,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "central80",
+      "rule": "late_continuation",
+      "horizon_seconds": 180,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "central80",
+      "rule": "late_continuation",
+      "horizon_seconds": 600,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "central85",
+      "rule": "broad_recovery",
+      "horizon_seconds": 10,
+      "attempts": 40,
+      "covered_quotes": 33,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.07606873393939394,
+      "median_quote_return": -0.027004742,
+      "positive_fraction": 0.36363636363636365
+    },
+    {
+      "scenario": "central85",
+      "rule": "broad_recovery",
+      "horizon_seconds": 30,
+      "attempts": 40,
+      "covered_quotes": 33,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.07325439218181817,
+      "median_quote_return": -0.037092658,
+      "positive_fraction": 0.3939393939393939
+    },
+    {
+      "scenario": "central85",
+      "rule": "broad_recovery",
+      "horizon_seconds": 60,
+      "attempts": 40,
+      "covered_quotes": 32,
+      "censored": {
+        "failed_entry": 7,
+        "completion_or_coverage_censored": 1
+      },
+      "mean_quote_return": -0.062694648625,
+      "median_quote_return": -0.091816932,
+      "positive_fraction": 0.40625
+    },
+    {
+      "scenario": "central85",
+      "rule": "broad_recovery",
+      "horizon_seconds": 180,
+      "attempts": 40,
+      "covered_quotes": 31,
+      "censored": {
+        "completion_or_coverage_censored": 2,
+        "failed_entry": 7
+      },
+      "mean_quote_return": 0.11567105774193548,
+      "median_quote_return": -0.079425308,
+      "positive_fraction": 0.3870967741935484
+    },
+    {
+      "scenario": "central85",
+      "rule": "broad_recovery",
+      "horizon_seconds": 600,
+      "attempts": 40,
+      "covered_quotes": 2,
+      "censored": {
+        "completion_or_coverage_censored": 31,
+        "failed_entry": 7
+      },
+      "mean_quote_return": 0.12344585999999999,
+      "median_quote_return": 0.12344585999999999,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "central85",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 10,
+      "attempts": 46,
+      "covered_quotes": 43,
+      "censored": {
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.06354668595348838,
+      "median_quote_return": -0.05761694,
+      "positive_fraction": 0.3488372093023256
+    },
+    {
+      "scenario": "central85",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 30,
+      "attempts": 46,
+      "covered_quotes": 43,
+      "censored": {
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.06367071460465117,
+      "median_quote_return": -0.086828802,
+      "positive_fraction": 0.37209302325581395
+    },
+    {
+      "scenario": "central85",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 60,
+      "attempts": 46,
+      "covered_quotes": 42,
+      "censored": {
+        "completion_or_coverage_censored": 1,
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.004948279,
+      "median_quote_return": -0.029009199,
+      "positive_fraction": 0.4523809523809524
+    },
+    {
+      "scenario": "central85",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 180,
+      "attempts": 46,
+      "covered_quotes": 39,
+      "censored": {
+        "completion_or_coverage_censored": 4,
+        "failed_entry": 3
+      },
+      "mean_quote_return": 0.18397240046153845,
+      "median_quote_return": -0.086510804,
+      "positive_fraction": 0.48717948717948717
+    },
+    {
+      "scenario": "central85",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 600,
+      "attempts": 46,
+      "covered_quotes": 4,
+      "censored": {
+        "completion_or_coverage_censored": 39,
+        "failed_entry": 3
+      },
+      "mean_quote_return": -0.07607561650000001,
+      "median_quote_return": -0.32936261499999997,
+      "positive_fraction": 0.25
+    },
+    {
+      "scenario": "central85",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 10,
+      "attempts": 27,
+      "covered_quotes": 22,
+      "censored": {
+        "failed_entry": 5
+      },
+      "mean_quote_return": -0.05549961827272727,
+      "median_quote_return": -0.026901551000000003,
+      "positive_fraction": 0.36363636363636365
+    },
+    {
+      "scenario": "central85",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 30,
+      "attempts": 27,
+      "covered_quotes": 22,
+      "censored": {
+        "failed_entry": 5
+      },
+      "mean_quote_return": -0.08618664281818182,
+      "median_quote_return": -0.025638104000000002,
+      "positive_fraction": 0.36363636363636365
+    },
+    {
+      "scenario": "central85",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 60,
+      "attempts": 27,
+      "covered_quotes": 22,
+      "censored": {
+        "failed_entry": 5
+      },
+      "mean_quote_return": -0.05176040627272727,
+      "median_quote_return": -0.002746205,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "central85",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 180,
+      "attempts": 27,
+      "covered_quotes": 20,
+      "censored": {
+        "failed_entry": 5,
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.161825966,
+      "median_quote_return": 0.059159337,
+      "positive_fraction": 0.55
+    },
+    {
+      "scenario": "central85",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 600,
+      "attempts": 27,
+      "covered_quotes": 3,
+      "censored": {
+        "failed_entry": 5,
+        "completion_or_coverage_censored": 19
+      },
+      "mean_quote_return": 0.058783502000000015,
+      "median_quote_return": -0.00930108,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "central85",
+      "rule": "late_continuation",
+      "horizon_seconds": 10,
+      "attempts": 7,
+      "covered_quotes": 7,
+      "censored": {},
+      "mean_quote_return": -0.01962778542857143,
+      "median_quote_return": -0.019505316,
+      "positive_fraction": 0.42857142857142855
+    },
+    {
+      "scenario": "central85",
+      "rule": "late_continuation",
+      "horizon_seconds": 30,
+      "attempts": 7,
+      "covered_quotes": 5,
+      "censored": {
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.0037630168000000047,
+      "median_quote_return": 0.07413028,
+      "positive_fraction": 0.6
+    },
+    {
+      "scenario": "central85",
+      "rule": "late_continuation",
+      "horizon_seconds": 60,
+      "attempts": 7,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 4
+      },
+      "mean_quote_return": -0.09055341,
+      "median_quote_return": -0.0773411,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "central85",
+      "rule": "late_continuation",
+      "horizon_seconds": 180,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "central85",
+      "rule": "late_continuation",
+      "horizon_seconds": 600,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "fast",
+      "rule": "broad_recovery",
+      "horizon_seconds": 10,
+      "attempts": 40,
+      "covered_quotes": 40,
+      "censored": {},
+      "mean_quote_return": -0.0265430252,
+      "median_quote_return": -0.026139478,
+      "positive_fraction": 0.425
+    },
+    {
+      "scenario": "fast",
+      "rule": "broad_recovery",
+      "horizon_seconds": 30,
+      "attempts": 40,
+      "covered_quotes": 40,
+      "censored": {},
+      "mean_quote_return": -0.036039211700000004,
+      "median_quote_return": -0.024287612,
+      "positive_fraction": 0.45
+    },
+    {
+      "scenario": "fast",
+      "rule": "broad_recovery",
+      "horizon_seconds": 60,
+      "attempts": 40,
+      "covered_quotes": 39,
+      "censored": {
+        "completion_or_coverage_censored": 1
+      },
+      "mean_quote_return": -0.032093677333333334,
+      "median_quote_return": -0.083638866,
+      "positive_fraction": 0.4358974358974359
+    },
+    {
+      "scenario": "fast",
+      "rule": "broad_recovery",
+      "horizon_seconds": 180,
+      "attempts": 40,
+      "covered_quotes": 38,
+      "censored": {
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.1432377637368421,
+      "median_quote_return": -0.120763076,
+      "positive_fraction": 0.39473684210526316
+    },
+    {
+      "scenario": "fast",
+      "rule": "broad_recovery",
+      "horizon_seconds": 600,
+      "attempts": 40,
+      "covered_quotes": 2,
+      "censored": {
+        "completion_or_coverage_censored": 38
+      },
+      "mean_quote_return": 0.131452983,
+      "median_quote_return": 0.131452983,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "fast",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 10,
+      "attempts": 46,
+      "covered_quotes": 46,
+      "censored": {},
+      "mean_quote_return": -0.06810016582608695,
+      "median_quote_return": -0.055235021999999995,
+      "positive_fraction": 0.32608695652173914
+    },
+    {
+      "scenario": "fast",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 30,
+      "attempts": 46,
+      "covered_quotes": 46,
+      "censored": {},
+      "mean_quote_return": -0.07609412495652174,
+      "median_quote_return": -0.087257241,
+      "positive_fraction": 0.3695652173913043
+    },
+    {
+      "scenario": "fast",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 60,
+      "attempts": 46,
+      "covered_quotes": 45,
+      "censored": {
+        "completion_or_coverage_censored": 1
+      },
+      "mean_quote_return": 0.0022558956888888843,
+      "median_quote_return": -0.03623883,
+      "positive_fraction": 0.4444444444444444
+    },
+    {
+      "scenario": "fast",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 180,
+      "attempts": 46,
+      "covered_quotes": 42,
+      "censored": {
+        "completion_or_coverage_censored": 4
+      },
+      "mean_quote_return": 0.14905524623809524,
+      "median_quote_return": -0.089593117,
+      "positive_fraction": 0.47619047619047616
+    },
+    {
+      "scenario": "fast",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 600,
+      "attempts": 46,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 43
+      },
+      "mean_quote_return": 0.050602972666666655,
+      "median_quote_return": -0.259453292,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "fast",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 10,
+      "attempts": 27,
+      "covered_quotes": 27,
+      "censored": {},
+      "mean_quote_return": -0.03033895088888889,
+      "median_quote_return": -0.011999488,
+      "positive_fraction": 0.4074074074074074
+    },
+    {
+      "scenario": "fast",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 30,
+      "attempts": 27,
+      "covered_quotes": 27,
+      "censored": {},
+      "mean_quote_return": -0.028940539407407408,
+      "median_quote_return": 0.007767386,
+      "positive_fraction": 0.5185185185185185
+    },
+    {
+      "scenario": "fast",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 60,
+      "attempts": 27,
+      "covered_quotes": 27,
+      "censored": {},
+      "mean_quote_return": 0.021016396814814816,
+      "median_quote_return": 0.092097124,
+      "positive_fraction": 0.6296296296296297
+    },
+    {
+      "scenario": "fast",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 180,
+      "attempts": 27,
+      "covered_quotes": 25,
+      "censored": {
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.23878723664,
+      "median_quote_return": 0.172172952,
+      "positive_fraction": 0.64
+    },
+    {
+      "scenario": "fast",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 600,
+      "attempts": 27,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 24
+      },
+      "mean_quote_return": 0.058783502000000015,
+      "median_quote_return": -0.00930108,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "fast",
+      "rule": "late_continuation",
+      "horizon_seconds": 10,
+      "attempts": 7,
+      "covered_quotes": 7,
+      "censored": {},
+      "mean_quote_return": -0.01865119942857143,
+      "median_quote_return": -0.007930298,
+      "positive_fraction": 0.42857142857142855
+    },
+    {
+      "scenario": "fast",
+      "rule": "late_continuation",
+      "horizon_seconds": 30,
+      "attempts": 7,
+      "covered_quotes": 5,
+      "censored": {
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.007092054800000002,
+      "median_quote_return": 0.086806424,
+      "positive_fraction": 0.6
+    },
+    {
+      "scenario": "fast",
+      "rule": "late_continuation",
+      "horizon_seconds": 60,
+      "attempts": 7,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 4
+      },
+      "mean_quote_return": -0.082430998,
+      "median_quote_return": -0.07933768,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "fast",
+      "rule": "late_continuation",
+      "horizon_seconds": 180,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "fast",
+      "rule": "late_continuation",
+      "horizon_seconds": 600,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "slow",
+      "rule": "broad_recovery",
+      "horizon_seconds": 10,
+      "attempts": 40,
+      "covered_quotes": 26,
+      "censored": {
+        "failed_entry": 14
+      },
+      "mean_quote_return": -0.11493927669230769,
+      "median_quote_return": -0.079329864,
+      "positive_fraction": 0.19230769230769232
+    },
+    {
+      "scenario": "slow",
+      "rule": "broad_recovery",
+      "horizon_seconds": 30,
+      "attempts": 40,
+      "covered_quotes": 26,
+      "censored": {
+        "failed_entry": 14
+      },
+      "mean_quote_return": -0.11354052823076922,
+      "median_quote_return": -0.087228098,
+      "positive_fraction": 0.2692307692307692
+    },
+    {
+      "scenario": "slow",
+      "rule": "broad_recovery",
+      "horizon_seconds": 60,
+      "attempts": 40,
+      "covered_quotes": 25,
+      "censored": {
+        "failed_entry": 14,
+        "completion_or_coverage_censored": 1
+      },
+      "mean_quote_return": -0.10602672904,
+      "median_quote_return": -0.122695832,
+      "positive_fraction": 0.36
+    },
+    {
+      "scenario": "slow",
+      "rule": "broad_recovery",
+      "horizon_seconds": 180,
+      "attempts": 40,
+      "covered_quotes": 24,
+      "censored": {
+        "completion_or_coverage_censored": 2,
+        "failed_entry": 14
+      },
+      "mean_quote_return": 0.05830988383333333,
+      "median_quote_return": -0.030621642,
+      "positive_fraction": 0.375
+    },
+    {
+      "scenario": "slow",
+      "rule": "broad_recovery",
+      "horizon_seconds": 600,
+      "attempts": 40,
+      "covered_quotes": 2,
+      "censored": {
+        "completion_or_coverage_censored": 24,
+        "failed_entry": 14
+      },
+      "mean_quote_return": 0.11743678199999999,
+      "median_quote_return": 0.11743678199999999,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "slow",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 10,
+      "attempts": 46,
+      "covered_quotes": 37,
+      "censored": {
+        "failed_entry": 9
+      },
+      "mean_quote_return": -0.04136149286486487,
+      "median_quote_return": -0.05761694,
+      "positive_fraction": 0.35135135135135137
+    },
+    {
+      "scenario": "slow",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 30,
+      "attempts": 46,
+      "covered_quotes": 37,
+      "censored": {
+        "failed_entry": 9
+      },
+      "mean_quote_return": -0.02907218232432432,
+      "median_quote_return": -0.070152112,
+      "positive_fraction": 0.43243243243243246
+    },
+    {
+      "scenario": "slow",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 60,
+      "attempts": 46,
+      "covered_quotes": 37,
+      "censored": {
+        "failed_entry": 9
+      },
+      "mean_quote_return": 0.041118522648648646,
+      "median_quote_return": -0.021779568,
+      "positive_fraction": 0.4594594594594595
+    },
+    {
+      "scenario": "slow",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 180,
+      "attempts": 46,
+      "covered_quotes": 34,
+      "censored": {
+        "completion_or_coverage_censored": 3,
+        "failed_entry": 9
+      },
+      "mean_quote_return": 0.26738448511764706,
+      "median_quote_return": 0.203669037,
+      "positive_fraction": 0.5294117647058824
+    },
+    {
+      "scenario": "slow",
+      "rule": "fresh_expansion",
+      "horizon_seconds": 600,
+      "attempts": 46,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 34,
+        "failed_entry": 9
+      },
+      "mean_quote_return": 0.09953191533333333,
+      "median_quote_return": -0.256740898,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "slow",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 10,
+      "attempts": 27,
+      "covered_quotes": 20,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.0776938172,
+      "median_quote_return": -0.031976893,
+      "positive_fraction": 0.3
+    },
+    {
+      "scenario": "slow",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 30,
+      "attempts": 27,
+      "covered_quotes": 20,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.1078285524,
+      "median_quote_return": -0.038198194,
+      "positive_fraction": 0.35
+    },
+    {
+      "scenario": "slow",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 60,
+      "attempts": 27,
+      "covered_quotes": 20,
+      "censored": {
+        "failed_entry": 7
+      },
+      "mean_quote_return": -0.0503091558,
+      "median_quote_return": -0.007865622999999999,
+      "positive_fraction": 0.5
+    },
+    {
+      "scenario": "slow",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 180,
+      "attempts": 27,
+      "covered_quotes": 18,
+      "censored": {
+        "failed_entry": 7,
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.17973347666666667,
+      "median_quote_return": 0.050451758,
+      "positive_fraction": 0.5555555555555556
+    },
+    {
+      "scenario": "slow",
+      "rule": "quiet_absorption",
+      "horizon_seconds": 600,
+      "attempts": 27,
+      "covered_quotes": 3,
+      "censored": {
+        "failed_entry": 7,
+        "completion_or_coverage_censored": 17
+      },
+      "mean_quote_return": 0.057785092666666676,
+      "median_quote_return": -0.012296308,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "slow",
+      "rule": "late_continuation",
+      "horizon_seconds": 10,
+      "attempts": 7,
+      "covered_quotes": 7,
+      "censored": {},
+      "mean_quote_return": -0.017135985714285717,
+      "median_quote_return": 0.00308466,
+      "positive_fraction": 0.5714285714285714
+    },
+    {
+      "scenario": "slow",
+      "rule": "late_continuation",
+      "horizon_seconds": 30,
+      "attempts": 7,
+      "covered_quotes": 5,
+      "censored": {
+        "completion_or_coverage_censored": 2
+      },
+      "mean_quote_return": 0.0073257336,
+      "median_quote_return": 0.098869288,
+      "positive_fraction": 0.6
+    },
+    {
+      "scenario": "slow",
+      "rule": "late_continuation",
+      "horizon_seconds": 60,
+      "attempts": 7,
+      "covered_quotes": 3,
+      "censored": {
+        "completion_or_coverage_censored": 4
+      },
+      "mean_quote_return": -0.07847646400000001,
+      "median_quote_return": -0.0773411,
+      "positive_fraction": 0.3333333333333333
+    },
+    {
+      "scenario": "slow",
+      "rule": "late_continuation",
+      "horizon_seconds": 180,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    },
+    {
+      "scenario": "slow",
+      "rule": "late_continuation",
+      "horizon_seconds": 600,
+      "attempts": 7,
+      "covered_quotes": 0,
+      "censored": {
+        "completion_or_coverage_censored": 7
+      },
+      "mean_quote_return": null,
+      "median_quote_return": null,
+      "positive_fraction": null
+    }
+  ]
+}

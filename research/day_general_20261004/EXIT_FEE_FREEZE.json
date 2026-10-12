@@ -1,0 +1,7 @@
+{
+  "status": "frozen before any current-window PnL",
+  "primary": "Latest setup-context interpretation: dislocation/velocity/liquidity final short deadlines are urgent 0.001505SOL sells after1slot; mature45second final timer and staged takeprofits passive1slot/0.000010same-slot scenario or3slots/0.000505next-slot scenario; reactive trail urgent1slot. Buy0.001505, atomic guarded failure0.000505. These are fee/delivery assumptions, not new live fee or landing measurements.",
+  "sensitivity": "After primary, fixed historical-entry-mean buy/urgent fee0.002915606, same delays and passive costs, same frozen cohort. Also retain old passive short-timer interpretation as labeled full-timer sensitivity, not a separate optimized candidate.",
+  "reason": "User differentiated urgent sells from passive milestone exits; latest combined/rescue work clarified short deadlines require urgent routing. Preserve this distinction rather than inherit a low-fee delayed passive short close silently.",
+  "runner_objective": "Report all winner/loser contribution and funded outcomes; do not reject automatically for reliance on large wins. No hindsight loser or winner labels in entry/exit rules."
+}

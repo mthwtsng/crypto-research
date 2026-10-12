@@ -1,0 +1,1457 @@
+[
+  {
+    "mint": "5UC38iV4AJexEXMAH1VZZT9r9DXz1yxdqFfUcWbJWMVB",
+    "blocked_at_ms": 1791756448000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 9.660965621,
+    "max_reserve_after": 85.005359835,
+    "max_spot_ratio_after_first_receipt": 8.953674036236931,
+    "peak_at_ms": 1791757016019,
+    "last_reserve": 85.005359835,
+    "last_at_ms": 1791757016019,
+    "observations_after": 628
+  },
+  {
+    "mint": "p9CMs7VaWHHX1YjjcUMKufsAiVkq417XdVozGJTpump",
+    "blocked_at_ms": 1791756314000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 23.342082101,
+    "max_reserve_after": 85.005359507,
+    "max_spot_ratio_after_first_receipt": 4.648322284952823,
+    "peak_at_ms": 1791756342826,
+    "last_reserve": 85.005359507,
+    "last_at_ms": 1791756342826,
+    "observations_after": 382
+  },
+  {
+    "mint": "HUByYpRKf66A18Nm2x1P5brBYfvzNeVTLY8FwDXPpump",
+    "blocked_at_ms": 1791757261000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 84.009394276,
+    "max_reserve_after": 85.005359073,
+    "max_spot_ratio_after_first_receipt": 14.642362177714054,
+    "peak_at_ms": 1791757270265,
+    "last_reserve": 85.005359073,
+    "last_at_ms": 1791757270265,
+    "observations_after": 23
+  },
+  {
+    "mint": "373b6Nk7cdzPPtrskSrhZAxEeAHUcwBiD8rqrWAHpump",
+    "blocked_at_ms": 1791756561000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 78.944493965,
+    "max_reserve_after": 85.005359069,
+    "max_spot_ratio_after_first_receipt": 1.1143601793144962,
+    "peak_at_ms": 1791756574007,
+    "last_reserve": 85.005359069,
+    "last_at_ms": 1791756574007,
+    "observations_after": 10
+  },
+  {
+    "mint": "GbkCmbE5GssPCcaZRein8VHVDRpQYvWxEC5ReR38pump",
+    "blocked_at_ms": 1791757184000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.021367666,
+    "max_reserve_after": 81.885460178,
+    "max_spot_ratio_after_first_receipt": 5.9105549662068135,
+    "peak_at_ms": 1791757481859,
+    "last_reserve": 1.083479445,
+    "last_at_ms": 1791757520362,
+    "observations_after": 1049
+  },
+  {
+    "mint": "EzxoD6P9v92jpi7URJ1TNQdYw9vnVLwA3AK19WiQpump",
+    "blocked_at_ms": 1791756536000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 15.713728714,
+    "max_reserve_after": 78.026257291,
+    "max_spot_ratio_after_first_receipt": 5.58425656395973,
+    "peak_at_ms": 1791756837064,
+    "last_reserve": 0.447044385,
+    "last_at_ms": 1791757316229,
+    "observations_after": 1027
+  },
+  {
+    "mint": "5xSd95Df7g3274RahvehZcuRPsuoYu9ippdiMS6xpump",
+    "blocked_at_ms": 1791756656000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 68.481680421,
+    "max_reserve_after": 70.44355861,
+    "max_spot_ratio_after_first_receipt": 2.418137147066276,
+    "peak_at_ms": 1791756675528,
+    "last_reserve": 62.882089492,
+    "last_at_ms": 1791757530880,
+    "observations_after": 961
+  },
+  {
+    "mint": "9EdnCNcWoShNdzeyzd1vhUaDDVHNAzTpGN1k8cZcpump",
+    "blocked_at_ms": 1791756171000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 23.936619911,
+    "max_reserve_after": 67.573674605,
+    "max_spot_ratio_after_first_receipt": 3.140394641462735,
+    "peak_at_ms": 1791757406201,
+    "last_reserve": 63.866915452,
+    "last_at_ms": 1791757530537,
+    "observations_after": 1938
+  },
+  {
+    "mint": "3nLbfzGbjTGtLBp2PHZGVb7eAyZF2Yagzyodr8fUpump",
+    "blocked_at_ms": 1791756793000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 17.931884248,
+    "max_reserve_after": 53.621486894,
+    "max_spot_ratio_after_first_receipt": 3.043594314370118,
+    "peak_at_ms": 1791756824973,
+    "last_reserve": 0.128668682,
+    "last_at_ms": 1791757233016,
+    "observations_after": 874
+  },
+  {
+    "mint": "fBWPBPK8EbyTu5PNL4TEeJQud3pg2pNCjky5v5xpump",
+    "blocked_at_ms": 1791756590000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.327996599,
+    "max_reserve_after": 51.87082367,
+    "max_spot_ratio_after_first_receipt": 2.6442454963143622,
+    "peak_at_ms": 1791756791693,
+    "last_reserve": 2.559361381,
+    "last_at_ms": 1791757533183,
+    "observations_after": 1251
+  },
+  {
+    "mint": "7KTJhHTipxSWKQQrYi1xHNBV5X9LjNizwMGBaBVmpump",
+    "blocked_at_ms": 1791757258000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.460082769,
+    "max_reserve_after": 49.535643844,
+    "max_spot_ratio_after_first_receipt": 5.834130592700241,
+    "peak_at_ms": 1791757294084,
+    "last_reserve": 0.711950188,
+    "last_at_ms": 1791757528096,
+    "observations_after": 971
+  },
+  {
+    "mint": "9u7PxAfn79KBhdyQLTGhhZvZLJCYuPPJjY17h8u4pump",
+    "blocked_at_ms": 1791756117000,
+    "reasons": [
+      "8 of top 10 holders have <0.3 SOL holding 16.6% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 27.642216734,
+    "max_reserve_after": 41.752654272,
+    "max_spot_ratio_after_first_receipt": 1.5855862698975394,
+    "peak_at_ms": 1791756280260,
+    "last_reserve": 15.794268153,
+    "last_at_ms": 1791757506554,
+    "observations_after": 248
+  },
+  {
+    "mint": "8rWZf6RrTuwsAUrPwH3a6qRKMBYkU8DhXckdyysWpump",
+    "blocked_at_ms": 1791756106000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 39.622947241,
+    "max_reserve_after": 39.655888746,
+    "max_spot_ratio_after_first_receipt": 1.0034914542080071,
+    "peak_at_ms": 1791756229081,
+    "last_reserve": 0.140449455,
+    "last_at_ms": 1791756717214,
+    "observations_after": 22
+  },
+  {
+    "mint": "jkdXNzpcj9Ly59Gy9ZA2sYw2dsuB2NmiywP91cdpump",
+    "blocked_at_ms": 1791757002000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 17.216431905,
+    "max_reserve_after": 39.498476117,
+    "max_spot_ratio_after_first_receipt": 2.1665276358826158,
+    "peak_at_ms": 1791757099916,
+    "last_reserve": 0.007964901,
+    "last_at_ms": 1791757336410,
+    "observations_after": 393
+  },
+  {
+    "mint": "12qXoX5hYH2jGoeyfetfL1uQm4prDFq3FL2q5e7s2k2N",
+    "blocked_at_ms": 1791756183000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.121116591,
+    "max_reserve_after": 37.801531013,
+    "max_spot_ratio_after_first_receipt": 3.3286705885189063,
+    "peak_at_ms": 1791756265368,
+    "last_reserve": 0.001592959,
+    "last_at_ms": 1791757177374,
+    "observations_after": 395
+  },
+  {
+    "mint": "DtPNm812f66kzN62dyiPuhrGE6uDyG3mg7pdnGvcpump",
+    "blocked_at_ms": 1791756721000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.844871109,
+    "max_reserve_after": 36.870312648,
+    "max_spot_ratio_after_first_receipt": 2.037711056029721,
+    "peak_at_ms": 1791757002594,
+    "last_reserve": 13.066539676,
+    "last_at_ms": 1791757530224,
+    "observations_after": 2466
+  },
+  {
+    "mint": "9YBRAanQY9LCZoWsXMBH6L9B6AWNbiXaAs98Xyyfpump",
+    "blocked_at_ms": 1791756235000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 15.72044747,
+    "max_reserve_after": 36.441034414,
+    "max_spot_ratio_after_first_receipt": 2.1117953299620327,
+    "peak_at_ms": 1791756321330,
+    "last_reserve": 0.065812124,
+    "last_at_ms": 1791756701207,
+    "observations_after": 348
+  },
+  {
+    "mint": "GGbsQEzmjQ57ggmy5pMmignnQpodQ8UwKqVRGGXZpump",
+    "blocked_at_ms": 1791757236000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 26.897823154,
+    "max_reserve_after": 35.741177767,
+    "max_spot_ratio_after_first_receipt": 1.3350073545945318,
+    "peak_at_ms": 1791757237048,
+    "last_reserve": 0.000109089,
+    "last_at_ms": 1791757318547,
+    "observations_after": 390
+  },
+  {
+    "mint": "FBToJ7jauge99J25WTCgbE4Th49HZN7FMG2QKgJKpump",
+    "blocked_at_ms": 1791757443000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 23.812976307,
+    "max_reserve_after": 35.474688178,
+    "max_spot_ratio_after_first_receipt": 1.480378777526367,
+    "peak_at_ms": 1791757472133,
+    "last_reserve": 13.270789532,
+    "last_at_ms": 1791757533453,
+    "observations_after": 759
+  },
+  {
+    "mint": "9WXbpNRLMMC6s3LuJa3FN2CyLzfEGUWrjhcnQia5pump",
+    "blocked_at_ms": 1791757116000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 28.758274642,
+    "max_reserve_after": 32.101865599,
+    "max_spot_ratio_after_first_receipt": 1.1170464279670285,
+    "peak_at_ms": 1791757117325,
+    "last_reserve": 1.128089305,
+    "last_at_ms": 1791757234119,
+    "observations_after": 406
+  },
+  {
+    "mint": "9nkjGKF8V6dRUei1F4TCCfBRZMrArTi3wCaNdzRhpump",
+    "blocked_at_ms": 1791756505000,
+    "reasons": [
+      "Top-10 Cabal Holds > 35% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 17.256922567,
+    "max_reserve_after": 31.302989766,
+    "max_spot_ratio_after_first_receipt": 2.28896919509117,
+    "peak_at_ms": 1791756572931,
+    "last_reserve": 5.032765504,
+    "last_at_ms": 1791757527559,
+    "observations_after": 679
+  },
+  {
+    "mint": "FZF7QA5XarNsho4oTY7JAMSUniycxAYEMxVZskbZpump",
+    "blocked_at_ms": 1791757192000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 9.811377921,
+    "max_reserve_after": 31.293620779,
+    "max_spot_ratio_after_first_receipt": 2.2777564067697886,
+    "peak_at_ms": 1791757530205,
+    "last_reserve": 30.949900407,
+    "last_at_ms": 1791757532599,
+    "observations_after": 370
+  },
+  {
+    "mint": "8mWJ3Ey6QpBpYt7r52SAUxsyXMCriQsEvbkukXxjpump",
+    "blocked_at_ms": 1791757461000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 29.203568523,
+    "max_reserve_after": 30.057906477,
+    "max_spot_ratio_after_first_receipt": 3.131932513937599,
+    "peak_at_ms": 1791757461392,
+    "last_reserve": 6.118145792,
+    "last_at_ms": 1791757529597,
+    "observations_after": 123
+  },
+  {
+    "mint": "6R8HvdUA5otkdKLAy4SJSBWogRH1qYiCDRvQiTRKpump",
+    "blocked_at_ms": 1791757189000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.740088267,
+    "max_reserve_after": 29.443230713,
+    "max_spot_ratio_after_first_receipt": 1.6174309655404457,
+    "peak_at_ms": 1791757194028,
+    "last_reserve": 0.868464194,
+    "last_at_ms": 1791757424819,
+    "observations_after": 464
+  },
+  {
+    "mint": "9eMrj377cqRqr9nRddwWPsLPVmBJhUKxgp3aWhuapump",
+    "blocked_at_ms": 1791756977000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.072889123,
+    "max_reserve_after": 28.706581857,
+    "max_spot_ratio_after_first_receipt": 2.3964364338569357,
+    "peak_at_ms": 1791757053588,
+    "last_reserve": 0.003359006,
+    "last_at_ms": 1791757331110,
+    "observations_after": 264
+  },
+  {
+    "mint": "A1VNjtYD3Mfn7bopLNsK6YLChAUUNhaYY9N1tciGpump",
+    "blocked_at_ms": 1791756130000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.815218118,
+    "max_reserve_after": 28.467087815,
+    "max_spot_ratio_after_first_receipt": 1.8236686151849058,
+    "peak_at_ms": 1791756149831,
+    "last_reserve": 8.0599e-05,
+    "last_at_ms": 1791756200865,
+    "observations_after": 318
+  },
+  {
+    "mint": "9LtLQp2zoKwQzBRzgV7N7PUvixKhArWDNnG6dbzVpump",
+    "blocked_at_ms": 1791756064000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 19.996802589,
+    "max_reserve_after": 28.464948895,
+    "max_spot_ratio_after_first_receipt": 1.2966545265760783,
+    "peak_at_ms": 1791756065113,
+    "last_reserve": 1.67e-07,
+    "last_at_ms": 1791756271728,
+    "observations_after": 322
+  },
+  {
+    "mint": "27LEMKLUaZV3WE7c8n5SsB7HyC8FUnEj8dsFb7L2pump",
+    "blocked_at_ms": 1791757041000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 11.918414792,
+    "max_reserve_after": 28.135973327,
+    "max_spot_ratio_after_first_receipt": 2.012721233779713,
+    "peak_at_ms": 1791757193236,
+    "last_reserve": 0.183255782,
+    "last_at_ms": 1791757487645,
+    "observations_after": 934
+  },
+  {
+    "mint": "A92hoCbJQfLCudtYzTvnVyBNFah8f9RJzSqHsLMepump",
+    "blocked_at_ms": 1791756930000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 15.986221385,
+    "max_reserve_after": 28.12621786,
+    "max_spot_ratio_after_first_receipt": 1.597675880274765,
+    "peak_at_ms": 1791756961531,
+    "last_reserve": 0.091184799,
+    "last_at_ms": 1791757270142,
+    "observations_after": 114
+  },
+  {
+    "mint": "5qZDY5vS2mpzZgrJuv4sdPq1UoPf3NqrpJZKJmnxpump",
+    "blocked_at_ms": 1791756589000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 25.43176458,
+    "max_reserve_after": 27.413254371,
+    "max_spot_ratio_after_first_receipt": 1.1957004818004717,
+    "peak_at_ms": 1791756590649,
+    "last_reserve": 0.001971431,
+    "last_at_ms": 1791756711269,
+    "observations_after": 201
+  },
+  {
+    "mint": "A9zvGLz5WyMAB3D8cNyopohsBPws9o4gu87uBAThpump",
+    "blocked_at_ms": 1791757160000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 21.530791439,
+    "max_reserve_after": 27.065911641,
+    "max_spot_ratio_after_first_receipt": 1.1061758109910027,
+    "peak_at_ms": 1791757168668,
+    "last_reserve": 4.73264014,
+    "last_at_ms": 1791757516029,
+    "observations_after": 620
+  },
+  {
+    "mint": "EUg9p31YRKrrVv67ixFRrJKo5TWRLv5JhHsE1D1Qpump",
+    "blocked_at_ms": 1791757078000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.090258276,
+    "max_reserve_after": 26.980784241,
+    "max_spot_ratio_after_first_receipt": 2.677866533789642,
+    "peak_at_ms": 1791757255593,
+    "last_reserve": 17.355798402,
+    "last_at_ms": 1791757533348,
+    "observations_after": 304
+  },
+  {
+    "mint": "6wgKoZJY6j1zm9Yqju7YmQdP76CQci6e63y31T3apump",
+    "blocked_at_ms": 1791757309000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.965778972,
+    "max_reserve_after": 26.272352672,
+    "max_spot_ratio_after_first_receipt": 2.0855634972213024,
+    "peak_at_ms": 1791757499959,
+    "last_reserve": 21.025272975,
+    "last_at_ms": 1791757533040,
+    "observations_after": 592
+  },
+  {
+    "mint": "DPBMKjE3tfqJDsTxqV2b9RxMYW6zX6YEgdZ5eaZZpump",
+    "blocked_at_ms": 1791756280000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 17.740416678,
+    "max_reserve_after": 26.168952906,
+    "max_spot_ratio_after_first_receipt": 1.384268208869378,
+    "peak_at_ms": 1791756319490,
+    "last_reserve": 0.008021056,
+    "last_at_ms": 1791756610139,
+    "observations_after": 140
+  },
+  {
+    "mint": "1uwd5XTNYGK3yBACgZDxGnPtypBoKg22QqdiaQbpump",
+    "blocked_at_ms": 1791756443000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 14.679941771,
+    "max_reserve_after": 26.149698801,
+    "max_spot_ratio_after_first_receipt": 1.5793182894741624,
+    "peak_at_ms": 1791756446448,
+    "last_reserve": 5.7e-08,
+    "last_at_ms": 1791756605433,
+    "observations_after": 111
+  },
+  {
+    "mint": "7phZdrsCRErzbyYA9tg32WdBF62zorQfRfYPks4apump",
+    "blocked_at_ms": 1791756623000,
+    "reasons": [
+      "10 of top 10 holders have <0.3 SOL holding 18.1% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 12.122775554,
+    "max_reserve_after": 25.676332756,
+    "max_spot_ratio_after_first_receipt": 1.8952114359872905,
+    "peak_at_ms": 1791756767309,
+    "last_reserve": 1.437966393,
+    "last_at_ms": 1791757505604,
+    "observations_after": 266
+  },
+  {
+    "mint": "9XSLiivViJVkSbFHncDjxQbLFsNwHWuJfKVv2E2epump",
+    "blocked_at_ms": 1791757369000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 9.78270299,
+    "max_reserve_after": 25.218210894,
+    "max_spot_ratio_after_first_receipt": 1.9265313789602116,
+    "peak_at_ms": 1791757505038,
+    "last_reserve": 22.775087061,
+    "last_at_ms": 1791757530731,
+    "observations_after": 75
+  },
+  {
+    "mint": "4tvJ2EZAawYTFw84obX1ewozi7vUvBLe6oCwd8Bypump",
+    "blocked_at_ms": 1791756210000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 14.934918191,
+    "max_reserve_after": 25.196541243,
+    "max_spot_ratio_after_first_receipt": 1.4006691300320762,
+    "peak_at_ms": 1791756212420,
+    "last_reserve": 1.25e-07,
+    "last_at_ms": 1791756395817,
+    "observations_after": 197
+  },
+  {
+    "mint": "BNoatCqKjqkzNiooiDKeUZdZ39PzFGvNZ5GKj2RTpump",
+    "blocked_at_ms": 1791756171000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 15.669255409,
+    "max_reserve_after": 25.063017626,
+    "max_spot_ratio_after_first_receipt": 1.4547259521389437,
+    "peak_at_ms": 1791756198417,
+    "last_reserve": 4e-08,
+    "last_at_ms": 1791756588517,
+    "observations_after": 97
+  },
+  {
+    "mint": "3jR9V9SzStwVxCvXJoBG5wY1mMAbqf5qVnqk9LSTpump",
+    "blocked_at_ms": 1791756410000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 24.102159681,
+    "max_reserve_after": 24.143459642,
+    "max_spot_ratio_after_first_receipt": 1.0015273225622578,
+    "peak_at_ms": 1791756426775,
+    "last_reserve": 23.517987911,
+    "last_at_ms": 1791757215348,
+    "observations_after": 4
+  },
+  {
+    "mint": "3kWSQ1DW1rHLoQF87FRUHrSPDk34VyXFEPj5xVP4pump",
+    "blocked_at_ms": 1791756808000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 7.811545776,
+    "max_reserve_after": 23.883838201,
+    "max_spot_ratio_after_first_receipt": 2.1754395649203455,
+    "peak_at_ms": 1791757037079,
+    "last_reserve": 2.958057562,
+    "last_at_ms": 1791757512027,
+    "observations_after": 463
+  },
+  {
+    "mint": "9uHMvLrXt1oKqFFkQ1vL2YEaw5vMfiLmStBQHJX9pump",
+    "blocked_at_ms": 1791757433000,
+    "reasons": [
+      "10 of top 10 holders have <0.3 SOL holding 25.9% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 20.534260956,
+    "max_reserve_after": 23.779112781,
+    "max_spot_ratio_after_first_receipt": 1.1965825306924025,
+    "peak_at_ms": 1791757481866,
+    "last_reserve": 0.187107712,
+    "last_at_ms": 1791757509686,
+    "observations_after": 83
+  },
+  {
+    "mint": "9fYR2o98zWjzVxc9TiSo9KMaHu3iAoAxDXM4ejRfpump",
+    "blocked_at_ms": 1791757495000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.744516314,
+    "max_reserve_after": 23.753173958,
+    "max_spot_ratio_after_first_receipt": 1.3320709061763736,
+    "peak_at_ms": 1791757521291,
+    "last_reserve": 18.127930768,
+    "last_at_ms": 1791757533184,
+    "observations_after": 242
+  },
+  {
+    "mint": "9MVX95zu1j93XduZRQyf1hbn2Tb944oi2tjxaeiLpump",
+    "blocked_at_ms": 1791756302000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 18.708528594,
+    "max_reserve_after": 23.580647843,
+    "max_spot_ratio_after_first_receipt": 1.0051130871343956,
+    "peak_at_ms": 1791756302322,
+    "last_reserve": 1.24e-07,
+    "last_at_ms": 1791756428430,
+    "observations_after": 222
+  },
+  {
+    "mint": "E7CEKV75obVwpSsgPf6N89euNye5TTpt8EnKDbM9pump",
+    "blocked_at_ms": 1791756344000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 15.410397939,
+    "max_reserve_after": 23.417990682,
+    "max_spot_ratio_after_first_receipt": 1.3837718129249583,
+    "peak_at_ms": 1791756391060,
+    "last_reserve": 0.146040337,
+    "last_at_ms": 1791756620945,
+    "observations_after": 211
+  },
+  {
+    "mint": "CwRVQ71KemYcrAmJBmSdLe34BTh9wsbrPeD9WDgppump",
+    "blocked_at_ms": 1791757006000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 21.865568166,
+    "max_reserve_after": 22.3657777,
+    "max_spot_ratio_after_first_receipt": 1.0813459972579764,
+    "peak_at_ms": 1791757528447,
+    "last_reserve": 22.3657777,
+    "last_at_ms": 1791757528447,
+    "observations_after": 12
+  },
+  {
+    "mint": "3WWuFSW5ZHULkGxMjJE5YmKAnW2A5eTWHN1TEaQ9pump",
+    "blocked_at_ms": 1791757452000,
+    "reasons": [
+      "9 of top 10 holders have <0.3 SOL holding 19.4% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 17.065470794,
+    "max_reserve_after": 21.759498312,
+    "max_spot_ratio_after_first_receipt": 1.3127509647146087,
+    "peak_at_ms": 1791757487686,
+    "last_reserve": 21.759498312,
+    "last_at_ms": 1791757487686,
+    "observations_after": 12
+  },
+  {
+    "mint": "HhzV1Uta52irjqZgBhMd2DXfc5dLpA3Ne8V5oV7tpump",
+    "blocked_at_ms": 1791756795000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.467706468,
+    "max_reserve_after": 20.753929954,
+    "max_spot_ratio_after_first_receipt": 1.1389454563349253,
+    "peak_at_ms": 1791756795970,
+    "last_reserve": 0.001600616,
+    "last_at_ms": 1791757147596,
+    "observations_after": 58
+  },
+  {
+    "mint": "CeDZSvJs1qKkARnYh8fEsx5kFW9xqk84EZdmwd4Ppump",
+    "blocked_at_ms": 1791757312000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 14.242139702,
+    "max_reserve_after": 20.603318914,
+    "max_spot_ratio_after_first_receipt": 1.523855360403269,
+    "peak_at_ms": 1791757524364,
+    "last_reserve": 18.739555619,
+    "last_at_ms": 1791757532598,
+    "observations_after": 73
+  },
+  {
+    "mint": "9aj1arLve1ffQeEJ3eDRuTVSui8L3PNd5m5GFMH4pump",
+    "blocked_at_ms": 1791757413000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 13.007407402,
+    "max_reserve_after": 20.029726735,
+    "max_spot_ratio_after_first_receipt": 2.0504700400042317,
+    "peak_at_ms": 1791757417080,
+    "last_reserve": 1.432046892,
+    "last_at_ms": 1791757526643,
+    "observations_after": 98
+  },
+  {
+    "mint": "9jQWZgBhkztb4VKfHhn8wSK9RPMsWxxGVPc1CR1Gpump",
+    "blocked_at_ms": 1791756847000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 19.547154688,
+    "max_reserve_after": 19.594452715,
+    "max_spot_ratio_after_first_receipt": 1.0127101625306365,
+    "peak_at_ms": 1791757040815,
+    "last_reserve": 19.594452715,
+    "last_at_ms": 1791757040815,
+    "observations_after": 5
+  },
+  {
+    "mint": "3FdZ3fzu4nznGZxzr56vipYiC8B1iuWbCdJUU7dXpump",
+    "blocked_at_ms": 1791757346000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 12.141592573,
+    "max_reserve_after": 19.526658481,
+    "max_spot_ratio_after_first_receipt": 2.1855387766886625,
+    "peak_at_ms": 1791757395647,
+    "last_reserve": 2.024352024,
+    "last_at_ms": 1791757532018,
+    "observations_after": 412
+  },
+  {
+    "mint": "Bem6Wi1MZxmoVcFqqAngPK5SL61pq6Khdp8jFZVfpump",
+    "blocked_at_ms": 1791756935000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.158220795,
+    "max_reserve_after": 19.276151367,
+    "max_spot_ratio_after_first_receipt": 1.1812447312205796,
+    "peak_at_ms": 1791756937999,
+    "last_reserve": 13.176579971,
+    "last_at_ms": 1791757519081,
+    "observations_after": 125
+  },
+  {
+    "mint": "6n84CQGpwXKVqLjd3nWRAonbBQSF6Dtcm3kMALjQpump",
+    "blocked_at_ms": 1791757156000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.546983598,
+    "max_reserve_after": 18.342986903,
+    "max_spot_ratio_after_first_receipt": 1.572845853705108,
+    "peak_at_ms": 1791757168662,
+    "last_reserve": 1.01487722,
+    "last_at_ms": 1791757338786,
+    "observations_after": 126
+  },
+  {
+    "mint": "CkUgbPRVoGafAKXYsCjBTkrpHnm8nEwnrYmK1M6Fpump",
+    "blocked_at_ms": 1791757173000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 16.234588774,
+    "max_reserve_after": 17.84389752,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791757173133,
+    "last_reserve": 0.007630622,
+    "last_at_ms": 1791757512298,
+    "observations_after": 101
+  },
+  {
+    "mint": "7rP62P8hm2Xtkch2tiraCjK99GKu4y9vPmVrY8TRpump",
+    "blocked_at_ms": 1791756608000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.300643532,
+    "max_reserve_after": 17.267794638,
+    "max_spot_ratio_after_first_receipt": 2.326769028033138,
+    "peak_at_ms": 1791756619205,
+    "last_reserve": 8.395318528,
+    "last_at_ms": 1791757453088,
+    "observations_after": 336
+  },
+  {
+    "mint": "J1uuK1846LFMD5UoZ8VECUUSe35yxgFFTPpezUa7pump",
+    "blocked_at_ms": 1791756571000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 13.54726982,
+    "max_reserve_after": 16.497736306,
+    "max_spot_ratio_after_first_receipt": 1.140096876433367,
+    "peak_at_ms": 1791756576362,
+    "last_reserve": 0.00637961,
+    "last_at_ms": 1791757401266,
+    "observations_after": 139
+  },
+  {
+    "mint": "3ewDPf3etasGj7RUB4arBSDC5UFhd7YTgLmdCmQZbZ5H",
+    "blocked_at_ms": 1791756464000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 9.383674353,
+    "max_reserve_after": 15.368968226,
+    "max_spot_ratio_after_first_receipt": 1.3606926805822441,
+    "peak_at_ms": 1791756470373,
+    "last_reserve": 1.148955727,
+    "last_at_ms": 1791757078145,
+    "observations_after": 189
+  },
+  {
+    "mint": "9HTQo3BsNC2XfBPvTLJM4VQPcF2FYbU27TgFs8qPpump",
+    "blocked_at_ms": 1791756305000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 14.855970136,
+    "max_reserve_after": 15.123626978,
+    "max_spot_ratio_after_first_receipt": 1.0119696619493401,
+    "peak_at_ms": 1791756305859,
+    "last_reserve": 9.2e-08,
+    "last_at_ms": 1791757417071,
+    "observations_after": 164
+  },
+  {
+    "mint": "HgAVeqoqAihgus58SjS3GaV9NTjpVjGMT9zK5cCbpump",
+    "blocked_at_ms": 1791756250000,
+    "reasons": [
+      "Top-3 Cabal Holds > 18% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 15.018182883,
+    "max_reserve_after": 15.018182883,
+    "max_spot_ratio_after_first_receipt": 1.1583610448641857,
+    "peak_at_ms": 1791756250251,
+    "last_reserve": 1.162564963,
+    "last_at_ms": 1791757107448,
+    "observations_after": 119
+  },
+  {
+    "mint": "32K61Q3RARyahAfJrf9g6uHocFcCkoswkmcFhjEUpump",
+    "blocked_at_ms": 1791756706000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 13.912815438,
+    "max_reserve_after": 13.912815438,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791756706923,
+    "last_reserve": 0.325457491,
+    "last_at_ms": 1791756899773,
+    "observations_after": 118
+  },
+  {
+    "mint": "BY4McrGEAiVVHrBy4apDhvpZaLfP9hi2jn4b5fairare",
+    "blocked_at_ms": 1791756639000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 13.352022029,
+    "max_reserve_after": 13.588493974,
+    "max_spot_ratio_after_first_receipt": 1.4542526128965312,
+    "peak_at_ms": 1791756639354,
+    "last_reserve": 0.412889444,
+    "last_at_ms": 1791756755574,
+    "observations_after": 81
+  },
+  {
+    "mint": "6oG9iDVe48EprN3Lf3bwxL1M6ZF1qTECSTN6rYjLpump",
+    "blocked_at_ms": 1791756335000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.473782098,
+    "max_reserve_after": 13.358148476,
+    "max_spot_ratio_after_first_receipt": 1.4450471563707987,
+    "peak_at_ms": 1791756335611,
+    "last_reserve": 3.4e-08,
+    "last_at_ms": 1791756889593,
+    "observations_after": 44
+  },
+  {
+    "mint": "7weYj1Qqzyuop7tkSiGNJDg5mUGFS2VgehaY7ozYpump",
+    "blocked_at_ms": 1791756958000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.467963331,
+    "max_reserve_after": 13.356852218,
+    "max_spot_ratio_after_first_receipt": 1.270331600020871,
+    "peak_at_ms": 1791756958968,
+    "last_reserve": 2.191162223,
+    "last_at_ms": 1791757414701,
+    "observations_after": 145
+  },
+  {
+    "mint": "C6pDFucLefyTEVimneX7ayYHyPKS32cqqSEyWwBipump",
+    "blocked_at_ms": 1791757385000,
+    "reasons": [
+      "Top-10 Cabal Holds > 35% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 12.713725697,
+    "max_reserve_after": 12.713725697,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791757385008,
+    "last_reserve": 0.037272181,
+    "last_at_ms": 1791757503565,
+    "observations_after": 26
+  },
+  {
+    "mint": "7jtexSBn6rYUhmtUZjr2i3ySoWhu1KDEA7o9AnRwpump",
+    "blocked_at_ms": 1791756525000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 12.395061718,
+    "max_reserve_after": 12.628965339,
+    "max_spot_ratio_after_first_receipt": 1.7237255715752748,
+    "peak_at_ms": 1791756525664,
+    "last_reserve": 0.014284043,
+    "last_at_ms": 1791756796449,
+    "observations_after": 34
+  },
+  {
+    "mint": "FCSP8webUEY4LYyb8oxku4sExGh25khts46UvYLkpump",
+    "blocked_at_ms": 1791757531000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 5.203303867,
+    "max_reserve_after": 12.50108164,
+    "max_spot_ratio_after_first_receipt": 1.4575824041774148,
+    "peak_at_ms": 1791757532027,
+    "last_reserve": 7.794834031,
+    "last_at_ms": 1791757533515,
+    "observations_after": 16
+  },
+  {
+    "mint": "CZMFRXWg4tW2wiyN2esQSQafdWdoekrfUNEYnGEbpump",
+    "blocked_at_ms": 1791756324000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.485659027,
+    "max_reserve_after": 12.383646373,
+    "max_spot_ratio_after_first_receipt": 1.2128267829051271,
+    "peak_at_ms": 1791756331409,
+    "last_reserve": 8.6e-08,
+    "last_at_ms": 1791756456242,
+    "observations_after": 139
+  },
+  {
+    "mint": "J3QW5Eunuqy32bYCjiW6ueKa3heQ5sS5uE1QmBBSpump",
+    "blocked_at_ms": 1791756460000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 11.879553908,
+    "max_reserve_after": 12.193106591,
+    "max_spot_ratio_after_first_receipt": 1.0150300773380956,
+    "peak_at_ms": 1791756469520,
+    "last_reserve": 3.365522683,
+    "last_at_ms": 1791757380439,
+    "observations_after": 97
+  },
+  {
+    "mint": "4ynP3pRxXyW9vRrFNer7eybFwhKsypPBeA3iRRBapump",
+    "blocked_at_ms": 1791756088000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 12.076237515,
+    "max_reserve_after": 12.175002946,
+    "max_spot_ratio_after_first_receipt": 1.004700104013305,
+    "peak_at_ms": 1791756088071,
+    "last_reserve": 2.3e-08,
+    "last_at_ms": 1791756378888,
+    "observations_after": 14
+  },
+  {
+    "mint": "wa7drDpL26vKFQpAd1ZoBNwNRLeuWWbYvmPXZMfpump",
+    "blocked_at_ms": 1791756060000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 6.921278309,
+    "max_reserve_after": 12.114281163,
+    "max_spot_ratio_after_first_receipt": 1.3010839708561424,
+    "peak_at_ms": 1791756060809,
+    "last_reserve": 1.9e-08,
+    "last_at_ms": 1791756111324,
+    "observations_after": 14
+  },
+  {
+    "mint": "4XqNeVXyVa5ezRMCL8LsxsM5AFk71CHh9PVkSSTcpump",
+    "blocked_at_ms": 1791756790000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 12.003776224,
+    "max_reserve_after": 12.076220001,
+    "max_spot_ratio_after_first_receipt": 1.106404285238712,
+    "peak_at_ms": 1791756790197,
+    "last_reserve": 1.236150969,
+    "last_at_ms": 1791757149984,
+    "observations_after": 63
+  },
+  {
+    "mint": "HV2RrhpexjM4xD85Mmn5d4iAPDczziDmyoLrikHdpump",
+    "blocked_at_ms": 1791757304000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.582716038,
+    "max_reserve_after": 12.064197518,
+    "max_spot_ratio_after_first_receipt": 1.1714555295618185,
+    "peak_at_ms": 1791757304245,
+    "last_reserve": 2.5e-08,
+    "last_at_ms": 1791757524481,
+    "observations_after": 32
+  },
+  {
+    "mint": "61dsTkxYQ2DwsKHvB2sBejgbmFL8sVF2tttMZo54pump",
+    "blocked_at_ms": 1791757277000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.922226623,
+    "max_reserve_after": 11.317046423,
+    "max_spot_ratio_after_first_receipt": 1.6951899985179748,
+    "peak_at_ms": 1791757277517,
+    "last_reserve": 1.595398916,
+    "last_at_ms": 1791757484832,
+    "observations_after": 132
+  },
+  {
+    "mint": "29byz67jYR43qNyAcaWzkAkrLwkF2cPer2YfdK32pump",
+    "blocked_at_ms": 1791756348000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.99113099,
+    "max_reserve_after": 11.165772924,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791756348421,
+    "last_reserve": 0.013813288,
+    "last_at_ms": 1791756975187,
+    "observations_after": 37
+  },
+  {
+    "mint": "4kwwNCZM39DQxtETZFQV1zHqpEYhbBYXCPmd5mVNxGPq",
+    "blocked_at_ms": 1791756403000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.90651972,
+    "max_reserve_after": 10.587605777,
+    "max_spot_ratio_after_first_receipt": 1.0882836365816415,
+    "peak_at_ms": 1791756407018,
+    "last_reserve": 1.6e-08,
+    "last_at_ms": 1791756418492,
+    "observations_after": 22
+  },
+  {
+    "mint": "6RysXiK2jaQwyLUN7jLQfmcB6Vh6xaYUY4CCYUM6pump",
+    "blocked_at_ms": 1791756050000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.853587417,
+    "max_reserve_after": 10.499380382,
+    "max_spot_ratio_after_first_receipt": 1.0865119550625166,
+    "peak_at_ms": 1791756050188,
+    "last_reserve": 1.6e-08,
+    "last_at_ms": 1791756505646,
+    "observations_after": 18
+  },
+  {
+    "mint": "6jWnCmtLahfBzyanNYPVkpmFmTPLmVxePyxpTS4opump",
+    "blocked_at_ms": 1791756644000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.861132182,
+    "max_reserve_after": 10.471774868,
+    "max_spot_ratio_after_first_receipt": 1.0846099959453914,
+    "peak_at_ms": 1791756650723,
+    "last_reserve": 0.085514405,
+    "last_at_ms": 1791756980957,
+    "observations_after": 122
+  },
+  {
+    "mint": "4R4HuCdobADFcNQDcRBnwT8zVSabAR8rjiLKwpwYpump",
+    "blocked_at_ms": 1791756276000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.065505346,
+    "max_reserve_after": 10.179320991,
+    "max_spot_ratio_after_first_receipt": 1.6657335141695297,
+    "peak_at_ms": 1791756276811,
+    "last_reserve": 2.9e-08,
+    "last_at_ms": 1791756639044,
+    "observations_after": 40
+  },
+  {
+    "mint": "AvETunrwQPijMVic789DA6EEALevgnBiBgJ5Nj5FiAxR",
+    "blocked_at_ms": 1791756162000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 9.369931899,
+    "max_reserve_after": 10.053529042,
+    "max_spot_ratio_after_first_receipt": 1.035028353006137,
+    "peak_at_ms": 1791756167879,
+    "last_reserve": 5.3e-08,
+    "last_at_ms": 1791756237442,
+    "observations_after": 48
+  },
+  {
+    "mint": "3oy33gk5wQJcBoKY2ZuxZgnLYn1fFL3GrFVLYE5dpump",
+    "blocked_at_ms": 1791756671000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 10.0490787,
+    "max_reserve_after": 10.0490787,
+    "max_spot_ratio_after_first_receipt": 1.059518919488064,
+    "peak_at_ms": 1791756671726,
+    "last_reserve": 0.00721867,
+    "last_at_ms": 1791757102414,
+    "observations_after": 91
+  },
+  {
+    "mint": "CQaeovsV3RXcJeKrhfrXJVXrDxU2cjbpYgZf2WQqpump",
+    "blocked_at_ms": 1791757419000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 9.35656212,
+    "max_reserve_after": 9.35656212,
+    "max_spot_ratio_after_first_receipt": 1.2283006507234027,
+    "peak_at_ms": 1791757419744,
+    "last_reserve": 3.991556392,
+    "last_at_ms": 1791757505919,
+    "observations_after": 69
+  },
+  {
+    "mint": "mAMv6VPAcZRBFmVBZSH3XdWn7196fMerAEUHpW7pump",
+    "blocked_at_ms": 1791757003000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.586473906,
+    "max_reserve_after": 8.803757856,
+    "max_spot_ratio_after_first_receipt": 1.0859578709164388,
+    "peak_at_ms": 1791757003344,
+    "last_reserve": 0.00845481,
+    "last_at_ms": 1791757313209,
+    "observations_after": 25
+  },
+  {
+    "mint": "4bKQefmgnC9zMxGE9VbDgsWw1sbHMPbFH6Thigvypump",
+    "blocked_at_ms": 1791757229000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 8.032692419,
+    "max_reserve_after": 8.348905551,
+    "max_spot_ratio_after_first_receipt": 1.0166976166400628,
+    "peak_at_ms": 1791757248186,
+    "last_reserve": 6.1e-08,
+    "last_at_ms": 1791757454771,
+    "observations_after": 77
+  },
+  {
+    "mint": "8FTAvcbpFpexoq8eFpdWXWY9nDZtHiWUTViQqyrTpump",
+    "blocked_at_ms": 1791756621000,
+    "reasons": [
+      "9 of top 10 holders have <0.3 SOL holding 7.3% of total supply (>= 8 of 10 threshold); unresolved records: Could not resolve token-account owner for CMzppNmUqgz3EaS5xkP1nacPkvC75P9LzBaDVoaUcef8 | Could not resolve token-account owner for 7m1NF2VPgJtwQ3Z6kHNFBxtXtEAmC7aYgZGXGkguazyL | Could not resolve token-account owner for FLDfkUqskw91mkaFULy8QnV2hVDFDcQtsJyHw8ZXrGnD"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 6.37968863,
+    "max_reserve_after": 8.071368864,
+    "max_spot_ratio_after_first_receipt": 1.1781645266794782,
+    "peak_at_ms": 1791756621495,
+    "last_reserve": 4.8e-08,
+    "last_at_ms": 1791756762934,
+    "observations_after": 44
+  },
+  {
+    "mint": "GgcbPD9W9o8p2gP3nVMMvDDsR91mWgsj6Y16t5RMLawS",
+    "blocked_at_ms": 1791756546000,
+    "reasons": [
+      "Block-0 Jito Bundle (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 7.803046791,
+    "max_reserve_after": 7.803046791,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791756546983,
+    "last_reserve": 1.2e-08,
+    "last_at_ms": 1791756571303,
+    "observations_after": 12
+  },
+  {
+    "mint": "AgXpXmNKrT7mC9whcB5mfFVxZoddWvhBrpkP9jSDpump",
+    "blocked_at_ms": 1791757437000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 4.156392123,
+    "max_reserve_after": 6.843266664,
+    "max_spot_ratio_after_first_receipt": 1.1635157787796522,
+    "peak_at_ms": 1791757521031,
+    "last_reserve": 6.225241368,
+    "last_at_ms": 1791757532124,
+    "observations_after": 27
+  },
+  {
+    "mint": "BoURm6frRHLvEbpU96kGjHX65NEyUtcsag8Lw9tWpump",
+    "blocked_at_ms": 1791756694000,
+    "reasons": [
+      "9 of top 10 holders have <0.3 SOL holding 8.3% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 6.437504332,
+    "max_reserve_after": 6.394924356,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791756694380,
+    "last_reserve": 3.266932623,
+    "last_at_ms": 1791757437632,
+    "observations_after": 40
+  },
+  {
+    "mint": "59PNgVVunuwLjPkHxMQNZqrghiNkxJNP5Kstr6v7pump",
+    "blocked_at_ms": 1791756894000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 1.221937811,
+    "max_reserve_after": 5.143057785,
+    "max_spot_ratio_after_first_receipt": 1.26320262606295,
+    "peak_at_ms": 1791756965638,
+    "last_reserve": 0.112086404,
+    "last_at_ms": 1791757258227,
+    "observations_after": 52
+  },
+  {
+    "mint": "EkQV57xD9kW5i84TBEs5vLhPkQZZecrEYtVTowxnpump",
+    "blocked_at_ms": 1791756203000,
+    "reasons": [
+      "Single Whale Holds > 7.5% Supply"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 3.387617894,
+    "max_reserve_after": 4.911142807,
+    "max_spot_ratio_after_first_receipt": 1.0933450973906276,
+    "peak_at_ms": 1791756258866,
+    "last_reserve": 0.051470535,
+    "last_at_ms": 1791757238582,
+    "observations_after": 37
+  },
+  {
+    "mint": "3ZW2ezugvdX6h4NEbHUh8M7teB3PrzgMSZfRXumGpump",
+    "blocked_at_ms": 1791757248000,
+    "reasons": [
+      "9 of top 10 holders have <0.3 SOL holding 9.1% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 3.993043507,
+    "max_reserve_after": 4.776253381,
+    "max_spot_ratio_after_first_receipt": 1.046611452576099,
+    "peak_at_ms": 1791757256689,
+    "last_reserve": 0.757767656,
+    "last_at_ms": 1791757411357,
+    "observations_after": 15
+  },
+  {
+    "mint": "Hjw5rh9o95tyzPFHWYngFofegLh2GN3uT4LimcgQpump",
+    "blocked_at_ms": 1791756504000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 1.459044224,
+    "max_reserve_after": 3.630761047,
+    "max_spot_ratio_after_first_receipt": 1.1428318691377017,
+    "peak_at_ms": 1791756566194,
+    "last_reserve": 0.008630871,
+    "last_at_ms": 1791756757978,
+    "observations_after": 29
+  },
+  {
+    "mint": "FVbSUoB1cojR1xW2q1manAWfyWmwbsc15sHsUHtdpump",
+    "blocked_at_ms": 1791756113000,
+    "reasons": [
+      "Single low-SOL (<0.3 SOL) wallet holds >= 7.0% of total supply"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 1.473793006,
+    "max_reserve_after": 3.025962558,
+    "max_spot_ratio_after_first_receipt": 1.1010645995879509,
+    "peak_at_ms": 1791756134036,
+    "last_reserve": 0.038217254,
+    "last_at_ms": 1791756319359,
+    "observations_after": 24
+  },
+  {
+    "mint": "Ch5k5shwVTebDZAx5pp9mppWwVk4KnMtEkUobtqMpump",
+    "blocked_at_ms": 1791756708000,
+    "reasons": [
+      "8 of top 10 holders have <0.3 SOL holding 12.3% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 2.249975015,
+    "max_reserve_after": 2.776239951,
+    "max_spot_ratio_after_first_receipt": 1.0242284972768538,
+    "peak_at_ms": 1791756746448,
+    "last_reserve": 0.123806729,
+    "last_at_ms": 1791757480256,
+    "observations_after": 40
+  },
+  {
+    "mint": "2QND2BgPqJDLvht8AjfTbxxi5fmQhSbGhnaJCTJEpump",
+    "blocked_at_ms": 1791756886000,
+    "reasons": [
+      "9 of top 10 holders have <0.3 SOL holding 6.1% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 2.513842113,
+    "max_reserve_after": 2.496249111,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791756888171,
+    "last_reserve": 1.177924144,
+    "last_at_ms": 1791757369490,
+    "observations_after": 30
+  },
+  {
+    "mint": "Hvb9sNhmFkv6EZ8YGf9du8APjc2ngm39sdu4etsVpump",
+    "blocked_at_ms": 1791756362000,
+    "reasons": [
+      "Early-Slot Sniper Swarm (>20% Supply Bought)"
+    ],
+    "layer": "onchain_anti_bundle",
+    "block_reserve": 2.063351138,
+    "max_reserve_after": 2.146698683,
+    "max_spot_ratio_after_first_receipt": 1.0,
+    "peak_at_ms": 1791756362165,
+    "last_reserve": 1.1e-08,
+    "last_at_ms": 1791756422261,
+    "observations_after": 8
+  },
+  {
+    "mint": "2VyzZ4J3WnQtBSr24ZEATKAQY9UdLBjdcxQPHKuJpump",
+    "blocked_at_ms": 1791757209000,
+    "reasons": [
+      "8 of top 10 holders have <0.3 SOL holding 2.4% of total supply (>= 8 of 10 threshold)"
+    ],
+    "layer": "rpc_holder_screen",
+    "block_reserve": 0.783988759,
+    "max_reserve_after": 0.891699622,
+    "max_spot_ratio_after_first_receipt": 1.0070100918962472,
+    "peak_at_ms": 1791757299215,
+    "last_reserve": 0.014570352,
+    "last_at_ms": 1791757503564,
+    "observations_after": 15
+  }
+]

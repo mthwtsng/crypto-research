@@ -1,0 +1,17 @@
+{
+  "entry_tokens": 16112887.222808,
+  "entry_cost_sol": 0.501505,
+  "spot_entry_sol_per_token": 3.0169881388242564e-08,
+  "spot_exit_trigger_sol_per_token": 2.8108921757351784e-08,
+  "observed_spot_change_pct": -6.831182411257175,
+  "paper_buy_spot_impact_pct": 3.1943690909528533,
+  "dashboard_buy_impact_pct_is_real_reserve_growth": 42.44046457762256,
+  "requested_tokens_raw": 16112887222808,
+  "quoted_sold_tokens_raw": 2865428220102,
+  "deleted_unsold_tokens_raw": 13247459002706,
+  "full_requested_gross_quote_raw": 446197543,
+  "available_real_sol_raw": 80329005,
+  "reported_net_proceeds_sol": 0.077819891,
+  "reported_pnl_pct": -84.48272878635308,
+  "scope": "logged-quote arithmetic diagnostic; no counterfactual replay or corrected PnL"
+}

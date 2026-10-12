@@ -1,0 +1,122 @@
+[
+  {
+    "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.610704409,
+    "open_marked_PnL_SOL": 0.107160129,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791011593,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.592699225,
+    "open_marked_PnL_SOL": 0.089154945,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791026406,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.597895567,
+    "open_marked_PnL_SOL": 0.094351287,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791041193,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.538305041,
+    "open_marked_PnL_SOL": 0.034760761,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791059201,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.609605213,
+    "open_marked_PnL_SOL": 0.106060933,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791076621,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "6f7zDC6vRuwLBFnCQjKSKqUpt6q95J2nobQCuyfppump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.610491925,
+    "open_marked_PnL_SOL": 0.106947645,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791193572,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "X9YUYVmoTNM6MyME5a66ApnEx2EcVSwG4NsbrG9g4Hs",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.518435196,
+    "open_marked_PnL_SOL": 0.014890916,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791212985,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "2wCKKCrEdwDLv7SvoZDV6HieJMr73uFVAD5TdcJUpump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.608794292,
+    "open_marked_PnL_SOL": 0.105250012,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791214906,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "5QKaTewC5rTw5d4k24CG3vcqh77CFXc2dmJsPe5gpump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.599244367,
+    "open_marked_PnL_SOL": 0.095700087,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791228328,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "HJek92mMvwih7fBwb2r3X5FJ44yjue21fTVbYPGXpump",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.604399426,
+    "open_marked_PnL_SOL": 0.100855146,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791246494,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "Ej9z4z3gxFzz7aSkG2VQDwtsfvWTZaYUJr11HXEWpump",
+    "reason": "runner_timeout_undefined",
+    "mark_SOL": 0.598704371,
+    "open_marked_PnL_SOL": 0.095160091,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791311443,
+    "counterfactual_completion_proven": false
+  },
+  {
+    "mint": "EbJ8UVhKMsum1qAZv8NmvrWhMNsp72PKF9id66XkBEoK",
+    "reason": "counterfactual_completion_displaced",
+    "mark_SOL": 0.612492113,
+    "open_marked_PnL_SOL": 0.108947833,
+    "last_valid_venue": "curve",
+    "source_has_authenticated_AMM": true,
+    "source_first_AMM_time": 1791314967,
+    "counterfactual_completion_proven": false
+  }
+]

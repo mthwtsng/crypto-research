@@ -1,0 +1,12 @@
+{
+  "all_wallets": 392,
+  "both_sides_wallets": 260,
+  "exact_flat_wallets": 177,
+  "gross_volume_sol": 951.247003396,
+  "both_sides_volume_sol": 824.654378631,
+  "exact_flat_wallet_volume_sol": 414.080715192,
+  "inventory_cycles": 328,
+  "cycle_median_seconds": 66.0,
+  "cycles_le5s": 25,
+  "cycles_le5s_volume_sol": 14.751210937
+}

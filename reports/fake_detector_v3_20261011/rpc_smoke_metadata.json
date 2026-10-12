@@ -1,0 +1,15 @@
+{
+  "mint": "4LxEf4r1GodyKaiPvT5P4FxaKGaCaKveV5MakQrMpump",
+  "exit_code": 0,
+  "elapsed_seconds": 0.568,
+  "holder_status": "clear",
+  "holder_snapshot_complete": true,
+  "sampled_wallets": 18,
+  "actual_supply_raw": "999959094186865",
+  "snapshot_slot": 455826338,
+  "funding_probe_complete": false,
+  "source_profiles_complete": true,
+  "coverage": "partial",
+  "rpc_provider": "project Alchemy",
+  "mode": "read_only_no_stream_or_orders"
+}

@@ -1,0 +1,9 @@
+{
+  "revoked_exclusion_counts": {
+    "REJECTED_CANDIDATES.json": 409,
+    "PARALLEL_OUTCOMES.jsonl": 430
+  },
+  "archive": "archive/mandatory_terminal_exclusions",
+  "reason": "User authorizes complete fixed first-hour observations without mandatory graduation",
+  "updated_utc": "2026-10-09T19:04:59.567364+00:00"
+}

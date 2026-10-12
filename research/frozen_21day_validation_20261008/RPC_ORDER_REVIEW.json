@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-09T16:38:27.802219+00:00",
+  "old_hash": "e9ed0bd54b2ad4879bd0745b3e572a0d79708dab77bce973aa4b43d126df72b7",
+  "new_hash": "a642c69f75a1a3c6040d40722475624338328726ebafc4e635462067da270a26",
+  "change": "getBlock provider priority switches Shyft-first to Alchemy-first; same params, parsers, cache and retries",
+  "strategy_changes": false,
+  "position_caps_unchanged": [
+    2,
+    5,
+    10,
+    15,
+    null
+  ],
+  "review": "Full source diff inspected; no new replay results yet"
+}

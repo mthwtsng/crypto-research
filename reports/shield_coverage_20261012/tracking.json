@@ -1,0 +1,161 @@
+{
+  "cohorts": {
+    "authenticated_creation_observed_after_vm_start": {
+      "all_new_creation_first_error_counts": {
+        "none": 377,
+        "receipt reserve transition gap or inconsistency": 76,
+        "unrecognized successful trade; mint history needs backfill": 33
+      },
+      "creation_receipt_rows": 486,
+      "interpretation": "The 64.0% denominator is new authenticated-creation mints with at least one accepted decoded trade (194/303), not all creations and not all 7,621 curves.",
+      "mints_with_at_least_one_accepted_trade": 303,
+      "traded_mint_first_error_counts": {
+        "none_but_not_ready": 1,
+        "receipt reserve transition gap or inconsistency": 76,
+        "unrecognized successful trade; mint history needs backfill": 32
+      },
+      "traded_mints_entry_tracking_ready": 194,
+      "traded_ready_pct": 64.0264,
+      "unique_mints_in_checkpoint": 486,
+      "zero_accepted_trade": 183,
+      "zero_trade_and_no_error": 182,
+      "zero_trade_with_unrecognized_trade_error": 1
+    },
+    "post_start_event_mints_without_authenticated_creation_receipt": {
+      "entry_tracking_ready": 153,
+      "first_error_counts": {
+        "unrecognized successful trade; mint history needs backfill": 11
+      },
+      "interpretation": "Creation capture is not a prerequisite for entry_tracking_ready. Pump-suffix fallback supplies token supply and decimals, while supported trade receipts can supply the remaining readiness fields. This cohort is not counted as authenticated new creations.",
+      "mints": 282,
+      "no_error": 271,
+      "tracking_error": 11
+    },
+    "pre_vm_or_restored": {
+      "curves": 6853,
+      "entry_tracking_ready": 61,
+      "first_error_counts": {
+        "creation history missing; setup features incomplete": 1610,
+        "ordered custody coverage incomplete; setup history needs repair": 581,
+        "out-of-order or duplicate receipt quarantined": 2,
+        "receipt reserve transition gap or inconsistency": 468,
+        "restart gap; launch history needs backfill": 3225,
+        "unrecognized successful trade; mint history needs backfill": 267,
+        "unscoped receipt coverage gap; backfill required": 475,
+        "wallet custody differs from covered swap history": 126
+      },
+      "no_error": 99,
+      "tracking_error": 6754
+    }
+  },
+  "count_semantics": {
+    "entry_tracking_ready": "tracking_error is absent; token_supply_raw > 0; token_decimals is present; reserves_authoritative, fee_policy_known, and supported_sol_quote are true.",
+    "entry_tracking_ready_requires_creation_receipt": false,
+    "incomplete_history": "tracking_error is present.",
+    "missing_creation": "creation_receipt_seen is false.",
+    "relationships": "entry_tracking_ready and tracking_error are disjoint by predicate. missing_creation is an independent flag and overlaps the other groups. The 339 curves with no tracking_error but not entry-ready are outside both ready and error totals."
+  },
+  "receipt_and_candidate_evidence": {
+    "actual_entry_log_rows": {
+      "FILL": 8,
+      "INTENT": 8,
+      "distinct_mints": 4
+    },
+    "authenticated_creation_receipt_rows_in_vm_interval": 486,
+    "checkpoint_creation_mints_missing_from_observation_tape": 0,
+    "current_vm_tracking_receipt_unresolved_rows": 24729,
+    "decoded_observation_rows_in_vm_interval": 33385,
+    "decoded_trade_events_in_vm_interval": 30487,
+    "entry_gate": "Source requires holder_ready or whitelist, entry_tracking_ready, screening-window eligibility, and an evaluated strategy trigger. SETUP_TRACKING_AUDIT rows are diagnostics and may repeat per mint; they are not buy signals. Circuit breakers were disabled in the checkpoint summary.",
+    "global_coverage_gap_flags_in_current_vm_unresolved_rows": 0,
+    "global_gap_note": "The 475 state entries carrying unscoped receipt coverage gap are in the pre-VM/restored cohort. Current-VM unresolved rows had no global_coverage_gap flag. Source also has a separate greater-than-two-second stream-gap invalidation path; the decoded tape alone cannot verify that ingress condition.",
+    "max_adjacent_persisted_observation_receive_gap_ms": 1561,
+    "observation_gap_limit_note": "The persisted decoded observation tape is not the raw Yellowstone ingress stream, so its maximum gap cannot independently rule out every ingress gap over two seconds.",
+    "scoped_affected_mint_references": 1228,
+    "scoped_unresolved_rows": 328,
+    "variant_event_counts": {
+      "BREAKOUT_SIGNAL": 4,
+      "RECLAIM_ENTRY": 3,
+      "RECLAIM_EXPIRED": 2,
+      "SETUP_TRACKING_AUDIT": 286
+    }
+  },
+  "report": "TRACKING.md",
+  "reserve_transition_example": {
+    "after": {
+      "r_sol_lamports": 217171014,
+      "v_sol_lamports": 26896211704
+    },
+    "balance_delta_check": "r_sol before minus sell amount equals the decoded post r_sol (217171014).",
+    "before": {
+      "r_sol_lamports": 244424325,
+      "v_sol_lamports": 30244424325
+    },
+    "creation_received_at_utc": "2026-10-12T03:24:44.933Z",
+    "creation_signature": "3cYRZT3k4QfgSnWK9BkDFLRX4f4oLX1bzbHLDwPnsfvzQtMQREaBpQ8isExFVGXdDq9KeXeW6V4XFKxnYR2xKdCL",
+    "creation_slot": 455897254,
+    "creation_transaction_index": 494,
+    "decoded_sell_sol_lamports": 27253311,
+    "interpretation": "Observed v_sol transition mismatch; plausible causes include event-layout/decoder interpretation, protocol virtual-reserve semantics, or a real transition discrepancy. The local tracker quarantined the curve on reserve transition gap/inconsistency.",
+    "mint": "25tNnrcR4eeBqBeg8cddT5dPVccfAQYAFSpGUtQPpump",
+    "next_received_at_utc": "2026-10-12T03:24:48.208Z",
+    "next_signature": "4EeiqDNczVFXWjg3mWUz5EA9WHkUdKciHggHLvQgSejakG3QFwj5Fbuph4nBznRVAJyyYNzdZWZbpiiSJRzVo3jp",
+    "next_slot": 455897269,
+    "next_transaction_index": 510,
+    "rpc_check": "Read-only Shyft getTransaction confirmed the exact slot/signature, err=null, and token balances/logs consistent with the local tape. This does not establish a missing feed receipt.",
+    "virtual_reserve_comparison": {
+      "decoded_after_lamports": 26896211704,
+      "difference_lamports": 3320959310,
+      "difference_sol": 3.32095931,
+      "expected_if_same_delta_rule_lamports": 30217171014
+    }
+  },
+  "scope": "Read-only runtime coverage audit. No source, runtime, checkpoint, tape, or cash state was modified.",
+  "source_runtime_identity": {
+    "build_and_start_order_utc": "The local release binary mtime/build completion preceded VM start: binary 03:15:08Z; build log 03:17:52Z; VM start 03:21:17Z. Relevant local source mtimes also predated the binary.",
+    "deployment_conclusion": "Local evidence is consistent with the repaired source having been built before this VM started, but the runtime summary contains no source/binary hash or build ID, so the exact deployed line cannot be verified from these logs.",
+    "local_release_binary_sha256_at_audit": "209f1186090c2a21ac05f10339423f2a92c98792a40504c28629f6cfea51a8d2",
+    "local_source_sha256_at_audit": {
+      "scripts/run_shadow_detector.sh": "4b6dd646cf5fed4c113eee32e1d6f5e2945c1b1ed7e2b024311b9eba15440e47",
+      "src/bin/curve_detector.rs": "7e3f01dc66e5b9a8dc411043e43d6e30ac2c9b27f3bb319dcb3ba42b3d02c291",
+      "src/bot/curve_detector.rs": "2c2dda3ff7046245c7dba1c68936ed9304275b9333caf1391bdd605a24c4136f",
+      "src/bot/pump_receipt_decoder.rs": "918c684138d23c937f4035a60d2939fb013b894d82f24951f6f7009dc03de06e"
+    },
+    "runtime_hash_field": false
+  },
+  "state_counts": {
+    "creation_receipt_seen": 3906,
+    "entry_tracking_ready": 408,
+    "known_ready_and_missing_creation_overlap_lower_bound": 153,
+    "missing_creation_receipt": 3715,
+    "no_error_but_not_entry_ready": 339,
+    "overlap_note": "At least 153 curves were both ready and missing a creation receipt, from the post-start/no-authenticated-creation cohort. The frozen checkpoint cross-tab did not preserve the full ready \u00d7 missing_creation intersection.",
+    "total_curves": 7621,
+    "tracking_error": 6874
+  },
+  "strategy_and_pnl_scope": "This is a tracking/readiness funnel audit only. No backtest, replay, strategy-performance, or PnL claim is made.",
+  "tracking_error_first_reason_counts": {
+    "creation history missing; setup features incomplete": 1610,
+    "ordered custody coverage incomplete; setup history needs repair": 581,
+    "out-of-order or duplicate receipt quarantined": 2,
+    "receipt reserve transition gap or inconsistency": 544,
+    "restart gap; launch history needs backfill": 3225,
+    "unrecognized successful trade; mint history needs backfill": 311,
+    "unscoped receipt coverage gap; backfill required": 475,
+    "wallet custody differs from covered swap history": 126
+  },
+  "vm": {
+    "byte_provenance": {
+      "checkpoint_state_bytes": null,
+      "checkpoint_state_sha256": null,
+      "note": "The live state and append-only tape advanced after this checkpoint. The exact 03:40:54.023Z byte-prefix digest was not preserved in the audit handoff. A separate 03:40:31 digest exists but is a different checkpoint and is intentionally not attached to these counts. Counts below are tied to the checkpoint saved_at_ms, not the current live files.",
+      "observation_prefix_bytes": null,
+      "observation_prefix_sha256": null
+    },
+    "checkpoint_cutoff_utc": "2026-10-12T03:40:54.023Z",
+    "checkpoint_saved_at_ms": 1791776454023,
+    "curves": 7621,
+    "id": "ghost-v2-20261012T032117",
+    "start_utc": "2026-10-12T03:21:17Z"
+  }
+}

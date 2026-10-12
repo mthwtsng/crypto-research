@@ -1,0 +1,19 @@
+{
+  "frozen_at": "2026-10-08T04:13:47.406708+00:00",
+  "authorization": "User requests unlimited cash-funded positions and S3 relative12% price stop",
+  "source_spec": "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/unified_requested_cycle/SPEC.json",
+  "bankroll_SOL": 15,
+  "ticket_SOL": 0.5,
+  "position_limit": null,
+  "unresolved": "Retain tokens, committed capital and same-mint occupancy; no invented exits",
+  "S3": "12% price fall from actual fee-inclusive average fill price entry_bill/entry_tokens, compared with post-transaction marginal price; stop deferred until8s, including independent quiet-market grace deadline; immediate executable fullTP20/35%,60/120s timeout, original20%-armed8pp trail retained",
+  "controls": "Previous reserve8floor trace set; run each with original2-position and unlimited cash-funded ledger; retain all eight horizon/TP/developer cases",
+  "data": "Same inspected1800launches October3\u20136;223signals/166mints; retrospective",
+  "look_count": "42prior looks;8new user-prescribed relative-stop cases; position-cap controls disclosed separately",
+  "limitation": "Each historical intent has its own-impact counterfactual trace; simultaneous positions on different mints share cash, no coupled cross-market historical strategy response",
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/unlimited_requested.py": "80572329ded2f754ed70b61f05756704bc0d1101e9ce8ff830e85c69a6bf8733",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "11f561819b1957383f09c6fb1718512d94673b06f5fccd6764cf59fb462649c9",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/ledger.py": "2158c478d67045328a81f8e75f92fd3ce5b7e9bbce1c9d21955b7ecf283d09b9"
+  }
+}

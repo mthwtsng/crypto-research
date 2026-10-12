@@ -1,0 +1,43 @@
+{
+  "recorded_utc": "2026-10-11T23:08:07.690618+00:00",
+  "head": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+  "source_and_binary_sha256": {
+    "src/bot/fake_coin_detector.rs": "043e29afc15c3273194156098ac171da45096166bf761f60df2184f1666d70f2",
+    "src/bot/holder_screen.rs": "496d12368db325a42f59404d184f5819482f0b02612e235e0d431b1f40d4a449",
+    "src/bot/pump_receipt_decoder.rs": "300910b9bcec4059d8bf183b14a432334cc03e102d5a499c1283d41cae1601e4",
+    "src/bot/curve_detector.rs": "0d115c52f15b363510254619dee5032de4127fd751c6c3f69001c73e1af3888a",
+    "src/bot/mod.rs": "61323f1830f544babb394b0c79e4eb9b90e1521cda62893d36d53fc57e6d9443",
+    "src/bin/curve_detector.rs": "850564c04de98fbfb04d2e3a8e9db741877810e4d654ca192d4c9161bc85afbf",
+    "scripts/run_shadow_detector.sh": "082b4fa6e646c0b8ad8a0309428e32549564d031167ae5150f792bc050b721a5",
+    "scripts/serve_dashboard.py": "615a96504c5df1cd18b32f854c15a376faa995af00f20aca18da3c6dd2c6fc03",
+    "target/release/curve_detector": "e61f7a365cf96f74ac6e672bb375e66a3a7d47d4b864b35c048a5ac4bbeed553"
+  },
+  "binary_newer_than_source": true,
+  "rust_tests": "244 passed; 0 failed",
+  "rust_command": "cargo test --offline --bin curve_detector",
+  "build_command": "cargo build --offline --release --bin curve_detector",
+  "additional_checks": [
+    "dashboard active/expired block and v2 compatibility",
+    "Python syntax",
+    "shell syntax",
+    "git diff --check"
+  ],
+  "rpc_smoke": {
+    "mint": "4LxEf4r1GodyKaiPvT5P4FxaKGaCaKveV5MakQrMpump",
+    "exit_code": 0,
+    "elapsed_seconds": 0.568,
+    "holder_status": "clear",
+    "holder_snapshot_complete": true,
+    "sampled_wallets": 18,
+    "actual_supply_raw": "999959094186865",
+    "snapshot_slot": 455826338,
+    "funding_probe_complete": false,
+    "source_profiles_complete": true,
+    "coverage": "partial",
+    "rpc_provider": "project Alchemy",
+    "mode": "read_only_no_stream_or_orders"
+  },
+  "host_activation": "not established; running host process not visible",
+  "live_orders_submitted": 0,
+  "other_workspace_changes_preserved": true
+}

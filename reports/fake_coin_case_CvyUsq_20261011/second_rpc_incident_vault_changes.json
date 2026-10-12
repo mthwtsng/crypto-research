@@ -1,0 +1,3850 @@
+[
+  {
+    "signature": "5Nt93MWv76cuAsK4QhQCdfF1RjfZ8B8rqwLxdokPtQEkqHvupJo8gYv1oTN6yBzoZzop5jqmZiZsXYx9bWJp4sjt",
+    "slot": 455835968,
+    "block_time": 1791762097,
+    "pre_quote_sol": 21.873990249,
+    "post_quote_sol": 21.855793488,
+    "base_delta_raw": 209559688278,
+    "quote_delta_raw": -18196761,
+    "seller_owners": [
+      {
+        "owner": "411Hy9WxEuTkQX98mgtqqoUvrukN62SUXhHHoMGGCvoS",
+        "tokens_raw": 209559688278
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5YmcQ17u6SGfbiZhjTsSPYQfD4dbWw2wMorEw8oqLoXw484Dhz5PvjNaeGtHTXuDuBZttwzCjoXHsaBAyXF81hfc",
+    "slot": 455835973,
+    "block_time": 1791762098,
+    "pre_quote_sol": 21.946305244,
+    "post_quote_sol": 22.052884156,
+    "base_delta_raw": -1209328239953,
+    "quote_delta_raw": 106578912,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5DbnoCXG53gSc186JQPAsobrqwNB7TqxAxrb1W4xYbYdpANUq19D8zjRoNzeBnGJSrPvQUBiNaj1okQZ5NAASw5t",
+    "slot": 455835973,
+    "block_time": 1791762098,
+    "pre_quote_sol": 21.855793488,
+    "post_quote_sol": 21.946305244,
+    "base_delta_raw": -1032149010798,
+    "quote_delta_raw": 90511756,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5BW1xJtHuGD3exX8fVh2WYYz32TvLLvNt6d3zgszY9dc88hrfLyB34cTAepE5umg5Ja6XUgwPpYo4Ud4XosgM8yJ",
+    "slot": 455835997,
+    "block_time": 1791762104,
+    "pre_quote_sol": 22.062762674,
+    "post_quote_sol": 22.457903413,
+    "base_delta_raw": -4458695674279,
+    "quote_delta_raw": 395140739,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "nsa7wSUCFUkF43u9LCYQuNrUy8WnWjaZftxN6BeYgKnSPgTER7RWpGrQsqXSvjk1NWwJXvfSg1cfQc1RLyN5Vic",
+    "slot": 455835997,
+    "block_time": 1791762104,
+    "pre_quote_sol": 22.052884156,
+    "post_quote_sol": 22.062762674,
+    "base_delta_raw": -112614782936,
+    "quote_delta_raw": 9878518,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "46qVU8tUT1SQFpkUnsQHoExWf9MLmziHKgFYGEU9gCXw1bh7js2w62cAjh7y2Dpw3P7JKt5G6zAMUjZgwsRBnKBP",
+    "slot": 455836001,
+    "block_time": 1791762105,
+    "pre_quote_sol": 22.457903413,
+    "post_quote_sol": 22.083142782,
+    "base_delta_raw": 4228240215642,
+    "quote_delta_raw": -374760631,
+    "seller_owners": [
+      {
+        "owner": "RKdmfXe28FFRzC8LEowhQUC7J4zx2FkYCobzqtx3i7V",
+        "tokens_raw": 4228240215642
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3btLHoV7LCxuT7bECvRnm6wihvJTCMT3dMBG4VVs11eY2W3NR1JDfNMV14wcobhR6PchJRteeUHCcXWHaywdPML2",
+    "slot": 455836004,
+    "block_time": 1791762105,
+    "pre_quote_sol": 22.083142782,
+    "post_quote_sol": 22.093617405,
+    "base_delta_raw": -119225566817,
+    "quote_delta_raw": 10474623,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: RouteV2",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseUserVolumeAccumulator"
+    ]
+  },
+  {
+    "signature": "4cDh1aeKuZDW9FQwdNsr6ypJYbQ2doFzKCUV7XYcoSj7KQ3J2BRRngtGb8vYkQpW3yogZ28RKHn5KXMZTiwwiMG8",
+    "slot": 455836012,
+    "block_time": 1791762107,
+    "pre_quote_sol": 22.093617405,
+    "post_quote_sol": 21.936962108,
+    "base_delta_raw": 1790464830842,
+    "quote_delta_raw": -156655297,
+    "seller_owners": [
+      {
+        "owner": "G3z69eMv5ma1zpgRgC8ZrnXdYd92xGzbcpAL3Xu1rtCx",
+        "tokens_raw": 1790464830842
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Route",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: SwapV3Dyn"
+    ]
+  },
+  {
+    "signature": "3ijhVCeU8V7wTk8Fys9x2Lw5PVuHc9PtMnLtgDTEpsHcncvg87V47L7s8KPBdTdzTSX7iW9wb2QerrrzHmAPM1yq",
+    "slot": 455836014,
+    "block_time": 1791762107,
+    "pre_quote_sol": 22.407355129,
+    "post_quote_sol": 22.274575679,
+    "base_delta_raw": 1492736908359,
+    "quote_delta_raw": -132779450,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 1492736908359
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4e7yj2TwTPgCkVHP9fcKhzTE6rAUMFcCEFLvqs2VvYGLgE7ZJ1uTzTwp6zqzcde4D9LMx1acm8ym7GMEdBTNQz2a",
+    "slot": 455836014,
+    "block_time": 1791762107,
+    "pre_quote_sol": 22.274575679,
+    "post_quote_sol": 22.031619724,
+    "base_delta_raw": 2757472041681,
+    "quote_delta_raw": -242955955,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 2757472041681
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "ByWr2825oqV86Km6yxpw2Te882kG39KGgzfzGj99afWcFxmF7sjoST28ZNKid3odaRnq1GGqXTyjnFKhHbQo2zV",
+    "slot": 455836014,
+    "block_time": 1791762107,
+    "pre_quote_sol": 21.936962108,
+    "post_quote_sol": 22.407355129,
+    "base_delta_raw": -5332714822518,
+    "quote_delta_raw": 470393021,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "XNKDVkY37XJjgf8vJXSrzh5TxbbEHEMS23SFSw79nRxP3fe94FdwZLFSdqVBgfJfCPezoLwh4Dz3QgpidakFPuh",
+    "slot": 455836030,
+    "block_time": 1791762111,
+    "pre_quote_sol": 22.031619724,
+    "post_quote_sol": 21.043221457,
+    "base_delta_raw": 11578452364889,
+    "quote_delta_raw": -988398267,
+    "seller_owners": [
+      {
+        "owner": "4FaYPjE2kVH71gLG3EufyiAsJMsPtjPZAGZNVhQzpnfy",
+        "tokens_raw": 11578452364889
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2WZykhMfYwq71wGfyq1wijj91LCgYY66s9S4ips2ZfNnSKuqYFrZc5euahcxiP2pTFPs3i9tbMgne2UbCYEMNojh",
+    "slot": 455836037,
+    "block_time": 1791762112,
+    "pre_quote_sol": 21.043221457,
+    "post_quote_sol": 21.032431272,
+    "base_delta_raw": 129696151385,
+    "quote_delta_raw": -10790185,
+    "seller_owners": [
+      {
+        "owner": "D6uq1oKW8BgNVd2JEJ4W3i5hyXy4FAuffFd4zkFiKL4p",
+        "tokens_raw": 129696151385
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: RouteV2",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5xhaiv15zbRvoLJosH944nvB719mXHRV7wv3t2Tkxqqy8U7xg6curDgSMTqRbf9YwJMCDVFvst8Pv1MNMeUq8yE2",
+    "slot": 455836042,
+    "block_time": 1791762113,
+    "pre_quote_sol": 21.032431272,
+    "post_quote_sol": 21.21016511,
+    "base_delta_raw": -2126216440001,
+    "quote_delta_raw": 177733838,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "gVguVuxVL49rZc4obgTN9YHAL2odCr5z9RDARczTiHBFzbUx9xztNzP6H6pMFnCbs835zAxk366XvuY5V5FuZgq",
+    "slot": 455836053,
+    "block_time": 1791762116,
+    "pre_quote_sol": 21.278447796,
+    "post_quote_sol": 21.298844826,
+    "base_delta_raw": -240065681140,
+    "quote_delta_raw": 20397030,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "J5oXdnsSvXkD3iN4dSfoxdc9iwPZR4ztNVn1YSnnPJSwbtNdqCtQKrEXRScEWM4hnRVEmefq1ufy8mkEEYLtxqi",
+    "slot": 455836053,
+    "block_time": 1791762116,
+    "pre_quote_sol": 21.21016511,
+    "post_quote_sol": 21.278447796,
+    "base_delta_raw": -805499827586,
+    "quote_delta_raw": 68282686,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5VvyuXxNyaGXjrJp9jfU8cLkdnqsbCje2ueJnJp932yJr9Uv5TbB4vyuYwasgu93GvTp1emuiYVogGTtg5euNcNv",
+    "slot": 455836054,
+    "block_time": 1791762116,
+    "pre_quote_sol": 21.298844826,
+    "post_quote_sol": 21.217194419,
+    "base_delta_raw": 970278990434,
+    "quote_delta_raw": -81650407,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 970278990434
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2vAeAAPETbHqv3UDaX2XDcb5qhQfrUK7M9CLu1CFyMDZ65E2yx1EMX2zv7dHG9HPphvtyjtDnStHtnF5bQvfaZhG",
+    "slot": 455836054,
+    "block_time": 1791762116,
+    "pre_quote_sol": 21.217194419,
+    "post_quote_sol": 21.067270322,
+    "base_delta_raw": 1792356827092,
+    "quote_delta_raw": -149924097,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 1792356827092
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "39dtoH2WUcN8por95WuZ2viRaS2qTfjd572ypeekN1sDJJg9JTmYbjkM34dtrn7JtQA9jjdAN2jjtSgjbnZU9xhC",
+    "slot": 455836054,
+    "block_time": 1791762116,
+    "pre_quote_sol": 21.072270301,
+    "post_quote_sol": 21.121662892,
+    "base_delta_raw": -591648172790,
+    "quote_delta_raw": 49392591,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2ME8uBqu3tfqpFL7Jws3xdzH3X2Hv5JkLD3wEDdaKGXF3eDUKnMwWXQtJS6xGTq1KguMjzcMZxebJk2TSUTEhHhn",
+    "slot": 455836054,
+    "block_time": 1791762116,
+    "pre_quote_sol": 21.067270322,
+    "post_quote_sol": 21.072270301,
+    "base_delta_raw": -59977063117,
+    "quote_delta_raw": 4999979,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: Buy",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3G9NSixYBAYMPXPdjQBCxtb3zck7JXQy8WLnc3yEcyHkTabMCY8F2qTmHiaKCpjUtnWASMAqpHC9nWmJ5QEQgKTz",
+    "slot": 455836068,
+    "block_time": 1791762119,
+    "pre_quote_sol": 21.121662892,
+    "post_quote_sol": 21.562573354,
+    "base_delta_raw": -5215822203501,
+    "quote_delta_raw": 440910462,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "5wn2QxiMsXzDThkZpGwqfPk6tyZV86vdAnGGqUEhqn4CDiMkyUbvSWDrFSzZgAACYArsWVAkGWCGNuws97DPSLAB",
+    "slot": 455836070,
+    "block_time": 1791762119,
+    "pre_quote_sol": 21.562573354,
+    "post_quote_sol": 21.340895627,
+    "base_delta_raw": 2608013364747,
+    "quote_delta_raw": -221677727,
+    "seller_owners": [
+      {
+        "owner": "5LBNQccdvQ1GmeRJXXuFi6j9HsuSkYaotENNjmutHBSw",
+        "tokens_raw": 2608013364747
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "M3gTYKQTAuDY48Vo6XLoMwxhefbNr98KfWP5Mq6RVNwnUNQ6kk3jdgwyeU3AVFMHKT1wtfiPCAfLVMWqTDMRiwE",
+    "slot": 455836070,
+    "block_time": 1791762119,
+    "pre_quote_sol": 21.340895627,
+    "post_quote_sol": 21.318956214,
+    "base_delta_raw": 259743628640,
+    "quote_delta_raw": -21939413,
+    "seller_owners": [
+      {
+        "owner": "7fS5GtASVwgw83yxhcaz6YLkD3ZSoCg7VCKjqNVegeae",
+        "tokens_raw": 259743628640
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2QKzSSxZXcK3cpT4H5N4osBPHgY1LguDzabnx4kMAZER6KzMqsYEjfyC2q77e23FEdLTQtq4MQHQaa1stwvvh5fk",
+    "slot": 455836087,
+    "block_time": 1791762123,
+    "pre_quote_sol": 21.318956214,
+    "post_quote_sol": 21.26623799,
+    "base_delta_raw": 630175348746,
+    "quote_delta_raw": -52718224,
+    "seller_owners": [
+      {
+        "owner": "FxJgXomZ68psPnn4PADKGKjgACkAR6ZjisV5R7z57y3",
+        "tokens_raw": 630175348746
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "CQSrfosMew3oJHVuRLVKNSWqrJzC1qGBSPNzcYX81f3s8Niany7F6ENbWafWQrS4S2Dqr7oRHKkfVYGJCnhm4bn",
+    "slot": 455836096,
+    "block_time": 1791762124,
+    "pre_quote_sol": 21.284011489,
+    "post_quote_sol": 21.230941463,
+    "base_delta_raw": 630681343782,
+    "quote_delta_raw": -53070026,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 630681343782
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "edDv87Wc5YayRjNhPUgEkGRvz9YrCGWdc7yYh4RCiTG2BpKAuaSZcQWUSLsK2QLqdXqFfzwUSaMAYd5aPvRSipL",
+    "slot": 455836096,
+    "block_time": 1791762124,
+    "pre_quote_sol": 21.26623799,
+    "post_quote_sol": 21.284011489,
+    "base_delta_raw": -210941452343,
+    "quote_delta_raw": 17773499,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "24JQG2zw2dMgGDtqVgeR9dKY3pcnFBdNrCkRUXSV7WyhGFLruMHAmNsXjzcZHdjZXrRL62sMiRcGewt1GdnACCes",
+    "slot": 455836096,
+    "block_time": 1791762124,
+    "pre_quote_sol": 21.230941463,
+    "post_quote_sol": 21.133290521,
+    "base_delta_raw": 1165031937610,
+    "quote_delta_raw": -97650942,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 1165031937610
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "678pWP79XJRXF5srpsBoSVWrcUD94s4kLoVTRayWRDk7cJ9ML7XKmYTvwUTjqDHBycTMEk7HX8zCeczaTBXh79FB",
+    "slot": 455836102,
+    "block_time": 1791762126,
+    "pre_quote_sol": 21.133290521,
+    "post_quote_sol": 21.143169039,
+    "base_delta_raw": -118078342892,
+    "quote_delta_raw": 9878518,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3NNNUR861R7Dnv7tsdcNrQjggoKDhNJXM71CnMdruf1P1M7r7U2kpV2sZVh2RpCqW8XAPyCZTdttBRCkygqUkzDg",
+    "slot": 455836103,
+    "block_time": 1791762126,
+    "pre_quote_sol": 21.143169039,
+    "post_quote_sol": 21.10220312,
+    "base_delta_raw": 494044430750,
+    "quote_delta_raw": -40965919,
+    "seller_owners": [
+      {
+        "owner": "7kX6ZfhZ58CkpPWuDD7y3KFzQ93jNzqAYG9H6QXfZN4y",
+        "tokens_raw": 494044430750
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapJupiter",
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: RouteV2"
+    ]
+  },
+  {
+    "signature": "xcYzAXwHv1iiCPkQntj3h77uXcky1qFa53aRVGRdx2AnEUrJD2e9CPLv3qsiPhUrDGHcWvR3LM1Kvu2bu4WcvVQ",
+    "slot": 455836107,
+    "block_time": 1791762127,
+    "pre_quote_sol": 21.10220312,
+    "post_quote_sol": 20.935571483,
+    "base_delta_raw": 2005032678241,
+    "quote_delta_raw": -166631637,
+    "seller_owners": [
+      {
+        "owner": "9fPyd77FtK7TMk4Tvs3oHQGiq1ZLQfL1MDs68zXCAY34",
+        "tokens_raw": 2005032678241
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "HaUSmHdLEGPv74UxNEfjGPEARWiTVsqDJ6f8XzPMKBfBAP9SeXy81dJrb4EoT7YH8zGvvfmG7ef6eMmgbZMdnyV",
+    "slot": 455836107,
+    "block_time": 1791762127,
+    "pre_quote_sol": 20.935571483,
+    "post_quote_sol": 20.867308557,
+    "base_delta_raw": 826446528633,
+    "quote_delta_raw": -68262926,
+    "seller_owners": [
+      {
+        "owner": "2nz7EHis6W2UMNHt529u46KKUqv6JyS4pf15fyWj4S4G",
+        "tokens_raw": 826446528633
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "39XwcxyzqF5Rnuc7j7SgcpbAQxcnSEww4eKg3fuQ5i3fUfsEBT8jH9eshhJ9sStqUfiVBzv4nhnMxj6q3Kvx2Eur",
+    "slot": 455836122,
+    "block_time": 1791762130,
+    "pre_quote_sol": 20.867308557,
+    "post_quote_sol": 20.380903457,
+    "base_delta_raw": 5975551669521,
+    "quote_delta_raw": -486405100,
+    "seller_owners": [
+      {
+        "owner": "ES7V1iZyUrUJft3HwX5CrbsUY1ieAqF8qHsXNscBCgsL",
+        "tokens_raw": 5975551669521
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5UVxmeHgpvHe5SkZpXU7YD5z4o5k4KNsxYScJMpDsJ4QApXceLFEWZj4S4MZuYGtmALk8escBDUPGsxDGc3rCe3T",
+    "slot": 455836126,
+    "block_time": 1791762131,
+    "pre_quote_sol": 20.380903457,
+    "post_quote_sol": 20.885025121,
+    "base_delta_raw": -6189089307853,
+    "quote_delta_raw": 504121664,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "2TBxN9Rm3qrTFsFaKrgqrxSS8Qvjc4QnjeZ8Pfpzpy91SERvNRGELLafCw7E75npacmpkXPjGd5CejRmoFep3Qyw",
+    "slot": 455836135,
+    "block_time": 1791762133,
+    "pre_quote_sol": 20.885025121,
+    "post_quote_sol": 20.851223743,
+    "base_delta_raw": 409942873458,
+    "quote_delta_raw": -33801378,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 409942873458
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2ZKUTWhnVbkqHPcY78kQEYmHS6Vt82gNAsvtiyKzR4ysXyg1oKFAbJfLRdD5fCEGo7RZybLs7J4zWvyJuo3D2MM9",
+    "slot": 455836135,
+    "block_time": 1791762133,
+    "pre_quote_sol": 20.851223743,
+    "post_quote_sol": 20.788941037,
+    "base_delta_raw": 757270759446,
+    "quote_delta_raw": -62282706,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 757270759446
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2qDRCZLsKLwVZhygjrF2rT12yJNsbQvJGdB3NEaEDVQSecPXdSSaHd5884aaxEekLoJpTnafDZPp5YvsyGYeyUcX",
+    "slot": 455836142,
+    "block_time": 1791762134,
+    "pre_quote_sol": 20.788941037,
+    "post_quote_sol": 21.707643258,
+    "base_delta_raw": -10920477367477,
+    "quote_delta_raw": 918702221,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4ss8NNDS19KSrUivEPj8N9NcHYq4uyiPBRxk3NSyi2tYcoGFTU3z3A1s7bFTZsMt9AdVq8NwEvuYUon67YNy9Fsb",
+    "slot": 455836146,
+    "block_time": 1791762135,
+    "pre_quote_sol": 21.707643258,
+    "post_quote_sol": 21.693329951,
+    "base_delta_raw": 166258954848,
+    "quote_delta_raw": -14313307,
+    "seller_owners": [
+      {
+        "owner": "8qEXvKDZvxWDEYMzmVHZmDJeysD9YwV7agovCvH1fmAv",
+        "tokens_raw": 166258954848
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Route",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "39Gm2kFmieDwQzNfXoCB4AN5d2yHxNeWTaKUQj6twb43nCwrtn8QsLMXYXTJ4teT3QkxntxJ6YiijRs2cZ3BtmVo",
+    "slot": 455836164,
+    "block_time": 1791762139,
+    "pre_quote_sol": 21.693329951,
+    "post_quote_sol": 21.590327956,
+    "base_delta_raw": 1209328239953,
+    "quote_delta_raw": -103001995,
+    "seller_owners": [
+      {
+        "owner": "FakckxEr9U29sWK7s3PNiit8c23xTi7XspbvB4nfLQih",
+        "tokens_raw": 1209328239953
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2DdmudW5Vy6LcGF9jnuqtC1LatiRMRL6ZfeJerTaxH7dDNhuaxRmHC7r5VcTStueLEMPBNB8bbfFConNvZ21wsZi",
+    "slot": 455836164,
+    "block_time": 1791762139,
+    "pre_quote_sol": 21.590327956,
+    "post_quote_sol": 21.502849797,
+    "base_delta_raw": 1032149010798,
+    "quote_delta_raw": -87478159,
+    "seller_owners": [
+      {
+        "owner": "CQTc3FxSukLQQUseN4RqxRCLRNWxuQXUyCNFH9GQsfKo",
+        "tokens_raw": 1032149010798
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4Bt8WMtjaB338b6785ABJMNPGwCQKeTz6mfbu1ou8FVvU9of4MpLDC3nYrFJcsx3SfyS64EqHoHwGnZcQiwbzers",
+    "slot": 455836179,
+    "block_time": 1791762142,
+    "pre_quote_sol": 21.502849797,
+    "post_quote_sol": 22.393417061,
+    "base_delta_raw": -10214416953917,
+    "quote_delta_raw": 890567264,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "5hzTE7kQYiQ7qZYLsYeBSXfrcouynRdAwTfJ4vou87FP594sTe8QxyLJuABGy1emD5fPW6Vh6kGCiKZGEHKQCWPF",
+    "slot": 455836180,
+    "block_time": 1791762142,
+    "pre_quote_sol": 22.393417061,
+    "post_quote_sol": 22.369670426,
+    "base_delta_raw": 266462867748,
+    "quote_delta_raw": -23746635,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 266462867748
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4rUX1xyEnsmwB2SJ53FRRhD89s3SNNVENVk7yj6hfbSeRgYtMuPG5irxWFgZM8aKe4GMQoDm2tZcvny544HYRpxE",
+    "slot": 455836180,
+    "block_time": 1791762142,
+    "pre_quote_sol": 22.369670426,
+    "post_quote_sol": 22.325878914,
+    "base_delta_raw": 492225993640,
+    "quote_delta_raw": -43791512,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 492225993640
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "42NzH5NBkntfhCw7oB5vrUmmjMHrt6UinFmCFe2Jx27f7QNGVXqFo4b9u4oAf5Ujv5RmEQdDSvvg5ZRhR97ZtSft",
+    "slot": 455836185,
+    "block_time": 1791762144,
+    "pre_quote_sol": 22.325878914,
+    "post_quote_sol": 22.315630947,
+    "base_delta_raw": 115346560000,
+    "quote_delta_raw": -10247967,
+    "seller_owners": [
+      {
+        "owner": "BFcDNj8CLJAH4bUJG7GdkLroahtR3b2SFTt9K3dPJZPb",
+        "tokens_raw": 115346560000
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "R6JRh227nfQ7N3j4RM7Ph7P8afpoqAVr32T3aVZ4JHRxx8wpA8o7p2T3BotbEFjxH2BHjVY65PyMbv3wjE6gVJz",
+    "slot": 455836194,
+    "block_time": 1791762146,
+    "pre_quote_sol": 22.315630947,
+    "post_quote_sol": 22.562593909,
+    "base_delta_raw": -2762089578410,
+    "quote_delta_raw": 246962962,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "ySmK1ePfdhtTAGee7ef9GFRbyrNfi96X6Q1BkVBr4hWuhyRvHcMSVCh6cGQkyusc12CPNpidUerT3ovckkvWwLr",
+    "slot": 455836203,
+    "block_time": 1791762148,
+    "pre_quote_sol": 22.562593909,
+    "post_quote_sol": 22.552223114,
+    "base_delta_raw": 115346565828,
+    "quote_delta_raw": -10370795,
+    "seller_owners": [
+      {
+        "owner": "BFcDNj8CLJAH4bUJG7GdkLroahtR3b2SFTt9K3dPJZPb",
+        "tokens_raw": 115346565828
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3kEwKVH2pGss2JaCKHFfKDHDXsy8hbyKU3TdnR1bCiTBkt2mexzpTmthDNp1xTXAafutdDdXAPFxrNAX2K3XEBwx",
+    "slot": 455836205,
+    "block_time": 1791762148,
+    "pre_quote_sol": 22.552223114,
+    "post_quote_sol": 22.57198015,
+    "base_delta_raw": -219603052499,
+    "quote_delta_raw": 19757036,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4w8dvdtJCWBPGjuaDjGeP66bseqm1mYvgC6fJKdE8cZACL7bMAsUsSc5qhK8d93xL64irAPScUAcQRvc5nQpKhgp",
+    "slot": 455836217,
+    "block_time": 1791762151,
+    "pre_quote_sol": 22.57198015,
+    "post_quote_sol": 22.556402383,
+    "base_delta_raw": 173200864036,
+    "quote_delta_raw": -15577767,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 173200864036
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3Mojmc2cHyowdUzV4XqBgJiznGsQkr4ez18ZUiKtntoMPJGJXUTrkTsK3Zpnf88EkB5ZYvdvW7nxwoUMB6nAcENB",
+    "slot": 455836217,
+    "block_time": 1791762151,
+    "pre_quote_sol": 22.556402383,
+    "post_quote_sol": 22.527658212,
+    "base_delta_raw": 319946895866,
+    "quote_delta_raw": -28744171,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 319946895866
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2ykw5YhcgRmSJmmnsTrdpZi97VNyVM2q4DdaBCU5qgkeW2TL22JJDsP1R6jNpQcxicnqAXQ9pAU5mE674PDaZgc9",
+    "slot": 455836226,
+    "block_time": 1791762153,
+    "pre_quote_sol": 22.527658212,
+    "post_quote_sol": 22.333680271,
+    "base_delta_raw": 2171278978913,
+    "quote_delta_raw": -193977941,
+    "seller_owners": [
+      {
+        "owner": "8Er91Kymk8KjhggTSXM8VqhAN1ByfrbEZPQMZ8p7jCnm",
+        "tokens_raw": 2171278978913
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "7s5iiBQe8bn4vqGGo8hT4yCwebjAnogadcL3ugAfLgA1N8aXzEV9HybhikvML9ewaiqw9Rh6fCP5gKGEiEXk7HT",
+    "slot": 455836231,
+    "block_time": 1791762154,
+    "pre_quote_sol": 22.333680271,
+    "post_quote_sol": 23.131187205,
+    "base_delta_raw": -8791770715459,
+    "quote_delta_raw": 797506934,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "2LBKvtgaZsHpQSg5BQnfD6mNGWw4xVP9RQiWnCMvq3Luvsp7jWfzVFUgJUtjnJpnnehwkXsVbzMRseXJZDYUEHjp",
+    "slot": 455836236,
+    "block_time": 1791762155,
+    "pre_quote_sol": 23.131187205,
+    "post_quote_sol": 22.916721118,
+    "base_delta_raw": 2330466438882,
+    "quote_delta_raw": -214466087,
+    "seller_owners": [
+      {
+        "owner": "33NW9Zimwo9cVcgiPmrySR4B2UFF8SprTN88ratTWA87",
+        "tokens_raw": 2330466438882
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3WxvvQ8GzWmahVcCrPkCujnrwMrT8tovywFNL3KkAvQqQPcaMfpGdSiKyF1XjcXnMrwH3WSEYxGpx8Boif4SogT6",
+    "slot": 455836253,
+    "block_time": 1791762159,
+    "pre_quote_sol": 22.916721118,
+    "post_quote_sol": 22.862403486,
+    "base_delta_raw": 594187092325,
+    "quote_delta_raw": -54317632,
+    "seller_owners": [
+      {
+        "owner": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+        "tokens_raw": 594187092325
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2E6VxP6nLpwdRGjKzJwNjhNLNFPN8m3ybwKhrZqN8iCDen77kiyvvZikotnxj72i3x9v1r7e1rNKAbCwp1AcQEKr",
+    "slot": 455836253,
+    "block_time": 1791762159,
+    "pre_quote_sol": 22.862403486,
+    "post_quote_sol": 22.833060241,
+    "base_delta_raw": 321658747497,
+    "quote_delta_raw": -29343245,
+    "seller_owners": [
+      {
+        "owner": "CZs833guHuF1gyrnoE1koFEuyikQhExKMKtic8xzoLcu",
+        "tokens_raw": 321658747497
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3F8UXpYyiNu7tGtVYxKAstzmRMpwc5hnT8NLMEgfTc94CmEqHMvFNvpLYmHCC9XvqGusRZzR8VTEXwCJWpCBr4F4",
+    "slot": 455836262,
+    "block_time": 1791762161,
+    "pre_quote_sol": 22.833060241,
+    "post_quote_sol": 22.810576769,
+    "base_delta_raw": 246780978659,
+    "quote_delta_raw": -22483472,
+    "seller_owners": [
+      {
+        "owner": "47du2vFgZhzXR2nk4xXtuKqE8dAWXXSWsNTHNx54jjWK",
+        "tokens_raw": 246780978659
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "32NpXDHiZS2hq5eUkNnbdaMoAj8pgySx1abFSvSmLF5KuSvp69o9PDvZ2qShMqvF7MHXiWL9AXuoS25P1NMN3GxF",
+    "slot": 455836263,
+    "block_time": 1791762161,
+    "pre_quote_sol": 22.810576769,
+    "post_quote_sol": 22.794474618,
+    "base_delta_raw": 176909106758,
+    "quote_delta_raw": -16102151,
+    "seller_owners": [
+      {
+        "owner": "Bck5r87KG8Ak9WhyGQpHn5SqvyuB6tTHQAMCzoxjsBU2",
+        "tokens_raw": 176909106758
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5YZhBWRnvML4dENzVcifeTnxxqfQakejmBNi6YNAYpwfdmtZ2SzDFk9jTuHwFocu18FPXuHWUYTnDcNtgPyNjh3Q",
+    "slot": 455836266,
+    "block_time": 1791762162,
+    "pre_quote_sol": 22.794474618,
+    "post_quote_sol": 23.171156715,
+    "base_delta_raw": -4099963116657,
+    "quote_delta_raw": 376682097,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3GeTiafaPBiFUJAajhuFGYjT51sWBcq4anAQnSQrTxps7K8XsYtwLfgjkGozAReVseW94tSBpafWxPsVdj6C1k3",
+    "slot": 455836267,
+    "block_time": 1791762162,
+    "pre_quote_sol": 23.171156715,
+    "post_quote_sol": 23.146650587,
+    "base_delta_raw": 264517129165,
+    "quote_delta_raw": -24506128,
+    "seller_owners": [
+      {
+        "owner": "94HgBYsNGAtU2ihyc9iMQ4ebtcsWA2P2ksDWUQsd18U6",
+        "tokens_raw": 264517129165
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "Y4B5PCHHSZP5AstpWXPZh2PMw9xxNzAhVRSwnC6DCPksuuToBMaH8JSi2D7wvBkwhFTcB36NUxCdh2W6F4rLs5x",
+    "slot": 455836284,
+    "block_time": 1791762165,
+    "pre_quote_sol": 23.146650587,
+    "post_quote_sol": 23.590356091,
+    "base_delta_raw": -4739252623335,
+    "quote_delta_raw": 443705504,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "4XvFBXBcHMZvwzH98Dsr4V2GjsB3E3J21zKw3jeKT8R4ZvKRH9c3cyFHWUEX2Pnx4fWUiPtmRfea513dEgdmnEMY",
+    "slot": 455836288,
+    "block_time": 1791762166,
+    "pre_quote_sol": 23.590356091,
+    "post_quote_sol": 23.56701603,
+    "base_delta_raw": 246780978659,
+    "quote_delta_raw": -23340061,
+    "seller_owners": [
+      {
+        "owner": "47du2vFgZhzXR2nk4xXtuKqE8dAWXXSWsNTHNx54jjWK",
+        "tokens_raw": 246780978659
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "53qYfNg5VunGjvTMPGRRW9PX11TR2DvcGULu28yVWxA2KrqiW98AJUHquYpRg6KaqoGYsUknTvbxfWsJpHTTCMAP",
+    "slot": 455836289,
+    "block_time": 1791762166,
+    "pre_quote_sol": 23.56701603,
+    "post_quote_sol": 23.550047556,
+    "base_delta_raw": 179589547770,
+    "quote_delta_raw": -16968474,
+    "seller_owners": [
+      {
+        "owner": "Bck5r87KG8Ak9WhyGQpHn5SqvyuB6tTHQAMCzoxjsBU2",
+        "tokens_raw": 179589547770
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "53sKn8hVmVUrA1fns3pEAx9812PryR1DG2fR24wRKHGsJ1gNbVZLKwEUMXzEECQCwPMXppQrrJCK1Y5U6aoKb3N9",
+    "slot": 455836296,
+    "block_time": 1791762168,
+    "pre_quote_sol": 23.550047556,
+    "post_quote_sol": 23.52508038,
+    "base_delta_raw": 264517129165,
+    "quote_delta_raw": -24967176,
+    "seller_owners": [
+      {
+        "owner": "94HgBYsNGAtU2ihyc9iMQ4ebtcsWA2P2ksDWUQsd18U6",
+        "tokens_raw": 264517129165
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5URGMSFhWyb7dZb1moA5oUSvBev16rNeeopnEezMW53oezVbN7hYBiDZ4jXE98GKjPCvqXZDiEmDRewGyGq8ECQG",
+    "slot": 455836308,
+    "block_time": 1791762171,
+    "pre_quote_sol": 23.52508038,
+    "post_quote_sol": 23.722650749,
+    "base_delta_raw": -2083535677840,
+    "quote_delta_raw": 197570369,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3VsUymYTRUhX5kJEZKrUgfCsGph9M2A4ESnWWxKiYLgMQA4TSBMEKFNzg6bjSfEZbN1BnCuoZr8qGq3sjifXFD6h",
+    "slot": 455836312,
+    "block_time": 1791762171,
+    "pre_quote_sol": 23.722650749,
+    "post_quote_sol": 23.720702538,
+    "base_delta_raw": 20455597513,
+    "quote_delta_raw": -1948211,
+    "seller_owners": [
+      {
+        "owner": "HQ2dkC6BGVzGinZqtS6jNFhzRgm4oDkSngmKu9FbA6Xf",
+        "tokens_raw": 20455597513
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "4esq2zikLKfEgJ663ZviAYvymRoaUHsTeCzZnM8Pb5747WpMS2F3Uroab9Trv6bdK747GRnyTgh6sFWTXq3bxjrL",
+    "slot": 455836327,
+    "block_time": 1791762174,
+    "pre_quote_sol": 23.720702538,
+    "post_quote_sol": 23.175424539,
+    "base_delta_raw": 5802696499275,
+    "quote_delta_raw": -545277999,
+    "seller_owners": [
+      {
+        "owner": "3MDNUXhhD1i95dDcSpPTwkD667oJGGChDU6hnsTrqFbR",
+        "tokens_raw": 5802696499275
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3ZVQiWgiQkovSVj9EgVwCkx1rsdPV5kbLATJRZinZj7jtFcswHmiPQ57vAg4DffA7fPv4m2i7b5TYTWK2XoAhFBv",
+    "slot": 455836334,
+    "block_time": 1791762176,
+    "pre_quote_sol": 23.175424539,
+    "post_quote_sol": 22.920934515,
+    "base_delta_raw": 2762089578410,
+    "quote_delta_raw": -254490024,
+    "seller_owners": [
+      {
+        "owner": "A4HkqdBjr1FDk3a4NNWzkhLwcYmmAapFtWUj5xWp3Qit",
+        "tokens_raw": 2762089578410
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2fY4nSVFD6r8Vknu4K81oD3thakzgvpzejpLTjvcUyKYQjmdmyWKdiRR3jMa64GU4pKgYa9UvmxidtDYro9QNNnf",
+    "slot": 455836336,
+    "block_time": 1791762176,
+    "pre_quote_sol": 22.920934515,
+    "post_quote_sol": 22.89835263,
+    "base_delta_raw": 246780978659,
+    "quote_delta_raw": -22581885,
+    "seller_owners": [
+      {
+        "owner": "47du2vFgZhzXR2nk4xXtuKqE8dAWXXSWsNTHNx54jjWK",
+        "tokens_raw": 246780978659
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4ce5UCo1zMk5dSNxQN556MgFSjcu5WWcCFvhunivqiz4cxkyqSgpbfXUA6yQepcAvP7eXUyDcT7Hxq6ithd82fEY",
+    "slot": 455836336,
+    "block_time": 1791762176,
+    "pre_quote_sol": 22.89835263,
+    "post_quote_sol": 22.881935092,
+    "base_delta_raw": 179589547770,
+    "quote_delta_raw": -16417538,
+    "seller_owners": [
+      {
+        "owner": "Bck5r87KG8Ak9WhyGQpHn5SqvyuB6tTHQAMCzoxjsBU2",
+        "tokens_raw": 179589547770
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "3CtwLJdbreJbuG5Hdsia9T5fdrzHMPNi9SNNrkGKHLppLfsTMihx3mDFbbzNrBVe9KFQUNswhiYXxEofqUwjTF4q",
+    "slot": 455836337,
+    "block_time": 1791762177,
+    "pre_quote_sol": 22.881935092,
+    "post_quote_sol": 22.85777815,
+    "base_delta_raw": 264517129166,
+    "quote_delta_raw": -24156942,
+    "seller_owners": [
+      {
+        "owner": "94HgBYsNGAtU2ihyc9iMQ4ebtcsWA2P2ksDWUQsd18U6",
+        "tokens_raw": 264517129166
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "26Nton6qe8dmbypAhjtk34zNWJb7rkzUiFwb9vnP2ukWq956Y5BAJh8gcMCX5AFHnGiFwxQLhsFapnahfNTdD6te",
+    "slot": 455836340,
+    "block_time": 1791762177,
+    "pre_quote_sol": 22.85777815,
+    "post_quote_sol": 23.388721836,
+    "base_delta_raw": -5740211468287,
+    "quote_delta_raw": 530943686,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "5gGZqzaJqb9j2Qmfao9a8yKmKe6oPcRQyK9pZm8hQ5zCGGkRmsKmQvwynHPyLgs78MZwnvhGVoFDczSy1d2cM38y",
+    "slot": 455836341,
+    "block_time": 1791762177,
+    "pre_quote_sol": 23.388721836,
+    "post_quote_sol": 23.330734067,
+    "base_delta_raw": 619748759698,
+    "quote_delta_raw": -57987769,
+    "seller_owners": [
+      {
+        "owner": "CNpsstPgBTc9mKdtSFBmTKknqBuUCFMAcR4Dvey6cwRP",
+        "tokens_raw": 619748759698
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellPumpSwapPercentage",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3HaD6vB9Z9g2JSqjmyjU3ugFAUv3aYfh5nPNRKnfcKGrsUvsbdCfWeeLxijVDG6V9XctFRYR1S2EjoZYo2MuhR2n",
+    "slot": 455836341,
+    "block_time": 1791762177,
+    "pre_quote_sol": 23.330734067,
+    "post_quote_sol": 23.133042115,
+    "base_delta_raw": 2126216440001,
+    "quote_delta_raw": -197691952,
+    "seller_owners": [
+      {
+        "owner": "2QGWn4HsfjYdmxvaKmhhtTKLFY4ifL9DM6FXME4SCWDm",
+        "tokens_raw": 2126216440001
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5Mn6dwyzZVTxX5pnUJUCwV3UwdE2Wr9uVx3VCyRaDFP7Ljjs2ijGmjPAq1qZNNUs85NgKKmWBLkwtAjAAYyWzE25",
+    "slot": 455836344,
+    "block_time": 1791762178,
+    "pre_quote_sol": 23.133042115,
+    "post_quote_sol": 23.176926956,
+    "base_delta_raw": -473595102932,
+    "quote_delta_raw": 43884841,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: SwapByDexRouter",
+      "Program log: Instruction: SwapTobV3",
+      "Program log: Instruction: SwapV2",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4uQpQMM1ueWVfb2NTJfSY6hkoRVsi5ntCA6CaurcsesyYmNQh7Z5gippfwRkb5JBfQdD5dMTm9DeyeMnEeSD766b",
+    "slot": 455836351,
+    "block_time": 1791762180,
+    "pre_quote_sol": 23.202902907,
+    "post_quote_sol": 23.226199624,
+    "base_delta_raw": -248774539652,
+    "quote_delta_raw": 23296717,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2vaqqk6VH5YG1j8vFky3fSRZwVms2Lfx4ViupRcL3VKrobHR7PJ8WGezTRXL28s3YWJSwXuJHeWTzQwsL1J4aQwY",
+    "slot": 455836351,
+    "block_time": 1791762180,
+    "pre_quote_sol": 23.176926956,
+    "post_quote_sol": 23.202902907,
+    "base_delta_raw": -277720016548,
+    "quote_delta_raw": 25975951,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "43HySf26CmaMXJvDT7rQJnqGZpc1n9G44rxyBn3p3vtRTLMaA15PBNkndjvY6W9qiBW2qPfthDrakqaM8JVWvjyX",
+    "slot": 455836394,
+    "block_time": 1791762189,
+    "pre_quote_sol": 22.924102981,
+    "post_quote_sol": 23.588909225,
+    "base_delta_raw": -7035334251195,
+    "quote_delta_raw": 664806244,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "3AVBznyPRXqx5EKWrp6KTacFzPkpYKJbgSRCn4jZjt37mJwXmN5o4LXE1azi3Byd5Z3BZ9of6jLgvKL6qWmBQfHV",
+    "slot": 455836410,
+    "block_time": 1791762193,
+    "pre_quote_sol": 23.588909225,
+    "post_quote_sol": 23.806236632,
+    "base_delta_raw": -2250411092515,
+    "quote_delta_raw": 217327407,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: GetAccountDataSize",
+      "Program log: Instruction: InitializeImmutableOwner",
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4UtHmziGSP7zJ3nqpGxBg8NVUwQzk2fyjCjAcqV7uqKt4MXgRdVis4d4ow63Pqaxeu1HnERCEeKkqsbmxtXxRAxb",
+    "slot": 455836449,
+    "block_time": 1791762201,
+    "pre_quote_sol": 23.806236632,
+    "post_quote_sol": 24.43215264,
+    "base_delta_raw": -6352514308968,
+    "quote_delta_raw": 625916008,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "5hhW25zktsrqYNjDKzyiTGvMu26ZPHZhtjvvSXFBEnjB5LzHBRnxKU9z1SbqgD6ffRs1bqNcm4LaTitzh2wLCq2m",
+    "slot": 455836450,
+    "block_time": 1791762201,
+    "pre_quote_sol": 24.43215264,
+    "post_quote_sol": 24.196976664,
+    "base_delta_raw": 2364989833481,
+    "quote_delta_raw": -235175976,
+    "seller_owners": [
+      {
+        "owner": "CdW5ukGcQyu6NCDexi3WV81JFjcWVRFtPAr84q23dX88",
+        "tokens_raw": 2364989833481
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "5cq7Zt5f4AG8ZiioTFRraZpiWQQBost7gGBPD7atacLgXhcU2z97ZrdP44QFVBijTiw8weVPSWonRCnrBrEhbsWw",
+    "slot": 455836454,
+    "block_time": 1791762202,
+    "pre_quote_sol": 24.196976664,
+    "post_quote_sol": 24.173495938,
+    "base_delta_raw": 237590851773,
+    "quote_delta_raw": -23480726,
+    "seller_owners": [
+      {
+        "owner": "FwV83iBikNvSA5hoGQSbo82WdZTZv7q9p5e3wcezHwik",
+        "tokens_raw": 237590851773
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: RouteV2",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5VEAJVtHqkqYys3JcdtxiDVVgBe9RhV2srjcQG5M1yBEyjAAFG8h2P5AaCPC4RqNPUSbaXDW7StuQT2JMUtExAyL",
+    "slot": 455836458,
+    "block_time": 1791762203,
+    "pre_quote_sol": 24.173495938,
+    "post_quote_sol": 23.697586202,
+    "base_delta_raw": 4873779895805,
+    "quote_delta_raw": -475909736,
+    "seller_owners": [
+      {
+        "owner": "2o7MHh878A4wx8cgivEVhvUFebK9bhL2CKWWmddLWN3C",
+        "tokens_raw": 4873779895805
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "46PXa7dHQDEakBJswx45PzW7ptV65zKefRZsURjusNhw4jCFLdxezg9NtZ9afouuNKJTM4Zpaqghz29nfmFa1nyx",
+    "slot": 455836466,
+    "block_time": 1791762205,
+    "pre_quote_sol": 23.697586202,
+    "post_quote_sol": 23.707440735,
+    "base_delta_raw": -101244083400,
+    "quote_delta_raw": 9854533,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4zE8aetvTrW3UCzZUMEsk1tGNNqbGkWDMBctkDpRK6wQXhvZC2vFn8Na3vjVZQ2NbD7pBsWaXtnfD7UPR8puvitE",
+    "slot": 455836469,
+    "block_time": 1791762205,
+    "pre_quote_sol": 23.707440735,
+    "post_quote_sol": 23.717345039,
+    "base_delta_raw": -101707114543,
+    "quote_delta_raw": 9904304,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: SwapWithSolFeeLog",
+      "Program log: Instruction: Swap",
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "65oJLmnkdkpaAz4WsHBNnhopBGXmS43yGRHaCUxf438EmSU55uN51rVGoJ4q7Ghsad4QNaEUiCrCuAVvK6gfepRt",
+    "slot": 455836470,
+    "block_time": 1791762205,
+    "pre_quote_sol": 23.717345039,
+    "post_quote_sol": 23.240109006,
+    "base_delta_raw": 4996760977457,
+    "quote_delta_raw": -477236033,
+    "seller_owners": [
+      {
+        "owner": "6w5XCNdoBQxsbYTH57vTxQDPKSoCQ9gwwipfHSATY6Bk",
+        "tokens_raw": 4996760977457
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "5ico5RtS25eSmJYHEvQmjLbacD122nX2NJZAEouqxHn7MwdwLzRwzqcqu9kTyiTJqWcCVhWeQFTrGQachyjkcv1e",
+    "slot": 455836506,
+    "block_time": 1791762213,
+    "pre_quote_sol": 23.240109006,
+    "post_quote_sol": 23.85903862,
+    "base_delta_raw": -6456874713645,
+    "quote_delta_raw": 618929614,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "39imnYg3p7kgLNZ59Chi6savnY7au3CwPG9MdLXejihFrG3Z51kJhjT8MGt12FR5Y5YLdSXiQ2gu534EUBT44DeL",
+    "slot": 455836522,
+    "block_time": 1791762216,
+    "pre_quote_sol": 23.85903862,
+    "post_quote_sol": 23.824148118,
+    "base_delta_raw": 358927083554,
+    "quote_delta_raw": -34890502,
+    "seller_owners": [
+      {
+        "owner": "B4Y6WLJYM7oT3gicrraB3VH9jUspkE72zAAzWpnfqpSR",
+        "tokens_raw": 358927083554
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "62uzYWWndCK1hHjqL1Rn6z1MUHYNFUsCDtrL3idEwHDKc6THyr6xPqWk38e3nQGToijv8qhVnBfHSGEP5w3GX88H",
+    "slot": 455836526,
+    "block_time": 1791762217,
+    "pre_quote_sol": 23.824148118,
+    "post_quote_sol": 23.757505157,
+    "base_delta_raw": 687256293246,
+    "quote_delta_raw": -66642961,
+    "seller_owners": [
+      {
+        "owner": "6UR3qehndSWA17oNxZpheBKCYAf14pXF5pzyqf6bxVy6",
+        "tokens_raw": 687256293246
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4oMDaJPpTY7GknjZn3R4ZmpQDcheNHbyPfS5YEeD4dnacjEodx1YLY59SdreiW1vvJ7STu5r6TjFCxrK3Sfv5qwV",
+    "slot": 455836526,
+    "block_time": 1791762217,
+    "pre_quote_sol": 23.757505157,
+    "post_quote_sol": 23.691076384,
+    "base_delta_raw": 687256293246,
+    "quote_delta_raw": -66428773,
+    "seller_owners": [
+      {
+        "owner": "HUPc6gSmNioH9XZQGPqvcw2SQMsCBKn77VB7uhj7GjE3",
+        "tokens_raw": 687256293246
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "352iRNvJAztPm5kAvjPTjj3Yxo9QxzAXRudDcCfg5dYrq6BQ14BAQ8krTmLWWx2R9VRWArptnoqxvL6mR1T8uBX9",
+    "slot": 455836528,
+    "block_time": 1791762217,
+    "pre_quote_sol": 23.691076384,
+    "post_quote_sol": 23.645415424,
+    "base_delta_raw": 473681832239,
+    "quote_delta_raw": -45660960,
+    "seller_owners": [
+      {
+        "owner": "6UR3qehndSWA17oNxZpheBKCYAf14pXF5pzyqf6bxVy6",
+        "tokens_raw": 473681832239
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4kP27PpSbP8f8D5dJFAdq2bSnKqRZUQ2ayQjZ4EZeWXtspXY2M9Qt9cZgTZG2zM9c4tGghkdwBvqCWXpzovSavfS",
+    "slot": 455836528,
+    "block_time": 1791762217,
+    "pre_quote_sol": 23.645415424,
+    "post_quote_sol": 23.599855387,
+    "base_delta_raw": 473681832239,
+    "quote_delta_raw": -45560037,
+    "seller_owners": [
+      {
+        "owner": "HUPc6gSmNioH9XZQGPqvcw2SQMsCBKn77VB7uhj7GjE3",
+        "tokens_raw": 473681832239
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3dPz7xjeuurYaGfPWeYEVYjTmz7XR35QX3h2PJvfqx3KMTWuqUgH5VmafFmLniJ81dF1uEV7RLShVQ1o3rPNMjS9",
+    "slot": 455836528,
+    "block_time": 1791762217,
+    "pre_quote_sol": 23.599855387,
+    "post_quote_sol": 23.463889199,
+    "base_delta_raw": 1430859821743,
+    "quote_delta_raw": -135966188,
+    "seller_owners": [
+      {
+        "owner": "iAciCHgKAwLDkduyQwEX4CHLNPKL1DsnYxPjV3NFZMa",
+        "tokens_raw": 1430859821743
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2ZSvuFgH14Eq9DB81jMowrAuxVs51dfpocEYic7iaq4x7MyMuCZwaEr2yK9rAbUcJgbo6cFAB7xr1Hchq1xvWBBV",
+    "slot": 455836562,
+    "block_time": 1791762224,
+    "pre_quote_sol": 23.463889199,
+    "post_quote_sol": 24.021071534,
+    "base_delta_raw": -5758807277393,
+    "quote_delta_raw": 557182335,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "jLrrEj5pbxiAdVQLnk84FBGV6euUbUS31Tk52UUmzp7sVYM9JLZyboWRDf9iKE7gWU6JT1fUbjjwtzCECLF2F4u",
+    "slot": 455836571,
+    "block_time": 1791762226,
+    "pre_quote_sol": 24.021071534,
+    "post_quote_sol": 23.997727171,
+    "base_delta_raw": 240065681140,
+    "quote_delta_raw": -23344363,
+    "seller_owners": [
+      {
+        "owner": "Ax77F9f7eib3JoaZ8yBfr67WbwzLf4YMtmZkmZAkEZA",
+        "tokens_raw": 240065681140
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3Nf9BYxuCqyUugvBgvfKAR9uTgK8wiByhxh9CR23cKfB9mo7pE97koJPRqfg2LTRb2J1keK8ucjb1Ez5TcnvDskm",
+    "slot": 455836571,
+    "block_time": 1791762226,
+    "pre_quote_sol": 23.997727171,
+    "post_quote_sol": 23.919591657,
+    "base_delta_raw": 805499827586,
+    "quote_delta_raw": -78135514,
+    "seller_owners": [
+      {
+        "owner": "9XwCmwDyES17Qj1DdNnt95HyPz5MWCuPPBpMjfTSSAN",
+        "tokens_raw": 805499827586
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: SellV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4kKA2kn7DCgf4a4gdebEB88Z1TyTAHs5gMwQULUCDoE2sQACPsKJmhnJWHEdh7BhSk7J5Fb4PtBesR1pcFfcPFtT",
+    "slot": 455836571,
+    "block_time": 1791762226,
+    "pre_quote_sol": 23.919591657,
+    "post_quote_sol": 23.554918509,
+    "base_delta_raw": 3770872485334,
+    "quote_delta_raw": -364673148,
+    "seller_owners": [
+      {
+        "owner": "2npiwsPoymCm5Qnh25BPtmc5enngp5M8r8GDqNMeDdXz",
+        "tokens_raw": 3770872485334
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "Q5aun95DFfcNRZvdhM82VDn1XkUAPdXA5YWLmn3mCzGxP9odZhUJy7xoDtpaBTfwfnJ8XtgnUjWwSvAra3rcxpX",
+    "slot": 455836571,
+    "block_time": 1791762226,
+    "pre_quote_sol": 23.554918509,
+    "post_quote_sol": 23.549170023,
+    "base_delta_raw": 59977063117,
+    "quote_delta_raw": -5748486,
+    "seller_owners": [
+      {
+        "owner": "4AGebFvxyvVg7qFgUVGvWj1MyvKwPwDGC8QSUd7LzcE9",
+        "tokens_raw": 59977063117
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3geBYQ8dH3tw4n92iNruxA7icn5SJXbBgSCNiyKGq3Naq1mHJx4fR5VXCgqRXHzqhNBDY4VY3Tsko7mWPnTzSBCp",
+    "slot": 455836571,
+    "block_time": 1791762226,
+    "pre_quote_sol": 23.549170023,
+    "post_quote_sol": 23.492549647,
+    "base_delta_raw": 591648172790,
+    "quote_delta_raw": -56620376,
+    "seller_owners": [
+      {
+        "owner": "5kGadrQbtuyi5KHDM69oVuFsUwsw98xopsRsRF3QnuFR",
+        "tokens_raw": 591648172790
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "23REbuW8cyi7xBd6QwcBG3fx5omJc3VartYEnuQr7DbKzyACMX6RYMtoQ7prHqJ1vxPeC3KdnpjG93yNSeD1CiKv",
+    "slot": 455836573,
+    "block_time": 1791762227,
+    "pre_quote_sol": 23.492549647,
+    "post_quote_sol": 23.471524163,
+    "base_delta_raw": 220118949413,
+    "quote_delta_raw": -21025484,
+    "seller_owners": [
+      {
+        "owner": "H3jjkq5zbgioaPeys4w5jcXJsPzctCE7yYdnNserZtMG",
+        "tokens_raw": 220118949413
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5sTLdTQ7MbDpZZ1Fu1c66DfunkvZ5wutpcHKKU8ZnYrv93pKf6us6fpicQN7oiQGuDP9fkLBrW9Ujw2xz2gpDchN",
+    "slot": 455836617,
+    "block_time": 1791762236,
+    "pre_quote_sol": 23.471524163,
+    "post_quote_sol": 24.103477847,
+    "base_delta_raw": -6517753185422,
+    "quote_delta_raw": 631953684,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "34qPFoEgqTXsJCEh8dze3WAyteiDyD9FaRh25AmrZEZ9DVDFpcSEv3YyJ1H2qsHCwXUDQ2EcZ92tEDQef25iBpxW",
+    "slot": 455836670,
+    "block_time": 1791762248,
+    "pre_quote_sol": 24.859048655,
+    "post_quote_sol": 25.35297458,
+    "base_delta_raw": -4783291887275,
+    "quote_delta_raw": 493925925,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: InitializeAccount3",
+      "Program log: Instruction: BuyExactQuoteIn",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "25wCcpC4NudkciwHQrcsNavP2D4x6h25RFyfYrZ66FfKGF8MM1rGSpzEevaQub8GMdvviKkuA4DgFvPtsSXHRBuT",
+    "slot": 455836670,
+    "block_time": 1791762248,
+    "pre_quote_sol": 24.103477847,
+    "post_quote_sol": 24.859048655,
+    "base_delta_raw": -7537934347357,
+    "quote_delta_raw": 755570808,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "3hoGFxu52uiyAFZ9i2b3Dv3Wn3eQLHvAKTf5vs7auCzBFgyzVPpLmfRe5xNptpytyFvGtKW476Mh5MdXwrGpJnC5",
+    "slot": 455836683,
+    "block_time": 1791762251,
+    "pre_quote_sol": 25.362829113,
+    "post_quote_sol": 24.868875956,
+    "base_delta_raw": 4783291887275,
+    "quote_delta_raw": -493953157,
+    "seller_owners": [
+      {
+        "owner": "2npiwsPoymCm5Qnh25BPtmc5enngp5M8r8GDqNMeDdXz",
+        "tokens_raw": 4783291887275
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "4xiMwn3vhWzKQAgHsrrJXY2BMzLzhQD1bB9zjAr3V6Hq8KY4ayK728EbMhrsP5ZxQxnyNskD1zQyUnMDJRqtALUY",
+    "slot": 455836683,
+    "block_time": 1791762251,
+    "pre_quote_sol": 25.35297458,
+    "post_quote_sol": 25.362829113,
+    "base_delta_raw": -93598312488,
+    "quote_delta_raw": 9854533,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BuyExactQuoteInV2",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2H6b1QTZnqPpcbSAttjpfpfoGMePdNQYd6DAMtSxpe5Zur2WrsKeHXWoEpAMREX6NdAkKDAX5nSBqZDyp23j9B4B",
+    "slot": 455836687,
+    "block_time": 1791762252,
+    "pre_quote_sol": 24.868875956,
+    "post_quote_sol": 24.336634371,
+    "base_delta_raw": 5280252202193,
+    "quote_delta_raw": -532241585,
+    "seller_owners": [
+      {
+        "owner": "DMPLHWASfSXZQCcEfnST11FExsC1LfAmx1xSHk5woGr6",
+        "tokens_raw": 5280252202193
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "ofUZ5no8avdBBMh2Mn8CBoywSP9vHRMMT2xb8vrvzbT9op6L5zx3iXQoJrKp4paLsePU9ZgvRXSntjtoVcBEcCF",
+    "slot": 455836689,
+    "block_time": 1791762252,
+    "pre_quote_sol": 24.336634371,
+    "post_quote_sol": 24.316796335,
+    "base_delta_raw": 199402064128,
+    "quote_delta_raw": -19838036,
+    "seller_owners": [
+      {
+        "owner": "8NnZCkC4woNnDk9UD3ZsZnww4XMMmnphx6Budt8FfeyX",
+        "tokens_raw": 199402064128
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Route",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4X3DLQ3q3dyvyQeyBoxNah1PCgNMevReAD2D8437hnJjHd5n2ir5XknoBnDJn7aDmgDYGbPHHW25N9dSFAiHDXzZ",
+    "slot": 455836713,
+    "block_time": 1791762257,
+    "pre_quote_sol": 24.316796335,
+    "post_quote_sol": 23.805364881,
+    "base_delta_raw": 5206654385430,
+    "quote_delta_raw": -511431454,
+    "seller_owners": [
+      {
+        "owner": "ErabFLPBf42F43mznPFSiKw2jXXdgwVwxXBG4rCQ5PTX",
+        "tokens_raw": 5206654385430
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "L6t6oP2LLhpdDQNkemxxw7WWJCJXkGTUaCLb526vUZPVb9JPWsn6yEP3J2AumraJfj1LZBERLHuB5fjwApkEi52",
+    "slot": 455836720,
+    "block_time": 1791762259,
+    "pre_quote_sol": 23.805364881,
+    "post_quote_sol": 24.295285309,
+    "base_delta_raw": -4988238208481,
+    "quote_delta_raw": 489920428,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: Buy",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: Transfer"
+    ]
+  },
+  {
+    "signature": "vRK5j9ZGdR4z3hU6foztzUXBvozFUYHEnwGZjhKZL2wUZ8R5s6YHBLJZc4iUdPPLcqkMdcvhErHxsVhWjTT9P4e",
+    "slot": 455836725,
+    "block_time": 1791762260,
+    "pre_quote_sol": 25.08992133,
+    "post_quote_sol": 24.58154696,
+    "base_delta_raw": 4988238208481,
+    "quote_delta_raw": -508374370,
+    "seller_owners": [
+      {
+        "owner": "42pAHoNqWq5qKYLTy8XmJdcvBMDweDd1ejdLXwZVWwob",
+        "tokens_raw": 4988238208481
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3c2YuXk9nvfQ6djjgXwYvxP1toPrPN7Kq7eG5H6mKzwSDmNSi4ACM1dqgtjD3tksg4cPwbP6NhN1nDZY4DoeBHp3",
+    "slot": 455836725,
+    "block_time": 1791762260,
+    "pre_quote_sol": 24.295285309,
+    "post_quote_sol": 25.08992133,
+    "base_delta_raw": -7848785393843,
+    "quote_delta_raw": 794636021,
+    "seller_owners": [],
+    "instruction_logs": [
+      "Program log: Instruction: BoostBuyAndBurn",
+      "Program log: Instruction: Burn"
+    ]
+  },
+  {
+    "signature": "2ih6zb1vTgpQ9SH4xuz4FQ28aMawwu9u2UHoLeQhNgoGXwJXv5TvLKKG8Fjj8CJYM3QuLnSRmj2vpHecuCM7wHWY",
+    "slot": 455836755,
+    "block_time": 1791762266,
+    "pre_quote_sol": 24.58154696,
+    "post_quote_sol": 24.042133247,
+    "base_delta_raw": 5426046676790,
+    "quote_delta_raw": -539413713,
+    "seller_owners": [
+      {
+        "owner": "FBjT2apnGWzb2nP4cc6uUs7VxVKANK9iDhyAowdt7jzF",
+        "tokens_raw": 5426046676790
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2u2xfmbrqqmHDKB54bK7JMWqe64M6ZsQ7rhgP3t8mZMmPZt9eGkv5o1cDXKD9MTgg3CeHcxQQFLnSkjkDETzsoap",
+    "slot": 455836755,
+    "block_time": 1791762266,
+    "pre_quote_sol": 24.042133247,
+    "post_quote_sol": 23.53539653,
+    "base_delta_raw": 5227046920186,
+    "quote_delta_raw": -506736717,
+    "seller_owners": [
+      {
+        "owner": "5cBWE7XwR85axxdvymCNpRrUjuh5P6RbAACn8svmVGhn",
+        "tokens_raw": 5227046920186
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "48KjZi57hA4bZwdxsoQnSD8txDdbG5GbCUXMxMnLbYJbtbvnvPKW5UL7qzRyCxAcosdsBAaERW8KV4TsaXGpuZmT",
+    "slot": 455836755,
+    "block_time": 1791762266,
+    "pre_quote_sol": 23.53539653,
+    "post_quote_sol": 23.067002063,
+    "base_delta_raw": 4947456513021,
+    "quote_delta_raw": -468394467,
+    "seller_owners": [
+      {
+        "owner": "7QxFyPZHodDY4pMpjRLhzhfd7mBU3VynCvY8ucBfmmJT",
+        "tokens_raw": 4947456513021
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4PJ7vYDE5evxW5f8QHM2cncWntPWGzBhAKVxSJFdB82eSMnpjF8QdbrFNQEvzxpxotfZYk9x8NQCcgiSemBmZ8M1",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 23.067002063,
+    "post_quote_sol": 22.581978592,
+    "base_delta_raw": 5244725977315,
+    "quote_delta_raw": -485023471,
+    "seller_owners": [
+      {
+        "owner": "FdrKoSr5yyKhsLh3Y3gjcEWhKcxwHdCN5GP8R6JFJBK2",
+        "tokens_raw": 5244725977315
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2GmHBvVkjs32PajQtViAXWf4Wz2byQcxzMbTfvckuWpTxY74aGpwNiPRR53FojMsy937kPHzHkHAqDWqEUKUVMRt",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 22.581978592,
+    "post_quote_sol": 22.296881065,
+    "base_delta_raw": 3142396257984,
+    "quote_delta_raw": -285097527,
+    "seller_owners": [
+      {
+        "owner": "CmBJ2ep89Byh6JUrQjzRmGR1WUs6eMgpmrEvx9KfULCn",
+        "tokens_raw": 3142396257984
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4kLBP5Fr2eeTbUq89Sj4vLZ7ZoedvddJ5q7j6hNdGmrVhyRJp35ZW35RFs5T5CcbN2ZJwLiuiHpJk9sHVySb1XER",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 22.296881065,
+    "post_quote_sol": 21.784504121,
+    "base_delta_raw": 5761930117172,
+    "quote_delta_raw": -512376944,
+    "seller_owners": [
+      {
+        "owner": "Gpv8pWPATTSmm4n9KkuEb3mcLeNs3snDCkYYYFcZEzHg",
+        "tokens_raw": 5761930117172
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4RRNKdVN82XtWxLtHV9wNsx6CS1H2NLbsAGPwWJ4NJK54XyVV2qh8wAyCNP3Vnc4easT8zkNjvsHsEGJuVRXQ7z",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 21.784504121,
+    "post_quote_sol": 21.328119194,
+    "base_delta_raw": 5260063678197,
+    "quote_delta_raw": -456384927,
+    "seller_owners": [
+      {
+        "owner": "2LpeHfgYFiYK3TBHQGDa2woXJQek7FkjEu1Q3NAW9t34",
+        "tokens_raw": 5260063678197
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2HtpMPjRvsuF2RjdRDZvTicxU6yKUtq7VKG3oPjvk52reKUaS6HT9wsYwjVqpFEizGAHGHsvozqWb69HbzmdXsQT",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 21.328119194,
+    "post_quote_sol": 20.829796458,
+    "base_delta_raw": 5886181449166,
+    "quote_delta_raw": -498322736,
+    "seller_owners": [
+      {
+        "owner": "2ovKsws4ssuT5cCgpxQi9DjbWh7j2aoJF8NVJVnNeviK",
+        "tokens_raw": 5886181449166
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3986YHL57oLyAaF5C4B7sWpJPGwihK84saJQq4R6xqf4ecM3EpZSEd9JQtTnwxqjBPinMb1ffXchT7MG7e3wM43d",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 20.829796458,
+    "post_quote_sol": 20.801834931,
+    "base_delta_raw": 334809705141,
+    "quote_delta_raw": -27961527,
+    "seller_owners": [
+      {
+        "owner": "GkRobPKWLTF6qPZTt9tyf84DAXsy3TybRWFw83A2Layr",
+        "tokens_raw": 334809705141
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4NqzMY21J7fqF7Thh7J9h8BsCL1MWf4tk3R52MtwG542eBewXS5Vx7KgJUQU8ggqmSYbgwzj5NNFy2kJf6mxsUFA",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 20.801834931,
+    "post_quote_sol": 20.414089104,
+    "base_delta_raw": 4693651280870,
+    "quote_delta_raw": -387745827,
+    "seller_owners": [
+      {
+        "owner": "8P9bGotjRL6KM6DTc4koJQiGKXUoBQmHSekn7MhAuYy9",
+        "tokens_raw": 4693651280870
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5KrCzsiqkKj6tqwkYmghGzFbVi6yDA1nqxS38WhRzAVhAeFNcHTA5FMGQ49Ag76j4NSA5wztZfBFSCK1rBL86dgF",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 20.414089104,
+    "post_quote_sol": 20.176588181,
+    "base_delta_raw": 2922550795748,
+    "quote_delta_raw": -237500923,
+    "seller_owners": [
+      {
+        "owner": "Hg1xMe1CQ65S9YxA1DRKMW2VA6EgGTWyX7xhoZRVrnj4",
+        "tokens_raw": 2922550795748
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5GDxbSQnpdoPiKS6jGWQWFh7tBSCdhiKY3h18vaVA9Y7byeFSZ2GirfkVvJeir7pCAhvZxJqL2YRYHfvgohT81Uu",
+    "slot": 455836777,
+    "block_time": 1791762271,
+    "pre_quote_sol": 20.176588181,
+    "post_quote_sol": 19.714280977,
+    "base_delta_raw": 5795645010038,
+    "quote_delta_raw": -462307204,
+    "seller_owners": [
+      {
+        "owner": "6GSrRXhGeNnPXiG35kExDSzypwHuKZ443AKK1njcJvBG",
+        "tokens_raw": 5795645010038
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4BwpCpyh83Q4Zs988UM1XH48NQydWTgDEjVSZbyUXQecKezYbochRUA57Pr1KPLJavwec6U8X9DRZ5XkEpREbf2F",
+    "slot": 455836778,
+    "block_time": 1791762271,
+    "pre_quote_sol": 19.714280977,
+    "post_quote_sol": 19.327604716,
+    "base_delta_raw": 4959018985376,
+    "quote_delta_raw": -386676261,
+    "seller_owners": [
+      {
+        "owner": "4cPsoPG1UtwMaQ3VbKpF23GDZrZbFepSEJaVnGpE3SxN",
+        "tokens_raw": 4959018985376
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "o2sJU7waLBiATdRa5nJvENPdaVcPwR765bFEEbiffAkPMWokpMdV4qYfVw933K3FNM4Eqc9NCSAPsgVgGWdkP89",
+    "slot": 455836778,
+    "block_time": 1791762271,
+    "pre_quote_sol": 19.327604716,
+    "post_quote_sol": 18.931742215,
+    "base_delta_raw": 5185643264288,
+    "quote_delta_raw": -395862501,
+    "seller_owners": [
+      {
+        "owner": "xdjcKubnhmH7HKkeP7SUsGa28Hv64sKaALPX3j2f5z4",
+        "tokens_raw": 5185643264288
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4d1b5DFk4Soh1swbWUfwyVk7ssqrJJRNxRQcZJaZNpYrqgjaHKt6LYyjwKgpPK7zVCnCH9QVTHFY1gNjYPD4VRaY",
+    "slot": 455836778,
+    "block_time": 1791762271,
+    "pre_quote_sol": 18.931742215,
+    "post_quote_sol": 18.826151434,
+    "base_delta_raw": 1402249268639,
+    "quote_delta_raw": -105590781,
+    "seller_owners": [
+      {
+        "owner": "9bsvKTNhMYTGzQ47VRmpsGpyPdrethfYhHpMLSyXtxKk",
+        "tokens_raw": 1402249268639
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "67a78veV9mfZX1R11eCakpUSyamZsbkbu6fHGvSJRgdbNznTzamsesU1JWVyyQcvym4BnCHeQ9xupw2kwpEDz1a7",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 18.826151434,
+    "post_quote_sol": 18.362176925,
+    "base_delta_raw": 6259248243519,
+    "quote_delta_raw": -463974509,
+    "seller_owners": [
+      {
+        "owner": "AwKpd6igjHJ6nhXk2dsQh4irdFDRMSAJdM8ArKbMwdvu",
+        "tokens_raw": 6259248243519
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2QdMwbDqLaeijLMvG8BasRKWdR5CwhvFvA4V8UJgzEuUaDC6toYTHVxwuPs4EhvNZNKebpMS6qc3h4zWFDeiMf9F",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 18.362176925,
+    "post_quote_sol": 17.959531132,
+    "base_delta_raw": 5564351681688,
+    "quote_delta_raw": -402645793,
+    "seller_owners": [
+      {
+        "owner": "4qcjbiGJ5ipUdCVTNbVDZFkKoavqe1FgCY8raDVwV94A",
+        "tokens_raw": 5564351681688
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "RV6QaTmPstaS7jbyNv1aAyVn35ykJcvEMP5WQJi5FQqLzY6AWxDeu4XnVqqPSzE77DfakLJWBoBEyuQhXaRcEYH",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 17.959531132,
+    "post_quote_sol": 17.559050754,
+    "base_delta_raw": 5660923856079,
+    "quote_delta_raw": -400480378,
+    "seller_owners": [
+      {
+        "owner": "2dCtU1HUqwu2bX7SndBmWRvfi6H7aAuA5yRKJxC3ZnoK",
+        "tokens_raw": 5660923856079
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2uRuMmondHYWbPAopFoeBF5hrYNgACENjzfy3L1V8bQN5qbcUuLDK9A3vN9DDDGjPFExyRQ4DbESpeRPK3vegD2H",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 17.559050754,
+    "post_quote_sol": 17.150224868,
+    "base_delta_raw": 5913558275359,
+    "quote_delta_raw": -408825886,
+    "seller_owners": [
+      {
+        "owner": "DKRQJg86LnudFRSbQtpi1oLMhtfEX7Sp6sXGccavuXwF",
+        "tokens_raw": 5913558275359
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5hu7NDFe4v5aqpXCqFjjSXTGio1koqJd9aAxfyd55E9YRUeftDo4d8SGHdE1Tvf64NpCdPGdtHAKQ1VDNkmzZRdn",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 17.150224868,
+    "post_quote_sol": 16.810742767,
+    "base_delta_raw": 5017369026874,
+    "quote_delta_raw": -339482101,
+    "seller_owners": [
+      {
+        "owner": "DFwXZTLs2Ej3ZwcaA6WUgFujjXhjQnm4RysFnyZiG3Zv",
+        "tokens_raw": 5017369026874
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2P4oYyG3XmwKGcKWGz3AgCgSSyUeqB46act1CFb6cperjLyb4DUqGdYEF2e7vC72n6PwLgG6rNkGG1DYHGwPkM3r",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 16.810742767,
+    "post_quote_sol": 16.404825444,
+    "base_delta_raw": 6130835525421,
+    "quote_delta_raw": -405917323,
+    "seller_owners": [
+      {
+        "owner": "8zNH97v51PaiMYmEb5FgnAJ6BSKpwWnd1CBcPUdDnVmP",
+        "tokens_raw": 6130835525421
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4SBT1f3dLqJwaHiWxH9YLH9WepVVhAL3xkADWLjDabZB7PZ5orsnM2wSGx4eAxxjNdJHGWLuk6hzmtNKeKmGYJ6u",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 16.404825444,
+    "post_quote_sol": 16.001656103,
+    "base_delta_raw": 6236046165664,
+    "quote_delta_raw": -403169341,
+    "seller_owners": [
+      {
+        "owner": "Fbronvfs8p7SzuXJXw38RepYyn1bUBKmUDDquNkDqvhB",
+        "tokens_raw": 6236046165664
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2urhKJVzS4hEkuVFFNnwDj9q5J8NmMysPcjJ7qFkLiTLzSoJX6hq5rYBKQsKFNoiwXf7JLya74o5oA1dxp8QVfFU",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 16.001656103,
+    "post_quote_sol": 15.871672369,
+    "base_delta_raw": 2042574381283,
+    "quote_delta_raw": -129983734,
+    "seller_owners": [
+      {
+        "owner": "BqoPDAcpUypYmRb7Bzjby1G2omkJdbtpsuapJfowsznh",
+        "tokens_raw": 2042574381283
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "62H3uaHtjze46CQMY5ZRMwrSeXHzTgyWnxXxJnyb9js3ZQdfDGFCQq8R5om99XZ6pa8Ray8RLJTnrDuxV6ootc6Z",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 15.871672369,
+    "post_quote_sol": 15.533926467,
+    "base_delta_raw": 5382336282760,
+    "quote_delta_raw": -337745902,
+    "seller_owners": [
+      {
+        "owner": "9FH5znXr1wESLJMDkqkGhPGQkjNLdHLj1T4jsTcqCyX9",
+        "tokens_raw": 5382336282760
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3F6p1AWbzTWn26yoT3Lu1bMLbPuyJkzy7cEDfYdw1ecHGrHTcB1dfjFxPeQ7HipH5ZAgeub5iGTfn19Ww2CsHJgG",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 15.533926467,
+    "post_quote_sol": 15.206832781,
+    "base_delta_raw": 5318283581123,
+    "quote_delta_raw": -327093686,
+    "seller_owners": [
+      {
+        "owner": "3i1okowsX28Xkq7D8jyRhxuQYLDsEGqFUB6zahDfgFuc",
+        "tokens_raw": 5318283581123
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5BsMvKcvzNkqAkG4wFtVY72GVGmQMtFiCoHABzfCXbWYRL1qFuEFqkdRiorVcVagrWBnMScSrsHTeJQe3bFucxni",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 15.206832781,
+    "post_quote_sol": 14.882520966,
+    "base_delta_raw": 5378866448120,
+    "quote_delta_raw": -324311815,
+    "seller_owners": [
+      {
+        "owner": "FMKQc698hobP6D1XvWUBBBJ1NkfYko7djpfdJ23tkJep",
+        "tokens_raw": 5378866448120
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3q36WqwCeTUwgBrc9EmJg7zkL8GpAMqEok3a4rJkc9gGcMeNFJ1mcH7bfNGF2Vf54ywxaeiMvgE2fq38VJ9PwMmj",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.882520966,
+    "post_quote_sol": 14.821051568,
+    "base_delta_raw": 1031637443233,
+    "quote_delta_raw": -61469398,
+    "seller_owners": [
+      {
+        "owner": "Co5Vw2UhMMx4VtN1oZmbHRH78tcvFDAJJd1Ws5S8Rwaz",
+        "tokens_raw": 1031637443233
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "PV8uv2Um76BosoG7AiargpPLirKALQ5FEWJmmcku4CJL8AGYWi7ZWsZwQFVE1iEYncQBPZrdyuSnjFq8xC8Bbcm",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.821051568,
+    "post_quote_sol": 14.736977072,
+    "base_delta_raw": 1417372484489,
+    "quote_delta_raw": -84074496,
+    "seller_owners": [
+      {
+        "owner": "GUA83oZteeVbFLiUZDKa65yZvKLHTfFTi7mSHSM2c5MV",
+        "tokens_raw": 1417372484489
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3b8HuEsr4LCuuSRumsvsY3ahJ3VFGvipsU4xBwFzVjXdbYCGtuwdWSbN87k9h9PYtgHySMLetS3x7wy6CPVETHVE",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.736977072,
+    "post_quote_sol": 14.657682726,
+    "base_delta_raw": 1343560677387,
+    "quote_delta_raw": -79294346,
+    "seller_owners": [
+      {
+        "owner": "BycV3bxpPHNsSb4vcvJ82ixih1zqYPGtK4pVNeejSiHi",
+        "tokens_raw": 1343560677387
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3RvAzjpxRSAZFKaj9cw67sQEsKSPrQ1asT9LnoPgU3NcpTgPM5UE5Ze6ngwMhdrt1heGgMJfE5K3TzeqVVoKHxJS",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.657682726,
+    "post_quote_sol": 14.498718055,
+    "base_delta_raw": 2713498494874,
+    "quote_delta_raw": -158964671,
+    "seller_owners": [
+      {
+        "owner": "ELaaEmoeByXmA8cSj9uaEUjAjwS1KmVdPPjFKZUF8QrW",
+        "tokens_raw": 2713498494874
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "25itp1oZdTMFAaTrrvVoQFnYECxNRzbxCc6h4okQ3kcGsM1iX6wnB6XBRhR2fgkZ9TB9Ayux84EFCRtWFtvCMVBa",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.498718055,
+    "post_quote_sol": 14.319844479,
+    "base_delta_raw": 3085677592707,
+    "quote_delta_raw": -178873576,
+    "seller_owners": [
+      {
+        "owner": "9BvkeGzyCRef8Ehy41pJei1NevTFgSpkyP6QwNsa4U6",
+        "tokens_raw": 3085677592707
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5KaBjzPjsznYszZbpGLjicAoPKFhZZbGPumbdZLZqdh2V88v17LS2E82Wo9xKddhpT9RBSKKvHuWe9tqAdtTw3de",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.319844479,
+    "post_quote_sol": 14.161588911,
+    "base_delta_raw": 2759000514262,
+    "quote_delta_raw": -158255568,
+    "seller_owners": [
+      {
+        "owner": "AVnfQ2dwkpQ3qrdjpLeJg4ePKgdz4v36sgGgR6mwCMsZ",
+        "tokens_raw": 2759000514262
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3TqBqpAtVBjXWGwkzgCMZhJrfaZcrws6P3TQRtqCkEFrGA1wDptvFWXaFqpcJ5LZMjusZgwevibCjwy3XH3B6Fnz",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.161588911,
+    "post_quote_sol": 14.06431983,
+    "base_delta_raw": 1709465708188,
+    "quote_delta_raw": -97269081,
+    "seller_owners": [
+      {
+        "owner": "H4d4m7iQAvkf2SJ7eWL4SzFWkNfkCGameFvxiqztRhYB",
+        "tokens_raw": 1709465708188
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2VmArje5JMJaR3JpFc372WnYpT9F5m4VnojbD6EEKbfyxvwmJZJBcneBPJXuTqYu4CjtEA1Sib5W3njESNHpAX44",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 14.06431983,
+    "post_quote_sol": 13.757275511,
+    "base_delta_raw": 5465809489747,
+    "quote_delta_raw": -307044319,
+    "seller_owners": [
+      {
+        "owner": "Ah4wY5NWnJdFnkobwHVihHy9RnfEUbz3uDqYkQURzLyw",
+        "tokens_raw": 5465809489747
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4ymuq6JghnkxxNAz5YE9uSDeiL3JgLcZF8WvoJHMtaimXQmZzeQQrxMoyaPFW7y1MDcs9XAFqQS6Da4PyHhedBpB",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 13.757275511,
+    "post_quote_sol": 13.608601944,
+    "base_delta_raw": 2685263860008,
+    "quote_delta_raw": -148673567,
+    "seller_owners": [
+      {
+        "owner": "62W2PcoswJ5vaYZW3AZvUcYayeJA1LxUFfC5i3UwWHtQ",
+        "tokens_raw": 2685263860008
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4ar3bL9u3peuepZqjxXfn3FUEYCqLutPVC31oA4XBiG9eA4jjex3BT7FyKu9bXxkZqxaEVSrhAiiU9ieKV3To99G",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 13.608601944,
+    "post_quote_sol": 13.331038251,
+    "base_delta_raw": 5082341181623,
+    "quote_delta_raw": -277563693,
+    "seller_owners": [
+      {
+        "owner": "7pN5Ur4DuNfPAkyC873F3mxxAiiKh5uTryxMPCowStum",
+        "tokens_raw": 5082341181623
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5wNLMvU2EzaqV3Fr6GsSFLDAzGxKZU1r5R6w3kgCZq8kAkf6hK5t8Mu92K57zrjLcf8DB5yJVvHZ1xjqVcRsAVHv",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 13.331038251,
+    "post_quote_sol": 13.05648677,
+    "base_delta_raw": 5117785280763,
+    "quote_delta_raw": -274551481,
+    "seller_owners": [
+      {
+        "owner": "4nRr3aG24G5qy8eqSUV5E4xMWKgUxP6pHngrbHMFNCBJ",
+        "tokens_raw": 5117785280763
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2wbFPiSvun5GGZaYZ5fb1oby8yD4oBxaccigMsr9LYiCXLVxZQbV2r3etdv78kmH7FBrENxX3TdXPgmqb7yWbR5T",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 13.05648677,
+    "post_quote_sol": 12.912441221,
+    "base_delta_raw": 2721945636856,
+    "quote_delta_raw": -144045549,
+    "seller_owners": [
+      {
+        "owner": "FhE6JVEZ1AvWrDG1QceRUovhX5mW7aJLqBY93oWsb7h1",
+        "tokens_raw": 2721945636856
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "23X41jK7AscBaoCKjoiVG8dp9E8Xui74PhMmBJ1zoC1mppAJ46GxHpcGd8DiPSd9hKkGJmFWmnz5EybHK4ykdFzH",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 12.912441221,
+    "post_quote_sol": 12.613943245,
+    "base_delta_raw": 5723220420184,
+    "quote_delta_raw": -298497976,
+    "seller_owners": [
+      {
+        "owner": "8VUCiovGCsRe4SutWuwuENcgnyxuZtU945zm4hrgJnze",
+        "tokens_raw": 5723220420184
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5nAd7M1ekQqK7ViGr4uvpF7LAr1s5474JmHEV12F7qJqaLd7HtkwdU9ivrjbwaAtzbReo32c76HHm3kJD4Pd5PjJ",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 12.613943245,
+    "post_quote_sol": 12.299401306,
+    "base_delta_raw": 6154576066664,
+    "quote_delta_raw": -314541939,
+    "seller_owners": [
+      {
+        "owner": "AHQZeqF1CVP53yFfnmBjMvkMW99hVKjMjuAf9Z3Dw1ge",
+        "tokens_raw": 6154576066664
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3fXZftbxAyDwbAPUcrzGvWBCVDHMPTLdcdBQpFpRCZ1mEcP6CmJHydqVWhAUWUZCKxbx4MNSTUyBHYxq4MfZqbip",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 12.299401306,
+    "post_quote_sol": 12.015337582,
+    "base_delta_raw": 5670639249125,
+    "quote_delta_raw": -284063724,
+    "seller_owners": [
+      {
+        "owner": "Getj5fcetgYJLhEHSHxCp2iuwquXNE4tvsXJBKqRe6B6",
+        "tokens_raw": 5670639249125
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5KZG2MEK83gR1aaqrN2oEdnSyZ3GVeBwoQh4LCafaAiD3163qSwUehKderkzBgQY8B6UmwbW3wYJZjVD2KxmQNBV",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 12.015337582,
+    "post_quote_sol": 11.684346167,
+    "base_delta_raw": 6746309660387,
+    "quote_delta_raw": -330991415,
+    "seller_owners": [
+      {
+        "owner": "CQd18wdmAhRAz2DBciGWyi8FpJ3f8GM67pw6o7UhNqkZ",
+        "tokens_raw": 6746309660387
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3KASmivwNvoBySCJ1FxWi7UVPQn3iaBCGPFw7dmLouvpafqAMsxnK9JpoV48vqwagTxm5vcXR2hq7Y8eXSeaH7Z1",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 11.684346167,
+    "post_quote_sol": 11.407075086,
+    "base_delta_raw": 5769963914464,
+    "quote_delta_raw": -277271081,
+    "seller_owners": [
+      {
+        "owner": "9hDfYqTnSqBvuyrPfys4nGfQwwpNQu1Z5aaqi5aKzwFS",
+        "tokens_raw": 5769963914464
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5XteWfKZj25kiNNNd2qSnueV1pCrH6Z8ZADdvpXgFPeb7nSCy42KwfQj63gnDv4QjgEXKxyGiHerzncgch17HqqA",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 11.407075086,
+    "post_quote_sol": 11.154914886,
+    "base_delta_raw": 5344093719173,
+    "quote_delta_raw": -252160200,
+    "seller_owners": [
+      {
+        "owner": "BXqnGwyNY3smHWJwTZyHPTSYc4Z6Ug9rFzAYLamiYS1d",
+        "tokens_raw": 5344093719173
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4kCdjngFiDjKQ3aUEDqCyqPEcGH5UAWH6NmrqL7QMQFu8PeMpXWLyfx7u5FnhqHgwwVMRJg5BJgERCti8UJiNhtf",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 11.154914886,
+    "post_quote_sol": 10.870076955,
+    "base_delta_raw": 6150585692386,
+    "quote_delta_raw": -284837931,
+    "seller_owners": [
+      {
+        "owner": "CSagBt98zBrvAS73kN3QsHwjFaJ1ayjiXN2pDA2gKfK6",
+        "tokens_raw": 6150585692386
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "37BxBwNKUj16yzQ5KdK4vADNxbGYWt6FFiabTT8qKC5dtg1HQ5EZmKMyV1pC9YeYnd1L92b7W4qFzsiFwNYmwpjY",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 10.870076955,
+    "post_quote_sol": 10.642400113,
+    "base_delta_raw": 5005569665952,
+    "quote_delta_raw": -227676842,
+    "seller_owners": [
+      {
+        "owner": "BjfGPDuEEz54HZvvwfafBNuM8NdWRKFd8nkVndC7zYs5",
+        "tokens_raw": 5005569665952
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "iNvY3BrAqchBNWP4DmssTLPuiiV3L84eAnAU9TYJoDwbbFw2kHXM4mwMjTn2aseTm7PpdhWQUNRPc3qqFTRsRtG",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 10.642400113,
+    "post_quote_sol": 10.41008389,
+    "base_delta_raw": 5191508162674,
+    "quote_delta_raw": -232316223,
+    "seller_owners": [
+      {
+        "owner": "5YtdTfX1tBn7N3nx7NkGZ3xo7YHHa1gQxfyJp8CNJMFf",
+        "tokens_raw": 5191508162674
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2UoxxBa6xvZBpXpguMNdjVLyH4756V7sarWLHVQHvMGFxwP7HfSrLKV3UkqCXqfp4AMfkcEx7rodMrzyeNfvYECL",
+    "slot": 455836779,
+    "block_time": 1791762271,
+    "pre_quote_sol": 10.41008389,
+    "post_quote_sol": 10.15131389,
+    "base_delta_raw": 5885069129189,
+    "quote_delta_raw": -258770000,
+    "seller_owners": [
+      {
+        "owner": "7zk7gQgYszHCWqFUTZ7DsTyEUka9pqQ9cYRdFjy7k3X5",
+        "tokens_raw": 5885069129189
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4DRJz8ao2M5dbTbnHnye2YwJS3Mr9UCQH6wo325qtsgauhdCnfYZ51XxAaNSSnkPHFRbsv5GkZYnYi1mDbRG8U8U",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 10.15131389,
+    "post_quote_sol": 10.025796907,
+    "base_delta_raw": 2894302472343,
+    "quote_delta_raw": -125516983,
+    "seller_owners": [
+      {
+        "owner": "5N317U7epCW9D9qu764294f9cdyv1kxPRNWkp83PwVXB",
+        "tokens_raw": 2894302472343
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "oxTqnTZhnxoLgQQV7iWTM3krYvaXkadG8JbPqBQvXPvrSqyR1BvZ63kF98i6jxmJoe5DJdTfnrKjVZJ7rpfbPjY",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 10.025796907,
+    "post_quote_sol": 9.768042703,
+    "base_delta_raw": 6026867698753,
+    "quote_delta_raw": -257754204,
+    "seller_owners": [
+      {
+        "owner": "HA98qRayBcUfmEgbxtPQ8G3RBsPgp6M5cqGxtKmonMkR",
+        "tokens_raw": 6026867698753
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4pcdnn9bQ5DHeevgHv79D5apXcykRwuPgmmtKNyorQ4wzuYQEjtrxqgUogP4H4pnqxWyvScGVgMrUyM4HExNRGdR",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 9.768042703,
+    "post_quote_sol": 9.571515125,
+    "base_delta_raw": 4672137388126,
+    "quote_delta_raw": -196527578,
+    "seller_owners": [
+      {
+        "owner": "3F53rgW2FALy5bfNZNRLhxGR6W7usksJzaHADxtx7orK",
+        "tokens_raw": 4672137388126
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2ESTAYerqYWwJntzH2tCu1w2P9phwfMqRtSvVGC4bJ82Bmp8oYSRTbvoh8Vy5ZHAmWqZQbWQZ6UQPRiqLyEVtb9K",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 9.571515125,
+    "post_quote_sol": 9.361605727,
+    "base_delta_raw": 5065552838025,
+    "quote_delta_raw": -209909398,
+    "seller_owners": [
+      {
+        "owner": "EsuJYrGaLSrLNzMND11KocTXe5nnxoCEJrLV1bJ7P5k5",
+        "tokens_raw": 5065552838025
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3ceTPRTqrBJhzPvXSJf8ng58A8jA5F9PYDqbojt7vpwMt4wDicVToyosvSCYFUiehXxby8ScLuQGK2Jpnzkjinqp",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 9.361605727,
+    "post_quote_sol": 9.133501542,
+    "base_delta_raw": 5594890221823,
+    "quote_delta_raw": -228104185,
+    "seller_owners": [
+      {
+        "owner": "C3G3QNW3FAQhzct23StE5XHiq81xaYQnybRUMJ4QJnSR",
+        "tokens_raw": 5594890221823
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2zGD3tQNNjc6XHiH6XbfVcjoejKqzxj76s5eR28icjHrau8f3YB4XTLAzT8Me59pLVaDmSCJJjwKUFn2R9tete8F",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 9.133501542,
+    "post_quote_sol": 8.904001518,
+    "base_delta_raw": 5726390949060,
+    "quote_delta_raw": -229500024,
+    "seller_owners": [
+      {
+        "owner": "Ui8gmvuTMs1Lkt2bd49Ar33RExJMpL2b3oh4i8gXjAt",
+        "tokens_raw": 5726390949060
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4a9FtFCDts9y9y69mnuDaMJbHbF7PDcfs8dkEGZmmkNguW6zopsRWz6or8T2n6HMqLcapkpYdL3UbeAKWhLyYwy2",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.904001518,
+    "post_quote_sol": 8.689876498,
+    "base_delta_raw": 5432984897820,
+    "quote_delta_raw": -214125020,
+    "seller_owners": [
+      {
+        "owner": "Ff1QC4ZBamPKrh3yB6bAcXwWy4mgEXmvS9CHrqHUXjt9",
+        "tokens_raw": 5432984897820
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3iuor3p9wCSFBTpdhmij4J6g1NiT1ZBodCsbGyqpSafLxM7ccsRyASgN9CnpgV2FAUWX4mGAMUYHj3wvpakhuhPg",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.689876498,
+    "post_quote_sol": 8.473209697,
+    "base_delta_raw": 5588379384336,
+    "quote_delta_raw": -216666801,
+    "seller_owners": [
+      {
+        "owner": "FeCZjtgaDS1JgYfM82rA7byVKCCBkmZpc738VzG8NaKn",
+        "tokens_raw": 5588379384336
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5aejiCQVNJL66fjTbi1TiN7eeqFhWP3C4i4x8Vp79miCv1uCedyEfiKeakkknRUaCidRUFMifwUVGc9YmQRXPMzx",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.473209697,
+    "post_quote_sol": 8.263473083,
+    "base_delta_raw": 5498888975866,
+    "quote_delta_raw": -209736614,
+    "seller_owners": [
+      {
+        "owner": "95JVwGvBUycxm1r6Xn4GupREFgxzZ8oNqrgQNW8XHsbj",
+        "tokens_raw": 5498888975866
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4hq7Jc7TiGQaEkUx4zqmZaWu6ujRbYoX8NdpSNwUv4AjrZahfo4ftWaD6SCX9zfFuZ8CZVxPYJhssNSjcpTmza6N",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.263473083,
+    "post_quote_sol": 8.209100416,
+    "base_delta_raw": 1440144761478,
+    "quote_delta_raw": -54372667,
+    "seller_owners": [
+      {
+        "owner": "Cr4hxutJ92WDFAkEdEG8ZyPhbAeXya6oBE2yJ7DCbXvV",
+        "tokens_raw": 1440144761478
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2HMXLUvux4ZWrj2L3qA9cpgn2zuk1LemJfuHtbAe6eZZMEPpSnWh5zMHPDXZUiymkYAaSpan6v53aFLavPK3u5E4",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.209100416,
+    "post_quote_sol": 8.117734859,
+    "base_delta_raw": 2433683633203,
+    "quote_delta_raw": -91365557,
+    "seller_owners": [
+      {
+        "owner": "74BY5Pk9cj5J87QRXYC9enb1pRFxaHaihUSodLAS4Cy7",
+        "tokens_raw": 2433683633203
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "43zdMSn8hUjnL9UEgzZiMKaPJNLsUDGbs9LVrrJnuhR9uvHsE6S45Z3aFF8veu5fXdEV5zmYvyuR82LEr4LvzU9D",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.117734859,
+    "post_quote_sol": 8.008013381,
+    "base_delta_raw": 2945594361502,
+    "quote_delta_raw": -109721478,
+    "seller_owners": [
+      {
+        "owner": "8SWmi5j7jchiRzTDbDJB4nFopNMw4DH7USwS9h2MWnnU",
+        "tokens_raw": 2945594361502
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3DYRrMTBRyh3jzUY4oyvepd4Aqdz9KvvfStAukRLEXvZgk2wuDZrXR1rtecPLego6kDZicvkn1VwipGZXX3TUpX7",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 8.008013381,
+    "post_quote_sol": 7.827447449,
+    "base_delta_raw": 4902877651783,
+    "quote_delta_raw": -180565932,
+    "seller_owners": [
+      {
+        "owner": "7XZ6Y9hNUXcnyueXTfeD4CqmM1nYQPzqpYiTUreFjxgM",
+        "tokens_raw": 4902877651783
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "36YJb5Bq8Kmm9gnaGsYTKVhXcJNntJErSaxGpH1JrEmV3MXtCSrxcKSWqVTw22uCc3KsL9U1Ys3s2DG8kRskwasr",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 7.827447449,
+    "post_quote_sol": 7.643753928,
+    "base_delta_raw": 5059830415832,
+    "quote_delta_raw": -183693521,
+    "seller_owners": [
+      {
+        "owner": "7WoxK9NXqxecHP4aUVgdHhAoCgYsLvwxStSeGant1aix",
+        "tokens_raw": 5059830415832
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5wm7x5gu6oEd8EUoMo6ap3AqkgQQGZnYZW3vPgo5aiQQhDzoJCQ6mxUsqvZ3ZNR9ppSTJtAyoYTZH3jCL17ffcsw",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 7.643753928,
+    "post_quote_sol": 7.444487524,
+    "base_delta_raw": 5572782567734,
+    "quote_delta_raw": -199266404,
+    "seller_owners": [
+      {
+        "owner": "6iPfqrRZd5ru7wCjEPAkH3sWeMhoeHiECJav5JoigpLC",
+        "tokens_raw": 5572782567734
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "612BLu7CfayhK5a8DMomowHWUip6zhcmHfKwYqKhHAqNZ8Rs2RvCa8o4TbJAbBvrAZJSzT2sz6UfGtHe4Jhzw5Wc",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 7.444487524,
+    "post_quote_sol": 7.333255745,
+    "base_delta_raw": 3149531775888,
+    "quote_delta_raw": -111231779,
+    "seller_owners": [
+      {
+        "owner": "FS8FGsmtDv8s9SgxMuA5bQq3FqZUJCN8YnGxmsoLE4nm",
+        "tokens_raw": 3149531775888
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2bPjbvRs7nHgtd6AbJYw8Dr4eWm45USPJM6xxpbZSGryxwwbyKnjac8eeBf1814ZLoSQ4wd6u38QjtWqmjFbNeUH",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 7.333255745,
+    "post_quote_sol": 7.152868453,
+    "base_delta_raw": 5167897465629,
+    "quote_delta_raw": -180387292,
+    "seller_owners": [
+      {
+        "owner": "9ub1GQuiJby6Qnoeh4EgKW3oeSwAbCdf9kBwpywAHJgm",
+        "tokens_raw": 5167897465629
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4xWg5r9exiN5g2vrhQET7wd1BHVDLkf1vMt21vmRd8j8o1k46iqmbLs571E4Tm7xqPWy9Xzf3gimFVdyMv48ccAG",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 7.152868453,
+    "post_quote_sol": 6.941555564,
+    "base_delta_raw": 6150585692386,
+    "quote_delta_raw": -211312889,
+    "seller_owners": [
+      {
+        "owner": "HLYrdQ5macsfdwn9jsV2xmiyNE2CZfiT9kWywtRVWycp",
+        "tokens_raw": 6150585692386
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3vwVu6Fj1e3Xu2TSKnZX3vFqMmoGCMZA5iiAbpAQG5ZMHDMBCAeymTU7DGPQS3FqkvWqtcH2iqhpkkQPfWj1vj71",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 6.941555564,
+    "post_quote_sol": 6.73886124,
+    "base_delta_raw": 6000166690775,
+    "quote_delta_raw": -202694324,
+    "seller_owners": [
+      {
+        "owner": "nAjhqNKBjq7XbvBwQyf1KvJgFZkTz3WrzG5oYTQK8f5",
+        "tokens_raw": 6000166690775
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3Lv95vtN6D6Bd7gDvqyWphN5NegrkXpwnWeys5ixHsQMWqiLNpSEysbqPjvQpfB5Z5DV26p1FEGMH3WDJ6NfXL7K",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 6.73886124,
+    "post_quote_sol": 6.550822453,
+    "base_delta_raw": 5656464136146,
+    "quote_delta_raw": -188038787,
+    "seller_owners": [
+      {
+        "owner": "6sQAPboLtp7m1KEmEze8vqrt5DsMpacv8nxksfaNzD5T",
+        "tokens_raw": 5656464136146
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3Qypu9tvsGMk2TiCGcnxBh6Nr7rooCKeZPvG65eQsEEm1komHtVN7ujV9hmVKfBpmktERoe6YxwcsS6WDMJjvdim",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 6.550822453,
+    "post_quote_sol": 6.36077849,
+    "base_delta_raw": 5807064383444,
+    "quote_delta_raw": -190043963,
+    "seller_owners": [
+      {
+        "owner": "DJajHbErbpQdPwnTuyQhsiMdSnfDM1sDDw1KuJ9L6Rns",
+        "tokens_raw": 5807064383444
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5DdNbavhPi3wL88CXdMRdVxVExQxrS1DtQWCJY8Nyz1Chizh2AMNeVbrCe8ZpfJR4Kafe7Y5e8Yh38Ei5wPEXcFq",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 6.36077849,
+    "post_quote_sol": 6.173287429,
+    "base_delta_raw": 5820114289572,
+    "quote_delta_raw": -187491061,
+    "seller_owners": [
+      {
+        "owner": "E14EUrVnETx76y6kvp9fzBhQBazwyYwcGNJggBoT2AaX",
+        "tokens_raw": 5820114289572
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2sKqKQCFmn698bbpqjBHb6XW1BHRi7cjh521i6BEm7fMXYuWue3cFMRwh3gAJagnWnPNhXkbEzRRLrvTUQeABwc4",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 6.173287429,
+    "post_quote_sol": 6.002116453,
+    "base_delta_raw": 5394317697899,
+    "quote_delta_raw": -171170976,
+    "seller_owners": [
+      {
+        "owner": "Au1o8aHHLMNeUurWT4pdhgj1rBfgWZj2BMyjXkr4RAtc",
+        "tokens_raw": 5394317697899
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4GbFU1pv43KSeCyYCXgZ4qy5eDibR8V5Cai5Az4mGSAaTvDjPSYzPWRzosiAyDLUqfYGQPjPyUvSX9SiDed1ebWk",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 6.002116453,
+    "post_quote_sol": 5.820042443,
+    "base_delta_raw": 5824537274309,
+    "quote_delta_raw": -182074010,
+    "seller_owners": [
+      {
+        "owner": "2wKoZch9fAdBVPjkJgF6j8uVh9hFMEiLrbWueFx613MT",
+        "tokens_raw": 5824537274309
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "MnVMKs1Cc2RCJDM5xy7CkzrAKHVt7cCsjxpDjfVRenFJpbaRFqRkA73a2895ZE5tN51KvLMvMi6BCWVi32dRpfv",
+    "slot": 455836780,
+    "block_time": 1791762271,
+    "pre_quote_sol": 5.820042443,
+    "post_quote_sol": 5.65710578,
+    "base_delta_raw": 5289723508553,
+    "quote_delta_raw": -162936663,
+    "seller_owners": [
+      {
+        "owner": "4nHaBaoEuLzmHViyipWZXSG5jMUguPRMwRSD25CuNGdD",
+        "tokens_raw": 5289723508553
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4pqmV6u7R76ViVs5RHPKjPaVqWN5BPdVqLw5o1NQ1VZdvoYaAk1unbxahGaXdWYqaZy2WXqhCauuc5Y5fCddQ6Ak",
+    "slot": 455836781,
+    "block_time": 1791762272,
+    "pre_quote_sol": 5.65710578,
+    "post_quote_sol": 5.504898779,
+    "base_delta_raw": 5008842839557,
+    "quote_delta_raw": -152207001,
+    "seller_owners": [
+      {
+        "owner": "4s7gYVHmCnMb83C4FTqHT4NX8hAvKLd9BnzPYi5GVgDg",
+        "tokens_raw": 5008842839557
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4y5x6YRXnP8sy2t6ooD4nuquYKCkjyyC4Zjhjk9HDd4kKKfQ8GqJbAE7mJqFrpuU8uvWUSSWX62YB1XnVyqQPwVu",
+    "slot": 455836781,
+    "block_time": 1791762272,
+    "pre_quote_sol": 5.504898779,
+    "post_quote_sol": 5.341340055,
+    "base_delta_raw": 5456554677485,
+    "quote_delta_raw": -163558724,
+    "seller_owners": [
+      {
+        "owner": "EFJBBQZTJBBsca3soWY3CnRbU4Sz5SGr1KqKMjFpQtiT",
+        "tokens_raw": 5456554677485
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "C5HkkSrAXm4htVCwjB3Jp8kkbYhCFz3gYUNgnAWyks9DFYSewLJ2ZT6XEJs3GTGNmEk1NTdobEGyUW8NhiPaUME",
+    "slot": 455836781,
+    "block_time": 1791762272,
+    "pre_quote_sol": 5.341340055,
+    "post_quote_sol": 5.18231349,
+    "base_delta_raw": 5380541704366,
+    "quote_delta_raw": -159026565,
+    "seller_owners": [
+      {
+        "owner": "DGFEvdrQi2mNyBdEthq3YN2EGDFfnvmqVDXLpAWKUkzi",
+        "tokens_raw": 5380541704366
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "546mf8TMSovszHYF9YBssfvDuN5YqpmASxVZx8etoYSk4Zak8nKVdHpUdoGP7udcnfixP9oN1KEVxmAu5bkeaofZ",
+    "slot": 455836781,
+    "block_time": 1791762272,
+    "pre_quote_sol": 5.18231349,
+    "post_quote_sol": 5.007921616,
+    "base_delta_raw": 5987510492890,
+    "quote_delta_raw": -174391874,
+    "seller_owners": [
+      {
+        "owner": "AB3JvmBNCG3KEfPornoAfqSHUddtiPBobJW5JzjjkHqo",
+        "tokens_raw": 5987510492890
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "26NLnVrVG6hfxNz6gaevuFWB1xiXGsC6MyQZvdRB6rKBMERjLEHe9U4EiSpoRWM4ZuciC54m9w6WiCpy44c4nMki",
+    "slot": 455836784,
+    "block_time": 1791762272,
+    "pre_quote_sol": 5.007921616,
+    "post_quote_sol": 4.9478617,
+    "base_delta_raw": 2083535677840,
+    "quote_delta_raw": -60059916,
+    "seller_owners": [
+      {
+        "owner": "5vEGitU5YZPxMt71b3ZX1y1hFXwxg34y31pAMh8LwxPo",
+        "tokens_raw": 2083535677840
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: ExecuteLimitOrder",
+      "Program log: Instruction: RouteV2",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: SwapV3Dyn",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "37CrTgjhbYjvJ48cDA83NhrsF4Bd72nxtAxbbxBf5BZdpHkoNimvtPJhVgeRG8dV6fLKM9yNNPriT4TduTGoNWkm",
+    "slot": 455836792,
+    "block_time": 1791762274,
+    "pre_quote_sol": 4.9478617,
+    "post_quote_sol": 4.899088019,
+    "base_delta_raw": 1700197222007,
+    "quote_delta_raw": -48773681,
+    "seller_owners": [
+      {
+        "owner": "EEPvVQQZUx3DeSBfg8KNyFgZMbnXo1tdt5qDJwySXTvR",
+        "tokens_raw": 1700197222007
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "J7rgrRucCKDRGVDXq8dBBTfCjURLfB16uzVWAUYkWKiX9pdhENQqNSMmak9LaztcH4mLGFtwQUSTCoEWC8Gva3S",
+    "slot": 455836792,
+    "block_time": 1791762274,
+    "pre_quote_sol": 4.899088019,
+    "post_quote_sol": 4.869812823,
+    "base_delta_raw": 1024049125247,
+    "quote_delta_raw": -29275196,
+    "seller_owners": [
+      {
+        "owner": "7BSkUnFsM5NjJtRB3F5E3HG9DYSs31mkTeUNmJULkUwp",
+        "tokens_raw": 1024049125247
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3iJ529xcAqNgJ7URxpaJRtwPmwhcNtFzWa1Esq7sJVSzMNy3EK3WZxMEnuJfx35isE4VjzYScJETNVqLV6LYMZLG",
+    "slot": 455836792,
+    "block_time": 1791762274,
+    "pre_quote_sol": 4.869812823,
+    "post_quote_sol": 4.8414453,
+    "base_delta_raw": 994849653433,
+    "quote_delta_raw": -28367523,
+    "seller_owners": [
+      {
+        "owner": "2J8edTFLcpwA99EJWJk4FQqAM483dBSbPwcdFpBXzmwX",
+        "tokens_raw": 994849653433
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4mK5EzkRLqimtoMHQ9Fs7EJPrsFiE2fVMf9X9sCFDNUXnu5U5KGq4AfvRj7MK1nbzW3HtwTdmMUc1kgZfMXrHsp4",
+    "slot": 455836792,
+    "block_time": 1791762274,
+    "pre_quote_sol": 4.8414453,
+    "post_quote_sol": 4.819072473,
+    "base_delta_raw": 786392880164,
+    "quote_delta_raw": -22372827,
+    "seller_owners": [
+      {
+        "owner": "E4iHNrDsmUKgZYh8a79WFZZTYie7mVUyisWXR2zam3P2",
+        "tokens_raw": 786392880164
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4HiBorEH5wmPiGBZJJo84kS6ST94M5tAYWdgqNYvhXNJV5dwitbSorWKQGquM4mNF5R2WDWZzEYdx15aek9QN8cd",
+    "slot": 455836793,
+    "block_time": 1791762275,
+    "pre_quote_sol": 4.819072473,
+    "post_quote_sol": 4.782322551,
+    "base_delta_raw": 1295155291943,
+    "quote_delta_raw": -36749922,
+    "seller_owners": [
+      {
+        "owner": "2CcjtngX3HcPztySUe9WbQJX5EQ5FKbASVoiKAyto93C",
+        "tokens_raw": 1295155291943
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "56zPfxgVUTbhGzaYwUPZ5mKgKn8SGRoAChy6QYPj9yvYukwgGofLKVxqJ5zFXHNQdttji2UD6qfMWLebv91uJtx3",
+    "slot": 455836793,
+    "block_time": 1791762275,
+    "pre_quote_sol": 4.782322551,
+    "post_quote_sol": 4.753752778,
+    "base_delta_raw": 1009812005251,
+    "quote_delta_raw": -28569773,
+    "seller_owners": [
+      {
+        "owner": "8xZu6LkSb4R4z9Xi5oSDJoVMBynHh92vYciPFWgqLYHR",
+        "tokens_raw": 1009812005251
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "48uTEoV7pYnfvkRdbkbEDfwgs8Jgg5x2eCqv4uS5b495PAxmyAoKwU2d9m7YcWXCEz3kK28DJXbC8rXvMcH77H49",
+    "slot": 455836793,
+    "block_time": 1791762275,
+    "pre_quote_sol": 4.753752778,
+    "post_quote_sol": 4.714926654,
+    "base_delta_raw": 1376475954651,
+    "quote_delta_raw": -38826124,
+    "seller_owners": [
+      {
+        "owner": "F7oihdVGqSaVN95PNHMFmDYNw387JvxiQdcyJXG7SW7U",
+        "tokens_raw": 1376475954651
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "3QvF8Hr1C4zzruroPM1g5KjeffZEHrGUkqgsufFgTcg69DGLBB9iECHX4FSEQtx6pVMijK84TNmtY8BF7q8Yey5g",
+    "slot": 455836793,
+    "block_time": 1791762275,
+    "pre_quote_sol": 4.714926654,
+    "post_quote_sol": 4.685257008,
+    "base_delta_raw": 1055093443812,
+    "quote_delta_raw": -29669646,
+    "seller_owners": [
+      {
+        "owner": "9WzJRHs1oqncFbXWeGvgmT9NyLgXc57brL2qqyR2Nwri",
+        "tokens_raw": 1055093443812
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "5Ge4zBAzvqm1hPXwbAgW54AQLrGNnc7RXBMETXssXSHK3MkpTqhw4PBMAqWocMDwGUew4LbeXR6CT6JDAFJN9iYN",
+    "slot": 455836793,
+    "block_time": 1791762275,
+    "pre_quote_sol": 4.685257008,
+    "post_quote_sol": 4.639090145,
+    "base_delta_raw": 1647360730433,
+    "quote_delta_raw": -46166863,
+    "seller_owners": [
+      {
+        "owner": "9H4oNHUJ4ZrLhfXatpnCyS5TBWBv192JTJ7SFhAsXBwB",
+        "tokens_raw": 1647360730433
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "2dQLvGnjWiEMQ1tEkbJSRMMx89qyYPwadRdXRD44BDRZ3psZbkPzS1mmLdnnuFgbH8avwH1XY1Bsm9eLAs9Ec6zc",
+    "slot": 455836799,
+    "block_time": 1791762276,
+    "pre_quote_sol": 4.639090145,
+    "post_quote_sol": 4.490649981,
+    "base_delta_raw": 5343459411854,
+    "quote_delta_raw": -148440164,
+    "seller_owners": [
+      {
+        "owner": "4u2zqvAJgc8f67b1VYyooWm6g2fHWy9MvBZKk7ZJJeKr",
+        "tokens_raw": 5343459411854
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "35QbBSqQY5L5iWUY5kNDYXaCqAmZNyWc2jHEFK511kc88oGQVrJXwhaqWHwvXNHaPvYcxmLZhvBpAjV1UJSNXaTW",
+    "slot": 455836803,
+    "block_time": 1791762277,
+    "pre_quote_sol": 4.490649981,
+    "post_quote_sol": 4.331483033,
+    "base_delta_raw": 5810030795482,
+    "quote_delta_raw": -159166948,
+    "seller_owners": [
+      {
+        "owner": "7qNGDjVSyKMcKe9Yax3Yx1Lb2mfqnaXc3x82NjPSXdY6",
+        "tokens_raw": 5810030795482
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked",
+      "Program log: Instruction: CloseAccount"
+    ]
+  },
+  {
+    "signature": "2mic28aNkPaa7iYh8JEewbxWavtWkN3fRcqdQcWGh4voAAfgLgVtQwoiSZLyGRto3XpZhysnwZooaCTPeSARTeqA",
+    "slot": 455836805,
+    "block_time": 1791762277,
+    "pre_quote_sol": 4.331483033,
+    "post_quote_sol": 4.294072418,
+    "base_delta_raw": 1377861584352,
+    "quote_delta_raw": -37410615,
+    "seller_owners": [
+      {
+        "owner": "AEZu1Vd8KgsNpHpqftqCeEsCHGzhQYXoiWgRtSp5EsF3",
+        "tokens_raw": 1377861584352
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  },
+  {
+    "signature": "4W6P5jJGvHJVxV3M77cHn11ACCwh5QRLTfJckjZ64D4pJZ2WGjYzkrzdctYt41wfVk8Lp9gYoy6mS4pyNMWGz1M7",
+    "slot": 455836808,
+    "block_time": 1791762278,
+    "pre_quote_sol": 4.294072418,
+    "post_quote_sol": 4.244647892,
+    "base_delta_raw": 1827585865932,
+    "quote_delta_raw": -49424526,
+    "seller_owners": [
+      {
+        "owner": "BDv5NYL3hyAFzKt5DKVjUuK3acZUQTzLxnwt94vsE9MY",
+        "tokens_raw": 1827585865932
+      }
+    ],
+    "instruction_logs": [
+      "Program log: Instruction: PumpSwapV3",
+      "Program log: Instruction: Sell",
+      "Program log: Instruction: GetFeesWithQuoteMint",
+      "Program log: Instruction: TransferChecked"
+    ]
+  }
+]

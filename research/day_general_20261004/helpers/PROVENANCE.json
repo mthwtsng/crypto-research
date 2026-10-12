@@ -1,0 +1,33 @@
+{
+  "build": {
+    "functions": [
+      "ops",
+      "inventory"
+    ],
+    "original_file": "/home/mthwt/code/Crypto/research/seller_pressure_20261003/build.py",
+    "note": "Functions copied verbatim; originalconstants retained,unrelatedMLimports omitted."
+  },
+  "replay": {
+    "functions": [
+      "fee",
+      "buy",
+      "sell",
+      "moved",
+      "apply"
+    ],
+    "original_file": "/home/mthwt/code/Crypto/research/seller_pressure_20261003/replay.py",
+    "note": "Functions copied verbatim; originalconstants retained,unrelatedMLimports omitted."
+  },
+  "receipt_custody.py": {
+    "original_file": "/home/mthwt/code/Crypto/research/rescue_validation_20261003/receipt_custody.py",
+    "source_sha256": "d97563c74e4570d1db0164f5db0ea6ece9c173d5b2ef85d4e081fe020f718d78"
+  },
+  "decoder.py": {
+    "original_file": "/home/mthwt/code/Crypto/research/three_bots_20261002/triggers/decoder.py",
+    "source_sha256": "7219a7c34c7fa0cef2ca710639af8dc52c6368a534cb18332c5b34347e961303"
+  },
+  "OFFICIAL_PUMP_IDL.json": {
+    "original_file": "/home/mthwt/code/Crypto/research/three_bots_20261002/triggers/OFFICIAL_PUMP_IDL.json",
+    "source_sha256": "26c77383c3626bd3ef1c376c52680be6c4ba2ff4cfde1f4b0076d1de43b9130c"
+  }
+}

@@ -1,0 +1,4216 @@
+{
+  "schema_version": 1,
+  "study": "observed_execution_costs",
+  "generated_from": {
+    "wallet_roster": "wallets.json",
+    "canonical_history": "raw_wallets/history/{address}/page-*.json.gz",
+    "collection_manifest": "collection.json",
+    "strict_decoder": "research/day_general_20261004/helpers/decoder.py"
+  },
+  "freeze": {
+    "commitment": "finalized",
+    "slot": 455910302,
+    "block_time": 1791778325,
+    "utc": "2026-10-12T04:12:05Z",
+    "provider_for_get_slot": "shyft",
+    "provider_for_get_block_time": "shyft",
+    "frozen_at_utc": "2026-10-12T04:12:13Z"
+  },
+  "sample_size_cap_per_wallet": 200,
+  "sample_selection": "exact authenticated trade receipts ranked by SHA-256(signature), lowest first; independent of outcomes",
+  "assumed_per_leg_cost_lamports": {
+    "base": 1505000,
+    "sensitivity": 2916000
+  },
+  "recognized_provider_recipient_accounts": {
+    "local_project_static_count": 111,
+    "published_external_count": 28,
+    "local_project_map_source": "src/bot/bot_types.rs; maps are configured account identities, not route evidence",
+    "externally_published_sources": [
+      "https://0slot.trade/docs.php",
+      "https://docs.jito.wtf/lowlatencytxnsend/",
+      "https://www.helius.dev/blog/zero-slot"
+    ]
+  },
+  "wallets": [
+    {
+      "name": "broke bot lol",
+      "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+      "capture": {
+        "status": "complete",
+        "full_transaction_meta_rows": 2856,
+        "captured_from_unix": 1789966352,
+        "captured_to_unix": 1791778210,
+        "observed_status_counts": {
+          "failed": 848,
+          "success": 2008
+        },
+        "payer_transactions": 2797,
+        "payer_network_fee_lamports": 2123811661,
+        "payer_failed_transactions": 842,
+        "payer_failed_network_fee_lamports": 1059174675,
+        "payer_failed_average_fee_lamports": 1257927.1674584323
+      },
+      "authenticated_direct_trade_receipts": 401,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 29366186,
+          "median": 493827159.0,
+          "p95_nearest_rank": 996287845,
+          "max": 1228198900
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 278979,
+          "median": 4691359.0,
+          "p95_nearest_rank": 9464735,
+          "max": 11667890
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 88099,
+          "median": 1481482.0,
+          "p95_nearest_rank": 2988864,
+          "max": 3684597
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 9334,
+          "median": 11667.0,
+          "p95_nearest_rank": 1105000,
+          "max": 22005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 1200000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 1100000
+        },
+        "receipts_with_configured_provider_transfer": 30,
+        "receipts_with_published_provider_transfer": 26,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 9334,
+          "median": 11667.0,
+          "p95_nearest_rank": 2205000,
+          "max": 22005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 9334,
+          "median": 11667.0,
+          "p95_nearest_rank": 2205000,
+          "max": 22005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 1215000,
+          "median": 2844255.0,
+          "p95_nearest_rank": 11968255,
+          "max": 23105000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 80,
+            "network_fee_lamports": {
+              "n": 80,
+              "min": 54000,
+              "median": 115000.0,
+              "p95_nearest_rank": 11005000,
+              "max": 22005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 80,
+              "min": 1100000,
+              "median": 1100000.0,
+              "p95_nearest_rank": 2000000,
+              "max": 12200000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 80,
+              "min": 1215000,
+              "median": 1215000.0,
+              "p95_nearest_rank": 12105000,
+              "max": 23105000
+            }
+          },
+          "sell": {
+            "n": 120,
+            "network_fee_lamports": {
+              "n": 120,
+              "min": 9334,
+              "median": 11667.0,
+              "p95_nearest_rank": 11667,
+              "max": 11667
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 120,
+              "min": 1489991,
+              "median": 4402999.5,
+              "p95_nearest_rank": 11245681,
+              "max": 13328464
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 120,
+              "min": 1501658,
+              "median": 4414666.5,
+              "p95_nearest_rank": 11257348,
+              "max": 13340131
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 60,
+            "observed_overhead_receipts_above": 140,
+            "share_of_median_native_quote_pct": 0.30476250092190654
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 101,
+            "observed_overhead_receipts_above": 99,
+            "share_of_median_native_quote_pct": 0.5904900017862322
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 189,
+            "base_receipts_above": 11,
+            "sensitivity_receipts_at_or_below": 190,
+            "sensitivity_receipts_above": 10
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 26,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -13328464,
+            "median": -2205274.5,
+            "p95_nearest_rank": -1100000,
+            "max": -1100000
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 2205274.5,
+            "p95_nearest_rank": 11075461,
+            "max": 13328464
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 580,
+          "sample_sum_lamports": 51714971443,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 25
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "Cbot7",
+      "address": "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791219126,
+        "captured_to_unix": 1791778304,
+        "observed_status_counts": {
+          "success": 9416,
+          "failed": 584
+        },
+        "payer_transactions": 9920,
+        "payer_network_fee_lamports": 95205377,
+        "payer_failed_transactions": 583,
+        "payer_failed_network_fee_lamports": 5594468,
+        "payer_failed_average_fee_lamports": 9596.0
+      },
+      "authenticated_direct_trade_receipts": 9317,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 68347920,
+          "median": 351724441.0,
+          "p95_nearest_rank": 705054761,
+          "max": 802155112
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 649306,
+          "median": 3341383.0,
+          "p95_nearest_rank": 6698021,
+          "max": 7620474
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 205044,
+          "median": 1055174.0,
+          "p95_nearest_rank": 2115165,
+          "max": 2406466
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 9596,
+          "median": 9596.0,
+          "p95_nearest_rank": 9596,
+          "max": 9596
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 110000,
+          "median": 110000.0,
+          "p95_nearest_rank": 110000,
+          "max": 110000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 110000,
+          "median": 110000.0,
+          "p95_nearest_rank": 110000,
+          "max": 110000
+        },
+        "receipts_with_configured_provider_transfer": 200,
+        "receipts_with_published_provider_transfer": 200,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 119596,
+          "median": 119596.0,
+          "p95_nearest_rank": 119596,
+          "max": 119596
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 119596,
+          "median": 119596.0,
+          "p95_nearest_rank": 119596,
+          "max": 119596
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 119596,
+          "median": 119596.0,
+          "p95_nearest_rank": 119596,
+          "max": 769836
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 114,
+            "network_fee_lamports": {
+              "n": 114,
+              "min": 9596,
+              "median": 9596.0,
+              "p95_nearest_rank": 9596,
+              "max": 9596
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 110000,
+              "median": 110000.0,
+              "p95_nearest_rank": 110000,
+              "max": 760240
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 119596,
+              "median": 119596.0,
+              "p95_nearest_rank": 119596,
+              "max": 769836
+            }
+          },
+          "sell": {
+            "n": 86,
+            "network_fee_lamports": {
+              "n": 86,
+              "min": 9596,
+              "median": 9596.0,
+              "p95_nearest_rank": 9596,
+              "max": 9596
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 110000,
+              "median": 110000.0,
+              "p95_nearest_rank": 110000,
+              "max": 110000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 119596,
+              "median": 119596.0,
+              "p95_nearest_rank": 119596,
+              "max": 119596
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.4278917881626543
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.8290581091576744
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 200,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 200,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 199,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -760240,
+            "median": -110000.0,
+            "p95_nearest_rank": -110000,
+            "max": -110000
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 0,
+            "max": 650240
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 457,
+          "sample_sum_lamports": 41298465424,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 12
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "russianbot",
+      "address": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791567613,
+        "captured_to_unix": 1791778291,
+        "observed_status_counts": {
+          "success": 8586,
+          "failed": 1414
+        },
+        "payer_transactions": 9936,
+        "payer_network_fee_lamports": 456879234,
+        "payer_failed_transactions": 1414,
+        "payer_failed_network_fee_lamports": 63465365,
+        "payer_failed_average_fee_lamports": 44883.56789250354
+      },
+      "authenticated_direct_trade_receipts": 8512,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 40562263,
+          "median": 93167185.5,
+          "p95_nearest_rank": 1690000000,
+          "max": 4085533579
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 385342,
+          "median": 885089.0,
+          "p95_nearest_rank": 16055000,
+          "max": 38812570
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 121687,
+          "median": 279502.5,
+          "p95_nearest_rank": 5070000,
+          "max": 12256601
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 32443,
+          "median": 59886.0,
+          "p95_nearest_rank": 59886,
+          "max": 59886
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 100000.0,
+          "p95_nearest_rank": 1000000,
+          "max": 1000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1000000,
+          "max": 1000000
+        },
+        "receipts_with_configured_provider_transfer": 111,
+        "receipts_with_published_provider_transfer": 84,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 32443,
+          "median": 132443.0,
+          "p95_nearest_rank": 1059886,
+          "max": 1059886
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 32443,
+          "median": 59886.0,
+          "p95_nearest_rank": 1059886,
+          "max": 1059886
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 132443,
+          "median": 159886.0,
+          "p95_nearest_rank": 1059886,
+          "max": 1059886
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 102,
+            "network_fee_lamports": {
+              "n": 102,
+              "min": 59886,
+              "median": 59886.0,
+              "p95_nearest_rank": 59886,
+              "max": 59886
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 102,
+              "min": 100000,
+              "median": 100000.0,
+              "p95_nearest_rank": 1000000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 102,
+              "min": 159886,
+              "median": 159886.0,
+              "p95_nearest_rank": 1059886,
+              "max": 1059886
+            }
+          },
+          "sell": {
+            "n": 98,
+            "network_fee_lamports": {
+              "n": 98,
+              "min": 32443,
+              "median": 32443.0,
+              "p95_nearest_rank": 32443,
+              "max": 32443
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 98,
+              "min": 100000,
+              "median": 100000.0,
+              "p95_nearest_rank": 100000,
+              "max": 100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 98,
+              "min": 132443,
+              "median": 132443.0,
+              "p95_nearest_rank": 132443,
+              "max": 132443
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 1.615375619562963
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 3.129857346608372
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 200,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 200,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 111,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -1000000,
+            "median": -100000.0,
+            "p95_nearest_rank": -100000,
+            "max": -100000
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 100000,
+            "max": 1000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 498,
+          "sample_sum_lamports": 41491137735,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 10
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "snipebot",
+      "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+      "capture": {
+        "status": "complete",
+        "full_transaction_meta_rows": 6871,
+        "captured_from_unix": 1789966613,
+        "captured_to_unix": 1791776170,
+        "observed_status_counts": {
+          "failed": 2939,
+          "success": 3932
+        },
+        "payer_transactions": 6690,
+        "payer_network_fee_lamports": 8516169494,
+        "payer_failed_transactions": 2935,
+        "payer_failed_network_fee_lamports": 528907730,
+        "payer_failed_average_fee_lamports": 180207.06303236797
+      },
+      "authenticated_direct_trade_receipts": 2725,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 76446687,
+          "median": 1975308641.0,
+          "p95_nearest_rank": 3456790122,
+          "max": 4823055684
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 726244,
+          "median": 18765433.0,
+          "p95_nearest_rank": 32839507,
+          "max": 45819029
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 229341,
+          "median": 5925926.0,
+          "p95_nearest_rank": 10370371,
+          "max": 14469168
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 10005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 10000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1000000,
+          "max": 10000000
+        },
+        "receipts_with_configured_provider_transfer": 78,
+        "receipts_with_published_provider_transfer": 57,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 11105000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 10005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 2005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 11105000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 68,
+            "network_fee_lamports": {
+              "n": 68,
+              "min": 5000,
+              "median": 5005000.0,
+              "p95_nearest_rank": 10005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 68,
+              "min": 0,
+              "median": 0.0,
+              "p95_nearest_rank": 10000000,
+              "max": 10000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 68,
+              "min": 105000,
+              "median": 10005000.0,
+              "p95_nearest_rank": 10005000,
+              "max": 10655240
+            }
+          },
+          "sell": {
+            "n": 132,
+            "network_fee_lamports": {
+              "n": 132,
+              "min": 5000,
+              "median": 1005000.0,
+              "p95_nearest_rank": 1005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 132,
+              "min": 0,
+              "median": 550000.0,
+              "p95_nearest_rank": 1000000,
+              "max": 10000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 132,
+              "min": 5000,
+              "median": 1505000.0,
+              "p95_nearest_rank": 2005000,
+              "max": 11105000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 70,
+            "observed_overhead_receipts_above": 130,
+            "share_of_median_native_quote_pct": 0.07619062503761913
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 134,
+            "observed_overhead_receipts_above": 66,
+            "share_of_median_native_quote_pct": 0.1476225000728886
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 104,
+            "base_receipts_above": 96,
+            "sensitivity_receipts_at_or_below": 147,
+            "sensitivity_receipts_above": 53
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 135,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -10000000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 4000000,
+            "max": 10000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 316,
+          "sample_sum_lamports": 165146297914,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 184
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "nbot",
+      "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791771662,
+        "captured_to_unix": 1791778298,
+        "observed_status_counts": {
+          "success": 176,
+          "failed": 9824
+        },
+        "payer_transactions": 9995,
+        "payer_network_fee_lamports": 1113935585,
+        "payer_failed_transactions": 9824,
+        "payer_failed_network_fee_lamports": 961028812,
+        "payer_failed_average_fee_lamports": 97824.59405537459
+      },
+      "authenticated_direct_trade_receipts": 57,
+      "sample": {
+        "sample_n": 57,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 57,
+          "min": 333302797,
+          "median": 981578635,
+          "p95_nearest_rank": 3950617283,
+          "max": 6913580246
+        },
+        "event_fee_lamports": {
+          "n": 57,
+          "min": 3166377,
+          "median": 9324998,
+          "p95_nearest_rank": 37530865,
+          "max": 65679013
+        },
+        "creator_fee_lamports": {
+          "n": 57,
+          "min": 999909,
+          "median": 2944736,
+          "p95_nearest_rank": 11851852,
+          "max": 20740741
+        },
+        "event_fee_basis_points": {
+          "95": 57
+        },
+        "creator_fee_basis_points": {
+          "30": 57
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 57,
+          "min": 5000,
+          "median": 25000,
+          "p95_nearest_rank": 4305000,
+          "max": 36179700
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 57,
+          "min": 0,
+          "median": 110000,
+          "p95_nearest_rank": 156000000,
+          "max": 1201000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 57,
+          "min": 0,
+          "median": 0,
+          "p95_nearest_rank": 156000000,
+          "max": 1201000000
+        },
+        "receipts_with_configured_provider_transfer": 37,
+        "receipts_with_published_provider_transfer": 7,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 57,
+          "min": 25000,
+          "median": 135000,
+          "p95_nearest_rank": 157905000,
+          "max": 1201005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 57,
+          "min": 25000,
+          "median": 25000,
+          "p95_nearest_rank": 157905000,
+          "max": 1201005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 57,
+          "min": 25000,
+          "median": 135000,
+          "p95_nearest_rank": 157905000,
+          "max": 1201005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 11,
+            "network_fee_lamports": {
+              "n": 11,
+              "min": 5000,
+              "median": 1905000,
+              "p95_nearest_rank": 36179700,
+              "max": 36179700
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 11,
+              "min": 0,
+              "median": 110000000,
+              "p95_nearest_rank": 1201000000,
+              "max": 1201000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 11,
+              "min": 4305000,
+              "median": 111905000,
+              "p95_nearest_rank": 1201005000,
+              "max": 1201005000
+            }
+          },
+          "sell": {
+            "n": 46,
+            "network_fee_lamports": {
+              "n": 46,
+              "min": 25000,
+              "median": 25000.0,
+              "p95_nearest_rank": 25000,
+              "max": 25000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 46,
+              "min": 0,
+              "median": 110000.0,
+              "p95_nearest_rank": 110000,
+              "max": 110000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 46,
+              "min": 25000,
+              "median": 135000.0,
+              "p95_nearest_rank": 135000,
+              "max": 135000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 46,
+            "observed_overhead_receipts_above": 11,
+            "share_of_median_native_quote_pct": 0.15332444557536645
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 46,
+            "observed_overhead_receipts_above": 11,
+            "share_of_median_native_quote_pct": 0.29707248059652397
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 46,
+            "base_receipts_above": 11,
+            "sensitivity_receipts_at_or_below": 46,
+            "sensitivity_receipts_above": 11
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 57,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 50,
+          "adjusted_residual_lamports": {
+            "n": 57,
+            "min": -1201000000,
+            "median": -110000,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 57,
+            "min": 0,
+            "median": 0,
+            "p95_nearest_rank": 110000,
+            "max": 19000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 18,
+          "sample_sum_lamports": 43838550000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 56
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bot12",
+      "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+      "capture": {
+        "status": "complete",
+        "full_transaction_meta_rows": 8130,
+        "captured_from_unix": 1789970565,
+        "captured_to_unix": 1791776599,
+        "observed_status_counts": {
+          "failed": 4970,
+          "success": 3160
+        },
+        "payer_transactions": 7876,
+        "payer_network_fee_lamports": 42606746082,
+        "payer_failed_transactions": 4961,
+        "payer_failed_network_fee_lamports": 34436005402,
+        "payer_failed_average_fee_lamports": 6941343.560169321
+      },
+      "authenticated_direct_trade_receipts": 661,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 30235940,
+          "median": 1084395825.5,
+          "p95_nearest_rank": 2942518518,
+          "max": 4527359908
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 287242,
+          "median": 10301761.0,
+          "p95_nearest_rank": 27953926,
+          "max": 43009920
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 90708,
+          "median": 3253188.0,
+          "p95_nearest_rank": 8827556,
+          "max": 13582080
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 10555000,
+          "max": 54505000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 50000000,
+          "max": 300000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 100000,
+          "max": 300000000
+        },
+        "receipts_with_configured_provider_transfer": 70,
+        "receipts_with_published_provider_transfer": 22,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 100005000,
+          "max": 310005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 11505000,
+          "max": 310005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 705000,
+          "median": 10107614.0,
+          "p95_nearest_rank": 114805000,
+          "max": 330705000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 99,
+            "network_fee_lamports": {
+              "n": 99,
+              "min": 5000,
+              "median": 1955000,
+              "p95_nearest_rank": 54505000,
+              "max": 54505000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 2765000,
+              "median": 15800000,
+              "p95_nearest_rank": 120700000,
+              "max": 320700000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 2965000,
+              "median": 17905000,
+              "p95_nearest_rank": 127705000,
+              "max": 330705000
+            }
+          },
+          "sell": {
+            "n": 101,
+            "network_fee_lamports": {
+              "n": 101,
+              "min": 105000,
+              "median": 1005000,
+              "p95_nearest_rank": 1005000,
+              "max": 1005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 505000,
+              "median": 7644537,
+              "p95_nearest_rank": 23812763,
+              "max": 30664336
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 705000,
+              "median": 8162303,
+              "p95_nearest_rank": 24644066,
+              "max": 31669336
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 3,
+            "observed_overhead_receipts_above": 197,
+            "share_of_median_native_quote_pct": 0.1387869599466657
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 9,
+            "observed_overhead_receipts_above": 191,
+            "share_of_median_native_quote_pct": 0.2689054984747357
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 124,
+            "base_receipts_above": 76,
+            "sensitivity_receipts_at_or_below": 161,
+            "sensitivity_receipts_above": 39
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 0,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -320700000,
+            "median": -9191524.5,
+            "p95_nearest_rank": -2765000,
+            "max": -505000
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 500000,
+            "median": 8900000.0,
+            "p95_nearest_rank": 24444066,
+            "max": 120700000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 567,
+          "sample_sum_lamports": 147069474267,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 258,
+        "owned_token_delta_mismatch": 1,
+        "multiple_or_no_owned_mint_changes": 5
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bot",
+      "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791045193,
+        "captured_to_unix": 1791773789,
+        "observed_status_counts": {
+          "success": 7096,
+          "failed": 2904
+        },
+        "payer_transactions": 6476,
+        "payer_network_fee_lamports": 31441443101,
+        "payer_failed_transactions": 1819,
+        "payer_failed_network_fee_lamports": 9344917682,
+        "payer_failed_average_fee_lamports": 5137392.898295767
+      },
+      "authenticated_direct_trade_receipts": 1909,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 9002236,
+          "median": 503818659.0,
+          "p95_nearest_rank": 3271274956,
+          "max": 9876543209
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 85522,
+          "median": 4786277.5,
+          "p95_nearest_rank": 31077113,
+          "max": 93827161
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 27007,
+          "median": 1511456.5,
+          "p95_nearest_rank": 9813825,
+          "max": 29629630
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 11667,
+          "median": 156148.0,
+          "p95_nearest_rank": 505000,
+          "max": 250005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 0,
+          "max": 11000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 0,
+          "max": 11000000
+        },
+        "receipts_with_configured_provider_transfer": 2,
+        "receipts_with_published_provider_transfer": 1,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 11667,
+          "median": 160678.5,
+          "p95_nearest_rank": 545708,
+          "max": 250005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 11667,
+          "median": 156148.0,
+          "p95_nearest_rank": 505000,
+          "max": 250005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 1176898,
+          "median": 5587821.0,
+          "p95_nearest_rank": 43977018,
+          "max": 1440505000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 13,
+            "network_fee_lamports": {
+              "n": 13,
+              "min": 107401,
+              "median": 1105000,
+              "p95_nearest_rank": 250005000,
+              "max": 250005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 13,
+              "min": 1000000,
+              "median": 221000000,
+              "p95_nearest_rank": 1440000000,
+              "max": 1440000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 13,
+              "min": 6095283,
+              "median": 222105000,
+              "p95_nearest_rank": 1440505000,
+              "max": 1440505000
+            }
+          },
+          "sell": {
+            "n": 187,
+            "network_fee_lamports": {
+              "n": 187,
+              "min": 11667,
+              "median": 145087,
+              "p95_nearest_rank": 305000,
+              "max": 305000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 187,
+              "min": 871898,
+              "median": 4939938,
+              "p95_nearest_rank": 18493321,
+              "max": 68317010
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 187,
+              "min": 1176898,
+              "median": 5122971,
+              "p95_nearest_rank": 18638408,
+              "max": 68328677
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 4,
+            "observed_overhead_receipts_above": 196,
+            "share_of_median_native_quote_pct": 0.29871859112705074
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 35,
+            "observed_overhead_receipts_above": 165,
+            "share_of_median_native_quote_pct": 0.5787796755657674
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 194,
+            "base_receipts_above": 6,
+            "sensitivity_receipts_at_or_below": 195,
+            "sensitivity_receipts_above": 5
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 1,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -1440000000,
+            "median": -5202976.0,
+            "p95_nearest_rank": -1696139,
+            "max": -871898
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 5098658.5,
+            "p95_nearest_rank": 41000000,
+            "max": 1440000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 421,
+          "sample_sum_lamports": 62274049441,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 563
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "1 sol bot",
+      "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791154997,
+        "captured_to_unix": 1791777644,
+        "observed_status_counts": {
+          "failed": 1300,
+          "success": 8700
+        },
+        "payer_transactions": 9846,
+        "payer_network_fee_lamports": 2941528700,
+        "payer_failed_transactions": 1290,
+        "payer_failed_network_fee_lamports": 287419000,
+        "payer_failed_average_fee_lamports": 222805.42635658916
+      },
+      "authenticated_direct_trade_receipts": 8363,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 130051884,
+          "median": 590711737.0,
+          "p95_nearest_rank": 1253848663,
+          "max": 2372205587
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 1235493,
+          "median": 5611762.0,
+          "p95_nearest_rank": 11911563,
+          "max": 22535954
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 390156,
+          "median": 1772136.0,
+          "p95_nearest_rank": 3761546,
+          "max": 7116617
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 4000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 0,
+          "max": 1100000
+        },
+        "receipts_with_configured_provider_transfer": 41,
+        "receipts_with_published_provider_transfer": 6,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 105000,
+          "median": 205000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 97,
+            "network_fee_lamports": {
+              "n": 97,
+              "min": 5000,
+              "median": 5000,
+              "p95_nearest_rank": 1105000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 1100000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 105000,
+              "median": 1105000,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            }
+          },
+          "sell": {
+            "n": 103,
+            "network_fee_lamports": {
+              "n": 103,
+              "min": 105000,
+              "median": 105000,
+              "p95_nearest_rank": 105000,
+              "max": 105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 100000,
+              "max": 100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 105000,
+              "median": 205000,
+              "p95_nearest_rank": 205000,
+              "max": 205000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 194,
+            "observed_overhead_receipts_above": 6,
+            "share_of_median_native_quote_pct": 0.2547773991495957
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 194,
+            "observed_overhead_receipts_above": 6,
+            "share_of_median_native_quote_pct": 0.493641791309117
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 195,
+            "base_receipts_above": 5,
+            "sensitivity_receipts_at_or_below": 195,
+            "sensitivity_receipts_above": 5
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 97,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -4000000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 100000.0,
+            "p95_nearest_rank": 1100000,
+            "max": 4000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 398,
+          "sample_sum_lamports": 71336000000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "Snippebot",
+      "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791578499,
+        "captured_to_unix": 1791778294,
+        "observed_status_counts": {
+          "success": 1675,
+          "failed": 8325
+        },
+        "payer_transactions": 9526,
+        "payer_network_fee_lamports": 24834789974,
+        "payer_failed_transactions": 7926,
+        "payer_failed_network_fee_lamports": 14588537536,
+        "payer_failed_average_fee_lamports": 1840592.6742366895
+      },
+      "authenticated_direct_trade_receipts": 1467,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 31971171,
+          "median": 1061900456.5,
+          "p95_nearest_rank": 2940979945,
+          "max": 6716049381
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 303727,
+          "median": 10088055.0,
+          "p95_nearest_rank": 27939310,
+          "max": 63802470
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 95914,
+          "median": 3185702.0,
+          "p95_nearest_rank": 8822940,
+          "max": 20148149
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 58864405,
+          "max": 250005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1300000,
+          "max": 899900000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 180000000
+        },
+        "receipts_with_configured_provider_transfer": 52,
+        "receipts_with_published_provider_transfer": 39,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 103927718,
+          "max": 900005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 60005000,
+          "max": 250005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 105000,
+          "median": 205000.0,
+          "p95_nearest_rank": 140005000,
+          "max": 900005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 53,
+            "network_fee_lamports": {
+              "n": 53,
+              "min": 5000,
+              "median": 10005000,
+              "p95_nearest_rank": 180005000,
+              "max": 250005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 53,
+              "min": 0,
+              "median": 1300000,
+              "p95_nearest_rank": 180000000,
+              "max": 899900000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 53,
+              "min": 105000,
+              "median": 15655240,
+              "p95_nearest_rank": 250005000,
+              "max": 900005000
+            }
+          },
+          "sell": {
+            "n": 147,
+            "network_fee_lamports": {
+              "n": 147,
+              "min": 25000,
+              "median": 105000,
+              "p95_nearest_rank": 1105000,
+              "max": 1105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 147,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 1100000,
+              "max": 1750240
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 147,
+              "min": 105000,
+              "median": 205000,
+              "p95_nearest_rank": 2205000,
+              "max": 2855240
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 129,
+            "observed_overhead_receipts_above": 71,
+            "share_of_median_native_quote_pct": 0.14172703201959683
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 152,
+            "observed_overhead_receipts_above": 48,
+            "share_of_median_native_quote_pct": 0.27460201021205605
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 154,
+            "base_receipts_above": 46,
+            "sensitivity_receipts_at_or_below": 162,
+            "sensitivity_receipts_above": 38
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 107,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -899900000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 1750240,
+            "max": 250000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 151,
+          "sample_sum_lamports": 136095534468,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 2
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "Bottom Bidder",
+      "address": "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791076946,
+        "captured_to_unix": 1791778260,
+        "observed_status_counts": {
+          "success": 9649,
+          "failed": 351
+        },
+        "payer_transactions": 9867,
+        "payer_network_fee_lamports": 8467898873,
+        "payer_failed_transactions": 350,
+        "payer_failed_network_fee_lamports": 272505148,
+        "payer_failed_average_fee_lamports": 778586.1371428572
+      },
+      "authenticated_direct_trade_receipts": 9051,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 47595061,
+          "median": 572345710.0,
+          "p95_nearest_rank": 1108812997,
+          "max": 3447694296
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 452154,
+          "median": 5437285.0,
+          "p95_nearest_rank": 10533724,
+          "max": 32753096
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 142786,
+          "median": 1717038.0,
+          "p95_nearest_rank": 3326439,
+          "max": 10343083
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 427969,
+          "median": 912160.0,
+          "p95_nearest_rank": 1006432,
+          "max": 1007648
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 1030000.0,
+          "p95_nearest_rank": 1030000,
+          "max": 1030100
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1030000,
+          "max": 1030100
+        },
+        "receipts_with_configured_provider_transfer": 171,
+        "receipts_with_published_provider_transfer": 94,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 427969,
+          "median": 1940740.5,
+          "p95_nearest_rank": 2036432,
+          "max": 2037648
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 427969,
+          "median": 1001572.0,
+          "p95_nearest_rank": 2035217,
+          "max": 2037648
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 430243,
+          "median": 1941787.0,
+          "p95_nearest_rank": 2036432,
+          "max": 2037648
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 104,
+            "network_fee_lamports": {
+              "n": 104,
+              "min": 461797,
+              "median": 908807.0,
+              "p95_nearest_rank": 912869,
+              "max": 913243
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 104,
+              "min": 0,
+              "median": 1030000.0,
+              "p95_nearest_rank": 1030100,
+              "max": 1030100
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 104,
+              "min": 462378,
+              "median": 1938499.0,
+              "p95_nearest_rank": 1942869,
+              "max": 1943310
+            }
+          },
+          "sell": {
+            "n": 96,
+            "network_fee_lamports": {
+              "n": 96,
+              "min": 427969,
+              "median": 1000965.0,
+              "p95_nearest_rank": 1007648,
+              "max": 1007648
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 96,
+              "min": 0,
+              "median": 1030000.0,
+              "p95_nearest_rank": 1030000,
+              "max": 1030100
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 96,
+              "min": 430243,
+              "median": 2030358.0,
+              "p95_nearest_rank": 2037648,
+              "max": 2037648
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 32,
+            "observed_overhead_receipts_above": 168,
+            "share_of_median_native_quote_pct": 0.2629529624673871
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.5094822847540869
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 46,
+            "base_receipts_above": 154,
+            "sensitivity_receipts_at_or_below": 200,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 185,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -1030100,
+            "median": -1030000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 1030000,
+            "max": 1030100
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 431,
+          "sample_sum_lamports": 63751131381,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 10
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bottty",
+      "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791339002,
+        "captured_to_unix": 1791778273,
+        "observed_status_counts": {
+          "success": 8783,
+          "failed": 1217
+        },
+        "payer_transactions": 9919,
+        "payer_network_fee_lamports": 3340415355,
+        "payer_failed_transactions": 1214,
+        "payer_failed_network_fee_lamports": 327485000,
+        "payer_failed_average_fee_lamports": 269757.0016474465
+      },
+      "authenticated_direct_trade_receipts": 8598,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 98765431,
+          "median": 987654320.0,
+          "p95_nearest_rank": 1879458854,
+          "max": 2481399153
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 938272,
+          "median": 9382717.0,
+          "p95_nearest_rank": 17854860,
+          "max": 23573292
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 296297,
+          "median": 2962963.0,
+          "p95_nearest_rank": 5638377,
+          "max": 7444198
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 4000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 100000,
+          "max": 1100000
+        },
+        "receipts_with_configured_provider_transfer": 45,
+        "receipts_with_published_provider_transfer": 18,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 205000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 86,
+            "network_fee_lamports": {
+              "n": 86,
+              "min": 5000,
+              "median": 105000.0,
+              "p95_nearest_rank": 1105000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 0,
+              "median": 100000.0,
+              "p95_nearest_rank": 1100000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 5000,
+              "median": 1105000.0,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            }
+          },
+          "sell": {
+            "n": 114,
+            "network_fee_lamports": {
+              "n": 114,
+              "min": 104000,
+              "median": 105000.0,
+              "p95_nearest_rank": 105000,
+              "max": 105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 0,
+              "median": 100000.0,
+              "p95_nearest_rank": 100000,
+              "max": 1100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 105000,
+              "median": 205000.0,
+              "p95_nearest_rank": 205000,
+              "max": 1204000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 195,
+            "observed_overhead_receipts_above": 5,
+            "share_of_median_native_quote_pct": 0.15238125015238124
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 195,
+            "observed_overhead_receipts_above": 5,
+            "share_of_median_native_quote_pct": 0.295245000295245
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 195,
+            "base_receipts_above": 5,
+            "sensitivity_receipts_at_or_below": 195,
+            "sensitivity_receipts_above": 5
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 108,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -4000000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 1100000,
+            "max": 1100000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 325,
+          "sample_sum_lamports": 76135100000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 14
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bottimus",
+      "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791370058,
+        "captured_to_unix": 1791778243,
+        "observed_status_counts": {
+          "success": 9473,
+          "failed": 527
+        },
+        "payer_transactions": 9929,
+        "payer_network_fee_lamports": 6952955920,
+        "payer_failed_transactions": 526,
+        "payer_failed_network_fee_lamports": 962400049,
+        "payer_failed_average_fee_lamports": 1829657.8878326996
+      },
+      "authenticated_direct_trade_receipts": 0,
+      "sample": {
+        "sample_n": 0,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": null,
+        "event_fee_lamports": null,
+        "creator_fee_lamports": null,
+        "event_fee_basis_points": {},
+        "creator_fee_basis_points": {},
+        "network_fee_charged_to_user_lamports": null,
+        "configured_provider_tip_lamports_including_zero": null,
+        "published_provider_tip_lamports_including_zero": null,
+        "receipts_with_configured_provider_transfer": 0,
+        "receipts_with_published_provider_transfer": 0,
+        "network_fee_plus_configured_tip_lamports": null,
+        "network_fee_plus_published_tip_lamports": null,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": null,
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          },
+          "sell": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 0,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": null
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 0,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": null
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 0,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 0,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 0,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 0,
+          "adjusted_residual_lamports": null,
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": null
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 0,
+          "sample_sum_lamports": 0,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": {
+        "exact_payer_linked_child_receipts": 5994,
+        "sample": {
+          "sample_n": 200,
+          "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+          "native_quote_lamports": {
+            "n": 200,
+            "min": 103081654,
+            "median": 987654320.0,
+            "p95_nearest_rank": 1116561479,
+            "max": 2044699444
+          },
+          "event_fee_lamports": {
+            "n": 200,
+            "min": 979276,
+            "median": 9382717.0,
+            "p95_nearest_rank": 10607335,
+            "max": 19424645
+          },
+          "creator_fee_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 2962963.0,
+            "p95_nearest_rank": 3349685,
+            "max": 6134099
+          },
+          "event_fee_basis_points": {
+            "95": 200
+          },
+          "creator_fee_basis_points": {
+            "0": 2,
+            "30": 198
+          },
+          "network_fee_charged_to_user_lamports": {
+            "n": 200,
+            "min": 10002,
+            "median": 623438.5,
+            "p95_nearest_rank": 2248705,
+            "max": 2320058
+          },
+          "configured_provider_tip_lamports_including_zero": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 2272039,
+            "max": 2309895
+          },
+          "published_provider_tip_lamports_including_zero": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 2244926,
+            "max": 2300035
+          },
+          "receipts_with_configured_provider_transfer": 74,
+          "receipts_with_published_provider_transfer": 38,
+          "network_fee_plus_configured_tip_lamports": {
+            "n": 200,
+            "min": 10002,
+            "median": 650237.0,
+            "p95_nearest_rank": 2303241,
+            "max": 2320075
+          },
+          "network_fee_plus_published_tip_lamports": {
+            "n": 200,
+            "min": 10002,
+            "median": 636749.0,
+            "p95_nearest_rank": 2302274,
+            "max": 2320075
+          },
+          "observed_network_fee_plus_adjusted_residual_outflow_lamports": null,
+          "observed_overhead_by_trade_side": {
+            "buy": {
+              "n": 0,
+              "network_fee_lamports": null,
+              "adjusted_residual_outflow_lamports": null,
+              "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+            },
+            "sell": {
+              "n": 0,
+              "network_fee_lamports": null,
+              "adjusted_residual_outflow_lamports": null,
+              "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+            }
+          },
+          "cost_vs_assumptions": {
+            "base_1505000_lamports": {
+              "observed_overhead_receipts_at_or_below": 0,
+              "observed_overhead_receipts_above": 0,
+              "share_of_median_native_quote_pct": 0.15238125015238124
+            },
+            "sensitivity_2916000_lamports": {
+              "observed_overhead_receipts_at_or_below": 0,
+              "observed_overhead_receipts_above": 0,
+              "share_of_median_native_quote_pct": 0.295245000295245
+            },
+            "configured_tip_attribution_only": {
+              "base_receipts_at_or_below": 128,
+              "base_receipts_above": 72,
+              "sensitivity_receipts_at_or_below": 200,
+              "sensitivity_receipts_above": 0
+            }
+          },
+          "cash_residual": {
+            "receipts_with_computable_residual": 0,
+            "receipts_reconciled_to_configured_tip_within_1_lamport": 0,
+            "adjusted_residual_lamports": null,
+            "positive_adjusted_residual_unclassified_inflow_lamports": null,
+            "unexplained_residual_after_configured_tip_lamports": null
+          },
+          "other_direct_system_transfers_not_counted_as_tips": {
+            "count": 226,
+            "sample_sum_lamports": 86021969239,
+            "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+          }
+        },
+        "sample_owner": "child event.user; each receipt has one exact child/mint group",
+        "payer": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+        "excluded": {
+          "non_native_quote": 2459
+        },
+        "interpretation": "Separate payer execution-cost evidence; not a direct bottimus-owned trade count or cycle."
+      },
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "asdasd",
+      "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791328675,
+        "captured_to_unix": 1791778205,
+        "observed_status_counts": {
+          "success": 8832,
+          "failed": 1168
+        },
+        "payer_transactions": 9922,
+        "payer_network_fee_lamports": 3430934741,
+        "payer_failed_transactions": 1166,
+        "payer_failed_network_fee_lamports": 315305000,
+        "payer_failed_average_fee_lamports": 270415.9519725557
+      },
+      "authenticated_direct_trade_receipts": 8664,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 96927229,
+          "median": 987654320.0,
+          "p95_nearest_rank": 1777777777,
+          "max": 3096208517
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 920809,
+          "median": 9382717.0,
+          "p95_nearest_rank": 16888889,
+          "max": 29413981
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 290782,
+          "median": 2962963.0,
+          "p95_nearest_rank": 5333334,
+          "max": 9288626
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1000000,
+          "max": 4000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 100000,
+          "max": 1100000
+        },
+        "receipts_with_configured_provider_transfer": 42,
+        "receipts_with_published_provider_transfer": 11,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 205000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 95,
+            "network_fee_lamports": {
+              "n": 95,
+              "min": 5000,
+              "median": 1005000,
+              "p95_nearest_rank": 1105000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 95,
+              "min": 0,
+              "median": 0,
+              "p95_nearest_rank": 1100000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 95,
+              "min": 5000,
+              "median": 1105000,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            }
+          },
+          "sell": {
+            "n": 105,
+            "network_fee_lamports": {
+              "n": 105,
+              "min": 25000,
+              "median": 105000,
+              "p95_nearest_rank": 105000,
+              "max": 1105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 105,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 100000,
+              "max": 1100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 105,
+              "min": 25000,
+              "median": 205000,
+              "p95_nearest_rank": 205000,
+              "max": 1204000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 195,
+            "observed_overhead_receipts_above": 5,
+            "share_of_median_native_quote_pct": 0.15238125015238124
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 195,
+            "observed_overhead_receipts_above": 5,
+            "share_of_median_native_quote_pct": 0.295245000295245
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 195,
+            "base_receipts_above": 5,
+            "sensitivity_receipts_at_or_below": 195,
+            "sensitivity_receipts_above": 5
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 115,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -4000000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 1100000,
+            "max": 1100000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 333,
+          "sample_sum_lamports": 87634400000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 12
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bot",
+      "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791776581,
+        "captured_to_unix": 1791778286,
+        "observed_status_counts": {
+          "success": 29,
+          "failed": 9971
+        },
+        "payer_transactions": 9999,
+        "payer_network_fee_lamports": 70131235,
+        "payer_failed_transactions": 9971,
+        "payer_failed_network_fee_lamports": 69610535,
+        "payer_failed_average_fee_lamports": 6981.299267876843
+      },
+      "authenticated_direct_trade_receipts": 7,
+      "sample": {
+        "sample_n": 7,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 7,
+          "min": 251959710,
+          "median": 1010075572,
+          "p95_nearest_rank": 4444444443,
+          "max": 4444444443
+        },
+        "event_fee_lamports": {
+          "n": 7,
+          "min": 2393618,
+          "median": 9595718,
+          "p95_nearest_rank": 42222223,
+          "max": 42222223
+        },
+        "creator_fee_lamports": {
+          "n": 7,
+          "min": 755880,
+          "median": 3030227,
+          "p95_nearest_rank": 13333334,
+          "max": 13333334
+        },
+        "event_fee_basis_points": {
+          "95": 7
+        },
+        "creator_fee_basis_points": {
+          "30": 7
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 7,
+          "min": 5700,
+          "median": 35000,
+          "p95_nearest_rank": 35000,
+          "max": 35000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 7,
+          "min": 0,
+          "median": 50000,
+          "p95_nearest_rank": 2000000,
+          "max": 2000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 7,
+          "min": 0,
+          "median": 50000,
+          "p95_nearest_rank": 50000,
+          "max": 50000
+        },
+        "receipts_with_configured_provider_transfer": 6,
+        "receipts_with_published_provider_transfer": 5,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 7,
+          "min": 35000,
+          "median": 85000,
+          "p95_nearest_rank": 2005700,
+          "max": 2005700
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 7,
+          "min": 5700,
+          "median": 85000,
+          "p95_nearest_rank": 85000,
+          "max": 85000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 7,
+          "min": 85000,
+          "median": 85000,
+          "p95_nearest_rank": 4005700,
+          "max": 4005700
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 1,
+            "network_fee_lamports": {
+              "n": 1,
+              "min": 5700,
+              "median": 5700,
+              "p95_nearest_rank": 5700,
+              "max": 5700
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 1,
+              "min": 4000000,
+              "median": 4000000,
+              "p95_nearest_rank": 4000000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 1,
+              "min": 4005700,
+              "median": 4005700,
+              "p95_nearest_rank": 4005700,
+              "max": 4005700
+            }
+          },
+          "sell": {
+            "n": 6,
+            "network_fee_lamports": {
+              "n": 6,
+              "min": 35000,
+              "median": 35000.0,
+              "p95_nearest_rank": 35000,
+              "max": 35000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 6,
+              "min": 50000,
+              "median": 50000.0,
+              "p95_nearest_rank": 50000,
+              "max": 50000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 6,
+              "min": 85000,
+              "median": 85000.0,
+              "p95_nearest_rank": 85000,
+              "max": 85000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 6,
+            "observed_overhead_receipts_above": 1,
+            "share_of_median_native_quote_pct": 0.14899875234285936
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 6,
+            "observed_overhead_receipts_above": 1,
+            "share_of_median_native_quote_pct": 0.2886912703201182
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 6,
+            "base_receipts_above": 1,
+            "sensitivity_receipts_at_or_below": 7,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 7,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 5,
+          "adjusted_residual_lamports": {
+            "n": 7,
+            "min": -4000000,
+            "median": -50000,
+            "p95_nearest_rank": -50000,
+            "max": -50000
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 7,
+            "min": 0,
+            "median": 0,
+            "p95_nearest_rank": 2000000,
+            "max": 2000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 6,
+          "sample_sum_lamports": 4502050000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "insane bot",
+      "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791777112,
+        "captured_to_unix": 1791778324,
+        "observed_status_counts": {
+          "failed": 9236,
+          "success": 764
+        },
+        "payer_transactions": 9843,
+        "payer_network_fee_lamports": 386171594,
+        "payer_failed_transactions": 9182,
+        "payer_failed_network_fee_lamports": 380681642,
+        "payer_failed_average_fee_lamports": 41459.55587018079
+      },
+      "authenticated_direct_trade_receipts": 0,
+      "sample": {
+        "sample_n": 0,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": null,
+        "event_fee_lamports": null,
+        "creator_fee_lamports": null,
+        "event_fee_basis_points": {},
+        "creator_fee_basis_points": {},
+        "network_fee_charged_to_user_lamports": null,
+        "configured_provider_tip_lamports_including_zero": null,
+        "published_provider_tip_lamports_including_zero": null,
+        "receipts_with_configured_provider_transfer": 0,
+        "receipts_with_published_provider_transfer": 0,
+        "network_fee_plus_configured_tip_lamports": null,
+        "network_fee_plus_published_tip_lamports": null,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": null,
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          },
+          "sell": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 0,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": null
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 0,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": null
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 0,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 0,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 0,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 0,
+          "adjusted_residual_lamports": null,
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": null
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 0,
+          "sample_sum_lamports": 0,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bot",
+      "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+      "capture": {
+        "status": "complete",
+        "full_transaction_meta_rows": 7009,
+        "captured_from_unix": 1789972840,
+        "captured_to_unix": 1791778085,
+        "observed_status_counts": {
+          "failed": 3125,
+          "success": 3884
+        },
+        "payer_transactions": 6828,
+        "payer_network_fee_lamports": 8526579465,
+        "payer_failed_transactions": 3120,
+        "payer_failed_network_fee_lamports": 420695365,
+        "payer_failed_average_fee_lamports": 134838.2580128205
+      },
+      "authenticated_direct_trade_receipts": 2861,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 443894594,
+          "median": 1975308641.0,
+          "p95_nearest_rank": 3358024690,
+          "max": 5317178738
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 4216999,
+          "median": 18765433.0,
+          "p95_nearest_rank": 31901235,
+          "max": 50513199
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 1331684,
+          "median": 5925926.0,
+          "p95_nearest_rank": 10074075,
+          "max": 15951537
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 1005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 10005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 10000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1100000,
+          "max": 10000000
+        },
+        "receipts_with_configured_provider_transfer": 64,
+        "receipts_with_published_provider_transfer": 43,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 2005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 10005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 2005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 10005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 2005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 11105000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 99,
+            "network_fee_lamports": {
+              "n": 99,
+              "min": 5000,
+              "median": 5005000,
+              "p95_nearest_rank": 10005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 0,
+              "median": 0,
+              "p95_nearest_rank": 10000000,
+              "max": 10650240
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 105000,
+              "median": 10005000,
+              "p95_nearest_rank": 10005000,
+              "max": 10655240
+            }
+          },
+          "sell": {
+            "n": 101,
+            "network_fee_lamports": {
+              "n": 101,
+              "min": 5000,
+              "median": 1005000,
+              "p95_nearest_rank": 1005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 1000000,
+              "max": 10000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 5000,
+              "median": 1005000,
+              "p95_nearest_rank": 2005000,
+              "max": 11105000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 66,
+            "observed_overhead_receipts_above": 134,
+            "share_of_median_native_quote_pct": 0.07619062503761913
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 107,
+            "observed_overhead_receipts_above": 93,
+            "share_of_median_native_quote_pct": 0.1476225000728886
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 94,
+            "base_receipts_above": 106,
+            "sensitivity_receipts_at_or_below": 122,
+            "sensitivity_receipts_above": 78
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 138,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -10650240,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 10000000,
+            "max": 10650240
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 435,
+          "sample_sum_lamports": 240509877071,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 138
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "boooooot",
+      "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791748232,
+        "captured_to_unix": 1791778302,
+        "observed_status_counts": {
+          "success": 1663,
+          "failed": 8337
+        },
+        "payer_transactions": 9830,
+        "payer_network_fee_lamports": 8437661519,
+        "payer_failed_transactions": 8271,
+        "payer_failed_network_fee_lamports": 5202037416,
+        "payer_failed_average_fee_lamports": 628949.0286543344
+      },
+      "authenticated_direct_trade_receipts": 104,
+      "sample": {
+        "sample_n": 104,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 104,
+          "min": 1380644,
+          "median": 770660583.0,
+          "p95_nearest_rank": 5878299848,
+          "max": 6522177579
+        },
+        "event_fee_lamports": {
+          "n": 104,
+          "min": 13117,
+          "median": 7321276.0,
+          "p95_nearest_rank": 55843849,
+          "max": 61960688
+        },
+        "creator_fee_lamports": {
+          "n": 104,
+          "min": 4142,
+          "median": 2311982.5,
+          "p95_nearest_rank": 17634900,
+          "max": 19566533
+        },
+        "event_fee_basis_points": {
+          "95": 104
+        },
+        "creator_fee_basis_points": {
+          "30": 104
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 104,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 5005000,
+          "max": 40005000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 104,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 100000,
+          "max": 90000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 104,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 100000,
+          "max": 90000000
+        },
+        "receipts_with_configured_provider_transfer": 17,
+        "receipts_with_published_provider_transfer": 17,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 104,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 40005000,
+          "max": 90005000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 104,
+          "min": 5000,
+          "median": 105000.0,
+          "p95_nearest_rank": 40005000,
+          "max": 90005000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 104,
+          "min": 105000,
+          "median": 205000.0,
+          "p95_nearest_rank": 90005000,
+          "max": 400005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 16,
+            "network_fee_lamports": {
+              "n": 16,
+              "min": 5000,
+              "median": 4005000.0,
+              "p95_nearest_rank": 40005000,
+              "max": 40005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 16,
+              "min": 0,
+              "median": 0.0,
+              "p95_nearest_rank": 400000000,
+              "max": 400000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 16,
+              "min": 4005000,
+              "median": 40005000.0,
+              "p95_nearest_rank": 400005000,
+              "max": 400005000
+            }
+          },
+          "sell": {
+            "n": 88,
+            "network_fee_lamports": {
+              "n": 88,
+              "min": 25000,
+              "median": 105000.0,
+              "p95_nearest_rank": 1105000,
+              "max": 5005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 88,
+              "min": 0,
+              "median": 100000.0,
+              "p95_nearest_rank": 1100000,
+              "max": 1100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 88,
+              "min": 105000,
+              "median": 205000.0,
+              "p95_nearest_rank": 2205000,
+              "max": 6105000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 83,
+            "observed_overhead_receipts_above": 21,
+            "share_of_median_native_quote_pct": 0.19528700872975618
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 86,
+            "observed_overhead_receipts_above": 18,
+            "share_of_median_native_quote_pct": 0.37837668933951435
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 89,
+            "base_receipts_above": 15,
+            "sensitivity_receipts_at_or_below": 91,
+            "sensitivity_receipts_above": 13
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 104,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 43,
+          "adjusted_residual_lamports": {
+            "n": 104,
+            "min": -400000000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 104,
+            "min": 0,
+            "median": 100000.0,
+            "p95_nearest_rank": 1100000,
+            "max": 400000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 77,
+          "sample_sum_lamports": 64688600000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 1328
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "cbot14",
+      "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+      "capture": {
+        "status": "complete",
+        "full_transaction_meta_rows": 1882,
+        "captured_from_unix": 1789989473,
+        "captured_to_unix": 1791761142,
+        "observed_status_counts": {
+          "success": 1671,
+          "failed": 211
+        },
+        "payer_transactions": 1607,
+        "payer_network_fee_lamports": 4928987154,
+        "payer_failed_transactions": 211,
+        "payer_failed_network_fee_lamports": 175201651,
+        "payer_failed_average_fee_lamports": 830339.5781990521
+      },
+      "authenticated_direct_trade_receipts": 831,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 4549719,
+          "median": 1482689402.5,
+          "p95_nearest_rank": 3148166715,
+          "max": 5319111111
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 43223,
+          "median": 14085549.5,
+          "p95_nearest_rank": 29907584,
+          "max": 50531556
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 13650,
+          "median": 4448069.0,
+          "p95_nearest_rank": 9444501,
+          "max": 15957334
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 198,
+          "min": 10000,
+          "median": 1405000.0,
+          "p95_nearest_rank": 9005000,
+          "max": 12205000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 0,
+          "max": 0
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 0,
+          "max": 0
+        },
+        "receipts_with_configured_provider_transfer": 0,
+        "receipts_with_published_provider_transfer": 0,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 198,
+          "min": 10000,
+          "median": 1405000.0,
+          "p95_nearest_rank": 9005000,
+          "max": 12205000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 198,
+          "min": 10000,
+          "median": 1405000.0,
+          "p95_nearest_rank": 9005000,
+          "max": 12205000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 2049928,
+          "median": 20805000.0,
+          "p95_nearest_rank": 50055800,
+          "max": 79237080
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 86,
+            "network_fee_lamports": {
+              "n": 86,
+              "min": 0,
+              "median": 9005000.0,
+              "p95_nearest_rank": 9005000,
+              "max": 12205000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 2459354,
+              "median": 21000000.0,
+              "p95_nearest_rank": 52500000,
+              "max": 67032080
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 3864354,
+              "median": 28911156.0,
+              "p95_nearest_rank": 64705000,
+              "max": 79237080
+            }
+          },
+          "sell": {
+            "n": 114,
+            "network_fee_lamports": {
+              "n": 114,
+              "min": 1005000,
+              "median": 1005000.0,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 1044928,
+              "median": 14989575.5,
+              "p95_nearest_rank": 32069604,
+              "max": 55854783
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 2049928,
+              "median": 17493566.5,
+              "p95_nearest_rank": 35953959,
+              "max": 59859783
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 0,
+            "observed_overhead_receipts_above": 200,
+            "share_of_median_native_quote_pct": 0.10150473844774108
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 4,
+            "observed_overhead_receipts_above": 196,
+            "share_of_median_native_quote_pct": 0.1966696460555568
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 115,
+            "base_receipts_above": 83,
+            "sensitivity_receipts_at_or_below": 115,
+            "sensitivity_receipts_above": 83
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 0,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -67032080,
+            "median": -18681259.5,
+            "p95_nearest_rank": -2993208,
+            "max": -1044928
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 1044928,
+            "median": 18681259.5,
+            "p95_nearest_rank": 41050800,
+            "max": 67032080
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 742,
+          "sample_sum_lamports": 160389358047,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 129
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "Botty",
+      "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791676006,
+        "captured_to_unix": 1791778282,
+        "observed_status_counts": {
+          "success": 8593,
+          "failed": 1407
+        },
+        "payer_transactions": 9957,
+        "payer_network_fee_lamports": 1190075324,
+        "payer_failed_transactions": 1407,
+        "payer_failed_network_fee_lamports": 174310416,
+        "payer_failed_average_fee_lamports": 123888.0
+      },
+      "authenticated_direct_trade_receipts": 8492,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 410112353,
+          "median": 1002912318.0,
+          "p95_nearest_rank": 1594788403,
+          "max": 2565408898
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 3896068,
+          "median": 9527667.5,
+          "p95_nearest_rank": 15150490,
+          "max": 24371385
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 1230338,
+          "median": 3008737.5,
+          "p95_nearest_rank": 4784366,
+          "max": 7696227
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 115000,
+          "median": 123888.0,
+          "p95_nearest_rank": 123888,
+          "max": 123888
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1200000,
+          "max": 1200000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 1200000,
+          "max": 1200000
+        },
+        "receipts_with_configured_provider_transfer": 88,
+        "receipts_with_published_provider_transfer": 76,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 115000,
+          "median": 123888.0,
+          "p95_nearest_rank": 1323888,
+          "max": 1323888
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 115000,
+          "median": 123888.0,
+          "p95_nearest_rank": 1323888,
+          "max": 1323888
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 123888,
+          "median": 215000.0,
+          "p95_nearest_rank": 1323888,
+          "max": 1323888
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 103,
+            "network_fee_lamports": {
+              "n": 103,
+              "min": 123888,
+              "median": 123888,
+              "p95_nearest_rank": 123888,
+              "max": 123888
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 0,
+              "median": 1200000,
+              "p95_nearest_rank": 1200000,
+              "max": 1200000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 123888,
+              "median": 1323888,
+              "p95_nearest_rank": 1323888,
+              "max": 1323888
+            }
+          },
+          "sell": {
+            "n": 97,
+            "network_fee_lamports": {
+              "n": 97,
+              "min": 115000,
+              "median": 115000,
+              "p95_nearest_rank": 115000,
+              "max": 115000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 100000,
+              "median": 100000,
+              "p95_nearest_rank": 100000,
+              "max": 100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 215000,
+              "median": 215000,
+              "p95_nearest_rank": 215000,
+              "max": 215000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.15006296891449686
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.2907532341227062
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 200,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 200,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 101,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -1200000,
+            "median": -100000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 1200000,
+            "max": 1200000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 511,
+          "sample_sum_lamports": 103831385551,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "1sol bot",
+      "address": "72MUPELEkUU5riN8ZPdfVssXWC6L8EViZ9FybHEmqT6J",
+      "capture": {
+        "status": "complete",
+        "full_transaction_meta_rows": 4014,
+        "captured_from_unix": 1791601598,
+        "captured_to_unix": 1791778272,
+        "observed_status_counts": {
+          "success": 3722,
+          "failed": 292
+        },
+        "payer_transactions": 3947,
+        "payer_network_fee_lamports": 350560000,
+        "payer_failed_transactions": 290,
+        "payer_failed_network_fee_lamports": 26100000,
+        "payer_failed_average_fee_lamports": 90000.0
+      },
+      "authenticated_direct_trade_receipts": 3594,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 389766538,
+          "median": 987654320.0,
+          "p95_nearest_rank": 1530419194,
+          "max": 2551128162
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 3702783,
+          "median": 9382717.0,
+          "p95_nearest_rank": 14538983,
+          "max": 24235718
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 1169300,
+          "median": 2962963.0,
+          "p95_nearest_rank": 4591258,
+          "max": 7653385
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 90000,
+          "median": 90000.0,
+          "p95_nearest_rank": 90000,
+          "max": 90000
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 1000000,
+          "median": 1000000.0,
+          "p95_nearest_rank": 1000000,
+          "max": 1000000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 1000000,
+          "median": 1000000.0,
+          "p95_nearest_rank": 1000000,
+          "max": 1000000
+        },
+        "receipts_with_configured_provider_transfer": 200,
+        "receipts_with_published_provider_transfer": 200,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 1090000,
+          "median": 1090000.0,
+          "p95_nearest_rank": 1090000,
+          "max": 1090000
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 1090000,
+          "median": 1090000.0,
+          "p95_nearest_rank": 1090000,
+          "max": 1090000
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 1090000,
+          "median": 1090000.0,
+          "p95_nearest_rank": 1090000,
+          "max": 1090000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 109,
+            "network_fee_lamports": {
+              "n": 109,
+              "min": 90000,
+              "median": 90000,
+              "p95_nearest_rank": 90000,
+              "max": 90000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 109,
+              "min": 1000000,
+              "median": 1000000,
+              "p95_nearest_rank": 1000000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 109,
+              "min": 1090000,
+              "median": 1090000,
+              "p95_nearest_rank": 1090000,
+              "max": 1090000
+            }
+          },
+          "sell": {
+            "n": 91,
+            "network_fee_lamports": {
+              "n": 91,
+              "min": 90000,
+              "median": 90000,
+              "p95_nearest_rank": 90000,
+              "max": 90000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 91,
+              "min": 1000000,
+              "median": 1000000,
+              "p95_nearest_rank": 1000000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 91,
+              "min": 1090000,
+              "median": 1090000,
+              "p95_nearest_rank": 1090000,
+              "max": 1090000
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.15238125015238124
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.295245000295245
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 200,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 200,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 200,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -1000000,
+            "median": -1000000.0,
+            "p95_nearest_rank": -1000000,
+            "max": -1000000
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 436,
+          "sample_sum_lamports": 109000000000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "bot",
+      "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791674995,
+        "captured_to_unix": 1791778314,
+        "observed_status_counts": {
+          "success": 9279,
+          "failed": 721
+        },
+        "payer_transactions": 9948,
+        "payer_network_fee_lamports": 752051337,
+        "payer_failed_transactions": 721,
+        "payer_failed_network_fee_lamports": 66474615,
+        "payer_failed_average_fee_lamports": 92197.80166435507
+      },
+      "authenticated_direct_trade_receipts": 8979,
+      "sample": {
+        "sample_n": 200,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 200,
+          "min": 8402850,
+          "median": 493827159.0,
+          "p95_nearest_rank": 1026332232,
+          "max": 1602459364
+        },
+        "event_fee_lamports": {
+          "n": 200,
+          "min": 79828,
+          "median": 4691359.0,
+          "p95_nearest_rank": 9750157,
+          "max": 15223364
+        },
+        "creator_fee_lamports": {
+          "n": 200,
+          "min": 25209,
+          "median": 1481482.0,
+          "p95_nearest_rank": 3078997,
+          "max": 4807379
+        },
+        "event_fee_basis_points": {
+          "95": 200
+        },
+        "creator_fee_basis_points": {
+          "30": 200
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 200,
+          "min": 16923,
+          "median": 124975.5,
+          "p95_nearest_rank": 125030,
+          "max": 125038
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 200000.0,
+          "p95_nearest_rank": 200000,
+          "max": 200000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 200,
+          "min": 0,
+          "median": 200000.0,
+          "p95_nearest_rank": 200000,
+          "max": 200000
+        },
+        "receipts_with_configured_provider_transfer": 155,
+        "receipts_with_published_provider_transfer": 155,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 200,
+          "min": 16967,
+          "median": 217018.5,
+          "p95_nearest_rank": 325029,
+          "max": 325038
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 200,
+          "min": 16967,
+          "median": 217018.5,
+          "p95_nearest_rank": 325029,
+          "max": 325038
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 16969,
+          "median": 217022.0,
+          "p95_nearest_rank": 325029,
+          "max": 1016982
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 93,
+            "network_fee_lamports": {
+              "n": 93,
+              "min": 16967,
+              "median": 124976,
+              "p95_nearest_rank": 125031,
+              "max": 125038
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 93,
+              "min": 0,
+              "median": 200000,
+              "p95_nearest_rank": 200000,
+              "max": 200000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 93,
+              "min": 16969,
+              "median": 217025,
+              "p95_nearest_rank": 325030,
+              "max": 325038
+            }
+          },
+          "sell": {
+            "n": 107,
+            "network_fee_lamports": {
+              "n": 107,
+              "min": 16923,
+              "median": 17031,
+              "p95_nearest_rank": 125026,
+              "max": 125035
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 107,
+              "min": 0,
+              "median": 200000,
+              "p95_nearest_rank": 200000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 107,
+              "min": 16971,
+              "median": 217022,
+              "p95_nearest_rank": 325024,
+              "max": 1016982
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.30476250092190654
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 200,
+            "observed_overhead_receipts_above": 0,
+            "share_of_median_native_quote_pct": 0.5904900017862322
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 200,
+            "base_receipts_above": 0,
+            "sensitivity_receipts_at_or_below": 200,
+            "sensitivity_receipts_above": 0
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 200,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 191,
+          "adjusted_residual_lamports": {
+            "n": 200,
+            "min": -1000000,
+            "median": -200000.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 200,
+            "min": 0,
+            "median": 0.0,
+            "p95_nearest_rank": 0,
+            "max": 1000000
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 102,
+          "sample_sum_lamports": 49204800000,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {},
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    },
+    {
+      "name": "Bot",
+      "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+      "capture": {
+        "status": "truncated_page_cap",
+        "full_transaction_meta_rows": 10000,
+        "captured_from_unix": 1791754651,
+        "captured_to_unix": 1791777603,
+        "observed_status_counts": {
+          "failed": 9905,
+          "success": 95
+        },
+        "payer_transactions": 9998,
+        "payer_network_fee_lamports": 185616620,
+        "payer_failed_transactions": 9905,
+        "payer_failed_network_fee_lamports": 184103585,
+        "payer_failed_average_fee_lamports": 18586.934376577487
+      },
+      "authenticated_direct_trade_receipts": 24,
+      "sample": {
+        "sample_n": 24,
+        "hash_sample": "smallest SHA-256(signature) values among exact receipts",
+        "native_quote_lamports": {
+          "n": 24,
+          "min": 562768057,
+          "median": 987654320.0,
+          "p95_nearest_rank": 1224987623,
+          "max": 1400231384
+        },
+        "event_fee_lamports": {
+          "n": 24,
+          "min": 5346297,
+          "median": 9382717.0,
+          "p95_nearest_rank": 11637383,
+          "max": 13302199
+        },
+        "creator_fee_lamports": {
+          "n": 24,
+          "min": 1688305,
+          "median": 2962963.0,
+          "p95_nearest_rank": 3674963,
+          "max": 4200695
+        },
+        "event_fee_basis_points": {
+          "95": 24
+        },
+        "creator_fee_basis_points": {
+          "30": 24
+        },
+        "network_fee_charged_to_user_lamports": {
+          "n": 24,
+          "min": 7802,
+          "median": 18996.0,
+          "p95_nearest_rank": 33011,
+          "max": 38125
+        },
+        "configured_provider_tip_lamports_including_zero": {
+          "n": 24,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 4500000,
+          "max": 4500000
+        },
+        "published_provider_tip_lamports_including_zero": {
+          "n": 24,
+          "min": 0,
+          "median": 0.0,
+          "p95_nearest_rank": 4500000,
+          "max": 4500000
+        },
+        "receipts_with_configured_provider_transfer": 8,
+        "receipts_with_published_provider_transfer": 7,
+        "network_fee_plus_configured_tip_lamports": {
+          "n": 24,
+          "min": 11833,
+          "median": 24067.0,
+          "p95_nearest_rank": 4511636,
+          "max": 4518443
+        },
+        "network_fee_plus_published_tip_lamports": {
+          "n": 24,
+          "min": 11833,
+          "median": 21998.0,
+          "p95_nearest_rank": 4511636,
+          "max": 4518443
+        },
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 24,
+          "min": 11833,
+          "median": 2668095.0,
+          "p95_nearest_rank": 5984049,
+          "max": 7230444
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 12,
+            "network_fee_lamports": {
+              "n": 12,
+              "min": 11636,
+              "median": 18605.5,
+              "p95_nearest_rank": 33011,
+              "max": 33011
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 0,
+              "median": 0.0,
+              "p95_nearest_rank": 4500000,
+              "max": 4500000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 11833,
+              "median": 25339.5,
+              "p95_nearest_rank": 4518443,
+              "max": 4518443
+            }
+          },
+          "sell": {
+            "n": 12,
+            "network_fee_lamports": {
+              "n": 12,
+              "min": 7802,
+              "median": 21998.0,
+              "p95_nearest_rank": 38125,
+              "max": 38125
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 1389333,
+              "median": 2704504.5,
+              "p95_nearest_rank": 7206821,
+              "max": 7206821
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 1415429,
+              "median": 2724900.0,
+              "p95_nearest_rank": 7230444,
+              "max": 7230444
+            }
+          }
+        },
+        "cost_vs_assumptions": {
+          "base_1505000_lamports": {
+            "observed_overhead_receipts_at_or_below": 9,
+            "observed_overhead_receipts_above": 15,
+            "share_of_median_native_quote_pct": 0.15238125015238124
+          },
+          "sensitivity_2916000_lamports": {
+            "observed_overhead_receipts_at_or_below": 15,
+            "observed_overhead_receipts_above": 9,
+            "share_of_median_native_quote_pct": 0.295245000295245
+          },
+          "configured_tip_attribution_only": {
+            "base_receipts_at_or_below": 16,
+            "base_receipts_above": 8,
+            "sensitivity_receipts_at_or_below": 17,
+            "sensitivity_receipts_above": 7
+          }
+        },
+        "cash_residual": {
+          "receipts_with_computable_residual": 24,
+          "receipts_reconciled_to_configured_tip_within_1_lamport": 12,
+          "adjusted_residual_lamports": {
+            "n": 24,
+            "min": -7206821,
+            "median": -2645505.0,
+            "p95_nearest_rank": 0,
+            "max": 0
+          },
+          "positive_adjusted_residual_unclassified_inflow_lamports": null,
+          "unexplained_residual_after_configured_tip_lamports": {
+            "n": 24,
+            "min": 0,
+            "median": 694666.5,
+            "p95_nearest_rank": 3024188,
+            "max": 3456821
+          }
+        },
+        "other_direct_system_transfers_not_counted_as_tips": {
+          "count": 60,
+          "sample_sum_lamports": 12030050656,
+          "note": "Includes Pump quote/fee movements and possible account funding; never added to tip totals."
+        }
+      },
+      "strict_exclusions": {
+        "non_native_quote": 4
+      },
+      "payer_linked_children": null,
+      "scope": "Captured receipts only. Not a complete 21-day comparison where page-cap truncation is reported."
+    }
+  ],
+  "source_receipt_checks": [
+    {
+      "wallet": "russianbot",
+      "address": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+      "signature_prefix": "6WbajoMNCCMP",
+      "event_quote_lamports": 121770265,
+      "event_fee_lamports": 1156818,
+      "event_creator_fee_lamports": 365311,
+      "meta_fee_lamports": 59886,
+      "recoverable_rent_change_lamports": 1513840,
+      "adjusted_cash_residual_lamports": -100000,
+      "observed_overhead_lamports": 159886,
+      "recipient": "7y4whZmw388w1ggjToDLSBLv47drw5SUXcLk6jtmwixd",
+      "recipient_label": "0slot",
+      "recipient_lamports": 100000,
+      "payer": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT"
+    },
+    {
+      "wallet": "Cbot7",
+      "address": "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+      "signature_prefix": "4fi1SbrMj7S4",
+      "event_quote_lamports": 140000000,
+      "event_fee_lamports": 1330000,
+      "event_creator_fee_lamports": 420000,
+      "meta_fee_lamports": 9596,
+      "recoverable_rent_change_lamports": 1513840,
+      "adjusted_cash_residual_lamports": -110000,
+      "observed_overhead_lamports": 119596,
+      "recipient": "Eb2KpSC8uMt9GmzyAEm5Eb1AAAgTjRaXWFjKyFXHZxF3",
+      "recipient_label": "0slot",
+      "recipient_lamports": 110000,
+      "payer": "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL"
+    },
+    {
+      "wallet": "Bottom Bidder",
+      "address": "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF",
+      "signature_prefix": "3azUGwM3ReSy",
+      "event_quote_lamports": 635533779,
+      "event_fee_lamports": 6037571,
+      "event_creator_fee_lamports": 1906602,
+      "meta_fee_lamports": 908037,
+      "recoverable_rent_change_lamports": 1513840,
+      "adjusted_cash_residual_lamports": -1030000,
+      "observed_overhead_lamports": 1938037,
+      "recipient": "nozrwQtWhEdrA6W8dkbt9gnUaMs52PdAv5byipnadq3",
+      "recipient_label": "Nozomi",
+      "recipient_lamports": 1030000,
+      "payer": "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF"
+    }
+  ],
+  "notes": [
+    "meta.fee is attributed only to the first account key transaction payer; a signed transaction may be sponsored.",
+    "Provider-recipient transfers are observed transfers to configured/published addresses. This does not prove which route carried the transaction.",
+    "Pump fee and creator_fee event fields are kept separate from network fee and tips; buyback_fee and holder_rewards are not added to fee again.",
+    "Payer-failed transaction fee totals are complete only within captured pages; histories with status truncated_page_cap are not full 21-day histories.",
+    "No hypothetical execution, profitability, PnL, or strategy-edge claim is made."
+  ]
+}

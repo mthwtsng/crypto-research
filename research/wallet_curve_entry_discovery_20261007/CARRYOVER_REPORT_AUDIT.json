@@ -1,0 +1,13 @@
+{
+  "code_sha256": "f37357277abe1f76f21e47d36cc328a77924535602945551947fb2db75e5e3d4",
+  "findings": {
+    "fabricated_25_SOL_demand": true,
+    "fabricated_30_SOL_demand": true,
+    "file_end_liquidation": true,
+    "reserve_84_used_instead_of_authenticated_completion": true,
+    "fixed_AMM_opening_state": true,
+    "counterfactual_source_repricing_absent": true,
+    "invented_migration_slot": true
+  },
+  "usable_for_profitability_claim": false
+}

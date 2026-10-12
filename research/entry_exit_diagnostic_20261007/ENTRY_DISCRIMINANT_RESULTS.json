@@ -1,0 +1,62 @@
+{
+  "Baseline (No Additional Gates)": {
+    "passed_count": 105,
+    "winners_kept": 66,
+    "losers_cut": 0,
+    "win_rate": 62.857142857142854
+  },
+  "Gate 1: Reserve >= 10.8 SOL (Survival Shelf)": {
+    "passed_count": 84,
+    "winners_kept": 53,
+    "losers_cut": 8,
+    "win_rate": 63.095238095238095
+  },
+  "Gate 2: Buyer Breadth >= 25 Wallets": {
+    "passed_count": 98,
+    "winners_kept": 60,
+    "losers_cut": 1,
+    "win_rate": 61.224489795918366
+  },
+  "Gate 3: Buyer Breadth >= 30 Wallets": {
+    "passed_count": 97,
+    "winners_kept": 59,
+    "losers_cut": 1,
+    "win_rate": 60.824742268041234
+  },
+  "Gate 4: Creator Held <= 10%": {
+    "passed_count": 63,
+    "winners_kept": 38,
+    "losers_cut": 14,
+    "win_rate": 60.317460317460316
+  },
+  "Gate 5: Reserve >= 10.8 SOL + Breadth >= 25": {
+    "passed_count": 81,
+    "winners_kept": 51,
+    "losers_cut": 9,
+    "win_rate": 62.96296296296296
+  },
+  "Gate 6: Reserve >= 10.8 SOL + Creator Held <= 10%": {
+    "passed_count": 51,
+    "winners_kept": 30,
+    "losers_cut": 18,
+    "win_rate": 58.82352941176471
+  },
+  "Gate 7: Reserve >= 10.8 SOL + Breadth >= 25 + Creator <= 10%": {
+    "passed_count": 50,
+    "winners_kept": 29,
+    "losers_cut": 18,
+    "win_rate": 57.99999999999999
+  },
+  "Gate 8: Reserve >= 15.0 SOL (Late Mature)": {
+    "passed_count": 66,
+    "winners_kept": 40,
+    "losers_cut": 13,
+    "win_rate": 60.60606060606061
+  },
+  "Gate 9: Reserve >= 20.0 SOL (Upper Curve)": {
+    "passed_count": 49,
+    "winners_kept": 28,
+    "losers_cut": 17,
+    "win_rate": 57.14285714285714
+  }
+}

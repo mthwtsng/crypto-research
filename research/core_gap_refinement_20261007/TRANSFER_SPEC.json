@@ -1,0 +1,22 @@
+{
+  "frozen_at": "2026-10-08T02:22:52.059568+00:00",
+  "candidate": "joint_keep_targets_dead10",
+  "rationale": "simplest successful joint variant: additional dev breadth, recovery-confirmed dead-man entry,20s ATH timeout/15% loss trigger; other exits retained",
+  "checks": [
+    "original baseline",
+    "ATH-only portfolio ablation",
+    "selected joint portfolio"
+  ],
+  "look_count_so_far": 14,
+  "new_sample": "1200 fixed-hash normal-SOL launches Oct5\u20136, across all48hourly strata; acquisition ongoing; no curve outcome summaries inspected",
+  "qualification": "later sampled transfer, not full14\u201321day forward-confirmation; all five families preserved; source-changing migration outcomes remain explicit",
+  "hashes": {
+    "variants.py": "380ab025527d8e08cf74d6cc204658e22776d33f069b3be8eedfbb57becea5b0"
+  },
+  "seed_sensitivity": [
+    0,
+    1,
+    2
+  ],
+  "seed_method": "deterministic pool-hash salt per intent; independent of outcomes; same salt across matching control and candidate"
+}

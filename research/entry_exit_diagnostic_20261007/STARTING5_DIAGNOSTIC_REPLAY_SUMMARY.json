@@ -1,0 +1,230 @@
+{
+  "legacy": {
+    "scenario": "central85",
+    "dev_gate": false,
+    "breakers": true,
+    "attempts": 109,
+    "closed": 96,
+    "failed": 13,
+    "total_net_SOL": -0.261472933,
+    "win_rate": 36.45833333333333,
+    "profit_factor": 0.9582099895292848,
+    "max_drawdown_SOL": 1.546267695,
+    "trips": {
+      "broad_recovery": 2,
+      "fresh_expansion": 1
+    },
+    "skipped": {
+      "max_positions": 1,
+      "breaker_broad_recovery": 5,
+      "breaker_fresh_expansion": 5
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 28,
+        "net_SOL": -0.357287087,
+        "wins": 10,
+        "wr": 35.714285714285715
+      },
+      "fresh_expansion": {
+        "trades": 39,
+        "net_SOL": -0.263881426,
+        "wins": 13,
+        "wr": 33.33333333333333
+      },
+      "quiet_absorption": {
+        "trades": 22,
+        "net_SOL": -0.014277129000000017,
+        "wins": 8,
+        "wr": 36.36363636363637
+      },
+      "late_continuation": {
+        "trades": 7,
+        "net_SOL": 0.380537709,
+        "wins": 4,
+        "wr": 57.14285714285714
+      }
+    }
+  },
+  "dev_only": {
+    "scenario": "central85",
+    "dev_gate": true,
+    "breakers": true,
+    "attempts": 67,
+    "closed": 58,
+    "failed": 9,
+    "total_net_SOL": -0.374279069,
+    "win_rate": 34.48275862068966,
+    "profit_factor": 0.8969073933946605,
+    "max_drawdown_SOL": 1.710641759,
+    "trips": {
+      "broad_recovery": 1,
+      "fresh_expansion": 1
+    },
+    "skipped": {
+      "dev_gate": 48,
+      "breaker_broad_recovery": 3,
+      "breaker_fresh_expansion": 2
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 17,
+        "net_SOL": -0.574657537,
+        "wins": 5,
+        "wr": 29.411764705882355
+      },
+      "fresh_expansion": {
+        "trades": 21,
+        "net_SOL": -0.08505778899999998,
+        "wins": 6,
+        "wr": 28.57142857142857
+      },
+      "quiet_absorption": {
+        "trades": 15,
+        "net_SOL": 0.188525143,
+        "wins": 6,
+        "wr": 40.0
+      },
+      "late_continuation": {
+        "trades": 5,
+        "net_SOL": 0.101456114,
+        "wins": 3,
+        "wr": 60.0
+      }
+    }
+  },
+  "exit_only": {
+    "scenario": "central85",
+    "dev_gate": false,
+    "breakers": true,
+    "attempts": 115,
+    "closed": 102,
+    "failed": 13,
+    "total_net_SOL": 1.224480206,
+    "win_rate": 51.9607843137255,
+    "profit_factor": 1.1602528945729507,
+    "max_drawdown_SOL": 1.209413258,
+    "trips": {
+      "broad_recovery": 1
+    },
+    "skipped": {
+      "max_positions": 4,
+      "breaker_broad_recovery": 1
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 32,
+        "net_SOL": 0.102943603,
+        "wins": 16,
+        "wr": 50.0
+      },
+      "fresh_expansion": {
+        "trades": 42,
+        "net_SOL": -0.07929692300000007,
+        "wins": 21,
+        "wr": 50.0
+      },
+      "quiet_absorption": {
+        "trades": 21,
+        "net_SOL": 0.5517891109999999,
+        "wins": 11,
+        "wr": 52.38095238095239
+      },
+      "late_continuation": {
+        "trades": 7,
+        "net_SOL": 0.655609415,
+        "wins": 5,
+        "wr": 71.42857142857143
+      }
+    }
+  },
+  "full_on": {
+    "scenario": "central85",
+    "dev_gate": true,
+    "breakers": true,
+    "attempts": 68,
+    "closed": 61,
+    "failed": 7,
+    "total_net_SOL": 1.6110276749999999,
+    "win_rate": 55.73770491803278,
+    "profit_factor": 1.4034142565634111,
+    "max_drawdown_SOL": 1.640257114,
+    "trips": {
+      "broad_recovery": 1
+    },
+    "skipped": {
+      "max_positions": 2,
+      "dev_gate": 48,
+      "breaker_broad_recovery": 2
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 19,
+        "net_SOL": 0.09982872899999999,
+        "wins": 9,
+        "wr": 47.368421052631575
+      },
+      "fresh_expansion": {
+        "trades": 23,
+        "net_SOL": 0.540444343,
+        "wins": 13,
+        "wr": 56.52173913043478
+      },
+      "quiet_absorption": {
+        "trades": 14,
+        "net_SOL": 0.597761783,
+        "wins": 8,
+        "wr": 57.14285714285714
+      },
+      "late_continuation": {
+        "trades": 5,
+        "net_SOL": 0.37652781999999996,
+        "wins": 4,
+        "wr": 80.0
+      }
+    }
+  },
+  "full_off": {
+    "scenario": "central85",
+    "dev_gate": true,
+    "breakers": false,
+    "attempts": 70,
+    "closed": 62,
+    "failed": 8,
+    "total_net_SOL": 1.7388338429999999,
+    "win_rate": 56.451612903225815,
+    "profit_factor": 1.4353628922634105,
+    "max_drawdown_SOL": 1.512450946,
+    "trips": {},
+    "skipped": {
+      "max_positions": 2,
+      "dev_gate": 48
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 20,
+        "net_SOL": 0.228139897,
+        "wins": 10,
+        "wr": 50.0
+      },
+      "fresh_expansion": {
+        "trades": 23,
+        "net_SOL": 0.540444343,
+        "wins": 13,
+        "wr": 56.52173913043478
+      },
+      "quiet_absorption": {
+        "trades": 14,
+        "net_SOL": 0.597761783,
+        "wins": 8,
+        "wr": 57.14285714285714
+      },
+      "late_continuation": {
+        "trades": 5,
+        "net_SOL": 0.37652781999999996,
+        "wins": 4,
+        "wr": 80.0
+      }
+    }
+  }
+}

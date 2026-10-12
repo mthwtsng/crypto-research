@@ -1,0 +1,418 @@
+[
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "2kxfaoY7yWLoSgtNcs2Ccs7MQQN15Q24DmyhK7BnwsNBgvYkY16U8QSjj3X8dsoqq7sqNvMBn6jpvP5sa8BrawHU",
+    "slot": 455834275,
+    "block_time": 1791761731,
+    "authority": "3rroAWY61vHQAbvTEHfTtLbw5azfTiCMpAVgaKTUayG8",
+    "source_token_account": "6QRL1gGuNsSrEXHXDzATQbhyNvy5Ve5gndNiSQPqoGsB",
+    "source_owner": "3rroAWY61vHQAbvTEHfTtLbw5azfTiCMpAVgaKTUayG8",
+    "destination_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "destination_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "amount_raw": 14750000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "2vb8hfb9yiDtPbJxqoCbcwdERzB5otQYEAmjuk3u98mBmaXMEK3pz8UVaSmFZsfMG3HJ8EkqTeqMAYnbrBz5Uskr",
+    "slot": 455834239,
+    "block_time": 1791761723,
+    "authority": "5QTUm8y9HzwDm1m3bdQZyAR25KXJpkEje8k8GWiETZYC",
+    "source_token_account": "BUspPfRs6uh5MPfR1x4mHorfvUyhzHgB9GRVMdCBd1pb",
+    "source_owner": "5QTUm8y9HzwDm1m3bdQZyAR25KXJpkEje8k8GWiETZYC",
+    "destination_token_account": "Bma96w7MLZCjQ7QG9RU7gvuRRMYJNr3AaXgj9bWjWxi4",
+    "destination_owner": "DhrDvyzyzb2gV1rrf68K5SdVqvdCvaeGcfHbuJn8sg5V",
+    "amount_raw": 106467965872131,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "65AouyhwqEHCsjU5qpgydnUtw6sSwEFRVeCQoeG9Cc5cLM4EEoWuTvh2rNxeg5XPNofRp4j2AY5SHP3uzhVEf1ri",
+        "tokens_raw": 106467965872131,
+        "sol_raw": 15398837343,
+        "timestamp": 1791761720
+      }
+    ]
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "3KUP7sMWmhZmVjRNKx4k421okTqrsjBchnAAiuNEMfqKHQNtTcW6wySKaWbJZVS1mrZLyEPhS83TdZPA2Hnq4go3",
+    "slot": 455834365,
+    "block_time": 1791761751,
+    "authority": "GV1PwVV8rQVbCagDkUZMgiFCXUwE4wdYV3prKNNtkkzw",
+    "source_token_account": "7JMjD21HrTarnbCXSY2zK54Sawjgk6wSEqRshkEfEiZb",
+    "source_owner": "GV1PwVV8rQVbCagDkUZMgiFCXUwE4wdYV3prKNNtkkzw",
+    "destination_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "destination_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "amount_raw": 16250000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "3V7ZE5YbVFGacDZRMVcMtk9kGSsZJQsStb748TW6xhSt625UvEsskjVgL2LnwggrSQYHYJmCmzS9wm5DuN3dTrs8",
+    "slot": 455834224,
+    "block_time": 1791761720,
+    "authority": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "source_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "source_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "destination_token_account": "9jypj8fzmFybhHU28RfcFXjVLPWpGi1UY6n6oXejDtzn",
+    "destination_owner": "Ams5SkLrpW6s8wpDbbaTm5k5MViWdhBZsmu3XA9rTLe1",
+    "amount_raw": 10492265761727,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "3ZUUTnBEEHNdCZb3uJRSnNckq7UojpidG8yQic3hcYjqYrbzsbKQzFUjYda95uFKtpvq6esgTndQEt7S2XPWLFxN",
+    "slot": 455834239,
+    "block_time": 1791761723,
+    "authority": "ExZV17J4C9CW1tSUTuCCkKAeiGbLvMSPeywBELVso3d5",
+    "source_token_account": "ApPgrU5b6rdpVKT8PfPLGjaLAqT65QQhHAey2ti3oH8E",
+    "source_owner": "ExZV17J4C9CW1tSUTuCCkKAeiGbLvMSPeywBELVso3d5",
+    "destination_token_account": "7JMjD21HrTarnbCXSY2zK54Sawjgk6wSEqRshkEfEiZb",
+    "destination_owner": "GV1PwVV8rQVbCagDkUZMgiFCXUwE4wdYV3prKNNtkkzw",
+    "amount_raw": 182270662645082,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "by9uHyzyqrRFZQ6vxcgrVCR1cfjHEc7PU6EtDq8Xh8T7zKXo84jXdQBZMiudM1vHp1PwePUahRtog5EJPQgL8wF",
+        "tokens_raw": 182270662645082,
+        "sol_raw": 15645506525,
+        "timestamp": 1791761720
+      }
+    ]
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "3fXXqnXPDj3Q4ewddt3irF7UTnMkPXBrbT3Jgwwk34w7fmF7qTJtihFSyuSjnqMu2DQCAD46UuQwmvNTrdBrpGHY",
+    "slot": 455834290,
+    "block_time": 1791761735,
+    "authority": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "source_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "source_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "destination_token_account": "DcWniBxuufjb2iyYnB1jNW12cEuuva4MFWp3tmgGvKof",
+    "destination_owner": "DxJxDpCS5jyhVekAfLdxVrsPVryKjgUvdTVTH6A66VxW",
+    "amount_raw": 7504888782863,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "3vwDQWXa4qgiJGUzg9pU8Nu4W469wcJ6w6AWZ13353E1SkQ7qtTCm1tPkFDs1RyXz9Zm4CKnZqqnhLw3cikmpz6q",
+    "slot": 455834239,
+    "block_time": 1791761723,
+    "authority": "9ka2hXAuiUYMhu8DKn3tcWdRnwSoxyPiSa63DRXLZxcg",
+    "source_token_account": "4igr4XKatzgVzMvXnqrX1CLfxF6GApbfgyZpAr43TQcv",
+    "source_owner": "9ka2hXAuiUYMhu8DKn3tcWdRnwSoxyPiSa63DRXLZxcg",
+    "destination_token_account": "DubHpFVzErb5FoikFCj28WrfohXfCDwTeNLXpraCXrKn",
+    "destination_owner": "4VXsnEr667i7pnQZaxexqGndNvAK3NmL76ZCCo7mmEqU",
+    "amount_raw": 69207549760218,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "2Ly3Njr52h5wM5kPSSXBzkKLQ6ZfrkBWh8EP91xjUhVjS5NLmHFPDQsShKkSFiWbpwEnjnYmapqNsnxPAicgMeCn",
+        "tokens_raw": 69207549760218,
+        "sol_raw": 15000865395,
+        "timestamp": 1791761720
+      }
+    ]
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "5ejiqYUyWtm9a6naL1ozMNYjHtS9KEkw9zzNRhuqVzbDQxZeSvEXKLYbi5dtF6GkGtVT1VNu2G6XKV5qQ9eXfsMC",
+    "slot": 455834300,
+    "block_time": 1791761737,
+    "authority": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "source_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "source_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "destination_token_account": "8CbdYY7QKLgsPmrxV36KHDkSdgMtw5x1g3Lsw8MxR4qG",
+    "destination_owner": "D2ieWGcJX4h93h6KfpeFFsKz6yX6a6CBrbHHuayYU4GK",
+    "amount_raw": 7176365264126,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "5j3kNiTdBemZ7TznDdz3Gs8VDUPgEBZCEAXbqSrGoAzZH3qESATcF52EAxeejjZKomurbto2sdghQAtNU6k53e8J",
+    "slot": 455834985,
+    "block_time": 1791761886,
+    "authority": "4VXsnEr667i7pnQZaxexqGndNvAK3NmL76ZCCo7mmEqU",
+    "source_token_account": "DubHpFVzErb5FoikFCj28WrfohXfCDwTeNLXpraCXrKn",
+    "source_owner": "4VXsnEr667i7pnQZaxexqGndNvAK3NmL76ZCCo7mmEqU",
+    "destination_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "destination_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "amount_raw": 13400000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "5m1DPPKwZGt2MJ6dT4VtHTTCdcBAcuC5o3ZEnfbcdpTD4C7NPBw9gPv5nyNdxiSAq1RU51pwAh5fEoR6nSmC5rt7",
+    "slot": 455834239,
+    "block_time": 1791761723,
+    "authority": "95Sp1FrMur5F51vh1F6mVUNseWbr2WFsoSznuJBmcwtj",
+    "source_token_account": "4TpArTSfQ8H2weE7GywrwCWAWzC9nJzZEtwdZXmRyMpf",
+    "source_owner": "95Sp1FrMur5F51vh1F6mVUNseWbr2WFsoSznuJBmcwtj",
+    "destination_token_account": "6QRL1gGuNsSrEXHXDzATQbhyNvy5Ve5gndNiSQPqoGsB",
+    "destination_owner": "3rroAWY61vHQAbvTEHfTtLbw5azfTiCMpAVgaKTUayG8",
+    "amount_raw": 352243820712452,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "3iv2XPPK47NmXvotTpcNSKMCJHbFYKJBDgo3fBfgdZvrWnszo7EUmLwftgomxf9Yu2cpuz874YfJtCo9pyeJ4UmT",
+        "tokens_raw": 352243820712452,
+        "sol_raw": 15024931817,
+        "timestamp": 1791761720
+      }
+    ]
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "66NXnC2mrYwJmBWqLWhDuf53Lam6juNaHBNBC7n4ABMA5S7KcqxCqYd2JLQDviCVpwzVte1Nkb5NPSwYRvcGDwRP",
+    "slot": 455834307,
+    "block_time": 1791761738,
+    "authority": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "source_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "source_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "destination_token_account": "Cw2esK9NMpmhJdSv86ErLcvUYbKWQ2TGDvbKnPK2oGqU",
+    "destination_owner": "7wUSqj9tTvYsVLNsWNojNXY4itqMbXL5tX84XMb3bmTE",
+    "amount_raw": 3663496775938,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "ArsZMpPsWTHEXjFmXEDAM9ZcCDBL4GzkgQmbaGsm8QJoiyxFAjZ5EJzNHW67AUvQg9Mddzn1PXAkrVek4DX8x3S",
+    "slot": 455834715,
+    "block_time": 1791761828,
+    "authority": "DhrDvyzyzb2gV1rrf68K5SdVqvdCvaeGcfHbuJn8sg5V",
+    "source_token_account": "Bma96w7MLZCjQ7QG9RU7gvuRRMYJNr3AaXgj9bWjWxi4",
+    "source_owner": "DhrDvyzyzb2gV1rrf68K5SdVqvdCvaeGcfHbuJn8sg5V",
+    "destination_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "destination_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "amount_raw": 13400000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "second",
+    "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "signature": "MjEgprShHEc66g7fXikomb6aPczNQXiLgmpQE49iS4vcSVxgYc7ffnEkM18a5J1gCp47eBztoGmKPjPSAeUBN5E",
+    "slot": 455834309,
+    "block_time": 1791761739,
+    "authority": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "source_token_account": "YcSeBxWfaeAMdy9jBvVyzRFA1u8Ur5T1jDPrzEdzH1L",
+    "source_owner": "9PnwsgdqkgHr6LVBUa1vZhCuEyd32KKRpCYfEnR8Td68",
+    "destination_token_account": "D4pMdX8NHJK3aG44FSyrm6EBpW8n7quAAgf8y1jCawKM",
+    "destination_owner": "Bnys7QtCK3q4m4T13aiTxQiPXN4mW6QVcqonD5duFhZV",
+    "amount_raw": 7482965739797,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "2J8AjtURVG5sVRMj9KV7qHjT8RsaAqSwEsM9q16YqHRLrd6PiFibcX2HqCVD6RCqSwWhYKALzwvxnXQEyE5S89io",
+    "slot": 455838765,
+    "block_time": 1791762704,
+    "authority": "ikPSWAPSUiTGVbfRrBS4Qp9jWUokBxNy6h2sP6rauac",
+    "source_token_account": "4UG423yDgr1GpctN7VFX7V2PmhUsivHrcNAt73iFBRdz",
+    "source_owner": "ikPSWAPSUiTGVbfRrBS4Qp9jWUokBxNy6h2sP6rauac",
+    "destination_token_account": "7o2u3Vw55mZFwssjG5pAfghXLn8GiQGERcFiuDy8Hqw7",
+    "destination_owner": "7pVSNBmhe6qwkvn8LQSJF5MMLAPn3AQv6AT4irbWU5kq",
+    "amount_raw": 182270662645082,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "4k5n51tN32knew5AbExt22Xy2YnDx9DoTuUEZXqewBfr3emiCBJSVfZqWi4weLqxq2gGuw45jWEskeECR7NqDYvh",
+        "tokens_raw": 182270662645082,
+        "sol_raw": 15645506525,
+        "timestamp": 1791762702
+      }
+    ]
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "2fbxvY8qSrcVSfv8ASvaGutK5XpxU5bqDcDzfS17R5PkpuTnKyBMMHwnms8tqKJ7ASbEsxQxup9smj8mSnfYCFkn",
+    "slot": 455838765,
+    "block_time": 1791762704,
+    "authority": "DDPvEhvUFwpz2tdxTqcAtLpoTqvqW2csK3sgkEd4qaSQ",
+    "source_token_account": "8cHAgJK9DJafe4s8wxAtYN1xrK7gUBP4DXxBWkbK3mLH",
+    "source_owner": "DDPvEhvUFwpz2tdxTqcAtLpoTqvqW2csK3sgkEd4qaSQ",
+    "destination_token_account": "DzX8EYreZqRMCZtjU8nKVw1TjQWhzijBBjjTKaLRGcdB",
+    "destination_owner": "B1fvnK6dj5F8275cNHMmJZywvzZMstjfr9LXpbpnKzye",
+    "amount_raw": 106467965872131,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "9taV72ZF4dyAijx3dWhfWYjAxWx1bEo7L93VGv9xY19L1d85NDxbhRDrh9MjAoJbY1ZtuK3t3dCjE54vkwZaqqz",
+        "tokens_raw": 106467965872131,
+        "sol_raw": 15398837343,
+        "timestamp": 1791762702
+      }
+    ]
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "3pLFQtML8LTUDDCjadaTQC5LX9UqUGgkzauoR817TTdvT5Ud8bMQFS8ZaqZC3GX21VwKLnLSg4TqdWaNqvfAoe1P",
+    "slot": 455838758,
+    "block_time": 1791762702,
+    "authority": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "source_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "source_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "destination_token_account": "BQ8UKcGucffcde2ASr5XfeqpceLmhgmzcu8utRSuV9Rp",
+    "destination_owner": "Fabbi4uTLHQSRHsc3t5UAFhZVuwmmsUj1hcN9nD5dK3J",
+    "amount_raw": 10492265761727,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "3wv8DhEUWESKE575CkBjMJ7BhWaZvUhCW2AMMLjfAKF3r2E4T4SNXpFcZZdoQ2SqHPHkKFRbPpmrGXS8wiZB4E4k",
+    "slot": 455839411,
+    "block_time": 1791762846,
+    "authority": "BMxDPG8wzexASs4FuNAaTWb4ouSoGTPp3QDALfeHJ7Xp",
+    "source_token_account": "9WNkrPX9DrxP6rCbUwajuwqZBhDnHiDDnGBGGoVCYua9",
+    "source_owner": "BMxDPG8wzexASs4FuNAaTWb4ouSoGTPp3QDALfeHJ7Xp",
+    "destination_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "destination_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "amount_raw": 19050000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "47uvGP6jqbtFkBE2b4nn942RfXc4RbeYCw75wSfK5aVRM16tKhYvL5pzDUp9v1da1t3zRKRixkgzNNFkEQKchRk1",
+    "slot": 455839127,
+    "block_time": 1791762782,
+    "authority": "7pVSNBmhe6qwkvn8LQSJF5MMLAPn3AQv6AT4irbWU5kq",
+    "source_token_account": "7o2u3Vw55mZFwssjG5pAfghXLn8GiQGERcFiuDy8Hqw7",
+    "source_owner": "7pVSNBmhe6qwkvn8LQSJF5MMLAPn3AQv6AT4irbWU5kq",
+    "destination_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "destination_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "amount_raw": 19050000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "4YcjLMQSzKTHF68gVxNcoEjsPpMRYTrzSTA4UiAt37AAvvRSQzhDq5NoR1H3QcYdhWbWc9xUpp3gpDXgnGRr8oEp",
+    "slot": 455838888,
+    "block_time": 1791762731,
+    "authority": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "source_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "source_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "destination_token_account": "9wYG25NyBDKsFq2EvhK4qNUb7mPmA8wGWLPE4RBHPS2m",
+    "destination_owner": "5MfuZ6mGnQtrxNmpyXXvmynEoYb2g7gu6dcnUGRfgDoc",
+    "amount_raw": 1716182972587,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "4r8HZCCTsXJQmjyfCsJ1D4uNzFfXgyc2ktM175TkEWEgn42YWCBbGGaoWDsfvib8yMXEHTjmfLMmQhbmGygW65PA",
+    "slot": 455838765,
+    "block_time": 1791762704,
+    "authority": "2XUT95aDAfTMzxXu4JZ6q6i8TV2KtKaVszgBXoUjKh6Z",
+    "source_token_account": "7WrGUJ2NapQEceyq8E3hU9oCVAkirAjvAv5xAPJAxjpu",
+    "source_owner": "2XUT95aDAfTMzxXu4JZ6q6i8TV2KtKaVszgBXoUjKh6Z",
+    "destination_token_account": "9WNkrPX9DrxP6rCbUwajuwqZBhDnHiDDnGBGGoVCYua9",
+    "destination_owner": "BMxDPG8wzexASs4FuNAaTWb4ouSoGTPp3QDALfeHJ7Xp",
+    "amount_raw": 69207549760218,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "5sE9zEqJDRhUAyddve932WhZrhVMDjK6xYGF6R9A7JaLzGExLxJy6pWe4FQQfYj98GoThWJm6MpeLRc29Tac8dsx",
+        "tokens_raw": 69207549760218,
+        "sol_raw": 15000865395,
+        "timestamp": 1791762702
+      }
+    ]
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "5mYcg7Ytxj2sXcWN9jbMY78mAohZcLMWBvtbogbv4TbXzrHLaTeVq9zc7okBSDddXEcTHvMRnKkDRsp3LiHhM1au",
+    "slot": 455839169,
+    "block_time": 1791762791,
+    "authority": "B1fvnK6dj5F8275cNHMmJZywvzZMstjfr9LXpbpnKzye",
+    "source_token_account": "DzX8EYreZqRMCZtjU8nKVw1TjQWhzijBBjjTKaLRGcdB",
+    "source_owner": "B1fvnK6dj5F8275cNHMmJZywvzZMstjfr9LXpbpnKzye",
+    "destination_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "destination_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "amount_raw": 19050000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "6455RY2wDQTHp3JRahubhDTvXUGBRfttpLaRdD1s9jPAEXUqyKLLqonN8bJb66UUj2Ga78PcdGhW8hG66wmyvFpi",
+    "slot": 455839123,
+    "block_time": 1791762781,
+    "authority": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "source_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "source_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "destination_token_account": "GzoFo8FYgKtrhP9bJsxNBTQBd2RZw7XTmEgSwuqxT7BF",
+    "destination_owner": "5BAqToxLmn1a4yQdy6Q2FUAEWxHSSy4oELVML5VgufBZ",
+    "amount_raw": 3533525127087,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "ghAZYFuFmXQC5MxNkeXmK3bNZhRMVD1A4jfh1BscvVHiw5u115bee7Gxy8cWquUPmhF2thTnQTBE7ZAYUXq9Lma",
+    "slot": 455838765,
+    "block_time": 1791762704,
+    "authority": "FySVY5BWU2M2HViwa7z2EgeVyuB7TQkmAYZ8P8gxZKwH",
+    "source_token_account": "GUdbHgZsNsxdJiNWdpfTcHwRTyPVNGPHbhhjJ4Q8CvPp",
+    "source_owner": "FySVY5BWU2M2HViwa7z2EgeVyuB7TQkmAYZ8P8gxZKwH",
+    "destination_token_account": "JAUFqDrXS242b1KwzeSVu2pRAbdPLtxvH3foFKA9AEju",
+    "destination_owner": "BbiQH6H9eatoKLfejwoqG1hFg8W8XHXiAwbYJecamaAg",
+    "amount_raw": 352243820712452,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": [
+      {
+        "signature": "5VAoKqoKjxMMSz4k9cnQgUR9znp8AvXbF6bwKgUUuBe4XdcWu5SeSazhPvZMAs22VdztfQ2VLTMcFxqYUdFSL5y2",
+        "tokens_raw": 352243820712452,
+        "sol_raw": 15024931817,
+        "timestamp": 1791762702
+      }
+    ]
+  },
+  {
+    "case": "third",
+    "mint": "DgT6hpeJzS3yW5UjcUvT4grfXogM1XvMwFKmrU4Vpump",
+    "signature": "jhVYYyCeBNUZvw5tSbXJniuvesGisuHaa3BEExMQJh3NRMJDeaCfdNHYcpaGaYMSpnnyr4EeTT61CK3yXMAi85g",
+    "slot": 455838828,
+    "block_time": 1791762718,
+    "authority": "BbiQH6H9eatoKLfejwoqG1hFg8W8XHXiAwbYJecamaAg",
+    "source_token_account": "JAUFqDrXS242b1KwzeSVu2pRAbdPLtxvH3foFKA9AEju",
+    "source_owner": "BbiQH6H9eatoKLfejwoqG1hFg8W8XHXiAwbYJecamaAg",
+    "destination_token_account": "51wzTaNwr9i8C2S8JSh4ZnWaLpmNFQhR3Y2Sje1nux7F",
+    "destination_owner": "DNfdPGe6K4wxpVj2Zbih93oGLicqRMosS5ssvrnM9A47",
+    "amount_raw": 19050000000000,
+    "decimals": 6,
+    "exact_earlier_curve_buy_matches": []
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "scope": "working-tree source at close of read-only case investigation; not authenticated running binary",
+  "sha256": {
+    "src/bin/curve_detector.rs": "d0a5d4d1cd473f55d0b60de0f65d12dd3be7389ad847d71a757ea0d34e2b2db4",
+    "src/bot/fake_coin_detector.rs": "043e29afc15c3273194156098ac171da45096166bf761f60df2184f1666d70f2",
+    "src/bot/holder_screen.rs": "496d12368db325a42f59404d184f5819482f0b02612e235e0d431b1f40d4a449",
+    "src/bot/pump_receipt_decoder.rs": "5ab5a79e4785f0788dc85bb4c617ca481949d5929353fee3bdc150428c08f7a5",
+    "src/bot/curve_detector.rs": "4cd5bb96ecc602bc0b63ff81e5b5f989533135c81b463dfe42422ac9302e5564"
+  }
+}

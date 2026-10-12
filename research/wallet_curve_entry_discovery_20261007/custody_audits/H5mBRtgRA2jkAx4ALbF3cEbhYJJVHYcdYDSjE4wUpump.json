@@ -1,0 +1,40 @@
+{
+  "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+  "passes": [
+    {
+      "signature": "5hdJtAjLGtYPW7s1wRncoy138yBnP1LMt2qW5hxokYzKqyveDUtZu3dLU2qZyPoWEyFQUkns5gSb1twjxKjQUiBH",
+      "owner": "Gbm7nSTqCdZHUVruFW8D7bwReeFHJpjRaAHJ9GA5cPQY",
+      "accounts": [
+        "HgaUijvY46ZLxnJQANKL9vGXPcWtnNWEhrbHYt8PFpsw"
+      ],
+      "added": [
+        "4cPAwVARG49N7H9mbVcWCRaEZzSoYjisYJsnwcbSegdMJWZLZpaLKTcXGUUyZf8uuWE4DWv9RAKNGDcWD4oheHm5"
+      ]
+    },
+    {
+      "signature": "2gjwR1vB2Gnit67smaAmDLZ6uxfj6D61TBu5Dii5RUYsiK81ijcPTiWCxXpALWgJr4igzue78jjWqELhvhL4Xwhe",
+      "owner": "7p5LPzNd6fkDcnCyd7DCiWXNwHBQyrAuBK7V8eZSknvP",
+      "accounts": [
+        "bP2q3a3owFFvqqfpZkhmWtoYEe4y1ZSqbezCkkxh8Y1"
+      ],
+      "added": [
+        "5FA6iouUrtfp4z2AeqX1eaKFW3Tt3T5Qf4nPBL7aAnEz2iXE9v7fD6y6vbkGQcUSJ3aPAf1EbFHQ1o2R8oU2mMsQ"
+      ]
+    },
+    {
+      "signature": "35rKtiM4jzgHxHxFw4tuwFrQNDFZARMnyYGsoFn3ztKwWyGxY6Jb3Fs1Jy9mJwZpPLYEYVTAvchePtSS5NXoYciS",
+      "owner": "5npPuMXfzPk71BPjytM2uPLbVfUBu2a9uP1zzFr4P7Y3",
+      "accounts": [
+        "Gz9Tiq1WSAP9q7Y2mNvo6GcDUBoMnrBZmj3bea5zooTb"
+      ],
+      "added": [
+        "YXHzHcJgd5JmW62wxT13yC8bBiSqDVdxYu5RpMa8MsMwHLcQEYKsXFeHg9Vr2u7DDgrZjoKQmsYmpU3EqsWh6M1"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 1547,
+  "curve_groups": 1388,
+  "initial_precompletion_gap": true
+}

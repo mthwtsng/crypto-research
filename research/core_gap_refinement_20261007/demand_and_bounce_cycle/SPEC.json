@@ -1,0 +1,35 @@
+{
+  "frozen_at": "2026-10-08T03:24:37.462235+00:00",
+  "status": "retrospective development on inspected October5\u20136; not holdout",
+  "entry_looks": 2,
+  "exit_looks": 3,
+  "prior_new_looks": 18,
+  "entry_configs": {
+    "baseline": {},
+    "broad_demand": {
+      "demand_gate": true
+    },
+    "first_time_demand": {
+      "demand_gate": true,
+      "first_time_gate": true
+    }
+  },
+  "exit_configs": {
+    "confirmed_full5": {
+      "s3_full_target": 0.05
+    },
+    "confirmed_full10": {
+      "s3_full_target": 0.1
+    },
+    "confirmed_scratch3": {
+      "s3_scratch": 3
+    }
+  },
+  "entry_first": "Neutral exit-free trajectories completed before sell outcomes; exact original shelf/ATH conditions still required at each qualifying prefix",
+  "denominators": "all attempts, filled and horizon-known separate",
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/next_mechanisms.py": "cedfd9d2976c3d3fe6589cf52f6d86e2fd07a59078a6f2f1b3eb7723547d7507",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/signals.py": "0c96ac856d34e11d9aa8b0db2a92a25213ec5a4ae0e86648910fe2e6d2ea98f6",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "6379faabcff4ed9ffa0dc4ca59ffaa4b16ac59704d4a24f2a754e7c17e40e728"
+  }
+}

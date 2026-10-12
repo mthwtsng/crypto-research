@@ -1,0 +1,79 @@
+{
+  "qualifying_other_pools": [
+    {
+      "coverage_type": "local authenticated/post-exit snapshots; not a complete transaction trace",
+      "first_observed_utc": "2026-10-11T23:38:38.284Z",
+      "last_base_reserve_tokens": 797169715.109841,
+      "last_formula_sol_market_cap_proxy": 23.71117564625275,
+      "last_observed_utc": "2026-10-11T23:54:15.454Z",
+      "last_quote_reserve_sol": 4.562989223,
+      "last_supply_tokens": 853533133.555445,
+      "last_virtual_quote_sol": 17.582408995,
+      "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+      "peak_base_reserve_tokens": 183223670.03578,
+      "peak_formula_sol_market_cap_proxy": 523.5485770244444,
+      "peak_quote_reserve_sol": 78.57990827,
+      "peak_raw_quote_observed_utc": "2026-10-11T23:39:01.967Z",
+      "peak_supply_tokens": 997861241.830721,
+      "peak_to_last_quote_reserve_decline_pct": 94.19318586206337,
+      "peak_virtual_quote_sol": 17.552186758,
+      "pool": "3g4Mfsjk19sh2ZqC9o7kL2gwV7yimzrAMa8P6pPMzNJQ",
+      "snapshot_count": 234
+    },
+    {
+      "coverage_type": "local authenticated/post-exit snapshots; not a complete transaction trace",
+      "first_observed_utc": "2026-10-11T22:05:44.197Z",
+      "last_base_reserve_tokens": 693772845.720642,
+      "last_formula_sol_market_cap_proxy": 37.061882200294946,
+      "last_observed_utc": "2026-10-11T22:22:06.582Z",
+      "last_quote_reserve_sol": 11.346951302,
+      "last_supply_tokens": 971802037.766075,
+      "last_virtual_quote_sol": 15.11165496,
+      "mint": "p9CMs7VaWHHX1YjjcUMKufsAiVkq417XdVozGJTpump",
+      "peak_base_reserve_tokens": 123725424.358511,
+      "peak_formula_sol_market_cap_proxy": 1154.8248795419247,
+      "peak_quote_reserve_sol": 135.844067398,
+      "peak_raw_quote_observed_utc": "2026-10-11T22:09:23.745Z",
+      "peak_supply_tokens": 980853511.162527,
+      "peak_to_last_quote_reserve_decline_pct": 91.64707629906623,
+      "peak_virtual_quote_sol": 9.82620513,
+      "pool": "B5BroH6EBud7geVcoxVTnCxsA9qd5EDALzdpLRQyC6qx",
+      "snapshot_count": 465
+    },
+    {
+      "coverage_type": "local authenticated/post-exit snapshots; not a complete transaction trace",
+      "first_observed_utc": "2026-10-11T23:34:58.929Z",
+      "last_base_reserve_tokens": 743221878.231301,
+      "last_formula_sol_market_cap_proxy": 26.841343271326352,
+      "last_observed_utc": "2026-10-11T23:50:46.461Z",
+      "last_quote_reserve_sol": 6.142955728,
+      "last_supply_tokens": 840862664.806004,
+      "last_virtual_quote_sol": 17.581576702,
+      "mint": "7rhg1poLdK1ovaT9oG6Xse8M2rRcFk4eo6bFfjgnpump",
+      "peak_base_reserve_tokens": 211967172.039884,
+      "peak_formula_sol_market_cap_proxy": 391.419868485053,
+      "peak_quote_reserve_sol": 65.495593502,
+      "peak_raw_quote_observed_utc": "2026-10-11T23:35:02.119Z",
+      "peak_supply_tokens": 1000000000.0,
+      "peak_to_last_quote_reserve_decline_pct": 90.62081065375426,
+      "peak_virtual_quote_sol": 17.472569101,
+      "pool": "C91wG1Tip2bsR9GqjFC7sakSDMk9uERS6H7iY13P2jbT",
+      "snapshot_count": 304
+    }
+  ],
+  "rows_scanned": 7813,
+  "selection": "Outcome-selected exploratory scan of local authenticated/post-exit AMM snapshot rows; other than Cvy, grouped by pool and mint; raw quote-vault peak to last observed snapshot decline >=90%.",
+  "snapshot_source": "data/ghost_amm_evidence.jsonl",
+  "target_excluded": {
+    "mint": "CvyUsq67bCiZZwr1dZKu2y1HXojjrz6tvdkKY4XGpump",
+    "pool": "EjzRfGWpvRSqmayWnHT3WkKp63jXAzZwhEUVNkwapwdr"
+  },
+  "threshold_pct": 90,
+  "unique_pools": 36,
+  "valid_snapshot_rows": 7813,
+  "warnings": [
+    "Outcome-selected cohort; descriptive only, not a random sample, predictive screen, causal test, strategy edge, or backtest.",
+    "Coverage and last-observed times differ by pool; snapshots do not show complete pool transaction tape.",
+    "Formula market-cap figures are SOL-denominated proxies using actual plus virtual quote reserve and total supply; no USD conversion is asserted."
+  ]
+}

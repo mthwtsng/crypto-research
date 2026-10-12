@@ -1,0 +1,102 @@
+{
+  "anchor": "2026-10-11T07:57:05.495343902+00:00",
+  "vm_id": "ghost-v2-20261011T064058",
+  "closed": 30,
+  "summary_closed": 30,
+  "settled_sol": 0.08276486300000063,
+  "summary_settled_sol": 0.08276486300000069,
+  "open_marked_sol": 0.07923969500000244,
+  "combined_marked_sol": 0.16200455800000313,
+  "cash_sol": 14.388364359000002,
+  "equity_sol": 15.162004558000003,
+  "largest_winner_sol": 0.320828694,
+  "settled_without_largest_sol": -0.2380638309999994,
+  "combined_without_largest_sol": -0.1588241359999969,
+  "open": 2,
+  "marks_unavailable": 0,
+  "strategy_breakdown": {
+    "S1": {
+      "avg_pnl_sol": 0.010039552875000024,
+      "code": "S1",
+      "losses": 5,
+      "net_pnl_sol": 0.08031642300000019,
+      "trades": 8,
+      "win_rate_pct": 37.5,
+      "wins": 3
+    },
+    "S2": {
+      "avg_pnl_sol": 0.03648825575000002,
+      "code": "S2",
+      "losses": 2,
+      "net_pnl_sol": 0.14595302300000007,
+      "trades": 4,
+      "win_rate_pct": 50.0,
+      "wins": 2
+    },
+    "S3": {
+      "avg_pnl_sol": -0.09997748899999997,
+      "code": "S3",
+      "losses": 1,
+      "net_pnl_sol": -0.09997748899999997,
+      "trades": 1,
+      "win_rate_pct": 0.0,
+      "wins": 0
+    },
+    "S4": {
+      "avg_pnl_sol": -0.03272065746153845,
+      "code": "S4",
+      "losses": 8,
+      "net_pnl_sol": -0.42536854699999976,
+      "trades": 13,
+      "win_rate_pct": 38.46153846153847,
+      "wins": 5
+    },
+    "S5": {
+      "avg_pnl_sol": 0.09546036325000003,
+      "code": "S5",
+      "losses": 2,
+      "net_pnl_sol": 0.3818414530000001,
+      "trades": 4,
+      "win_rate_pct": 50.0,
+      "wins": 2
+    }
+  },
+  "active_positions": [
+    {
+      "current_reserve_sol": 23.797578575,
+      "elapsed_secs": 125,
+      "entry_reserve_sol": 17.580292515,
+      "executable_proceeds_sol": 0.311619455,
+      "is_whitelisted": false,
+      "mint": "98SiCwmBGUtu8J54wGz6diqW74KK2uuXggrEJWfEpump",
+      "peak_roi_pct": 24.21595657072212,
+      "roi_pct": 23.673532866073117,
+      "signal_reserve_sol": 17.086465356,
+      "status": "OPEN",
+      "strategy": "UpperAthBreakout (Strat 4)",
+      "strategy_code": "S4",
+      "tokens_held": 3547666238865,
+      "whitelisted_by": null
+    },
+    {
+      "current_reserve_sol": 19.090509407,
+      "elapsed_secs": 3,
+      "entry_reserve_sol": 20.358206785,
+      "executable_proceeds_sol": 0.462020744,
+      "is_whitelisted": false,
+      "mint": "6mrXwAVYgykgjsWsZSkfKk4bNQWPo5MAHxpHnJZjpump",
+      "peak_roi_pct": 0.0,
+      "roi_pct": -7.87315300944158,
+      "signal_reserve_sol": 18.237014431,
+      "status": "OPEN",
+      "strategy": "UpperAthBreakout (Strat 4)",
+      "strategy_code": "S4",
+      "tokens_held": 6330460025632,
+      "whitelisted_by": null
+    }
+  ],
+  "runtime_saved_at_ms": 1791705432774,
+  "runtime_closed": 30,
+  "runtime_open": 2,
+  "summary_vs_trade_reconciled": true
+}

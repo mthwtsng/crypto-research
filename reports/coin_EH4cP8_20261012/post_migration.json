@@ -1,0 +1,920 @@
+{
+ "pool": "3S7fiSZpCRKfevwqmXaK5twHAQxGsPvV3gWcskkx6h48",
+ "post_migration_sigs": 2807,
+ "ok": 2396,
+ "failed": 411,
+ "first": "2026-10-12 06:26:16",
+ "last": "2026-10-12 06:42:25",
+ "price_path_sampled": [
+  {
+   "slot": 455947249,
+   "utc": "2026-10-12 06:26:16",
+   "pool_sol": 67.451,
+   "pool_tok_M": 206.789,
+   "price_sol_per_Mtok": 0.326185
+  },
+  {
+   "slot": 455947256,
+   "utc": "2026-10-12 06:26:17",
+   "pool_sol": 66.209,
+   "pool_tok_M": 209.859,
+   "price_sol_per_Mtok": 0.315495
+  },
+  {
+   "slot": 455947261,
+   "utc": "2026-10-12 06:26:18",
+   "pool_sol": 64.563,
+   "pool_tok_M": 214.138,
+   "price_sol_per_Mtok": 0.301502
+  },
+  {
+   "slot": 455947264,
+   "utc": "2026-10-12 06:26:19",
+   "pool_sol": 64.745,
+   "pool_tok_M": 213.665,
+   "price_sol_per_Mtok": 0.30302
+  },
+  {
+   "slot": 455947267,
+   "utc": "2026-10-12 06:26:20",
+   "pool_sol": 65.462,
+   "pool_tok_M": 211.823,
+   "price_sol_per_Mtok": 0.30904
+  },
+  {
+   "slot": 455947275,
+   "utc": "2026-10-12 06:26:21",
+   "pool_sol": 70.685,
+   "pool_tok_M": 199.396,
+   "price_sol_per_Mtok": 0.354497
+  },
+  {
+   "slot": 455947284,
+   "utc": "2026-10-12 06:26:24",
+   "pool_sol": 67.517,
+   "pool_tok_M": 206.911,
+   "price_sol_per_Mtok": 0.326309
+  },
+  {
+   "slot": 455947288,
+   "utc": "2026-10-12 06:26:24",
+   "pool_sol": 65.076,
+   "pool_tok_M": 213.082,
+   "price_sol_per_Mtok": 0.305403
+  },
+  {
+   "slot": 455947291,
+   "utc": "2026-10-12 06:26:25",
+   "pool_sol": 65.121,
+   "pool_tok_M": 212.967,
+   "price_sol_per_Mtok": 0.305778
+  },
+  {
+   "slot": 455947295,
+   "utc": "2026-10-12 06:26:26",
+   "pool_sol": 65.807,
+   "pool_tok_M": 211.214,
+   "price_sol_per_Mtok": 0.311567
+  },
+  {
+   "slot": 455947300,
+   "utc": "2026-10-12 06:26:27",
+   "pool_sol": 65.855,
+   "pool_tok_M": 211.105,
+   "price_sol_per_Mtok": 0.311954
+  },
+  {
+   "slot": 455947304,
+   "utc": "2026-10-12 06:26:28",
+   "pool_sol": 66.683,
+   "pool_tok_M": 209.041,
+   "price_sol_per_Mtok": 0.318994
+  },
+  {
+   "slot": 455947308,
+   "utc": "2026-10-12 06:26:29",
+   "pool_sol": 67.1,
+   "pool_tok_M": 208.016,
+   "price_sol_per_Mtok": 0.322571
+  },
+  {
+   "slot": 455947311,
+   "utc": "2026-10-12 06:26:30",
+   "pool_sol": 67.581,
+   "pool_tok_M": 206.839,
+   "price_sol_per_Mtok": 0.326733
+  },
+  {
+   "slot": 455947316,
+   "utc": "2026-10-12 06:26:31",
+   "pool_sol": 69.121,
+   "pool_tok_M": 203.163,
+   "price_sol_per_Mtok": 0.340223
+  },
+  {
+   "slot": 455947319,
+   "utc": "2026-10-12 06:26:31",
+   "pool_sol": 73.261,
+   "pool_tok_M": 193.923,
+   "price_sol_per_Mtok": 0.377787
+  },
+  {
+   "slot": 455947322,
+   "utc": "2026-10-12 06:26:32",
+   "pool_sol": 73.261,
+   "pool_tok_M": 193.923,
+   "price_sol_per_Mtok": 0.377787
+  },
+  {
+   "slot": 455947324,
+   "utc": "2026-10-12 06:26:32",
+   "pool_sol": 73.169,
+   "pool_tok_M": 194.123,
+   "price_sol_per_Mtok": 0.376923
+  },
+  {
+   "slot": 455947325,
+   "utc": "2026-10-12 06:26:33",
+   "pool_sol": 73.344,
+   "pool_tok_M": 193.753,
+   "price_sol_per_Mtok": 0.378544
+  },
+  {
+   "slot": 455947326,
+   "utc": "2026-10-12 06:26:33",
+   "pool_sol": 73.606,
+   "pool_tok_M": 193.202,
+   "price_sol_per_Mtok": 0.380982
+  },
+  {
+   "slot": 455947327,
+   "utc": "2026-10-12 06:26:33",
+   "pool_sol": 73.711,
+   "pool_tok_M": 192.982,
+   "price_sol_per_Mtok": 0.381959
+  },
+  {
+   "slot": 455947332,
+   "utc": "2026-10-12 06:26:34",
+   "pool_sol": 71.644,
+   "pool_tok_M": 197.521,
+   "price_sol_per_Mtok": 0.362715
+  },
+  {
+   "slot": 455947333,
+   "utc": "2026-10-12 06:26:34",
+   "pool_sol": 71.644,
+   "pool_tok_M": 197.521,
+   "price_sol_per_Mtok": 0.362715
+  },
+  {
+   "slot": 455947334,
+   "utc": "2026-10-12 06:26:35",
+   "pool_sol": 71.639,
+   "pool_tok_M": 197.532,
+   "price_sol_per_Mtok": 0.36267
+  },
+  {
+   "slot": 455947334,
+   "utc": "2026-10-12 06:26:35",
+   "pool_sol": 71.639,
+   "pool_tok_M": 197.532,
+   "price_sol_per_Mtok": 0.36267
+  },
+  {
+   "slot": 455947334,
+   "utc": "2026-10-12 06:26:35",
+   "pool_sol": 71.639,
+   "pool_tok_M": 197.532,
+   "price_sol_per_Mtok": 0.36267
+  },
+  {
+   "slot": 455947336,
+   "utc": "2026-10-12 06:26:35",
+   "pool_sol": 71.126,
+   "pool_tok_M": 198.695,
+   "price_sol_per_Mtok": 0.357969
+  },
+  {
+   "slot": 455947338,
+   "utc": "2026-10-12 06:26:36",
+   "pool_sol": 71.565,
+   "pool_tok_M": 197.718,
+   "price_sol_per_Mtok": 0.361952
+  },
+  {
+   "slot": 455947339,
+   "utc": "2026-10-12 06:26:36",
+   "pool_sol": 70.109,
+   "pool_tok_M": 201.013,
+   "price_sol_per_Mtok": 0.348779
+  },
+  {
+   "slot": 455947341,
+   "utc": "2026-10-12 06:26:36",
+   "pool_sol": 69.082,
+   "pool_tok_M": 203.452,
+   "price_sol_per_Mtok": 0.339549
+  },
+  {
+   "slot": 455947342,
+   "utc": "2026-10-12 06:26:36",
+   "pool_sol": 69.065,
+   "pool_tok_M": 203.494,
+   "price_sol_per_Mtok": 0.339394
+  },
+  {
+   "slot": 455947344,
+   "utc": "2026-10-12 06:26:37",
+   "pool_sol": 67.207,
+   "pool_tok_M": 208.079,
+   "price_sol_per_Mtok": 0.322986
+  },
+  {
+   "slot": 455947346,
+   "utc": "2026-10-12 06:26:37",
+   "pool_sol": 67.994,
+   "pool_tok_M": 206.16,
+   "price_sol_per_Mtok": 0.32981
+  },
+  {
+   "slot": 455947348,
+   "utc": "2026-10-12 06:26:37",
+   "pool_sol": 68.23,
+   "pool_tok_M": 205.594,
+   "price_sol_per_Mtok": 0.331869
+  },
+  {
+   "slot": 455947350,
+   "utc": "2026-10-12 06:26:38",
+   "pool_sol": 68.578,
+   "pool_tok_M": 204.762,
+   "price_sol_per_Mtok": 0.334917
+  },
+  {
+   "slot": 455947352,
+   "utc": "2026-10-12 06:26:38",
+   "pool_sol": 68.814,
+   "pool_tok_M": 204.204,
+   "price_sol_per_Mtok": 0.336986
+  },
+  {
+   "slot": 455947353,
+   "utc": "2026-10-12 06:26:39",
+   "pool_sol": 68.902,
+   "pool_tok_M": 203.996,
+   "price_sol_per_Mtok": 0.337764
+  },
+  {
+   "slot": 455947356,
+   "utc": "2026-10-12 06:26:39",
+   "pool_sol": 71.673,
+   "pool_tok_M": 197.769,
+   "price_sol_per_Mtok": 0.36241
+  },
+  {
+   "slot": 455947358,
+   "utc": "2026-10-12 06:26:40",
+   "pool_sol": 71.85,
+   "pool_tok_M": 197.378,
+   "price_sol_per_Mtok": 0.364024
+  },
+  {
+   "slot": 455947360,
+   "utc": "2026-10-12 06:26:40",
+   "pool_sol": 71.531,
+   "pool_tok_M": 198.089,
+   "price_sol_per_Mtok": 0.361105
+  },
+  {
+   "slot": 455947363,
+   "utc": "2026-10-12 06:26:41",
+   "pool_sol": 69.824,
+   "pool_tok_M": 202.017,
+   "price_sol_per_Mtok": 0.345637
+  },
+  {
+   "slot": 455947364,
+   "utc": "2026-10-12 06:26:41",
+   "pool_sol": 70.248,
+   "pool_tok_M": 201.04,
+   "price_sol_per_Mtok": 0.349423
+  },
+  {
+   "slot": 455947365,
+   "utc": "2026-10-12 06:26:41",
+   "pool_sol": 70.248,
+   "pool_tok_M": 201.04,
+   "price_sol_per_Mtok": 0.349423
+  },
+  {
+   "slot": 455947367,
+   "utc": "2026-10-12 06:26:42",
+   "pool_sol": 70.248,
+   "pool_tok_M": 201.04,
+   "price_sol_per_Mtok": 0.349423
+  },
+  {
+   "slot": 455947369,
+   "utc": "2026-10-12 06:26:42",
+   "pool_sol": 70.705,
+   "pool_tok_M": 199.999,
+   "price_sol_per_Mtok": 0.353524
+  },
+  {
+   "slot": 455947371,
+   "utc": "2026-10-12 06:26:42",
+   "pool_sol": 70.705,
+   "pool_tok_M": 199.999,
+   "price_sol_per_Mtok": 0.353524
+  },
+  {
+   "slot": 455947373,
+   "utc": "2026-10-12 06:26:43",
+   "pool_sol": 70.705,
+   "pool_tok_M": 199.999,
+   "price_sol_per_Mtok": 0.353524
+  },
+  {
+   "slot": 455947377,
+   "utc": "2026-10-12 06:26:44",
+   "pool_sol": 71.695,
+   "pool_tok_M": 197.778,
+   "price_sol_per_Mtok": 0.3625
+  },
+  {
+   "slot": 455947381,
+   "utc": "2026-10-12 06:26:44",
+   "pool_sol": 71.819,
+   "pool_tok_M": 197.519,
+   "price_sol_per_Mtok": 0.363604
+  },
+  {
+   "slot": 455947385,
+   "utc": "2026-10-12 06:26:45",
+   "pool_sol": 71.338,
+   "pool_tok_M": 198.601,
+   "price_sol_per_Mtok": 0.359203
+  },
+  {
+   "slot": 455947387,
+   "utc": "2026-10-12 06:26:46",
+   "pool_sol": 71.338,
+   "pool_tok_M": 198.601,
+   "price_sol_per_Mtok": 0.359203
+  },
+  {
+   "slot": 455947389,
+   "utc": "2026-10-12 06:26:46",
+   "pool_sol": 71.347,
+   "pool_tok_M": 198.582,
+   "price_sol_per_Mtok": 0.359284
+  },
+  {
+   "slot": 455947394,
+   "utc": "2026-10-12 06:26:47",
+   "pool_sol": 71.639,
+   "pool_tok_M": 197.933,
+   "price_sol_per_Mtok": 0.361937
+  },
+  {
+   "slot": 455947398,
+   "utc": "2026-10-12 06:26:48",
+   "pool_sol": 70.81,
+   "pool_tok_M": 199.806,
+   "price_sol_per_Mtok": 0.354392
+  },
+  {
+   "slot": 455947403,
+   "utc": "2026-10-12 06:26:49",
+   "pool_sol": 70.419,
+   "pool_tok_M": 200.697,
+   "price_sol_per_Mtok": 0.350875
+  },
+  {
+   "slot": 455947406,
+   "utc": "2026-10-12 06:26:50",
+   "pool_sol": 70.476,
+   "pool_tok_M": 200.569,
+   "price_sol_per_Mtok": 0.351378
+  },
+  {
+   "slot": 455947408,
+   "utc": "2026-10-12 06:26:50",
+   "pool_sol": 70.476,
+   "pool_tok_M": 200.569,
+   "price_sol_per_Mtok": 0.351378
+  },
+  {
+   "slot": 455947410,
+   "utc": "2026-10-12 06:26:51",
+   "pool_sol": 70.535,
+   "pool_tok_M": 200.435,
+   "price_sol_per_Mtok": 0.35191
+  },
+  {
+   "slot": 455947412,
+   "utc": "2026-10-12 06:26:51",
+   "pool_sol": 70.485,
+   "pool_tok_M": 200.55,
+   "price_sol_per_Mtok": 0.351459
+  },
+  {
+   "slot": 455947413,
+   "utc": "2026-10-12 06:26:51",
+   "pool_sol": 70.485,
+   "pool_tok_M": 200.55,
+   "price_sol_per_Mtok": 0.351459
+  },
+  {
+   "slot": 455947418,
+   "utc": "2026-10-12 06:26:53",
+   "pool_sol": 70.485,
+   "pool_tok_M": 200.55,
+   "price_sol_per_Mtok": 0.351459
+  },
+  {
+   "slot": 455947423,
+   "utc": "2026-10-12 06:26:54",
+   "pool_sol": 71.455,
+   "pool_tok_M": 198.358,
+   "price_sol_per_Mtok": 0.360234
+  },
+  {
+   "slot": 455947433,
+   "utc": "2026-10-12 06:26:56",
+   "pool_sol": 71.872,
+   "pool_tok_M": 197.441,
+   "price_sol_per_Mtok": 0.364018
+  },
+  {
+   "slot": 455947476,
+   "utc": "2026-10-12 06:27:05",
+   "pool_sol": 71.111,
+   "pool_tok_M": 199.169,
+   "price_sol_per_Mtok": 0.35704
+  },
+  {
+   "slot": 455947502,
+   "utc": "2026-10-12 06:27:10",
+   "pool_sol": 70.961,
+   "pool_tok_M": 199.519,
+   "price_sol_per_Mtok": 0.355659
+  },
+  {
+   "slot": 455947548,
+   "utc": "2026-10-12 06:27:20",
+   "pool_sol": 70.096,
+   "pool_tok_M": 201.503,
+   "price_sol_per_Mtok": 0.347868
+  },
+  {
+   "slot": 455947587,
+   "utc": "2026-10-12 06:27:29",
+   "pool_sol": 69.427,
+   "pool_tok_M": 202.343,
+   "price_sol_per_Mtok": 0.343117
+  },
+  {
+   "slot": 455947643,
+   "utc": "2026-10-12 06:27:41",
+   "pool_sol": 68.411,
+   "pool_tok_M": 204.779,
+   "price_sol_per_Mtok": 0.334074
+  },
+  {
+   "slot": 455947669,
+   "utc": "2026-10-12 06:27:47",
+   "pool_sol": 72.927,
+   "pool_tok_M": 194.643,
+   "price_sol_per_Mtok": 0.374668
+  },
+  {
+   "slot": 455947682,
+   "utc": "2026-10-12 06:27:50",
+   "pool_sol": 73.632,
+   "pool_tok_M": 193.144,
+   "price_sol_per_Mtok": 0.38123
+  },
+  {
+   "slot": 455947698,
+   "utc": "2026-10-12 06:27:53",
+   "pool_sol": 72.924,
+   "pool_tok_M": 194.671,
+   "price_sol_per_Mtok": 0.374602
+  },
+  {
+   "slot": 455947710,
+   "utc": "2026-10-12 06:27:56",
+   "pool_sol": 71.998,
+   "pool_tok_M": 196.696,
+   "price_sol_per_Mtok": 0.366039
+  },
+  {
+   "slot": 455947735,
+   "utc": "2026-10-12 06:28:01",
+   "pool_sol": 69.717,
+   "pool_tok_M": 201.92,
+   "price_sol_per_Mtok": 0.345271
+  },
+  {
+   "slot": 455947766,
+   "utc": "2026-10-12 06:28:08",
+   "pool_sol": 62.938,
+   "pool_tok_M": 219.498,
+   "price_sol_per_Mtok": 0.286735
+  },
+  {
+   "slot": 455947772,
+   "utc": "2026-10-12 06:28:10",
+   "pool_sol": 65.73,
+   "pool_tok_M": 212.151,
+   "price_sol_per_Mtok": 0.309828
+  },
+  {
+   "slot": 455947782,
+   "utc": "2026-10-12 06:28:12",
+   "pool_sol": 65.445,
+   "pool_tok_M": 212.942,
+   "price_sol_per_Mtok": 0.307338
+  },
+  {
+   "slot": 455947787,
+   "utc": "2026-10-12 06:28:13",
+   "pool_sol": 68.796,
+   "pool_tok_M": 204.658,
+   "price_sol_per_Mtok": 0.336153
+  },
+  {
+   "slot": 455947808,
+   "utc": "2026-10-12 06:28:17",
+   "pool_sol": 69.863,
+   "pool_tok_M": 202.176,
+   "price_sol_per_Mtok": 0.345555
+  },
+  {
+   "slot": 455947838,
+   "utc": "2026-10-12 06:28:24",
+   "pool_sol": 68.122,
+   "pool_tok_M": 206.338,
+   "price_sol_per_Mtok": 0.330146
+  },
+  {
+   "slot": 455947888,
+   "utc": "2026-10-12 06:28:35",
+   "pool_sol": 64.866,
+   "pool_tok_M": 214.616,
+   "price_sol_per_Mtok": 0.302242
+  },
+  {
+   "slot": 455947923,
+   "utc": "2026-10-12 06:28:42",
+   "pool_sol": 65.036,
+   "pool_tok_M": 214.18,
+   "price_sol_per_Mtok": 0.303653
+  },
+  {
+   "slot": 455947942,
+   "utc": "2026-10-12 06:28:46",
+   "pool_sol": 62.585,
+   "pool_tok_M": 220.845,
+   "price_sol_per_Mtok": 0.283387
+  },
+  {
+   "slot": 455947950,
+   "utc": "2026-10-12 06:28:48",
+   "pool_sol": 60.914,
+   "pool_tok_M": 225.588,
+   "price_sol_per_Mtok": 0.270024
+  },
+  {
+   "slot": 455947955,
+   "utc": "2026-10-12 06:28:49",
+   "pool_sol": 52.591,
+   "pool_tok_M": 252.541,
+   "price_sol_per_Mtok": 0.208248
+  },
+  {
+   "slot": 455947959,
+   "utc": "2026-10-12 06:28:50",
+   "pool_sol": 52.701,
+   "pool_tok_M": 252.196,
+   "price_sol_per_Mtok": 0.208969
+  },
+  {
+   "slot": 455947962,
+   "utc": "2026-10-12 06:28:50",
+   "pool_sol": 53.257,
+   "pool_tok_M": 250.21,
+   "price_sol_per_Mtok": 0.212848
+  },
+  {
+   "slot": 455947972,
+   "utc": "2026-10-12 06:28:53",
+   "pool_sol": 55.146,
+   "pool_tok_M": 243.718,
+   "price_sol_per_Mtok": 0.22627
+  },
+  {
+   "slot": 455947987,
+   "utc": "2026-10-12 06:28:56",
+   "pool_sol": 56.336,
+   "pool_tok_M": 239.792,
+   "price_sol_per_Mtok": 0.234937
+  },
+  {
+   "slot": 455948012,
+   "utc": "2026-10-12 06:29:02",
+   "pool_sol": 57.361,
+   "pool_tok_M": 236.503,
+   "price_sol_per_Mtok": 0.242538
+  },
+  {
+   "slot": 455948046,
+   "utc": "2026-10-12 06:29:09",
+   "pool_sol": 57.338,
+   "pool_tok_M": 236.624,
+   "price_sol_per_Mtok": 0.242316
+  },
+  {
+   "slot": 455948085,
+   "utc": "2026-10-12 06:29:17",
+   "pool_sol": 56.511,
+   "pool_tok_M": 239.285,
+   "price_sol_per_Mtok": 0.236166
+  },
+  {
+   "slot": 455948123,
+   "utc": "2026-10-12 06:29:25",
+   "pool_sol": 57.12,
+   "pool_tok_M": 237.344,
+   "price_sol_per_Mtok": 0.240663
+  },
+  {
+   "slot": 455948158,
+   "utc": "2026-10-12 06:29:33",
+   "pool_sol": 55.904,
+   "pool_tok_M": 241.319,
+   "price_sol_per_Mtok": 0.23166
+  },
+  {
+   "slot": 455948215,
+   "utc": "2026-10-12 06:29:45",
+   "pool_sol": 58.365,
+   "pool_tok_M": 233.488,
+   "price_sol_per_Mtok": 0.24997
+  },
+  {
+   "slot": 455948245,
+   "utc": "2026-10-12 06:29:51",
+   "pool_sol": 57.319,
+   "pool_tok_M": 236.851,
+   "price_sol_per_Mtok": 0.242005
+  },
+  {
+   "slot": 455948293,
+   "utc": "2026-10-12 06:30:02",
+   "pool_sol": 49.596,
+   "pool_tok_M": 264.364,
+   "price_sol_per_Mtok": 0.187604
+  },
+  {
+   "slot": 455948306,
+   "utc": "2026-10-12 06:30:05",
+   "pool_sol": 49.405,
+   "pool_tok_M": 265.152,
+   "price_sol_per_Mtok": 0.186326
+  },
+  {
+   "slot": 455948322,
+   "utc": "2026-10-12 06:30:08",
+   "pool_sol": 51.053,
+   "pool_tok_M": 258.762,
+   "price_sol_per_Mtok": 0.197296
+  },
+  {
+   "slot": 455948340,
+   "utc": "2026-10-12 06:30:12",
+   "pool_sol": 54.172,
+   "pool_tok_M": 247.506,
+   "price_sol_per_Mtok": 0.218871
+  },
+  {
+   "slot": 455948368,
+   "utc": "2026-10-12 06:30:18",
+   "pool_sol": 53.872,
+   "pool_tok_M": 248.601,
+   "price_sol_per_Mtok": 0.216701
+  },
+  {
+   "slot": 455948431,
+   "utc": "2026-10-12 06:30:32",
+   "pool_sol": 53.204,
+   "pool_tok_M": 251.018,
+   "price_sol_per_Mtok": 0.211953
+  },
+  {
+   "slot": 455948519,
+   "utc": "2026-10-12 06:30:51",
+   "pool_sol": 51.043,
+   "pool_tok_M": 259.051,
+   "price_sol_per_Mtok": 0.197037
+  },
+  {
+   "slot": 455948568,
+   "utc": "2026-10-12 06:31:02",
+   "pool_sol": 50.327,
+   "pool_tok_M": 261.821,
+   "price_sol_per_Mtok": 0.192219
+  },
+  {
+   "slot": 455948634,
+   "utc": "2026-10-12 06:31:16",
+   "pool_sol": 50.986,
+   "pool_tok_M": 259.291,
+   "price_sol_per_Mtok": 0.196635
+  },
+  {
+   "slot": 455948680,
+   "utc": "2026-10-12 06:31:26",
+   "pool_sol": 48.728,
+   "pool_tok_M": 268.207,
+   "price_sol_per_Mtok": 0.181682
+  },
+  {
+   "slot": 455948768,
+   "utc": "2026-10-12 06:31:45",
+   "pool_sol": 49.823,
+   "pool_tok_M": 263.855,
+   "price_sol_per_Mtok": 0.188828
+  },
+  {
+   "slot": 455948829,
+   "utc": "2026-10-12 06:31:58",
+   "pool_sol": 53.257,
+   "pool_tok_M": 250.978,
+   "price_sol_per_Mtok": 0.212197
+  },
+  {
+   "slot": 455948901,
+   "utc": "2026-10-12 06:32:14",
+   "pool_sol": 52.106,
+   "pool_tok_M": 255.167,
+   "price_sol_per_Mtok": 0.204201
+  },
+  {
+   "slot": 455948966,
+   "utc": "2026-10-12 06:32:28",
+   "pool_sol": 50.565,
+   "pool_tok_M": 261.001,
+   "price_sol_per_Mtok": 0.193734
+  },
+  {
+   "slot": 455949070,
+   "utc": "2026-10-12 06:32:50",
+   "pool_sol": 45.615,
+   "pool_tok_M": 281.672,
+   "price_sol_per_Mtok": 0.161945
+  },
+  {
+   "slot": 455949093,
+   "utc": "2026-10-12 06:32:55",
+   "pool_sol": 40.662,
+   "pool_tok_M": 306.037,
+   "price_sol_per_Mtok": 0.132865
+  },
+  {
+   "slot": 455949130,
+   "utc": "2026-10-12 06:33:03",
+   "pool_sol": 43.184,
+   "pool_tok_M": 293.225,
+   "price_sol_per_Mtok": 0.147274
+  },
+  {
+   "slot": 455949199,
+   "utc": "2026-10-12 06:33:19",
+   "pool_sol": 45.152,
+   "pool_tok_M": 284.231,
+   "price_sol_per_Mtok": 0.158857
+  },
+  {
+   "slot": 455949306,
+   "utc": "2026-10-12 06:33:42",
+   "pool_sol": 46.37,
+   "pool_tok_M": 278.94,
+   "price_sol_per_Mtok": 0.166236
+  },
+  {
+   "slot": 455949427,
+   "utc": "2026-10-12 06:34:09",
+   "pool_sol": 47.582,
+   "pool_tok_M": 273.747,
+   "price_sol_per_Mtok": 0.173818
+  },
+  {
+   "slot": 455949613,
+   "utc": "2026-10-12 06:34:50",
+   "pool_sol": 47.322,
+   "pool_tok_M": 274.918,
+   "price_sol_per_Mtok": 0.172131
+  },
+  {
+   "slot": 455949776,
+   "utc": "2026-10-12 06:35:25",
+   "pool_sol": 49.405,
+   "pool_tok_M": 266.323,
+   "price_sol_per_Mtok": 0.185509
+  },
+  {
+   "slot": 455949937,
+   "utc": "2026-10-12 06:36:02",
+   "pool_sol": 49.898,
+   "pool_tok_M": 264.389,
+   "price_sol_per_Mtok": 0.188731
+  },
+  {
+   "slot": 455950011,
+   "utc": "2026-10-12 06:36:18",
+   "pool_sol": 44.831,
+   "pool_tok_M": 286.223,
+   "price_sol_per_Mtok": 0.156631
+  },
+  {
+   "slot": 455950174,
+   "utc": "2026-10-12 06:36:53",
+   "pool_sol": 43.725,
+   "pool_tok_M": 291.594,
+   "price_sol_per_Mtok": 0.149951
+  },
+  {
+   "slot": 455950254,
+   "utc": "2026-10-12 06:37:10",
+   "pool_sol": 45.664,
+   "pool_tok_M": 282.646,
+   "price_sol_per_Mtok": 0.161558
+  },
+  {
+   "slot": 455950423,
+   "utc": "2026-10-12 06:37:47",
+   "pool_sol": 44.648,
+   "pool_tok_M": 287.377,
+   "price_sol_per_Mtok": 0.155365
+  },
+  {
+   "slot": 455950703,
+   "utc": "2026-10-12 06:38:48",
+   "pool_sol": 45.138,
+   "pool_tok_M": 285.198,
+   "price_sol_per_Mtok": 0.158267
+  },
+  {
+   "slot": 455950791,
+   "utc": "2026-10-12 06:39:07",
+   "pool_sol": 46.478,
+   "pool_tok_M": 279.198,
+   "price_sol_per_Mtok": 0.166468
+  },
+  {
+   "slot": 455951121,
+   "utc": "2026-10-12 06:40:17",
+   "pool_sol": 47.191,
+   "pool_tok_M": 276.082,
+   "price_sol_per_Mtok": 0.170931
+  },
+  {
+   "slot": 455951340,
+   "utc": "2026-10-12 06:41:05",
+   "pool_sol": 51.997,
+   "pool_tok_M": 256.774,
+   "price_sol_per_Mtok": 0.202503
+  },
+  {
+   "slot": 455951702,
+   "utc": "2026-10-12 06:42:25",
+   "pool_sol": 48.86,
+   "pool_tok_M": 269.276,
+   "price_sol_per_Mtok": 0.18145
+  }
+ ],
+ "tracked_holders_post_migration": {
+  "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn": {
+   "label": "Real Coin Bot (41 real coins)",
+   "post_mig_sigs_seen": 828,
+   "mint_txs": []
+  },
+  "ssssswdk4RR8HqkE3uwUWzDbd6mXFTTPjcXBKNzQ57E": {
+   "label": "Fleet Bot (45 real coins, 1074 txns)",
+   "post_mig_sigs_seen": 538,
+   "mint_txs": [
+    {
+     "utc": "2026-10-12 06:26:16",
+     "slot": 455947251,
+     "sig": "5ajYte42VpgQofd58BPYSB2WL8UEZuDGgkB5ov3GE1A8hjt7kZyqmEZp2PYPEGGZKGJoKHBZuCssEvagMasNECxt",
+     "d_tokens_M": -4.98750326179,
+     "wallet_sol_delta": 1.996721861,
+     "pool_sol_after": 65.852649102
+    }
+   ]
+  }
+ }
+}

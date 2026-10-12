@@ -1,0 +1,2056 @@
+{
+  "graduated": [
+    {
+      "index": 40,
+      "mint": "3nkVw4JwdDLGM23Wzqpy2ptAPV5YgMnokEBgijDBpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 3
+    },
+    {
+      "index": 51,
+      "mint": "BVS56AGpX1tzArD8xz9CVQH8s6fvfJDLN4D9aqBJpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 2
+    },
+    {
+      "index": 53,
+      "mint": "EyXCSXEagwLUhnDPJUSBLmfajKonF6tzbe4SNZTvpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 4
+    },
+    {
+      "index": 68,
+      "mint": "JfTcXwrhcr59tMvRG4i8PSUtUbs1RarTdUoiuaEpump",
+      "max_sol": 85.005359397,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 528
+    },
+    {
+      "index": 112,
+      "mint": "anLNRkTzJ9fvCJQvEqJcMMw7eWYuFGN8TsSqYmcpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 2
+    },
+    {
+      "index": 118,
+      "mint": "Fm13vQteVxu6Y3Jo3ZQHFrYYeqdCXDjzJuyRBFpSpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 2
+    },
+    {
+      "index": 172,
+      "mint": "CmXHH3EcU2aY2h9tsYMrxaVWmNF4E86uZ1Evmuzzpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 2
+    },
+    {
+      "index": 187,
+      "mint": "ASJtpcRmfct9bMLVN6qnTbjwCMzyHTXGCzV1WpnSpump",
+      "max_sol": 85.005359564,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 823
+    },
+    {
+      "index": 189,
+      "mint": "AMaou98NkTiNLHfAwq3qUN62UHHyQSdCxiPd9ESBpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 2
+    },
+    {
+      "index": 203,
+      "mint": "BsT8W5QonrJuVVre5ivab62cJsxYYYAoZqiPu3uHpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 4
+    },
+    {
+      "index": 223,
+      "mint": "EJF7c3uXWjsHS2qyJWxs4iqCaTPF6t4oMDrEcCaCpump",
+      "max_sol": 85.005360612,
+      "complete": true,
+      "date": "2026-09-14",
+      "groups_count": 2196
+    },
+    {
+      "index": 290,
+      "mint": "qZeBtoHvteQZexFj5iZbgphTWeMCLrB2zF5RTj4pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 2
+    },
+    {
+      "index": 292,
+      "mint": "pvDyYJJovFpotVpu8hH9x3HvJLvE1j44S6x9E3Ppump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 2
+    },
+    {
+      "index": 302,
+      "mint": "Cdr94f2EwC45Ksd26fuQ6pve1Luk4QEKouEoUzwwFPLF",
+      "max_sol": 84.987196655,
+      "complete": false,
+      "date": "2026-09-15",
+      "groups_count": 1484
+    },
+    {
+      "index": 308,
+      "mint": "AEbcKp5GnxnxiQKtvtL2NF2EC2TrTknrMhqKDk5kpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 2
+    },
+    {
+      "index": 313,
+      "mint": "BnwWDnzjunabWLG78ysufrA8Sjf4jUFMrn6PYVHFpump",
+      "max_sol": 85.005359078,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 48
+    },
+    {
+      "index": 368,
+      "mint": "Dfe3EYxVyVsv3mTUBaMXhBLXoUt6mRRBx5JZgqqvpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 15
+    },
+    {
+      "index": 393,
+      "mint": "BGXhqm5PuSLT1V5Tr7XB3mdSBwJsFgaGQgvZcHBNpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 2
+    },
+    {
+      "index": 395,
+      "mint": "DzXuyscAYUMvdEajiG9TKr5pGU7VLBbEBXA8FYXppump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 4
+    },
+    {
+      "index": 421,
+      "mint": "ErU4GojuJ5X7pCicoebfSzBPPb88yjCQwiUmgoqfpump",
+      "max_sol": 85.00535988,
+      "complete": true,
+      "date": "2026-09-15",
+      "groups_count": 960
+    },
+    {
+      "index": 486,
+      "mint": "6mifKmGHLRWa8cUZb9jzaX8tsfHk5ceCVDiS1un4pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 2
+    },
+    {
+      "index": 509,
+      "mint": "AD3crmVUsCPKJGtE3oNQhNRkKboSo3x2TXCCG8Lypump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 2
+    },
+    {
+      "index": 523,
+      "mint": "22XQfdbQoJzwqMV9XJs7erNSETtzipvkyKiKVyDkpump",
+      "max_sol": 85.005359062,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 9
+    },
+    {
+      "index": 544,
+      "mint": "qsvyKVcEYBxggq1YSmwHitNVHiEqinq224FWYRXpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 2
+    },
+    {
+      "index": 610,
+      "mint": "9zCRnGXZmsBxotyAU4niKjZtRmpr4zMQCtnSoRt5pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 2
+    },
+    {
+      "index": 655,
+      "mint": "7nfkm1KapnCeFPxaNREAkDdCLkqtCT5oKNDvFRotP4HC",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 2
+    },
+    {
+      "index": 710,
+      "mint": "FxnJcRM8rXBZ5n3dDE4f66EBc48MncNnuwb3LyGDpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 2
+    },
+    {
+      "index": 712,
+      "mint": "EWU4W2goCBRSEHdk7Ap7tv5wqDXRjE4rKYeaDvdo47HX",
+      "max_sol": 85.005359678,
+      "complete": true,
+      "date": "2026-09-16",
+      "groups_count": 714
+    },
+    {
+      "index": 742,
+      "mint": "HyEeMEmMMxZoCBze1XeL4hH8YSu2yNL1z1p3gYFCpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 780,
+      "mint": "4qEUfQ6qwjqPTLQsxohbfxCV3xR5dKKh3pCThrVEpump",
+      "max_sol": 85.005359062,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 10
+    },
+    {
+      "index": 795,
+      "mint": "BYLqQoSvWgwc3yNPnDuvNxZ2Nr1r5XDmQbKW5Q3Fpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 811,
+      "mint": "5WE8G6Qz5oUDsuLBTh4W4D1hfXkgp9vRoNoeXuoVpump",
+      "max_sol": 85.00535906,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 8
+    },
+    {
+      "index": 813,
+      "mint": "8r7ebHq9wqcd2BomaNDxgQ5nsYBfFA91tZULGRhzpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 10
+    },
+    {
+      "index": 827,
+      "mint": "mzGEKC8bKmMZMaRU4XgqVxk64rcCReonkWiomqCpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 836,
+      "mint": "Crp5jP1aAbNXmu9gUaK1BXGRZYaWyYiLLJHzNsnUpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 844,
+      "mint": "QfxN9BMtUCo4Y4vCyfJeAJJBUCccmaAAEDrpq2Qpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 848,
+      "mint": "gwYjh3Q9nFdxuW71wHbRLf5SoaBCMh2zDPtdm6opump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 855,
+      "mint": "5qJZztPgzNJ1vVTodLuLJiecVEC5v1BAUF6hwBoYpump",
+      "max_sol": 85.005359187,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 216
+    },
+    {
+      "index": 891,
+      "mint": "8g8FdBJKq9oLedaRVoiPgSCAFPAUXbMdoE4JJmsppump",
+      "max_sol": 85.005359139,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 60
+    },
+    {
+      "index": 926,
+      "mint": "Hbfq5Gcxnz1wBS8nqMs6695YDzg14NqMMqrC71h9pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2
+    },
+    {
+      "index": 941,
+      "mint": "6Akj7Z4Pfyz5vG5Q5NEGANuBBTjH1Zd6yKu2Va7apump",
+      "max_sol": 85.005361279,
+      "complete": true,
+      "date": "2026-09-17",
+      "groups_count": 2872
+    },
+    {
+      "index": 996,
+      "mint": "5UR3Rn8CeyHmdzvFeo5mLrnJbCyPqt7vx1ne4Gk8pump",
+      "max_sol": 85.005359062,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 7
+    },
+    {
+      "index": 1003,
+      "mint": "8bGkXjuvRtqfKa1rqprss4HubjFkATfn88WDTghepump",
+      "max_sol": 85.005359099,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 231
+    },
+    {
+      "index": 1030,
+      "mint": "VT7qCKfuAwxKWBibCxRWwaawEL4cQ3tevv276Wbpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 2
+    },
+    {
+      "index": 1034,
+      "mint": "7tLdojy39vXvFuQ1WSYDY7XfyRfhQTXQiipt4kq3pump",
+      "max_sol": 85.005359064,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 9
+    },
+    {
+      "index": 1047,
+      "mint": "54qAdV75o163Sbit77SmiLbY1NNqWu6x8JGJqMAYpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 11
+    },
+    {
+      "index": 1048,
+      "mint": "bNPCfq9gNpsdFzuSokGv9WDVxRThkMSpYvFM12bpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 2
+    },
+    {
+      "index": 1075,
+      "mint": "3znCQwsPB1nwDJtihFSiReeKRZZ3HpavYNTLgtNipump",
+      "max_sol": 85.005359065,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 10
+    },
+    {
+      "index": 1095,
+      "mint": "MrzdsNAZRgGMoq8LuVHDPKBPWr9xu5RQmZM127apump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 2
+    },
+    {
+      "index": 1139,
+      "mint": "bmpaAQGSVsu4vbd2cT7hsVCoMkMmjC3ZMhRpuefpump",
+      "max_sol": 85.005359799,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 801
+    },
+    {
+      "index": 1175,
+      "mint": "BkAMCXg8B3UAK2fjsQSXyvN1UfpamE2rWRQ1c8fgHk2A",
+      "max_sol": 85.005360679,
+      "complete": true,
+      "date": "2026-09-18",
+      "groups_count": 2617
+    },
+    {
+      "index": 1189,
+      "mint": "8KHg3h5saeVtFQQo3P82DmuPUamRU7WcEnCLCaPypump",
+      "max_sol": 84.812097326,
+      "complete": false,
+      "date": "2026-09-18",
+      "groups_count": 227
+    },
+    {
+      "index": 1230,
+      "mint": "jd1dxhxUXu7HAtQzkfSC7dwa22jHYTh56tadNxxpump",
+      "max_sol": 85.005359277,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 210
+    },
+    {
+      "index": 1254,
+      "mint": "DyK8WtkNogW21vzR5TpxmRJstCwbkfgWvYvtmfWJpump",
+      "max_sol": 85.005359064,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 8
+    },
+    {
+      "index": 1299,
+      "mint": "6uTF8mrUTir8B32poYE8Ccbpqp8RXrGc6d6eamgUpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 2
+    },
+    {
+      "index": 1304,
+      "mint": "dDRaYYiEc5JUMCBfwmheK8iR8GJjVmYsn19v1yRpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 2
+    },
+    {
+      "index": 1320,
+      "mint": "EhFUXPca6V72P6vWZ5EUfCVQ5mDBQh3JZTYqMUE8pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 2
+    },
+    {
+      "index": 1378,
+      "mint": "Dg6VFxJcecNb9HNRjfC7RArymoST5LuX9haPkmyxpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 2
+    },
+    {
+      "index": 1411,
+      "mint": "3GPxAqzWreBXYLXHLuxYDcdStF1LULzo2pcfSy9Qpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 2
+    },
+    {
+      "index": 1413,
+      "mint": "BNC5QHjJpqTGMjzUopJZvYPBFBf1uZo4m2YiKcdpump",
+      "max_sol": 85.005360459,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 1295
+    },
+    {
+      "index": 1459,
+      "mint": "FKkDMWqFUTZcW6zacy9ikP5cdTb4dbXCtz3WkSyqpump",
+      "max_sol": 85.005359586,
+      "complete": true,
+      "date": "2026-09-19",
+      "groups_count": 1492
+    },
+    {
+      "index": 1485,
+      "mint": "4U52Pa2LH6TLnYEn3KDBhcy66UhZ5ibQah5dQZvfpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 3
+    },
+    {
+      "index": 1504,
+      "mint": "6qJ8XKAAPGBR7qZNkZsWDPJHueHJjvy2doD6Gqj8Z2Ju",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1516,
+      "mint": "4B2osbkYJTA2m7Cc8ZEiSqangKAE58KZKWz1mw7vpump",
+      "max_sol": 85.005359643,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 814
+    },
+    {
+      "index": 1526,
+      "mint": "LQU3KbwmT5HKVzLqQD6zrGprJXBWtdU9aJE2xsMpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1537,
+      "mint": "FrQiTSchJwGix365BZRznt2bPWoF7qTtJ2svcHCGpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1555,
+      "mint": "5NiHiRiHRws1xdYeFnW6dUEKQiq2qHmf3Zdvy2Lapump",
+      "max_sol": 85.005359077,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 81
+    },
+    {
+      "index": 1558,
+      "mint": "7WfqnAi4dKRKUSx9EC18Y889yCJxrRK9avUXgwkopump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 9
+    },
+    {
+      "index": 1573,
+      "mint": "C9EtJdD9MLqfJ8aQdCbp8Xi1aJ37ToUr6Ui3yg7epump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1600,
+      "mint": "GvZYqoJAjUbNkfUiz1KmbepoN3r6W7GHev5xogaSfS6K",
+      "max_sol": 85.005359218,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 275
+    },
+    {
+      "index": 1601,
+      "mint": "FLNT6D2gdAKkU2WmvoYBP2KB23k3vTmSzLaV36Jcpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1613,
+      "mint": "BMgFz5gF76JuqR3qCdBM1SHHHAYyUroakavYVK6pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1645,
+      "mint": "Cm4ZB1dHvswsGdri4DkvtjB9osHpGEs5n5kF72Pwpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-20",
+      "groups_count": 2
+    },
+    {
+      "index": 1687,
+      "mint": "ns5dqDF5c1FSpNWm32Xz3ws4uyKwQAftK9VqJDmpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-21",
+      "groups_count": 2
+    },
+    {
+      "index": 1747,
+      "mint": "XhaL1oj4NpSTfG9H4twcYE5gz86YXSKgGGnw6vipump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-21",
+      "groups_count": 2
+    },
+    {
+      "index": 1751,
+      "mint": "XoNRSTVdumBweSderhyp5KezpbSqHK8NWcnyzPWpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-21",
+      "groups_count": 2
+    },
+    {
+      "index": 1768,
+      "mint": "FZ1wv8nnd9R8bHiiShqWhMxsZnZDjJPz6yoRUNkspump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-21",
+      "groups_count": 2
+    },
+    {
+      "index": 1867,
+      "mint": "7LKa9bcNeKBEYzyVf3Pxe2P1Tq4gdE331VvvSN4yU26f",
+      "max_sol": 85.005360242,
+      "complete": true,
+      "date": "2026-09-21",
+      "groups_count": 1641
+    },
+    {
+      "index": 1872,
+      "mint": "BZDKpQoL1ScACZZCYVTCL3gZoZzyw5hkaMPA8ih4pump",
+      "max_sol": 85.00536006,
+      "complete": true,
+      "date": "2026-09-21",
+      "groups_count": 1154
+    },
+    {
+      "index": 1925,
+      "mint": "4j5SVTXw3AHsC1y4K1HypR2jfwNsCSCjpKuS77xDpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 1958,
+      "mint": "wXcbD8Sr23SoN1J8zE7i6Js4EaoCDAFWkUhdoe8pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 1980,
+      "mint": "X6w2W7v57swwGNS4YUybAtkb19WcrspXEB4E2bPpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 1986,
+      "mint": "BAubMrXv3jAsHnHiaytteuqausgQcNsw9kKnR2uzpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 2005,
+      "mint": "78rt1yH1XbpM9qe3yyF22yT9vEgMTYqqn8vvdKypump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 2006,
+      "mint": "8BK37h5CMwBxzRBaQ6yp4cqkX3dkPARdipyhs876pump",
+      "max_sol": 85.00535906,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 7
+    },
+    {
+      "index": 2010,
+      "mint": "8ToHUPY1JubB939eaChzLMmjicEU1DwxAuevbfhxpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 2018,
+      "mint": "rWFbB7JmQYy3jFha1k8Vr4by2vyySokH27TCymspump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 2023,
+      "mint": "AW7H8EESgj8k7bKqGkekHmgsveEVsEaz23XAdd2Npump",
+      "max_sol": 85.005359133,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 130
+    },
+    {
+      "index": 2030,
+      "mint": "EEY9babi3Yep93sh9Ymmh1tB18WP4ASnCdTdrYzpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 2038,
+      "mint": "PhxuAWuEk1zijrjWkJ7Pd7d7b7g4kHod8FwLhyipump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 9
+    },
+    {
+      "index": 2052,
+      "mint": "AzEP9c7Kz1wm3RE35pG8g6yyetQqmZu2PSjVoiFAJrtt",
+      "max_sol": 85.005360451,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 1445
+    },
+    {
+      "index": 2097,
+      "mint": "3FEXGxqKPER8aDvr8enRjw9bnznufr9NUCsFQi1Tpump",
+      "max_sol": 85.005359608,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 799
+    },
+    {
+      "index": 2122,
+      "mint": "FdZYYNQeAnQEnBm9fnTZPgQwTvZvpbNxH4iXQiwpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 2
+    },
+    {
+      "index": 2133,
+      "mint": "2CvJgjpCwq9gJrAiqt5zDHpmLsSztvBJsX3ZjV7Xpump",
+      "max_sol": 85.00535906,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 9
+    },
+    {
+      "index": 2140,
+      "mint": "wrAAWCcSASiZQNoo7QA4HpAvEQsHitztSKAgjFFpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-22",
+      "groups_count": 8
+    },
+    {
+      "index": 2176,
+      "mint": "2xwEfQ6dFNjQbpCXnGQJGaNJLuoeaicoF2bfUiSmpump",
+      "max_sol": 85.005359062,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 7
+    },
+    {
+      "index": 2183,
+      "mint": "FVTUxu2SAsgoRaWHK2RjnNNkdLNkPWYER1WjHPrpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2204,
+      "mint": "CeCJhi9Nv54DMhz5YV5SB98Y16fxrUmCjKERjpxnpump",
+      "max_sol": 85.005359093,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 23
+    },
+    {
+      "index": 2230,
+      "mint": "H1vNzAivJt1rjeEFNfCmGcDwUEoLmYAcCAYYysnVpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2232,
+      "mint": "7YXT4nd3vhTXMfk4goqwmqFk6NcpwiypGFuYJ8cLpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2256,
+      "mint": "dvugCAr2AjbWWJdpevbPQEXqAJ737GD2uBL5Ltzpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2258,
+      "mint": "4sk4sxLNFGAraDaSWmPWvdXYnKYeHQEdeDMqcaejpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2260,
+      "mint": "EPLWCYvKSSANKqMqxyb5963uGC78yXY2re118nxBpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2286,
+      "mint": "5XQZjD3DKZ98BsgPxj5nzwVKJ5C6X9tS6GHFGweupump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 2
+    },
+    {
+      "index": 2306,
+      "mint": "BbrsvQFkMeYGs1evzFAGNuC9SiBjxHqNCn69RfwEpump",
+      "max_sol": 85.005359096,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 56
+    },
+    {
+      "index": 2321,
+      "mint": "HRfNTqkzK4vrrLyq6dkaPSYFDrDZyKqdii6B3wRcpump",
+      "max_sol": 85.005359064,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 8
+    },
+    {
+      "index": 2340,
+      "mint": "FiRUHpAccfya9TnwuvETBNJ9CWR8byTiViHK1bvbKpay",
+      "max_sol": 85.00535911,
+      "complete": true,
+      "date": "2026-09-23",
+      "groups_count": 113
+    },
+    {
+      "index": 2404,
+      "mint": "DegeC37wePGYLFD2RXuc2TNEFK2qCGJsMDxHCpSppump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2421,
+      "mint": "LKmggHyieX9dJqseqNnRMMw6Cb8HvkuibDkxdtGpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2446,
+      "mint": "HsM7uGQsw2FVBRKaGHbnh9EgFqiXHu6sNnfG7QAkpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2453,
+      "mint": "mDvBaZTM2Ztj9hHcx3zmtg4S1SM6LukbWact7gopump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2454,
+      "mint": "CfDHDeD4gqJzBoSvBc3Vd8XvrD436WD95AMaZGXDpump",
+      "max_sol": 85.005359147,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 133
+    },
+    {
+      "index": 2456,
+      "mint": "HKWp72BBE7giEdVciLf6PuKgkpo9jqT9V83ximEypump",
+      "max_sol": 85.005359124,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 42
+    },
+    {
+      "index": 2481,
+      "mint": "CcABNqDr5zBYysu2VtPC7vJPX21wNxMNDTvyXofpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2499,
+      "mint": "4UTcBewGr88DWFrK9nrUCiQ7aL2MhFuXvj4UbJWxpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2500,
+      "mint": "k6Q8C6Ze2o4RxKkmbECD4qypgEG1RvCouyZrjRrpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2527,
+      "mint": "BYV5EZEjoCmYYr8DoHmtwhwsrBfFEUJmnYPaAE3Gpump",
+      "max_sol": 85.005359251,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 321
+    },
+    {
+      "index": 2550,
+      "mint": "HfwWuW8kn8hJq58f8HnEYZxThEK6BwCbYSh2WmMQpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2564,
+      "mint": "vcMzsDqaXhF2FNw7UjD6Nm1MPMyZyWJL5BxM9LUpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 2
+    },
+    {
+      "index": 2567,
+      "mint": "41RgtUg6VDvAm37UeHEhopzuJYJFJmf4BCtHsf5ppump",
+      "max_sol": 85.005359846,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 1157
+    },
+    {
+      "index": 2620,
+      "mint": "7xgHHNdgyLoLbXgykRFXa9D598d3ifVXVJfDuQ4vpump",
+      "max_sol": 85.005359062,
+      "complete": true,
+      "date": "2026-09-24",
+      "groups_count": 7
+    },
+    {
+      "index": 2701,
+      "mint": "scib8odLL4KtDcCQJnwoBfkwudRwkYcKrkbbiLEpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 2
+    },
+    {
+      "index": 2703,
+      "mint": "DjHNQidzRq91H9wddcV8ChEGVTQhDrDhr7tmBobrpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 8
+    },
+    {
+      "index": 2711,
+      "mint": "ppADGydTvydYERVuLxfEQsd4rpTC9SeCg1GBnLxpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 2
+    },
+    {
+      "index": 2719,
+      "mint": "bpgd4msHUzv5YEyuieyQwhCRyER6PvAxeD4uHLJpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 2
+    },
+    {
+      "index": 2720,
+      "mint": "6sEf597zqUxoJeW1znjtx8MUPsXFFF7zjjH2KSG8zF9y",
+      "max_sol": 85.005360409,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 1741
+    },
+    {
+      "index": 2726,
+      "mint": "ByAosFgc5BffxrjJYWTbkwv2TZHTsKQsUkRMQ7x1pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 2
+    },
+    {
+      "index": 2820,
+      "mint": "dTy7BbHMP57nTtTiugCnuWAi7GPU7pMa5QmN3mmpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 9
+    },
+    {
+      "index": 2821,
+      "mint": "68sXYGygmWXYWjPrDLwsjgxudTZ7t4fvVKgJFk7Ypump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 2
+    },
+    {
+      "index": 2880,
+      "mint": "4NXwszU9Rx6DNGwFh621VoLRgxsvevHAdQXRGR5Vpump",
+      "max_sol": 85.00536034,
+      "complete": true,
+      "date": "2026-09-25",
+      "groups_count": 1841
+    },
+    {
+      "index": 2898,
+      "mint": "6QTnMvQwyFis34ZJQg2Rd4s32kJiyBNXe8hVP9Apump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 2
+    },
+    {
+      "index": 2963,
+      "mint": "8djn1VrSxvzEsx6z686teQmCNBE97KiSohVnYxvLpump",
+      "max_sol": 85.00535952,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 549
+    },
+    {
+      "index": 2997,
+      "mint": "UNUZwLp47rB1TFPKfMV4TCLnnChmnYbGUzd2HZ5pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 2
+    },
+    {
+      "index": 3013,
+      "mint": "2AzfJy8gxHTpzcno67LFq49KhvfQYkc5Wg4h3bkYz5fa",
+      "max_sol": 85.005359878,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 1354
+    },
+    {
+      "index": 3056,
+      "mint": "2BhV3a1yvoEsBYcbsUDzSYxd5P88MdAVWy9CQiZepump",
+      "max_sol": 85.005359081,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 32
+    },
+    {
+      "index": 3092,
+      "mint": "5js573e117ihF58qeg82ChJ1N5xz9SvTeWUps9k2CDS2",
+      "max_sol": 85.005360363,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 1433
+    },
+    {
+      "index": 3115,
+      "mint": "DpjbkQU2GyfugkQuTmLe8HrUaBAYymYkmqwq2TiSR4kj",
+      "max_sol": 85.005359667,
+      "complete": true,
+      "date": "2026-09-26",
+      "groups_count": 884
+    },
+    {
+      "index": 3200,
+      "mint": "5mPDzAGnJzDmCLT5eLCU4gpBRuznnHvyrFbeb4G3pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 2
+    },
+    {
+      "index": 3218,
+      "mint": "hxy2Ls6SV2gMVHjWGSHgHAhyZZ2fGUTiZVgYcGXStox",
+      "max_sol": 85.005360312,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 1587
+    },
+    {
+      "index": 3236,
+      "mint": "B56weuApbbdMBzgZoG9AcH8BdYRc4q9uCXrmModkpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 2
+    },
+    {
+      "index": 3267,
+      "mint": "E3aXB7kscdZvwBeDfjmzqk2Cro4ZbLwmSg5xACrpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 2
+    },
+    {
+      "index": 3269,
+      "mint": "CXftqTcKJ2L528AmUcJBKAfChum34ViLTYx9GGh4pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 2
+    },
+    {
+      "index": 3284,
+      "mint": "CzTWWKneXRZ9FPesL93h2qsRVfYwz3FQ5Ltq67ropump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 2
+    },
+    {
+      "index": 3316,
+      "mint": "F5SJch7q2ocfx9yNX4nk8apYy3vfqYaa6tkvE1uPK4Ag",
+      "max_sol": 85.005359321,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 579
+    },
+    {
+      "index": 3321,
+      "mint": "HSCpmBaBVrMnrBemjGM62eYKkHj3vN4Y2mbhbftBpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-27",
+      "groups_count": 2
+    },
+    {
+      "index": 3426,
+      "mint": "7rnZdzwZMkrviU1S6r74e1gGfMnnDzmMSXTgrXKSpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-28",
+      "groups_count": 4
+    },
+    {
+      "index": 3497,
+      "mint": "8qdJNRLCBUwWjZHnbrrhcSK8cwc8dxFtiDkYNT7Xpump",
+      "max_sol": 85.005359059,
+      "complete": true,
+      "date": "2026-09-28",
+      "groups_count": 8
+    },
+    {
+      "index": 3531,
+      "mint": "E81zpDGE1e2RhmLqGXfZL5TMje1nm6Sd9r5KGrsepump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-28",
+      "groups_count": 8
+    },
+    {
+      "index": 3611,
+      "mint": "FgFqeJW9fTzFiGyahMz4fJaGW4B3zQzbjSWUM2cNpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 2
+    },
+    {
+      "index": 3626,
+      "mint": "pvp3RY8uBavpqU2DpQNJFAUudMoBWkGHu31dhE9pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 2
+    },
+    {
+      "index": 3777,
+      "mint": "den4uUDHXWCLkoBXcoFJ4eW4hQ64Pg4hJ2ypEDjpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 2
+    },
+    {
+      "index": 3788,
+      "mint": "6Vuz122BbhCoBSXLH94JdMamHAJhRGBKGJJ1i2TWpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 303
+    },
+    {
+      "index": 3798,
+      "mint": "A9VRpSYrbECSetJXstnvNwCJZWy14JT9i6dLC64Tpump",
+      "max_sol": 85.005359635,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 759
+    },
+    {
+      "index": 3816,
+      "mint": "HRF9CNtLySqyHDPtatHWRJchey96MhD8nNid5Limpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 2
+    },
+    {
+      "index": 3817,
+      "mint": "71HLwRei7dE2DWECZ6qoCe75xoFExDSZnHkcf8s7pump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 9
+    },
+    {
+      "index": 3840,
+      "mint": "fKkhiiby9vQPERBmHwDnNsTvmBbgrgSkngX1zZbpump",
+      "max_sol": 85.005360075,
+      "complete": true,
+      "date": "2026-09-29",
+      "groups_count": 1447
+    },
+    {
+      "index": 3922,
+      "mint": "7a1BGNsLSwNDg1Bc6hUPNywZErqPKRPgs3J3t6jjpump",
+      "max_sol": 85.005359062,
+      "complete": true,
+      "date": "2026-09-30",
+      "groups_count": 8
+    },
+    {
+      "index": 3923,
+      "mint": "Fd4RBdCemcZo74Bu2d25AsHa6ZmLLU5GxAue6rk1pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-09-30",
+      "groups_count": 2
+    },
+    {
+      "index": 3974,
+      "mint": "HuLvM4o869GcjQxWpt35WZmXefnGsSaD8KGzKGVPpump",
+      "max_sol": 85.005359533,
+      "complete": true,
+      "date": "2026-09-30",
+      "groups_count": 635
+    },
+    {
+      "index": 3979,
+      "mint": "BorF4sub6GwbzTTuMDMjUn6qCMLx33Rz5oUKyzbnpump",
+      "max_sol": 85.005359898,
+      "complete": true,
+      "date": "2026-09-30",
+      "groups_count": 1006
+    },
+    {
+      "index": 4040,
+      "mint": "3anmDEREcqvxh1SLJUJKv4eGWMvBEHutDX43xf6spump",
+      "max_sol": 85.005360396,
+      "complete": true,
+      "date": "2026-09-30",
+      "groups_count": 1727
+    },
+    {
+      "index": 4151,
+      "mint": "2NfeervfKnbJZe2TpKPt7JhPgac7M1ThXU5abNMipump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-01",
+      "groups_count": 2
+    },
+    {
+      "index": 4174,
+      "mint": "AeAstY8qhgTShuWqaRG1XV4gDvygH5iM5CGT9DBapump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-01",
+      "groups_count": 2
+    },
+    {
+      "index": 4227,
+      "mint": "FoapcJpkbSMQ6RacH8p6RxCGrBt7oQv9fCdckXEpump",
+      "max_sol": 85.005360009,
+      "complete": true,
+      "date": "2026-10-01",
+      "groups_count": 1222
+    },
+    {
+      "index": 4248,
+      "mint": "Cb4gDst55k7SA1ApPrWCsj5umensjLRbtE5RErNUpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-01",
+      "groups_count": 2
+    },
+    {
+      "index": 4260,
+      "mint": "2Frk9n2BhGsP7cp7rtCRkSVPXyG8vJDL54SZPK1HBEvP",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-01",
+      "groups_count": 2
+    },
+    {
+      "index": 4288,
+      "mint": "GicwGn7XvWRKt1297uUKbZtY4hpma1sAWqjPBmMsEgYE",
+      "max_sol": 85.005359398,
+      "complete": true,
+      "date": "2026-10-01",
+      "groups_count": 359
+    },
+    {
+      "index": 4357,
+      "mint": "GeBCthjb1pKBvkdqacgr6syBWaN93zAJjPreAiHskWVP",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-02",
+      "groups_count": 2
+    },
+    {
+      "index": 4383,
+      "mint": "2xCXK6rybVGdUhEWkHsRDJBiNz9ssL84eDbwiQQMaa1o",
+      "max_sol": 85.00535971,
+      "complete": true,
+      "date": "2026-10-02",
+      "groups_count": 1132
+    },
+    {
+      "index": 4461,
+      "mint": "DNSnAA99jrVUCg4GvL6LEVfFHBnGpnWA2k3CkRvZpump",
+      "max_sol": 85.005359683,
+      "complete": true,
+      "date": "2026-10-02",
+      "groups_count": 953
+    },
+    {
+      "index": 4488,
+      "mint": "D5sztT4p3t5L4ByYSNY9mGZCA5igANFvTgv3tKJ3pump",
+      "max_sol": 85.005359604,
+      "complete": true,
+      "date": "2026-10-02",
+      "groups_count": 843
+    },
+    {
+      "index": 4511,
+      "mint": "WwzTBN3tP8h2hkLfoWhpQdpcbsYtehP2rNqTfo6pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-02",
+      "groups_count": 2
+    },
+    {
+      "index": 4561,
+      "mint": "BcCv6TPwapqtdb4MUF7LRYYaghZXbv87TrhPzU2ncrau",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-03",
+      "groups_count": 2
+    },
+    {
+      "index": 4658,
+      "mint": "AzaVifcJbF9P5fqQkQDnS1CSb2xGmvZWsa5VLdWZpump",
+      "max_sol": 85.005359067,
+      "complete": true,
+      "date": "2026-10-03",
+      "groups_count": 11
+    },
+    {
+      "index": 4758,
+      "mint": "5y3QqZsBQCqn69h53wB1wasaKBokMA52fNmPudg8pump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-03",
+      "groups_count": 4
+    },
+    {
+      "index": 4783,
+      "mint": "CpRkPw9M2iMDUozQFvkEeAjGJWucbLCJw3m3vZqdpump",
+      "max_sol": 85.005359554,
+      "complete": true,
+      "date": "2026-10-03",
+      "groups_count": 681
+    },
+    {
+      "index": 4802,
+      "mint": "9aJnnQYxmFJuDmS5HwgBkXCDbJJeJ8JqQkK21urFpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2
+    },
+    {
+      "index": 4814,
+      "mint": "5ZpYbFKmkBLFmyMPLXnbGEXpeT5FU2Yjz94kKcD8buyG",
+      "max_sol": 85.005360515,
+      "complete": true,
+      "date": "2026-10-03",
+      "groups_count": 1612
+    },
+    {
+      "index": 4821,
+      "mint": "A6gVMUAGz2sM4yzKcpxEiMpb6W32wqNMJu8ekYLopump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2
+    },
+    {
+      "index": 4835,
+      "mint": "2XvEVg2iP3mTnqQ8pbzzKuULAmwusxjpNJyiwbitZRov",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2
+    },
+    {
+      "index": 4836,
+      "mint": "EMZGhHQWyu3GF1NnJSVdKzMVGYmtceiH8QZqFw3Gpump",
+      "max_sol": 85.005360546,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2010
+    },
+    {
+      "index": 4874,
+      "mint": "3wQeggBdkPjiCj7t2QTjVq2tphB9jaxMdtzBC967pump",
+      "max_sol": 85.00535921,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 110
+    },
+    {
+      "index": 4876,
+      "mint": "BxLjiwWj2ExzkPRWD2H5kXQ6BHxkzdddG1aqPbZCG8Sb",
+      "max_sol": 85.005359954,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 944
+    },
+    {
+      "index": 4888,
+      "mint": "FfTsHtKp57vF38Que4A8q4QhLjGcL2fKc9VhggvYpump",
+      "max_sol": 85.005359063,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 11
+    },
+    {
+      "index": 4900,
+      "mint": "GYKC4VpPf3qznAvC7u7udfVLjubUBfkEoZ9a737zL6dT",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2
+    },
+    {
+      "index": 4901,
+      "mint": "HDvu4s4Y3ooJGpMu5iSWDJk6FPn6GxdLGHtnAJuppump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 4
+    },
+    {
+      "index": 4924,
+      "mint": "7WJad2HYabohk5wpFWPAmNK5AiNkvnh9JyL6WAHkHjSk",
+      "max_sol": 85.005360917,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2184
+    },
+    {
+      "index": 5026,
+      "mint": "EwRVzVZfA4ouhQqan3ZNBHAsM1yUGNPUZAu7Lqmwpump",
+      "max_sol": 85.005359057,
+      "complete": true,
+      "date": "2026-10-04",
+      "groups_count": 2
+    }
+  ],
+  "near_grad": [
+    {
+      "index": 196,
+      "mint": "HJDNCBghW2Uh31iiTXwh96wZC1Nk2MvD8pnYyDc1pump",
+      "max_sol": 61.344038258,
+      "date": "2026-09-14",
+      "groups_count": 1414
+    },
+    {
+      "index": 214,
+      "mint": "GrEjhaQoHe4ft74hkfdoWPQbVENrXYma2DUbaenepump",
+      "max_sol": 73.783661211,
+      "date": "2026-09-14",
+      "groups_count": 1386
+    },
+    {
+      "index": 281,
+      "mint": "5N4trQVXSywtQuMQbFYXMYnTogmhMmQkuL6RSfqqpump",
+      "max_sol": 78.393759336,
+      "date": "2026-09-15",
+      "groups_count": 1650
+    },
+    {
+      "index": 333,
+      "mint": "73PrUsqpcxTaYwccZwDsyA41ogYwwWMr5VULHtEEpump",
+      "max_sol": 70.752092596,
+      "date": "2026-09-15",
+      "groups_count": 437
+    },
+    {
+      "index": 365,
+      "mint": "67825Yeo2vhrcyXbRGeLmXQV4oHfCm8ifxZ9egRLpump",
+      "max_sol": 57.750307766,
+      "date": "2026-09-15",
+      "groups_count": 59
+    },
+    {
+      "index": 446,
+      "mint": "C8GczBtX3ocrYtFtk6zGKdGhKeu9uiaeAUaR5zpKwZzM",
+      "max_sol": 60.482454471,
+      "date": "2026-09-15",
+      "groups_count": 371
+    },
+    {
+      "index": 484,
+      "mint": "BmNNm81C5BzRdRMZj7A4jKjBpQ8kgNEaRy8pKxn6BLm6",
+      "max_sol": 70.311086385,
+      "date": "2026-09-15",
+      "groups_count": 4204
+    },
+    {
+      "index": 555,
+      "mint": "J4cnUWTxdDA7YCKqpFbPkpgR7hgv2oMpKiKBLxWapump",
+      "max_sol": 79.034723361,
+      "date": "2026-09-16",
+      "groups_count": 2453
+    },
+    {
+      "index": 615,
+      "mint": "BhUMEGZ4WJ43MbQ2ZBYXkXfW98CvTkLXozq6EMLSpump",
+      "max_sol": 74.953711707,
+      "date": "2026-09-16",
+      "groups_count": 171
+    },
+    {
+      "index": 622,
+      "mint": "BiZxw9aSht1jvohubNYSCLgirwx7n3TJAaNwh2Uypump",
+      "max_sol": 55.959001137,
+      "date": "2026-09-16",
+      "groups_count": 836
+    },
+    {
+      "index": 635,
+      "mint": "9NXVoZQUdRhTFZwDB6hSrZXTt47zijtV5xboatMQL9vy",
+      "max_sol": 55.094586494,
+      "date": "2026-09-16",
+      "groups_count": 250
+    },
+    {
+      "index": 660,
+      "mint": "HZZLgbutm3j5kUtnvvG3uCU1xCRBpMV13GCZ7mvppump",
+      "max_sol": 75.12453454,
+      "date": "2026-09-16",
+      "groups_count": 2017
+    },
+    {
+      "index": 697,
+      "mint": "7dusDfRz87TWit7KwWeo9TKdpTDHB11FDarnXxdepump",
+      "max_sol": 67.203106423,
+      "date": "2026-09-16",
+      "groups_count": 690
+    },
+    {
+      "index": 706,
+      "mint": "3WamLFRPtqLrEk18FVfdrzYNX7kWPZuuZPLbxnymgm1X",
+      "max_sol": 59.725484586,
+      "date": "2026-09-16",
+      "groups_count": 2204
+    },
+    {
+      "index": 820,
+      "mint": "HUbapm9ZHN33zqbNYxBjbPcaE6U9YzpgCmPWq74fpump",
+      "max_sol": 66.792610895,
+      "date": "2026-09-17",
+      "groups_count": 1794
+    },
+    {
+      "index": 847,
+      "mint": "geABFbW6LThuax7idPVDtTXCiohz4VjkUe7bSRvpump",
+      "max_sol": 50.57261728,
+      "date": "2026-09-17",
+      "groups_count": 53
+    },
+    {
+      "index": 919,
+      "mint": "FxqxhtXhzegAuCkStFN8bgVjrWxqSSdmB2GY9QdRpump",
+      "max_sol": 71.171685375,
+      "date": "2026-09-17",
+      "groups_count": 3006
+    },
+    {
+      "index": 1032,
+      "mint": "9jtuFjFwJyUTeaN8dff2SBjc6afWVW8o99bxT3Mapump",
+      "max_sol": 83.091139783,
+      "date": "2026-09-18",
+      "groups_count": 85
+    },
+    {
+      "index": 1195,
+      "mint": "58qp1FmS4ogP6mHn2sEJs8M2oaz8BbBtNotidjopump",
+      "max_sol": 66.542233126,
+      "date": "2026-09-18",
+      "groups_count": 1322
+    },
+    {
+      "index": 1207,
+      "mint": "CyRcKHHU54KZADPYJpdzzwE1tEGyyCKzY33NAyrHVi9h",
+      "max_sol": 57.43758599,
+      "date": "2026-09-18",
+      "groups_count": 322
+    },
+    {
+      "index": 1253,
+      "mint": "ApLDBqYuBn3e2kt4N7geP5xaufvbNrzSq2jpK3Dipump",
+      "max_sol": 72.933856986,
+      "date": "2026-09-19",
+      "groups_count": 255
+    },
+    {
+      "index": 1340,
+      "mint": "Ag8CCEzjyDYYEKdhnVLBtbHj5vj9Mjci4MqwBnrVhyA6",
+      "max_sol": 58.894143745,
+      "date": "2026-09-19",
+      "groups_count": 2787
+    },
+    {
+      "index": 1423,
+      "mint": "EC77UVNqg7vtykdoCtkg5sCThf817JLSsraUTSzipump",
+      "max_sol": 74.550976191,
+      "date": "2026-09-19",
+      "groups_count": 2255
+    },
+    {
+      "index": 1428,
+      "mint": "GqbyRtd1y7cX4pingTJErFUUujqgKtfdFTDWT6VHpump",
+      "max_sol": 57.755463587,
+      "date": "2026-09-19",
+      "groups_count": 1986
+    },
+    {
+      "index": 1457,
+      "mint": "H3SRtVuA6rT8QJpPfzHR7oLUFbnKjk3EEPAZgf4Cpump",
+      "max_sol": 76.691085305,
+      "date": "2026-09-20",
+      "groups_count": 18
+    },
+    {
+      "index": 1509,
+      "mint": "3aMrxztn3dByVaJADj7GqGj2zr8WTuDLuiWpEnD7pump",
+      "max_sol": 68.432465622,
+      "date": "2026-09-20",
+      "groups_count": 787
+    },
+    {
+      "index": 1621,
+      "mint": "D4eyWD9yn4uZmpRs3HCy1mdYu46qYcgm1UeRYME4pump",
+      "max_sol": 51.977652067,
+      "date": "2026-09-20",
+      "groups_count": 86
+    },
+    {
+      "index": 1643,
+      "mint": "5ho1aYsDbehRVn3SHAY77gZpaZDfH9zyD7fduhw3Jjyc",
+      "max_sol": 51.556497473,
+      "date": "2026-09-20",
+      "groups_count": 188
+    },
+    {
+      "index": 1664,
+      "mint": "4G5z9S5CZc2dapTBsouhkQrtKow5s1m4kJxkqktqpump",
+      "max_sol": 69.748981755,
+      "date": "2026-09-20",
+      "groups_count": 802
+    },
+    {
+      "index": 1688,
+      "mint": "9mXcPgWnsHVqdFKDbknTRZmDsj4Rq1XMPRLDdSRUpump",
+      "max_sol": 50.03051284,
+      "date": "2026-09-20",
+      "groups_count": 1767
+    },
+    {
+      "index": 1722,
+      "mint": "SjcKn4ZtjXEVhn47BLWXSsfjqKHeTEfwYiMiJxEpump",
+      "max_sol": 56.378281046,
+      "date": "2026-09-21",
+      "groups_count": 335
+    },
+    {
+      "index": 1769,
+      "mint": "jQzoXzCNaihpqEXGnWfiwhKXUaiy8vE5KWqmDuJpump",
+      "max_sol": 62.997094139,
+      "date": "2026-09-21",
+      "groups_count": 753
+    },
+    {
+      "index": 1904,
+      "mint": "6ukbBY79jq7XveenMhB17hM5aSZv5jroWyAkWULXpump",
+      "max_sol": 71.601397236,
+      "date": "2026-09-21",
+      "groups_count": 1836
+    },
+    {
+      "index": 2002,
+      "mint": "H6wq6NTroYfffbGDpY7b4KBZjeRQbR8ddkRAoTnppump",
+      "max_sol": 60.672972652,
+      "date": "2026-09-22",
+      "groups_count": 870
+    },
+    {
+      "index": 2027,
+      "mint": "6bwHHTrB1DjyRTpdJJ2TbhgfsFaBt3s7B5uFXQAdpump",
+      "max_sol": 52.611144015,
+      "date": "2026-09-22",
+      "groups_count": 472
+    },
+    {
+      "index": 2034,
+      "mint": "6CmapCT2Vb73SCstZTaYg8DS9rbQV5CGfL5xnHSRpump",
+      "max_sol": 52.328457492,
+      "date": "2026-09-22",
+      "groups_count": 124
+    },
+    {
+      "index": 2145,
+      "mint": "6t2zxyWf5EHCuEzQ6VxP7suQx3h3nMGpM9th88Qupump",
+      "max_sol": 72.756772535,
+      "date": "2026-09-22",
+      "groups_count": 60
+    },
+    {
+      "index": 2159,
+      "mint": "3fxv1sKR8QYdBGho83tK36NXvnF1kWUf5qxL91AfJwbW",
+      "max_sol": 56.067003102,
+      "date": "2026-09-22",
+      "groups_count": 1244
+    },
+    {
+      "index": 2172,
+      "mint": "Hx5WnBagrz2c6UrWQxvBVKcZ4ZVdX6hYGt7pT3nXpump",
+      "max_sol": 55.759561012,
+      "date": "2026-09-22",
+      "groups_count": 1051
+    },
+    {
+      "index": 2279,
+      "mint": "DT2J2rZAP1YeHUgg37JjEK3vJGxo7sSgGcMzfhQpump",
+      "max_sol": 53.611366357,
+      "date": "2026-09-23",
+      "groups_count": 1238
+    },
+    {
+      "index": 2323,
+      "mint": "2RQLHgcPLd8bNy3uTVnrnCvWLHN78YkPNLBeAKALpump",
+      "max_sol": 51.989437851,
+      "date": "2026-09-23",
+      "groups_count": 1372
+    },
+    {
+      "index": 2403,
+      "mint": "DPn7gftqX31hbeV2jeugKstkcLf2x3UYRPaDcGZDpump",
+      "max_sol": 78.696668481,
+      "date": "2026-09-23",
+      "groups_count": 1598
+    },
+    {
+      "index": 2408,
+      "mint": "zSBGvgkYvit9BkX8qcPev1SnHJypGFYi2unrU2Vpump",
+      "max_sol": 51.089864754,
+      "date": "2026-09-24",
+      "groups_count": 758
+    },
+    {
+      "index": 2427,
+      "mint": "5v4kteCUTdGhw8yUWEBmq7SrFoyGbPQk1FS3qWawpump",
+      "max_sol": 55.363841074,
+      "date": "2026-09-24",
+      "groups_count": 429
+    },
+    {
+      "index": 2515,
+      "mint": "8YJu11YgRKit8xKHA4L5NWVxfb3w9BpJXc2KvMZ6pump",
+      "max_sol": 71.270395617,
+      "date": "2026-09-24",
+      "groups_count": 634
+    },
+    {
+      "index": 2519,
+      "mint": "4VhUmJrttyKba6Cg88T6qW7oyuWRkRqxgPfPNZZk6q7x",
+      "max_sol": 71.325312633,
+      "date": "2026-09-24",
+      "groups_count": 2625
+    },
+    {
+      "index": 2579,
+      "mint": "HJ7NLZVyEwrhiGsy7rsoxHuoDDqMxNCxYJhwXsfdpump",
+      "max_sol": 63.571237501,
+      "date": "2026-09-24",
+      "groups_count": 41
+    },
+    {
+      "index": 2608,
+      "mint": "Exs2skmDfY9Fzdo92Ax78oy4pu5jFtbyjeCWtCgwpump",
+      "max_sol": 62.854884885,
+      "date": "2026-09-24",
+      "groups_count": 32
+    },
+    {
+      "index": 2622,
+      "mint": "ACMz6LYoNi3VA8eXbgs3ofG74fXvLRSbx4cix2Kopump",
+      "max_sol": 55.29517678,
+      "date": "2026-09-24",
+      "groups_count": 1559
+    },
+    {
+      "index": 2671,
+      "mint": "BTbeC9MLypBCFkYGDKEcb6PKRm2jK6pnrvHkMFFSpump",
+      "max_sol": 83.421226524,
+      "date": "2026-09-25",
+      "groups_count": 96
+    },
+    {
+      "index": 2712,
+      "mint": "Ei1aNRit6KKVBUp2ps7EbrFfK1EdcPE6yAemXFy6pump",
+      "max_sol": 67.546155221,
+      "date": "2026-09-25",
+      "groups_count": 2481
+    },
+    {
+      "index": 2734,
+      "mint": "5tnetDcDHkuXWC6xv6f99NcSazy5x7xsYL4qN6o2pump",
+      "max_sol": 56.863176957,
+      "date": "2026-09-25",
+      "groups_count": 363
+    },
+    {
+      "index": 2759,
+      "mint": "8zYK7EFy8S94RL57t3N7a7LBLBhAHpvJpJDYbbEwpump",
+      "max_sol": 51.131584307,
+      "date": "2026-09-25",
+      "groups_count": 538
+    },
+    {
+      "index": 2903,
+      "mint": "64rYnMerZCZ4gjLzaruhsijTq1VLVMpxazanvc4qxxLE",
+      "max_sol": 51.210241845,
+      "date": "2026-09-26",
+      "groups_count": 693
+    },
+    {
+      "index": 2915,
+      "mint": "FSxwRneMt4x37bft97qQXr2oUjTneKa6XxDMvXTkz5md",
+      "max_sol": 50.29736483,
+      "date": "2026-09-26",
+      "groups_count": 271
+    },
+    {
+      "index": 2924,
+      "mint": "88TbsZe1zwkEzB2MZmwXsZyDsnf3D2RgMPofE9Q78oTL",
+      "max_sol": 52.557286177,
+      "date": "2026-09-26",
+      "groups_count": 288
+    },
+    {
+      "index": 3023,
+      "mint": "6Z98Y8CQWqZ6CKUphnPa9BJaqTW3feciecysBNvzpump",
+      "max_sol": 51.752686062,
+      "date": "2026-09-26",
+      "groups_count": 1550
+    },
+    {
+      "index": 3089,
+      "mint": "2CL8S18KFHVKpBezZKBLv9REwSsyAPANRh1KgEE2vLtJ",
+      "max_sol": 71.538358882,
+      "date": "2026-09-26",
+      "groups_count": 1668
+    },
+    {
+      "index": 3106,
+      "mint": "5ayNNCCT4w1KRMAYQ26fyiV7vfpxmz3zBHPbdjCTvvWB",
+      "max_sol": 51.756481069,
+      "date": "2026-09-26",
+      "groups_count": 116
+    },
+    {
+      "index": 3113,
+      "mint": "FXMZCRWCQURdLjabRDA56feyypY6xURrf6a5ZeaMpump",
+      "max_sol": 74.395985769,
+      "date": "2026-09-26",
+      "groups_count": 1595
+    },
+    {
+      "index": 3362,
+      "mint": "HnxRfUsmKQPTkF46quEjrYDrnSbdLcfsDJZt5MWKpump",
+      "max_sol": 81.697055044,
+      "date": "2026-09-28",
+      "groups_count": 205
+    },
+    {
+      "index": 3547,
+      "mint": "7ncdD1BiWSPG6U1SqtuopyLeRdyNSBwt4x18xnL69XMR",
+      "max_sol": 52.586420399,
+      "date": "2026-09-28",
+      "groups_count": 1211
+    },
+    {
+      "index": 3783,
+      "mint": "Hz9YCi1yZVRUqam8D763ZwgfEXz3oiKGZQCkjx9Fpump",
+      "max_sol": 59.432675185,
+      "date": "2026-09-29",
+      "groups_count": 323
+    },
+    {
+      "index": 3789,
+      "mint": "G52QAE1m4UYRLS6cPiH86TuZLuwSqfeGiaY3nq9Cpump",
+      "max_sol": 66.383450614,
+      "date": "2026-09-29",
+      "groups_count": 1019
+    },
+    {
+      "index": 3814,
+      "mint": "66xgAjRtqVHxbr7S52m1hiejSDRLut4PXTKGt6uSiZH3",
+      "max_sol": 58.809102665,
+      "date": "2026-09-29",
+      "groups_count": 674
+    },
+    {
+      "index": 4162,
+      "mint": "2HwsSuX6DbEadXJoW6xGExpwqJKtmkGPiz1ndc17pump",
+      "max_sol": 51.382227485,
+      "date": "2026-10-01",
+      "groups_count": 754
+    },
+    {
+      "index": 4261,
+      "mint": "54M6qVo9yLJFosGhUaq3TRgizBKaKH6xGe6YtJzRsins",
+      "max_sol": 58.978138328,
+      "date": "2026-10-01",
+      "groups_count": 645
+    },
+    {
+      "index": 4319,
+      "mint": "F5G4fswyqcVbeBDwwXKh8MdnUfGMQ3dbyL3P3mLWVz9u",
+      "max_sol": 58.044357031,
+      "date": "2026-10-01",
+      "groups_count": 143
+    },
+    {
+      "index": 4347,
+      "mint": "7eXuoiuEo3Tx8Yhq7hguZyyiQYKTzASSyHUe6TExpump",
+      "max_sol": 67.056140142,
+      "date": "2026-10-02",
+      "groups_count": 731
+    },
+    {
+      "index": 4522,
+      "mint": "5rcNskHGHW5yo38f4tuTqffBPWw5fT5T1dyAtPsHpump",
+      "max_sol": 71.106635011,
+      "date": "2026-10-02",
+      "groups_count": 4272
+    },
+    {
+      "index": 4530,
+      "mint": "HeqnPSy8w5xsFjLDPY4SFahZX6SPP1uy5mXa1PeTpump",
+      "max_sol": 68.886762251,
+      "date": "2026-10-02",
+      "groups_count": 1086
+    },
+    {
+      "index": 4694,
+      "mint": "G8TcUw2tVv9C6G6E3uh16yT9D1ECYBnLeZ8yn3CtVViP",
+      "max_sol": 55.944658285,
+      "date": "2026-10-03",
+      "groups_count": 1399
+    },
+    {
+      "index": 4719,
+      "mint": "F4635H9HFAzYjpyM3coGMtW8pMmEYRtwrgz5mgfHpump",
+      "max_sol": 79.812698333,
+      "date": "2026-10-03",
+      "groups_count": 719
+    },
+    {
+      "index": 4732,
+      "mint": "CTT1AHiUssELoXQAKXD7E7TPVjEtj3B6sGFqssptpump",
+      "max_sol": 62.486702858,
+      "date": "2026-10-03",
+      "groups_count": 1011
+    },
+    {
+      "index": 4742,
+      "mint": "6TL8LW8RRdJNRWy88r1p1w4umu7tYh9BhbQXk75Gpump",
+      "max_sol": 78.083250253,
+      "date": "2026-10-03",
+      "groups_count": 2489
+    },
+    {
+      "index": 4773,
+      "mint": "Gn3FNJXLFhaeT6cXpGhNAGpqSqytDD9ReJu3qCt61sPC",
+      "max_sol": 74.267396649,
+      "date": "2026-10-03",
+      "groups_count": 2125
+    },
+    {
+      "index": 4787,
+      "mint": "5RnTbukMJBmQbgPVW3buqN4aYc1HCbdHr2uLSUTguPET",
+      "max_sol": 57.64896117,
+      "date": "2026-10-03",
+      "groups_count": 798
+    },
+    {
+      "index": 4955,
+      "mint": "EyjzrjeMru8vUEfRxDDBFSMdt44LEoYMTknyogzWpump",
+      "max_sol": 75.067405041,
+      "date": "2026-10-04",
+      "groups_count": 980
+    }
+  ]
+}

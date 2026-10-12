@@ -1,0 +1,57 @@
+{
+  "cutoff_ms": 1791757533517,
+  "cutoff_utc": "2026-10-11T22:25:33.517242059+00:00",
+  "vm_id": "ghost-v2-20261011T220021",
+  "start_ms": 1791756021000,
+  "inputs": {
+    "data/ghost_observations.jsonl": {
+      "size_bytes": 404285795
+    },
+    "data/ghost_holder_screen.jsonl": {
+      "size_bytes": 156815279
+    },
+    "data/ghost_shielded_coins.jsonl": {
+      "size_bytes": 350613
+    },
+    "data/ghost_trades.jsonl": {
+      "size_bytes": 111616
+    },
+    "data/ghost_variant_signals.jsonl": {
+      "size_bytes": 98107
+    }
+  },
+  "git_head": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+  "source_hashes": {
+    "src/bin/curve_detector.rs": "c0d0e551fc3ebeae65ec45c35999621d564d52fee0f37e176766aa3b3bdfa160",
+    "src/bot/curve_detector.rs": "a43d5cb7b90929dae325a5356aec6e5e7585ad6e5e379371e4bcf0e7d32e794c",
+    "src/bot/holder_screen.rs": "0faa4ee4d01c5461dfb2e2140af01620db9bfd593faa23d743734d7561996248"
+  },
+  "artifacts": {
+    "5UC_holder_evidence.json": "41bcfc3a5239b8afa6355dffda26358db2465b765c46a1ca0dfa421166650ebb",
+    "observations_slim.jsonl": "ac9f4894511289aff7e407e2fc47cff278325e53ff2d1eb65c30365826b55b12",
+    "candidate_rows_chain_order.jsonl": "24c73000b1742938d88976491d502bb515dc03ac98e79ebc37679572d3f26de3",
+    "ghost_shielded_coins.jsonl": "5e7670f4918d31c8697a7a38b11baa0529f3bb51b196ded4faf8df6d3edcfbc6",
+    "FAKE_VOLUME_DETECTOR.md": "5321cac498d2ac80ceaf9bf2a9e656d3d9dce7491eb23db39ede3011fe7d0242",
+    "candidate_rows.jsonl": "79abc956764d5d016a0e3c5e878acf1992db31fa9a5945ae9687a3af66e9bd1f",
+    "ghost_trades.jsonl": "bcf8f714c65d603d68b310bee5d8f1139242a130e8eb971f06ce39aaf85753a0",
+    "candidate_screen_join.json": "cb45d0a5ed4136b3cc99ffd588d7ba404329d829915337e66a97ad485fc251e8",
+    "REPORT.md": "645af8f18a3e517cd86865ad8b827f1903f851fafc298a1aa8965438fc8dc52c",
+    "summary.json": "32d1f87f1559703aba90d26318b8c885419bdf65bf19a952cd08898b2308d93a",
+    "ghost_variant_signals.jsonl": "22ee2a2af5aaa1c7adc477e5bc28c025df3ca6bcdcc502b9220b0391a189ea8c",
+    "candidate_meta_chain_order.json": "ede076d66dae690b0a63ee243c3b4ee95fbb3f1cb4a94db5bdea13047f08ab86",
+    "candidate_meta.json": "0b6f1124982e3ead1e93772cf3bfb09cbd2d883c18f888332465334f34f36e0f",
+    "holder_screen_slim.jsonl": "28cadbcd2d351357b386a9c411880789528ad432627713573f32e9b8ffca63ea",
+    "blocked_paths.json": "f447f639dc668eb90379788e31569162df50bec86fa3e28eaa880e89bbcce655",
+    "helpers/sort_receipts_chain_order.py": "143c7abc2bff477fdbbdb32c5b0e065a21c77dd94013eb5a01dadcd1806ac588",
+    "helpers/main.rs": "5c02357cdf73b13cfe46721d01b5388ea4979be1bdfb52d8b32e0cb79e0a4517",
+    "helpers/finalize_candidate_meta.py": "5ec758eebe024a69b18f231a922120fb6386f96228a7b68a10ae8471df47731c",
+    "helpers/Cargo.toml": "2a9f05b629a74e6e3b08eb722656f9778513a7638f1a1692d157bfa919116b00",
+    "fake_volume_diagnostic/candidate_summary.json": "df3fc4dba856ea0a40d5cbb3b41c1b74e81e46914c4f51e051140085e0a157ce",
+    "fake_volume_diagnostic/candidate_windows.py": "7b85fe0226fbbc1e97ba6eb3dee1d9f028239906719499ec41e52f2fec6a8a5e",
+    "fake_volume_diagnostic/candidate_windows.csv": "0fe565274999c018864b94a995968024084b4e206a0a9c761d866c1be67ba858",
+    "fake_volume_diagnostic/REPORT.md": "1b9e5c631aea7e6529146a36f7aa8543f9ee1defb54a402e1317dea486d96c11",
+    "fake_volume_diagnostic/summary.json": "70857e3b93c8135d3d995c56dd933ae7e6ce70e2db7f55eb21c53513bb335782",
+    "fake_volume_diagnostic/analyze.py": "8c636dcac6ae75a64953fa435064bc40818242a94ed4411b5d93bc60afd0a49c",
+    "fake_volume_diagnostic/crossings.csv": "22ee3f7e8c020265b2ef360079bea49f93cf4d8ba93ef4cbd9669f691fe48bb2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "audited_at": "2026-10-08T04:49:58.704772+00:00",
+  "path_file": "research/wallet_curve_entry_discovery_20261007/CORRECTED_CURVE_PATHS.json.gz",
+  "sha256": "126d7b8ec0f391481819212abd63ad7df18601663ee6901cb727028ff8ef251c",
+  "rows": 480,
+  "filled_rows": 420,
+  "failed_rows": 60,
+  "unique_intents": 120,
+  "unique_mints": 54,
+  "central85": {
+    "filled": 105,
+    "failed": 15
+  },
+  "families": {
+    "broad_recovery": 160,
+    "fresh_expansion": 184,
+    "quiet_absorption": 108,
+    "late_continuation": 28
+  },
+  "dates": {
+    "2026-10-03": 340,
+    "2026-10-04": 140
+  },
+  "reported_dynamic_grid": "Exact +12.378SOL grid script/result not located in repository by targeted Python/Markdown search; numbers not independently reproduced",
+  "not_same_entries": "Paths are fresh_expansion,broad_recovery,quiet_absorption,late_continuation; current StartingFive signals are s1_dev_absorption,s2_survival_shelf,s3_deadman,s4_upper_ath,s5_carryover. Mechanism similarity does not establish signal identity."
+}

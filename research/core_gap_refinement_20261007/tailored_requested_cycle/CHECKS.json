@@ -1,0 +1,65 @@
+{
+  "violations": [],
+  "entry_parity_checks": 10704,
+  "reproducible_funded_accounts": 2016,
+  "regressions_passed": 12,
+  "alarms": {
+    "speed_order": {
+      "status": "reviewed",
+      "explanation": "Placement changes guards, timer and runner crossings and funded breaker/admission sequence; matched admissions retained, no forced monotonicity",
+      "decomposition": [
+        {
+          "scenario": "fast",
+          "attempts": 150,
+          "common_admissions": 124,
+          "central_only": 10,
+          "scenario_only": 26,
+          "common_marked_difference_SOL": 1.1142984470000004
+        },
+        {
+          "scenario": "central80",
+          "attempts": 134,
+          "common_admissions": 134,
+          "central_only": 0,
+          "scenario_only": 0,
+          "common_marked_difference_SOL": 0.02685509699999998
+        },
+        {
+          "scenario": "slow",
+          "attempts": 125,
+          "common_admissions": 121,
+          "central_only": 13,
+          "scenario_only": 4,
+          "common_marked_difference_SOL": -1.356222435
+        },
+        {
+          "scenario": "stress",
+          "attempts": 157,
+          "common_admissions": 130,
+          "central_only": 4,
+          "scenario_only": 27,
+          "common_marked_difference_SOL": -1.006101278
+        }
+      ]
+    },
+    "delayed_guards": {
+      "attempts": 1784,
+      "failed": 736
+    },
+    "timer": "pass",
+    "all_attempts_closed": [],
+    "threshold_fills": "Actual integer market quotes, not threshold-price sales",
+    "completed_curve_sales": "pass",
+    "extreme_PF_WR": [],
+    "creation_history": "Same authenticated creation-selected1800launches/223signals"
+  },
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/tailored_requested.py": "5872271e9345f4fa2018ebac6a1d5f6c928cd7d4294e9358488b1823e40d6820",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/tailored_report.py": "dfc6a8a532bbf66bd347a0159e42d80d9a37ccefb6219245829261184f44c8ec",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "570c21d8f3f12c55cfca88748ae0037d3f4158a4896c13ea7546b1a33b578d5a",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/ledger.py": "6e7c14588479c6ec4bca18639a36199195feb6227cb9be6d7a1612f2acf09507",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/tailored_requested_cycle/SPEC.json": "62d34f565f8a931a49dd450480b53df8f4cd1fc3927150e75302ab464738b1ea",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/tailored_requested_cycle/REPLAY.json.gz": "31cfe86973d2092ae6cdea89975e25fb8c394ac43edc4808d51b79a282640233",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/tailored_requested_cycle/FUNDED.json": "dcf1e0be8c862bec9c48c80b1628d48779101cde182863003c9ee5b75fb00352"
+  }
+}

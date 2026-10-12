@@ -1,0 +1,29 @@
+{
+  "mint": "FacZi7ok8SeCcPkw26ReMaMNuxyuqFhXHAtQpMQCpump",
+  "verifier_version": "creation_account_balance_block_parity_v2",
+  "status": "verified",
+  "creation_time": 1787269488,
+  "creation_slot": 440570550,
+  "creation_signature": "38xs4pifgYL72y4cZUX9j2ibD81DhnJrbnzGHcXAKTovdpaRfestRJtUfbJw5eiuJy8Z9RYx4GBMHFcVmoSmTJfM",
+  "peak_reserve_sol": 73.492519659,
+  "peak": {
+    "signature": "J59KdBiFQuNe4NRkrcWiqCJcZmJNYX9dzMuwWRoumQdkKM54qamt66RN5M2SsiKX1KssKiygkEkHxekWtEgpvwt",
+    "slot": 440572856,
+    "transactionIndex": 667,
+    "block_time": 1787270443,
+    "creator_tokens_raw": 10493887485100,
+    "circulating_tokens_raw": 761963026537092,
+    "unknown_owner_tokens_raw": 0,
+    "creator_share": 0.01377217413394948
+  },
+  "total_transaction_count": 770,
+  "successful_curve_trade_transactions": 432,
+  "unique_qualified_outside_buyers": 132,
+  "migration_status": false,
+  "migration": null,
+  "source_groups_checked": 444,
+  "verified_block_slots": 296,
+  "raw_path": "raw_curves/FacZi7ok8SeCcPkw26ReMaMNuxyuqFhXHAtQpMQCpump.json.gz",
+  "bound_path": "bound_curve_tapes/FacZi7ok8SeCcPkw26ReMaMNuxyuqFhXHAtQpMQCpump.json.gz",
+  "candidate_source": "cached_creation_sample_prefilter"
+}

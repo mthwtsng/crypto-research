@@ -1,0 +1,22 @@
+{
+  "created_at_utc": 1791097262.6318955,
+  "anchor_utc_epoch": 1791097262,
+  "window_start_utc_epoch": 1791010742,
+  "creation_end_utc_epoch": 1791097142,
+  "local_timezone": "America/Vancouver",
+  "discovery": "All successful authenticated CreateEvents indexed by mint-authority PDA from official IDL; four complete time shards. Not tracked-wallet or known-creator discovery.",
+  "max_source_tapes": 600,
+  "capture_seconds": 900,
+  "seed": "day_general_20261004_fixed_v1",
+  "target_triggered_coins": 100000,
+  "min_desired_triggered_coins": 0,
+  "rule_selection": "Use original4entrypredicates from sustained_volume_audit corrected detector; iterate allsignals and choose firstcausallyscreened per rule, recurrentdislocations, prior reviewed fixedholds8/10/10/45sec plus reviewed stagedalternative, no profit-based selection.",
+  "natural_activity_screen": "Atdecision >=30estimatedblocksecondsold, >=8outsideaddresses eachcumulativebuy>=.05SOL, >=2SOLoutsidegrossbuy, largestoutsideaddressgrossshare<=50%, >=.05SOLoutsidebuyin3distinct10sec binswithinprior30sec; this screens concentration/transient activity, not provenorganic or independent ownership.",
+  "history_selection": "Do not filter future nonmigration, future volume or future lifespan. Sort qualifying triggeredmintsbyfrozenhash, takefirst40before any PnL. Preserve allrejected/missed/unsupportedcases. Do not extendwindowto meetcount.",
+  "clock": "Estimatedblocksecondtimer; same-slotone andnextslottail sensitivities, no ms/rankcalibration; original reviewed costs and97%outputguard",
+  "portfolio": "Per-armcontinuous5SOL/two-position ledger plus fixed-priority first-entry-permint union fordislocation/velocity/mature, no sumofstandalone profits.",
+  "runner_objective": "No minimumwinrateorautomatictopwinner-deletion rejection; report lossdistribution,winnercontribution,and funded exposure.",
+  "code_sha256": "201487ed40b39f0b46bcb317ac17fe16b56a3cc82d62441dbce29ccca17d6017",
+  "sampling": "Fixed25ordinarylaunchesperhour,24equalhourstrata; excludeall400priorstudy sources beforehashselection; no stoppingontriggers orPnL",
+  "confirmation": "Retrospective earlier/later24h transfer; original study overlap excluded, not a fully later unseen day"
+}

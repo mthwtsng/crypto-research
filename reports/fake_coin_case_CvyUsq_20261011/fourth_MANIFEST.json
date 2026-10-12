@@ -1,0 +1,31 @@
+{
+  "mint": "7xJKazFtFNEGUQB85KaFn5GDYGGFjUeNBTD8D1mQpump",
+  "supplied_bonding_curve": "Htgwb58PvcZ9qqRu7UcMEn9JdV9vzdTdDLHW9f3ockDW",
+  "captured_at_ms": 1791763890261,
+  "sources": {
+    "data/ghost_observations.jsonl": {
+      "prefix_bytes": 1027809516,
+      "matched_rows": 1223
+    },
+    "data/ghost_fake_detector.jsonl": {
+      "prefix_bytes": 15694337,
+      "matched_rows": 15
+    },
+    "data/ghost_holder_screen.jsonl": {
+      "prefix_bytes": 253527252,
+      "matched_rows": 38
+    },
+    "data/ghost_trades.jsonl": {
+      "prefix_bytes": 390969,
+      "matched_rows": 2
+    },
+    "data/ghost_intents.jsonl": {
+      "prefix_bytes": 2087542,
+      "matched_rows": 4
+    },
+    "data/ghost_amm_evidence.jsonl": {
+      "prefix_bytes": 31647177,
+      "matched_rows": 0
+    }
+  }
+}

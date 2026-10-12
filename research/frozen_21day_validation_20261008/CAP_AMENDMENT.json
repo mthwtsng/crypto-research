@@ -1,0 +1,23 @@
+{
+  "authorized_at": "2026-10-09T06:51:23.592072+00:00",
+  "source": "User: after collection test5,10,15anduncapped; keep2ascomparison control",
+  "position_limits": [
+    2,
+    5,
+    10,
+    15,
+    null
+  ],
+  "selection_and_strategy_rules_unchanged": true,
+  "results_inspected": false,
+  "collection_progress": {
+    "stage": "curve_receipts",
+    "selected": 10080,
+    "collected": 5750,
+    "errors": [],
+    "at": "2026-10-09T06:50:59.874006+00:00"
+  },
+  "prior_freeze_sha256": "43c1b2f2746cc3725d0bf43e98c9ea15acddf8c60cb79c70c85bc5c57c21f6dc",
+  "comparison": "Same raw replay traces and fixed placement seeds; only chronological funded admissions change. Cash always15SOL, same-mint/cooldown/migration locks preserved.",
+  "looks": "2strategy policies x5position caps=10funded variants"
+}

@@ -1,0 +1,30 @@
+{
+  "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+  "passes": [
+    {
+      "signature": "3km9WYMkM2sX8UPfCWzrLVxtcyUd9TQKM5eynHV4N4sCNM2TAmJYN5G3NtAquWgyY4gXUHoK84yN52srYgAEKTJ5",
+      "owner": "6Cv4wsaBKB2e1D53V3G7RdoAUEnci44wDE6rkhGxBdrL",
+      "accounts": [
+        "3z5dRgycVxwdjMH6QqHUCa2EDh7ETfuvpeyGk8pThvxw"
+      ],
+      "added": [
+        "4MdreoFdMQXrMbhfMe8RjC5eQAMz3NH6Dyk3FrhXR6tMucp8uxXRMk9RGkLafksg5J8sCPaiWcQEU6bsGnq7E7cY"
+      ]
+    },
+    {
+      "signature": "3tSniyAwFkvtKDgAoD8jeYQ3aV5sutCd7L4N5JGCE6gtNLhTKGwpx8hR3VbB4up6wNe4uaJd95x3HnCWBaM796JM",
+      "owner": "F2mPtQ33XXWeq6pauX53uFwxA7JaQ2P1fPN5RqZ93P8y",
+      "accounts": [
+        "EPpsNujH84YxtAQpsVnepEKgMGJoZXUoJK5kDhcNpNGa"
+      ],
+      "added": [
+        "4ExDRpyR2civohrPkeusxgS1A8SoYrYPwuGCL62maSVPEaBLeAsJby6gvGoB8C5fgQKtpiFQkn23YUA2gTHEiqPU"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 751,
+  "curve_groups": 751,
+  "initial_precompletion_gap": true
+}

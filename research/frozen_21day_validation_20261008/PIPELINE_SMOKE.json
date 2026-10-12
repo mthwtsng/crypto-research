@@ -1,0 +1,86 @@
+[
+  {
+    "mint": "4dJxqL2C5PmapcHZ53bHoccC5HLyELDUTUPzg6YwBLxq",
+    "status": "prepared",
+    "creation_verified": true,
+    "source_groups_checked": 5,
+    "source_receipts": 7,
+    "failed_receipts": 486,
+    "custody": {
+      "status": "supported",
+      "passes": []
+    },
+    "signals": []
+  },
+  {
+    "mint": "CHJtwFxc74pF4CQEgJxi6pwbb4vT5h2q7STEeMdMpump",
+    "status": "prepared",
+    "creation_verified": true,
+    "source_groups_checked": 29,
+    "source_receipts": 71,
+    "failed_receipts": 865,
+    "custody": {
+      "status": "supported",
+      "passes": []
+    },
+    "signals": []
+  },
+  {
+    "mint": "EFY4u5H4czs7N3tpKWEwXqC7aNThegSKMyud2QGoNX7i",
+    "status": "prepared",
+    "creation_verified": true,
+    "source_groups_checked": 85,
+    "source_receipts": 187,
+    "failed_receipts": 5344,
+    "custody": {
+      "status": "supported",
+      "passes": []
+    },
+    "signals": [
+      {
+        "mint": "EFY4u5H4czs7N3tpKWEwXqC7aNThegSKMyud2QGoNX7i",
+        "curve": "C6GwUWeovq3n9wXvVTjwzi8QLVtrHyhYiMyRiJAU5tdw",
+        "rule": "s3_deadman",
+        "index": 33,
+        "slot": 439952115,
+        "time": 1787012337,
+        "signal_signature": "CMggHXyoGM2f5Q5dfvA9QwGRB8pnZAhpE562N9htH5rZg8VY5Kqd1ST8TF1fvrzpdsuBy15PXZcPYqW94kDEy4D",
+        "reserve": 17.9815493,
+        "age_seconds": 10,
+        "outside_buyers": 10,
+        "holders": 11,
+        "top_holder_share": 0.25113061317177976,
+        "trough_spot": 6.530314757591969e-05,
+        "original_signal_signature": "3wpcwAj91RYy9BL9fb5QjoAkX5MbMvbv5JipAaTaecH5WCirXcCW94p2kMvMdK8LBVpqV5dQBFDjyauwgppEN4kk",
+        "original_signal_slot": 439952114,
+        "confirmation_buy_groups": 2
+      }
+    ]
+  },
+  {
+    "mint": "6ND5wg8Sj4LydGUZDEXbnqSRNymynVg4DeYrhxZWpump",
+    "status": "prepared",
+    "creation_verified": true,
+    "source_groups_checked": 9,
+    "source_receipts": 42,
+    "failed_receipts": 1110,
+    "custody": {
+      "status": "supported",
+      "passes": []
+    },
+    "signals": []
+  },
+  {
+    "mint": "ixginwiZcg4tgP7L88hSQ7d4KWrutfC7H5iKx8Ppump",
+    "status": "prepared",
+    "creation_verified": true,
+    "source_groups_checked": 0,
+    "source_receipts": 2,
+    "failed_receipts": 281,
+    "custody": {
+      "status": "supported",
+      "passes": []
+    },
+    "signals": []
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "prefix_checks": 486,
+  "identical_ledger_regenerations": 504,
+  "no_future_outcomes": true,
+  "alarms": {
+    "speed_order": "Inherited exact intent traces; funded gate/cooldown selection varies with placement. Source matched-intent decompositions in predecessor CHECKS.json.",
+    "delayed_guards": 384,
+    "timer_violations": [],
+    "all_closed_cases": [
+      {
+        "recipe": "baseline",
+        "policy": "baseline",
+        "scope": "s4_upper_ath",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "baseline",
+        "policy": "baseline",
+        "scope": "s4_upper_ath",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "baseline",
+        "policy": "warmup10",
+        "scope": "s4_upper_ath",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "baseline",
+        "policy": "positive10",
+        "scope": "portfolio",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "baseline",
+        "policy": "positive10",
+        "scope": "portfolio",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "baseline",
+        "policy": "positive10",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "baseline",
+        "policy": "positive10",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "baseline",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "baseline",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "baseline",
+        "scope": "s4_upper_ath",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "baseline",
+        "scope": "s4_upper_ath",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "warmup10",
+        "scope": "portfolio",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "warmup10",
+        "scope": "portfolio",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "warmup10",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "warmup10",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "warmup10",
+        "scope": "s4_upper_ath",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "positive10",
+        "scope": "portfolio",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "positive10",
+        "scope": "portfolio",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "positive10",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      },
+      {
+        "recipe": "confirmed_scratch3",
+        "policy": "positive10",
+        "scope": "portfolio_without_carryover",
+        "scenario": "fast"
+      }
+    ],
+    "threshold_fill_check": "Inherited integer-delivered curve/AMM requotes; full targets checked in predecessor, no new exit thresholds.",
+    "completed_curve_sales": [],
+    "high_PF_or_WR": [],
+    "creation_history": "All1800creation-selected coins and eligible mints unchanged; predecessor source/account parity."
+  },
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/shadow_feedback.py": "a547e5e9dfc678e54feb31bc15f559996f869f9026694da000f26ea878eb04c3",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/shadow_report.py": "60707f31595b4280a3b9e7e07f7585911f7bb05106b99385f8c3f7ce921fd9cb",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/shadow_feedback_cycle/SPEC.json": "06a890158af8eed5bf7e8cda8863d3835fcc459fb2f2e8ad0e1eba49bee68db9",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/shadow_feedback_cycle/FUNDED.json": "67017ec76591108e91c5ed0a9ad22ac6b903eea00bb083a9c6421c9cfed68864",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/shadow_feedback_cycle/DECISIONS.json.gz": "d557a3a38c55e731cffaa407e4e4c624fe42d711d28e0174df683d3d6063c92d"
+  }
+}

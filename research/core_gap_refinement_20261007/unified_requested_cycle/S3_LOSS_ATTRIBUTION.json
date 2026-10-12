@@ -1,0 +1,22 @@
+{
+  "catastrophic_reserve_floor": {
+    "count": 13,
+    "net_SOL": -1.714401021,
+    "worst_SOL": -0.206584254
+  },
+  "failed": {
+    "count": 8,
+    "net_SOL": -0.00404,
+    "worst_SOL": -0.000505
+  },
+  "confirmed_profit_target": {
+    "count": 7,
+    "net_SOL": 0.807574633,
+    "worst_SOL": 0.01303636
+  },
+  "extended_timeout": {
+    "count": 1,
+    "net_SOL": -0.08295947,
+    "worst_SOL": -0.08295947
+  }
+}

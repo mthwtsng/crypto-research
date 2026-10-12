@@ -1,0 +1,170 @@
+[
+  {
+    "wallet": {
+      "address": "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+      "name": "Cbot7"
+    },
+    "matches": 53,
+    "unique_mints": 53,
+    "before": 42,
+    "already_sold": 37,
+    "median_slot_gap": -95,
+    "median_second_gap": -21
+  },
+  {
+    "wallet": {
+      "address": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+      "name": "russianbot"
+    },
+    "matches": 130,
+    "unique_mints": 130,
+    "before": 118,
+    "already_sold": 83,
+    "median_slot_gap": -148.5,
+    "median_second_gap": -32.5
+  },
+  {
+    "wallet": {
+      "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+      "name": "snipebot"
+    },
+    "matches": 3,
+    "unique_mints": 3,
+    "before": 3,
+    "already_sold": 3,
+    "median_slot_gap": -249,
+    "median_second_gap": -55
+  },
+  {
+    "wallet": {
+      "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+      "name": "bot"
+    },
+    "matches": 1,
+    "unique_mints": 1,
+    "before": 1,
+    "already_sold": 1,
+    "median_slot_gap": -1090,
+    "median_second_gap": -237
+  },
+  {
+    "wallet": {
+      "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+      "name": "1 sol bot"
+    },
+    "matches": 52,
+    "unique_mints": 52,
+    "before": 24,
+    "already_sold": 10,
+    "median_slot_gap": 0.5,
+    "median_second_gap": 0.5
+  },
+  {
+    "wallet": {
+      "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+      "name": "Snippebot"
+    },
+    "matches": 7,
+    "unique_mints": 7,
+    "before": 7,
+    "already_sold": 7,
+    "median_slot_gap": -235,
+    "median_second_gap": -51
+  },
+  {
+    "wallet": {
+      "address": "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF",
+      "name": "Bottom Bidder"
+    },
+    "matches": 32,
+    "unique_mints": 31,
+    "before": 17,
+    "already_sold": 13,
+    "median_slot_gap": -21.5,
+    "median_second_gap": -6.5
+  },
+  {
+    "wallet": {
+      "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+      "name": "bottty"
+    },
+    "matches": 42,
+    "unique_mints": 41,
+    "before": 28,
+    "already_sold": 20,
+    "median_slot_gap": -18.0,
+    "median_second_gap": -4.5
+  },
+  {
+    "wallet": {
+      "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+      "name": "asdasd"
+    },
+    "matches": 56,
+    "unique_mints": 56,
+    "before": 39,
+    "already_sold": 26,
+    "median_slot_gap": -25.0,
+    "median_second_gap": -5.5
+  },
+  {
+    "wallet": {
+      "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+      "name": "bot"
+    },
+    "matches": 4,
+    "unique_mints": 4,
+    "before": 4,
+    "already_sold": 4,
+    "median_slot_gap": -387.5,
+    "median_second_gap": -85.0
+  },
+  {
+    "wallet": {
+      "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+      "name": "boooooot"
+    },
+    "matches": 2,
+    "unique_mints": 2,
+    "before": 2,
+    "already_sold": 2,
+    "median_slot_gap": -206.5,
+    "median_second_gap": -46.0
+  },
+  {
+    "wallet": {
+      "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+      "name": "Botty"
+    },
+    "matches": 129,
+    "unique_mints": 128,
+    "before": 87,
+    "already_sold": 65,
+    "median_slot_gap": -42,
+    "median_second_gap": -11
+  },
+  {
+    "wallet": {
+      "address": "72MUPELEkUU5riN8ZPdfVssXWC6L8EViZ9FybHEmqT6J",
+      "name": "1sol bot"
+    },
+    "matches": 88,
+    "unique_mints": 88,
+    "before": 62,
+    "already_sold": 30,
+    "median_slot_gap": -63.5,
+    "median_second_gap": -14.5
+  },
+  {
+    "wallet": {
+      "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+      "name": "bot"
+    },
+    "matches": 76,
+    "unique_mints": 76,
+    "before": 51,
+    "already_sold": 33,
+    "median_slot_gap": -21.5,
+    "median_second_gap": -5.0
+  }
+]

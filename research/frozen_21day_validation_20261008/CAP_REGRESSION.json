@@ -1,0 +1,50 @@
+{
+  "fixture": "40hypothetical unresolved overlapping entries; no trading PnL evidence",
+  "checks": [
+    {
+      "cap": 2,
+      "attempts": 2,
+      "peak": 2,
+      "skips": {
+        "concurrency": 38
+      },
+      "ending_cash": 13.99291144
+    },
+    {
+      "cap": 5,
+      "attempts": 5,
+      "peak": 5,
+      "skips": {
+        "concurrency": 35
+      },
+      "ending_cash": 12.4822786
+    },
+    {
+      "cap": 10,
+      "attempts": 10,
+      "peak": 10,
+      "skips": {
+        "concurrency": 30
+      },
+      "ending_cash": 9.9645572
+    },
+    {
+      "cap": 15,
+      "attempts": 15,
+      "peak": 15,
+      "skips": {
+        "concurrency": 25
+      },
+      "ending_cash": 7.4468358
+    },
+    {
+      "cap": null,
+      "attempts": 29,
+      "peak": 29,
+      "skips": {
+        "cash": 11
+      },
+      "ending_cash": 0.39721588
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "updated_utc": "2026-10-09T18:29:32.240446+00:00",
+  "collection_mode": "six cash-independent data collection workers, no simulation",
+  "providers_enabled_for_historical_signature_blocks": [
+    "alchemy",
+    "helius"
+  ],
+  "history_provider": "alchemy",
+  "helius_block_probe": "HELIUS_CAPABILITIES.json",
+  "pacing_algorithm": "weighted_jit_v2",
+  "configured_limits": {
+    "alchemy_local_cu_per_second": 400,
+    "helius_local_rps": 8,
+    "helius_max_inflight": 4
+  },
+  "tests_passed": 29,
+  "live_observation_seconds": 39.763291,
+  "observed_requests": [
+    {
+      "provider": "helius",
+      "method": "getBlock",
+      "status": "ok",
+      "count": 86
+    },
+    {
+      "provider": "alchemy",
+      "method": "getBlock",
+      "status": "ok",
+      "count": 45
+    }
+  ],
+  "throughput_limitations": "short unmatched observation includes cache/resume/startup; does not establish an end-to-end speedup multiplier",
+  "live_source_sha256": "5fe6af7b2f3f00de9073a1894bbac0b0c64f440b613229506f879bb21fd94879",
+  "capability_proof": "Helius exact ordered signatures plus blockhash/time in both sampled months; every retained source receipt still requires exact transactionIndex validation"
+}

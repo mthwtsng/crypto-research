@@ -1,0 +1,65 @@
+{
+  "counts": {
+    "buy_exact_sol_in": 1509,
+    "buy_exact_quote_in": 5494,
+    "buy": 7665,
+    "sell": 13045
+  },
+  "exact_input_rows": 7003,
+  "matches_q": 0,
+  "matches_q_minus1": 7001,
+  "examples": [
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "signature": "4Td6oqDjNj44MtBPPoawoXDUKoPHVCtU4NzmGyj7KrWTVnZfKBAvuE6xMV9i3zeSSQ5TRuwxBUQUDxE8U5REYACZ",
+      "name": "buy_exact_sol_in",
+      "q": 2962962962,
+      "n": 96449438144093,
+      "formula_q": 96449438173718,
+      "formula_q_minus1": 96449438144093,
+      "complete": false
+    },
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "signature": "52eErmn6aUEUkSMYuksSMkTkXcyqLqyF2BKjond5gkgP69BEfbCLAgu3fgsdUzJ6cTzf6MbkoK6jknhwDWPxFsni",
+      "name": "buy_exact_sol_in",
+      "q": 1382716048,
+      "n": 39314760154580,
+      "formula_q": 39314760181868,
+      "formula_q_minus1": 39314760154580,
+      "complete": false
+    },
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "signature": "4SrbZjdtneY9FsXtdcvKkAX2n97PDuAKuoQVGKbZopbEfzgipnm89tRzpWhxeuueqR9mVLfZ1pvvVudxsWxqUnSu",
+      "name": "buy_exact_sol_in",
+      "q": 1185185184,
+      "n": 31262903686209,
+      "formula_q": 31262903711707,
+      "formula_q_minus1": 31262903686209,
+      "complete": false
+    }
+  ],
+  "completion_examples": [
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "signature": "2vSBaAebWMhmvo96HhYeHg3Y5yhiXEMvZxtgYCRJLc59v6jeSWf5rrfcPDjbaatZS6zXtuV2CgyZr9GM5vo4jTWB",
+      "name": "buy_exact_quote_in",
+      "q": 891767831,
+      "n": 2187345178323,
+      "formula_q": 2187345180401,
+      "formula_q_minus1": 2187345177967,
+      "complete": true
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "signature": "5Ddzjc67TBy8vNiikTKngCMpCfQCi2U9UBdYLfq3Zbxf7Yg4rx1kuyY796VUh6YLi8kiLM5qRgv5EK9xNcNVBaHT",
+      "name": "buy_exact_quote_in",
+      "q": 165818418,
+      "n": 404151519057,
+      "formula_q": 404151519441,
+      "formula_q_minus1": 404151517008,
+      "complete": true
+    }
+  ]
+}

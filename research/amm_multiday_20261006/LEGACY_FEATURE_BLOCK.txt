@@ -1,0 +1,31 @@
+  spot=(st['quote']+st['virtual'])/st['base'];age=g['time']-m['time'];outside=[z for z in tr if z['user']!=m.get('coin_creator') and not z['zero_fee']]
+  for z in outside:
+   if z['buy']:userfirst.setdefault(z['user'],g['time'])
+  # Known past history after every complete atomic pool transaction.
+  recenthist=[h for h in history if h['time']>=g['time']-80];flat=[z for h in recenthist for z in h['trades'] if z['user']!=m.get('coin_creator') and not z['zero_fee']]+outside
+  def burst(xs):
+   buys=[z for z in xs if z['buy'] and z['q']>=50_000_000];vol=collections.Counter()
+   for z in buys:vol[z['user']]+=z['q']
+   bv=sum(vol.values());sv=sum(z['q'] for z in xs if not z['buy']);return len(vol),bv,sv,max(vol.values(),default=0)/bv if bv else 1
+  quote=A.buy(st,1_000_000_000);impact=(quote['q']/(quote['n']*spot)-1) if quote else 1
+  common=60<=age<=21600 and g['time']-lastwithdraw>15 and impact<=.02
+  if common and outside:
+   # One first fully qualifying signal for each declared family.
+   xs=[z for z in flat if z['time']>=g['time']-15];past=[h for h in recenthist if h['time']>=g['time']-15];peak=max([h['spot'] for h in past]+[spot]);drop=1-spot/peak
+   sales=[h for h in past if h['has_outside_sell'] and h['sale_spot_drop']>=.05]
+   if 'amm_pullback_recovery' not in signals and drop>=.08 and sales:
+    sale=sales[-1];later=[z for z in xs if (z['slot'],z['index'])>(sale['slot'],sale['index'])];n,bv,sv,share=burst(later);groups=len({(z['slot'],z['index']) for z in later if z['buy'] and z['q']>=50_000_000})
+    if n>=3 and groups>=2 and bv>=sale['sale_q']*.5 and share<=.5:signals['amm_pullback_recovery']=dict(rule='amm_pullback_recovery',index=gi,slot=g['slot'],time=g['time'],age=age)
+   prior=[h for h in recenthist if h['time']>=g['time']-20];xs10=[z for z in flat if z['time']>=g['time']-10];n,bv,sv,share=burst(xs10)
+   # Quiet intervals are covered from migration, even without trades; carry state.
+   anchor=next((h for h in reversed(history) if h['time']<g['time']-20),None);rangevalues=[h['spot'] for h in prior]+([anchor['spot']] if anchor else [])
+   if 'amm_second_wave' not in signals and rangevalues and (max(rangevalues)/min(rangevalues)-1)<=.08 and spot>max(rangevalues) and outside[-1]['buy'] and n>=3 and share<=.5 and bv>0 and sv/bv<=.5:signals['amm_second_wave']=dict(rule='amm_second_wave',index=gi,slot=g['slot'],time=g['time'],age=age)
+   if 'amm_dormant_revival' not in signals and age>=3600:
+    # Burst starts at earliest meaningful buy in trailing10s; quiet precedes it.
+    recentbuys=[z for z in xs10 if z['buy'] and z['q']>=50_000_000]
+    if recentbuys:
+     bs=min(z['time'] for z in recentbuys);quiet=sum(z['q'] for h in recenthist for z in h['trades'] if bs-60<=z['time']<bs and z['user']!=m.get('coin_creator') and not z['zero_fee'] and z['buy'])
+     if n>=5 and bv>=1_000_000_000 and share<=.4 and quiet<=250_000_000:signals['amm_dormant_revival']=dict(rule='amm_dormant_revival',index=gi,slot=g['slot'],time=g['time'],age=age)
+  sellq=sum(z['q'] for z in outside if not z['buy']);beforeprice=(before['quote']+st['virtual'])/before['base'];history.append(dict(time=g['time'],slot=g['slot'],index=g['index'],spot=spot,trades=tr,has_outside_sell=bool(sellq),sale_q=sellq,sale_spot_drop=max(0,1-spot/beforeprice)))
+  # Bounded history; a prior state survives for quiet-window interpolation.
+  if len(history)>3000:history=[h for h in history if h['time']>=g['time']-90]

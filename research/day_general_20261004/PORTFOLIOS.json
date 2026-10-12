@@ -1,0 +1,150 @@
+[
+  {
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "policy": "First eligible dislocation/velocity/mature per mint; fixed tie priority; one entry per mint, not all engine profits summed",
+    "summary": {
+      "attempts": 56,
+      "closed": 51,
+      "closed_pnl": -0.10484598999999983,
+      "known_pnl": -0.10737098999999983,
+      "pf": 0.9634865096178713,
+      "win_rate": 41.1764705882353,
+      "statuses": {
+        "closed": 51,
+        "failed": 5
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 51,
+        "failed": 5
+      },
+      "ending_cash": 4.8926290099999985,
+      "net_zero_recovery_sol": -0.10737098999999983,
+      "closed_net_sol": -0.10484598999999983,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.3810366289999996,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "scenario": "same_slot_one",
+    "mode": "staged_ladder",
+    "policy": "First eligible dislocation/velocity/mature per mint; fixed tie priority; one entry per mint, not all engine profits summed",
+    "summary": {
+      "attempts": 56,
+      "closed": 51,
+      "closed_pnl": 0.15586887700000032,
+      "known_pnl": 0.15334387700000032,
+      "pf": 1.060503785779856,
+      "win_rate": 41.1764705882353,
+      "statuses": {
+        "closed": 51,
+        "failed": 5
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 51,
+        "failed": 5
+      },
+      "ending_cash": 5.153343877000001,
+      "net_zero_recovery_sol": 0.15334387700000032,
+      "closed_net_sol": 0.15586887700000032,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.9779087540000004,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "policy": "First eligible dislocation/velocity/mature per mint; fixed tie priority; one entry per mint, not all engine profits summed",
+    "summary": {
+      "attempts": 56,
+      "closed": 43,
+      "closed_pnl": -0.6375575029999998,
+      "known_pnl": -0.6441225029999998,
+      "pf": 0.728008244353422,
+      "win_rate": 34.883720930232556,
+      "statuses": {
+        "closed": 43,
+        "failed": 13
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 43,
+        "failed": 13
+      },
+      "ending_cash": 4.355877496999999,
+      "net_zero_recovery_sol": -0.6441225029999998,
+      "closed_net_sol": -0.6375575029999998,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.4930569270000014,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "scenario": "next_slot_tail",
+    "mode": "staged_ladder",
+    "policy": "First eligible dislocation/velocity/mature per mint; fixed tie priority; one entry per mint, not all engine profits summed",
+    "summary": {
+      "attempts": 56,
+      "closed": 43,
+      "closed_pnl": -0.4371141429999997,
+      "known_pnl": -0.44367914299999966,
+      "pf": 0.7846352015455621,
+      "win_rate": 34.883720930232556,
+      "statuses": {
+        "closed": 43,
+        "failed": 13
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 43,
+        "failed": 13
+      },
+      "ending_cash": 4.5563208569999984,
+      "net_zero_recovery_sol": -0.44367914299999966,
+      "closed_net_sol": -0.4371141429999997,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.1142915070000017,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  }
+]

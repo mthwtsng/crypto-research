@@ -1,0 +1,482 @@
+{
+  "accounting": {
+    "combined_marked_estimate_sol": null,
+    "note": "This tool audits individual receipts/quotes and produces no account PnL or inventory ledger. Graduated inventory remains unresolved because this CLI only decodes Pump curve trades; it does not fabricate an AMM sale.",
+    "open_marked_pnl_sol": null,
+    "settled_pnl_sol": null,
+    "unresolved_inventory_count": null
+  },
+  "audits": [
+    {
+      "actual_fill_established": false,
+      "audit_event": "RPC_FILL_RECONCILIATION",
+      "classification": "hypothetical_quote_only",
+      "created_at_utc": "2026-10-11T16:36:36.050862+00:00",
+      "estimated_quotes": {
+        "central80": {
+          "_unused_actual_from_instruction": false,
+          "actual_fill_established": false,
+          "boundary": {
+            "after_signature": "4xDPz4MiVa3C6hmXGD9Pc3uTfNCSt6JTwD73VDFC6CrWEHHjzDPL8f69MSLp57NWU3Dyc4PECy4YUFuqJFjY6VPb",
+            "after_transaction_index": 289,
+            "curve_groups_between": 0,
+            "hypothetical_block_index_claimed": false,
+            "slot": 455719289
+          },
+          "classification": "hypothetical_quote_only",
+          "creator_fee_raw": 1481482,
+          "curve_sol_raw": 493827159,
+          "event_evidence_provenance": [
+            "canonical_getTransaction_logs"
+          ],
+          "evidence_provisional": false,
+          "exact_hypothetical_fill_claim": false,
+          "gross_cost_raw": 500000000,
+          "minimum_guard_pass": true,
+          "minimum_output_raw": 14111935885151,
+          "network_fee_raw": 1505000,
+          "own_impact_applied": true,
+          "participant_reactions_after_quote_simulated": false,
+          "placement": "central80",
+          "placement_seed": "77cfd65cbbaf170bb8c66f4e61b8daef3be2c06ebe5fb02faf21a40d9b8885c3",
+          "placement_seed_independent_of_outcome": true,
+          "protocol_fee_raw": 4691359,
+          "quote_engine": "research/wallet_curve_entry_discovery_20261007/curve_adapter.py over approved research/day_general_20261004/helpers/replay.py",
+          "side": "buy",
+          "state_after_own_impact": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 2088081498,
+            "rtokens_raw": 723276211101133,
+            "vsol_raw": 32088081498,
+            "vtokens_raw": 1003176211101133
+          },
+          "state_before": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 1594254339,
+            "rtokens_raw": 738956139862412,
+            "vsol_raw": 31594254339,
+            "vtokens_raw": 1018856139862412
+          },
+          "state_source": "source_transaction_trade_event_post_state",
+          "status": "quote_only",
+          "tokens_raw": 15679928761279
+        },
+        "central85": {
+          "_unused_actual_from_instruction": false,
+          "actual_fill_established": false,
+          "boundary": {
+            "after_signature": "4xDPz4MiVa3C6hmXGD9Pc3uTfNCSt6JTwD73VDFC6CrWEHHjzDPL8f69MSLp57NWU3Dyc4PECy4YUFuqJFjY6VPb",
+            "after_transaction_index": 289,
+            "curve_groups_between": 0,
+            "hypothetical_block_index_claimed": false,
+            "slot": 455719289
+          },
+          "classification": "hypothetical_quote_only",
+          "creator_fee_raw": 1481482,
+          "curve_sol_raw": 493827159,
+          "event_evidence_provenance": [
+            "canonical_getTransaction_logs"
+          ],
+          "evidence_provisional": false,
+          "exact_hypothetical_fill_claim": false,
+          "gross_cost_raw": 500000000,
+          "minimum_guard_pass": true,
+          "minimum_output_raw": 14111935885151,
+          "network_fee_raw": 1505000,
+          "own_impact_applied": true,
+          "participant_reactions_after_quote_simulated": false,
+          "placement": "central85",
+          "placement_seed": "77cfd65cbbaf170bb8c66f4e61b8daef3be2c06ebe5fb02faf21a40d9b8885c3",
+          "placement_seed_independent_of_outcome": true,
+          "protocol_fee_raw": 4691359,
+          "quote_engine": "research/wallet_curve_entry_discovery_20261007/curve_adapter.py over approved research/day_general_20261004/helpers/replay.py",
+          "side": "buy",
+          "state_after_own_impact": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 2088081498,
+            "rtokens_raw": 723276211101133,
+            "vsol_raw": 32088081498,
+            "vtokens_raw": 1003176211101133
+          },
+          "state_before": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 1594254339,
+            "rtokens_raw": 738956139862412,
+            "vsol_raw": 31594254339,
+            "vtokens_raw": 1018856139862412
+          },
+          "state_source": "source_transaction_trade_event_post_state",
+          "status": "quote_only",
+          "tokens_raw": 15679928761279
+        },
+        "fast": {
+          "_unused_actual_from_instruction": false,
+          "actual_fill_established": false,
+          "boundary": {
+            "after_signature": "4xDPz4MiVa3C6hmXGD9Pc3uTfNCSt6JTwD73VDFC6CrWEHHjzDPL8f69MSLp57NWU3Dyc4PECy4YUFuqJFjY6VPb",
+            "after_transaction_index": 289,
+            "curve_groups_between": 0,
+            "hypothetical_block_index_claimed": false,
+            "slot": 455719289
+          },
+          "classification": "hypothetical_quote_only",
+          "creator_fee_raw": 1481482,
+          "curve_sol_raw": 493827159,
+          "event_evidence_provenance": [
+            "canonical_getTransaction_logs"
+          ],
+          "evidence_provisional": false,
+          "exact_hypothetical_fill_claim": false,
+          "gross_cost_raw": 500000000,
+          "minimum_guard_pass": true,
+          "minimum_output_raw": 14111935885151,
+          "network_fee_raw": 1505000,
+          "own_impact_applied": true,
+          "participant_reactions_after_quote_simulated": false,
+          "placement": "fast",
+          "placement_seed": "77cfd65cbbaf170bb8c66f4e61b8daef3be2c06ebe5fb02faf21a40d9b8885c3",
+          "placement_seed_independent_of_outcome": true,
+          "protocol_fee_raw": 4691359,
+          "quote_engine": "research/wallet_curve_entry_discovery_20261007/curve_adapter.py over approved research/day_general_20261004/helpers/replay.py",
+          "side": "buy",
+          "state_after_own_impact": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 2088081498,
+            "rtokens_raw": 723276211101133,
+            "vsol_raw": 32088081498,
+            "vtokens_raw": 1003176211101133
+          },
+          "state_before": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 1594254339,
+            "rtokens_raw": 738956139862412,
+            "vsol_raw": 31594254339,
+            "vtokens_raw": 1018856139862412
+          },
+          "state_source": "source_transaction_trade_event_post_state",
+          "status": "quote_only",
+          "tokens_raw": 15679928761279
+        },
+        "slow": {
+          "actual_fill_established": false,
+          "classification": "unresolved",
+          "observed_curve_groups": 0,
+          "placement": "slow",
+          "placement_seed": "77cfd65cbbaf170bb8c66f4e61b8daef3be2c06ebe5fb02faf21a40d9b8885c3",
+          "source_state_source": "source_transaction_trade_event_post_state",
+          "status": "insufficient_curve_groups_for_slow"
+        }
+      },
+      "estimated_scenario_count": 3,
+      "input_source_rows": [
+        1,
+        2
+      ],
+      "intent_id": "ghost-v2-20261011T064058-intent-91",
+      "mint": "QJVLwyMqXMkokQ4yTs5kExyTASwBXGd3mQh5yoXpump",
+      "placement_model": {
+        "central_same_slot_probability": [
+          0.8,
+          0.85
+        ],
+        "next_produced_slot_central_groups": 1,
+        "next_produced_slot_slow_groups": 2,
+        "next_slot_branch_weights_are_user_reported_assumptions": true,
+        "outcome_independent_seed": true,
+        "same_slot_curve_group_distribution": {
+          "0": "29/132",
+          "1": "20/132",
+          "2_or_more_capped_at_2": "83/132"
+        },
+        "same_slot_distribution_note": "Historical matched-copy audit from an older configuration; model assumption, not measured runtime landing calibration.",
+        "seed_identity": "ghost-v2-20261011T064058-intent-91"
+      },
+      "placement_seed": "77cfd65cbbaf170bb8c66f4e61b8daef3be2c06ebe5fb02faf21a40d9b8885c3",
+      "position_id": "ghost-v2-20261011T064058-1791736570942-90",
+      "side": "buy",
+      "source_event": "FILL",
+      "source_input_line": 2,
+      "source_rpc_notes": [],
+      "source_signature": "4xDPz4MiVa3C6hmXGD9Pc3uTfNCSt6JTwD73VDFC6CrWEHHjzDPL8f69MSLp57NWU3Dyc4PECy4YUFuqJFjY6VPb",
+      "source_slot_canonical": 455719289,
+      "source_slot_logged": 455719289,
+      "source_transaction_index_canonical": 289,
+      "source_transaction_index_logged": 289,
+      "status": "estimated_placement_quotes_available"
+    },
+    {
+      "actual_fill_established": false,
+      "audit_event": "RPC_FILL_RECONCILIATION",
+      "classification": "hypothetical_quote_only",
+      "created_at_utc": "2026-10-11T16:36:37.397242+00:00",
+      "estimated_quotes": {
+        "central80": {
+          "_unused_actual_from_instruction": false,
+          "actual_fill_established": false,
+          "boundary": {
+            "after_signature": "5jdbr5wxAp9amkdniV8AfteZFsuo7roiCEDM9h8RWsSaU9yL7Vs1DX95LfJtLVg1JgMVhy3N8ZhfdrGC9fTGe3g",
+            "after_transaction_index": 20,
+            "curve_groups_between": 0,
+            "hypothetical_block_index_claimed": false,
+            "slot": 455719293
+          },
+          "classification": "hypothetical_quote_only",
+          "creator_fee_raw": 1363709,
+          "curve_sol_raw": 454569404,
+          "event_evidence_provenance": [
+            "canonical_getTransaction_logs"
+          ],
+          "evidence_provisional": false,
+          "exact_hypothetical_fill_claim": false,
+          "gross_cost_raw": null,
+          "minimum_guard_pass": true,
+          "minimum_output_raw": 0,
+          "net_sol_raw": 448887285,
+          "network_fee_raw": 1505000,
+          "own_impact_applied": true,
+          "participant_reactions_after_quote_simulated": false,
+          "placement": "central80",
+          "placement_seed": "f9c84db187d729bf0c5e90abeafa0f6336a594005e63661feb71441608245bdb",
+          "placement_seed_independent_of_outcome": true,
+          "protocol_fee_raw": 4318410,
+          "quote_engine": "research/wallet_curve_entry_discovery_20261007/curve_adapter.py over approved research/day_general_20261004/helpers/replay.py",
+          "side": "sell",
+          "state_after_own_impact": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 321966279,
+            "rtokens_raw": 781706616215306,
+            "vsol_raw": 30321966279,
+            "vtokens_raw": 1061606616215306
+          },
+          "state_before": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 776535683,
+            "rtokens_raw": 766026687454027,
+            "vsol_raw": 30776535683,
+            "vtokens_raw": 1045926687454027
+          },
+          "state_source": "source_transaction_trade_event_post_state",
+          "status": "quote_only",
+          "tokens_raw": 15679928761279
+        },
+        "central85": {
+          "_unused_actual_from_instruction": false,
+          "actual_fill_established": false,
+          "boundary": {
+            "after_signature": "5jdbr5wxAp9amkdniV8AfteZFsuo7roiCEDM9h8RWsSaU9yL7Vs1DX95LfJtLVg1JgMVhy3N8ZhfdrGC9fTGe3g",
+            "after_transaction_index": 20,
+            "curve_groups_between": 0,
+            "hypothetical_block_index_claimed": false,
+            "slot": 455719293
+          },
+          "classification": "hypothetical_quote_only",
+          "creator_fee_raw": 1363709,
+          "curve_sol_raw": 454569404,
+          "event_evidence_provenance": [
+            "canonical_getTransaction_logs"
+          ],
+          "evidence_provisional": false,
+          "exact_hypothetical_fill_claim": false,
+          "gross_cost_raw": null,
+          "minimum_guard_pass": true,
+          "minimum_output_raw": 0,
+          "net_sol_raw": 448887285,
+          "network_fee_raw": 1505000,
+          "own_impact_applied": true,
+          "participant_reactions_after_quote_simulated": false,
+          "placement": "central85",
+          "placement_seed": "f9c84db187d729bf0c5e90abeafa0f6336a594005e63661feb71441608245bdb",
+          "placement_seed_independent_of_outcome": true,
+          "protocol_fee_raw": 4318410,
+          "quote_engine": "research/wallet_curve_entry_discovery_20261007/curve_adapter.py over approved research/day_general_20261004/helpers/replay.py",
+          "side": "sell",
+          "state_after_own_impact": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 321966279,
+            "rtokens_raw": 781706616215306,
+            "vsol_raw": 30321966279,
+            "vtokens_raw": 1061606616215306
+          },
+          "state_before": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 776535683,
+            "rtokens_raw": 766026687454027,
+            "vsol_raw": 30776535683,
+            "vtokens_raw": 1045926687454027
+          },
+          "state_source": "source_transaction_trade_event_post_state",
+          "status": "quote_only",
+          "tokens_raw": 15679928761279
+        },
+        "fast": {
+          "_unused_actual_from_instruction": false,
+          "actual_fill_established": false,
+          "boundary": {
+            "after_signature": "5jdbr5wxAp9amkdniV8AfteZFsuo7roiCEDM9h8RWsSaU9yL7Vs1DX95LfJtLVg1JgMVhy3N8ZhfdrGC9fTGe3g",
+            "after_transaction_index": 20,
+            "curve_groups_between": 0,
+            "hypothetical_block_index_claimed": false,
+            "slot": 455719293
+          },
+          "classification": "hypothetical_quote_only",
+          "creator_fee_raw": 1363709,
+          "curve_sol_raw": 454569404,
+          "event_evidence_provenance": [
+            "canonical_getTransaction_logs"
+          ],
+          "evidence_provisional": false,
+          "exact_hypothetical_fill_claim": false,
+          "gross_cost_raw": null,
+          "minimum_guard_pass": true,
+          "minimum_output_raw": 0,
+          "net_sol_raw": 448887285,
+          "network_fee_raw": 1505000,
+          "own_impact_applied": true,
+          "participant_reactions_after_quote_simulated": false,
+          "placement": "fast",
+          "placement_seed": "f9c84db187d729bf0c5e90abeafa0f6336a594005e63661feb71441608245bdb",
+          "placement_seed_independent_of_outcome": true,
+          "protocol_fee_raw": 4318410,
+          "quote_engine": "research/wallet_curve_entry_discovery_20261007/curve_adapter.py over approved research/day_general_20261004/helpers/replay.py",
+          "side": "sell",
+          "state_after_own_impact": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 321966279,
+            "rtokens_raw": 781706616215306,
+            "vsol_raw": 30321966279,
+            "vtokens_raw": 1061606616215306
+          },
+          "state_before": {
+            "creator_fee_bps": 30,
+            "fee_bps": 95,
+            "fee_policy_known": true,
+            "rsol_raw": 776535683,
+            "rtokens_raw": 766026687454027,
+            "vsol_raw": 30776535683,
+            "vtokens_raw": 1045926687454027
+          },
+          "state_source": "source_transaction_trade_event_post_state",
+          "status": "quote_only",
+          "tokens_raw": 15679928761279
+        },
+        "slow": {
+          "actual_fill_established": false,
+          "classification": "unresolved",
+          "observed_curve_groups": 0,
+          "placement": "slow",
+          "placement_seed": "f9c84db187d729bf0c5e90abeafa0f6336a594005e63661feb71441608245bdb",
+          "source_state_source": "source_transaction_trade_event_post_state",
+          "status": "insufficient_curve_groups_for_slow"
+        }
+      },
+      "estimated_scenario_count": 3,
+      "input_source_rows": [
+        3,
+        4,
+        5
+      ],
+      "intent_id": "ghost-v2-20261011T064058-intent-92",
+      "mint": "QJVLwyMqXMkokQ4yTs5kExyTASwBXGd3mQh5yoXpump",
+      "placement_model": {
+        "central_same_slot_probability": [
+          0.8,
+          0.85
+        ],
+        "next_produced_slot_central_groups": 1,
+        "next_produced_slot_slow_groups": 2,
+        "next_slot_branch_weights_are_user_reported_assumptions": true,
+        "outcome_independent_seed": true,
+        "same_slot_curve_group_distribution": {
+          "0": "29/132",
+          "1": "20/132",
+          "2_or_more_capped_at_2": "83/132"
+        },
+        "same_slot_distribution_note": "Historical matched-copy audit from an older configuration; model assumption, not measured runtime landing calibration.",
+        "seed_identity": "ghost-v2-20261011T064058-intent-92"
+      },
+      "placement_seed": "f9c84db187d729bf0c5e90abeafa0f6336a594005e63661feb71441608245bdb",
+      "position_id": "ghost-v2-20261011T064058-1791736570942-90",
+      "side": "sell",
+      "source_event": "FILL",
+      "source_input_line": 4,
+      "source_rpc_notes": [],
+      "source_signature": "5jdbr5wxAp9amkdniV8AfteZFsuo7roiCEDM9h8RWsSaU9yL7Vs1DX95LfJtLVg1JgMVhy3N8ZhfdrGC9fTGe3g",
+      "source_slot_canonical": 455719293,
+      "source_slot_logged": 455719293,
+      "source_transaction_index_canonical": 20,
+      "source_transaction_index_logged": 20,
+      "status": "estimated_placement_quotes_available"
+    }
+  ],
+  "counts": {
+    "action_records": 2,
+    "actual_receipts_reconciled": 0,
+    "graduated_unresolved_records": 0,
+    "quote_only_records": 2,
+    "status": {
+      "estimated_placement_quotes_available": 2
+    },
+    "unresolved_coverage_items": 2,
+    "unresolved_records": 0
+  },
+  "generated_at_utc": "2026-10-11T16:36:38.864513+00:00",
+  "input": {
+    "intents_path": "/home/mthwt/code/Crypto/reports/ghost_post_exit/ghost-v2-20261011T064058-intent-92-1791736571837.jsonl",
+    "intents_rows": 5,
+    "observation_rows": 876136,
+    "observations_path": "/home/mthwt/code/Crypto/data/ghost_observations.jsonl"
+  },
+  "limitations": [
+    "A hypothetical quote is not a filled transaction or a profitability estimate.",
+    "Actual source and landing indexes come from canonical getBlock transaction arrays; logged indexes are retained only for comparison.",
+    "Missing signature, block, event, reserve continuity or migrated-pool execution is reported as unresolved coverage.",
+    "Existing OPEN/CLOSE rows without source signature and slot are not assigned guessed transaction positions."
+  ],
+  "migration": {
+    "graduation_sell_created": false,
+    "post_migration_decoder": "not implemented in this bounded curve-fill audit; migrated positions remain unresolved and require separate authenticated PumpSwap/Raydium continuation coverage"
+  },
+  "placement_model": {
+    "brackets": [
+      "fast",
+      "slow"
+    ],
+    "central_scenarios": [
+      "central80",
+      "central85"
+    ],
+    "hypothetical_boundary": "curve-state boundary after the selected full transaction group; no within-transaction insertion or exact hypothetical block index asserted",
+    "seed_rule": "sha256('ghost-placement-v1|' + stable intent identity + scenario label); no outcome or RPC result enters the seed"
+  },
+  "quote_method": "Approved day_general integer quote helpers plus repaired Pump curve adapter; finite intent amount, protocol/creator fees and own reserve impact. Counterparty reactions after the hypothetical quote are not replayed.",
+  "rpc": {
+    "commitment": "confirmed",
+    "endpoint_recorded": false,
+    "max_supported_transaction_version": 1,
+    "raw_response_cache": "rpc_cache/"
+  },
+  "schema_version": 1,
+  "scope": "read-only post-exit Rust ghost intent/fill RPC audit; no order submission and no profitability replay"
+}

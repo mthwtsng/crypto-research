@@ -1,0 +1,23 @@
+name,address,sample_n,median_age_s,pre_real_sol,curve_input_sol,observed_drawdown_pct,outside_net_sol_5slots,completed_hold_s,KOL_2slots,clue
+broke bot lol,C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf,13,6,14.18116557,0.98765432,0.0,4.48854827,61,5,Momentum/near observed highs; recent size differs from longer capture.
+Cbot7,97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL,24,9.5,8.3911916705,0.4536862735,-2.357595311071048,3.3360264109999997,11.0,0,Renewed buy flow: immediately after a buy in 24/24 sampled entries.
+russianbot,nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT,24,3.0,8.4389984735,0.09444844050000001,-7.127790758991981,1.9274632735,10,0,"Small tickets, early flow and shallow pullbacks; brief source holds."
+snipebot,85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL,24,1.0,10.5200487545,1.975308641,0.0,4.276378606,1,3,Early momentum scalp; one-second median completed hold.
+nbot,niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS,24,23.5,16.2617534405,3.555555555,-7.724844725813745,4.3789773685,9,12,KOL-following candidate: recent KOL buy within two slots in 12/24.
+bot12,AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu,20,169.5,22.9533726375,1.471259259,-3.662160993924407,3.607104479,25.0,1,Later-stage demand/momentum; wide actual entry reserve distribution.
+bot,4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP,4,3.0,11.970584564,5.6790123445,-0.8621305487314213,0.18367261750000008,5,1,Large tickets and extra custody/signers; only four prefix samples.
+1 sol bot,8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z,24,123.0,20.6732969515,0.493827159,-19.49619972915243,-1.2270541224999998,35.0,2,"Mature pullbacks, often after sells; frequent separate re-entries."
+Snippebot,4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3,17,0,2.804046877,2.069700929,0.0,0.790123455,3,0,Creation-slot entry in 16/17; short holds and frequent partial exits.
+Bottom Bidder,8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF,24,104.5,8.466923896499999,0.562714208,-10.459470453854886,1.1030056190000002,14.0,1,"Mature pullback followed by renewed buying, not blind sell catching."
+bottty,J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU,24,25.0,9.038272475500001,0.98765432,-19.03557663219571,0.35031023250000004,5,1,Pullback/sell-response scalps; frequent re-entries.
+bottimus,bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp,24,479.5,6.6851391525,0.98765432,-20.417547621296745,2.3551923649999997,50,0,Controller funds 12 trading signers; older recovery entries and partial exits.
+asdasd,EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG,24,40.5,8.681091713999999,0.98765432,-21.428048884929584,0.9827160484999999,6.0,2,Pullback/sell-response scalps; frequent re-entries.
+bot,7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx,15,33,25.091621517,4.444444443,0.0,5.652701317,,8,Strong wallet-following clue: named holder present in 15/15 buy receipts.
+insane bot,BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u,2,92.5,14.192052518499999,3.456790122,-1.6973466651000357,7.3726609100000005,,0,KOL account references in custom program; only two successful buy prefixes.
+bot,5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck,24,1.0,8.9860181735,1.975308641,0.0,3.313133744,1,1,Very early momentum scalp; one-second median completed hold.
+boooooot,Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA,24,109.0,14.422393680999999,3.950617283,-14.934566169950475,2.2866033555,14,12,KOL-following candidate: recent KOL buy within two slots in 12/24.
+cbot14,9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19,24,7.5,13.383674364,0.9208893250000001,-16.25860891413431,-0.9542863835,7,5,Early sell-pressure/recovery entries; some adds and partial exits.
+Botty,2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY,24,56.0,9.666353144,0.8844895564999999,-23.924258506955464,0.8583132025,8.0,0,Recovery buyers at substantial observed drawdown; variable tickets and re-entries.
+1sol bot,72MUPELEkUU5riN8ZPdfVssXWC6L8EViZ9FybHEmqT6J,24,17.5,7.1298484255000005,0.98765432,-18.733699238683183,-0.799630171,26,3,Sell-response pullbacks; near-constant gross one-SOL sizing.
+bot,haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq,24,7.0,3.1248187695,0.740740739,-13.014918240039197,-1.2246082165,25,0,Low-reserve sell-response; observed adds and staged sales.
+Bot,94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm,24,6.0,23.1170596745,0.98765432,-14.536154363374916,-2.7833125895,1,1,Rapid sell-response/custom execution; sparse recovered full cycles.

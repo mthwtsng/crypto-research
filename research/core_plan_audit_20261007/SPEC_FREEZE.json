@@ -1,0 +1,63 @@
+{
+  "frozen_at": "2026-10-08T02:01:16.554360+00:00",
+  "data": "600 creation-selected October 3\u20134 launches; retrospective; 76 signals / 58 mints",
+  "rules": "on-disk FINAL_CORE_STRATEGY_AND_CIRCUIT_BREAKER_PLAN.md; two endpoint interpretations; see signals.py and engine.py",
+  "base_ticket": 0.5,
+  "probe_ticket": 0.25,
+  "bankroll": 15,
+  "max_open": 2,
+  "breaker_matrix": [
+    [
+      5,
+      0.6,
+      6,
+      3
+    ],
+    [
+      8,
+      0.6,
+      8,
+      4
+    ],
+    [
+      10,
+      0.5,
+      4,
+      2
+    ],
+    [
+      6,
+      0.75,
+      8,
+      4
+    ],
+    [
+      5,
+      0.8,
+      12,
+      6
+    ]
+  ],
+  "global": [
+    2,
+    24,
+    12
+  ],
+  "look_count": 2,
+  "fees": [
+    0.001505,
+    0.002916
+  ],
+  "migration": "authenticated pools; no fictitious completion or pending demand; routed failed intents remain uncertainty",
+  "hashes": {
+    "research/core_plan_audit_20261007/signals.py": "0657c4e06f21eac3ca8fc6ff50333ddc791dd81f34d26f213eebc6a85bed6bf3",
+    "research/core_plan_audit_20261007/engine.py": "eb310089ae4e43b22ed95ae3c1a7f601678379913b0a151c0d740cf88afd00b9",
+    "research/FINAL_CORE_STRATEGY_AND_CIRCUIT_BREAKER_PLAN.md": "fa913e3ba87abcd4eecb2d208e5ea5a5876661620db65aee2ef1f85d1054d3f1",
+    "research/core_plan_audit_20261007/ledger.py": "cd3b594e4f633c30cf9a99985cf66f95102043ec6df53c193d9a293787518d05"
+  },
+  "pre_result_correction": "Post-dump trough begins at preceding peak, not launch initial low; corrected before reading replay results",
+  "post_result_diagnostics": [
+    "portfolio_without_carryover: isolate other rules after two migration paths occupy shared slots; no rule or exit parameter changed"
+  ],
+  "ledger_final_sha256": "2f409b54fed6e558910cc9963d20222faba9a204564df79705c1c79d07be1d1b"
+}

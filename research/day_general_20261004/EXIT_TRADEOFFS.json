@@ -1,0 +1,90 @@
+[
+  {
+    "rule": "dislocation",
+    "scenario": "same_slot_one",
+    "matched_closes": 28,
+    "baseline_losers": 20,
+    "loser_damage_saved": 0.019155749000000055,
+    "baseline_winners": 8,
+    "winner_upside_surrendered": -0.06519646999999973,
+    "total_staged_improvement": 0.08435221899999978,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "dislocation",
+    "scenario": "next_slot_tail",
+    "matched_closes": 19,
+    "baseline_losers": 14,
+    "loser_damage_saved": 0.0,
+    "baseline_winners": 5,
+    "winner_upside_surrendered": -0.06387322700000003,
+    "total_staged_improvement": 0.06387322700000003,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "velocity",
+    "scenario": "same_slot_one",
+    "matched_closes": 47,
+    "baseline_losers": 28,
+    "loser_damage_saved": 0.0,
+    "baseline_winners": 19,
+    "winner_upside_surrendered": -0.09954065500000003,
+    "total_staged_improvement": 0.09954065500000003,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "velocity",
+    "scenario": "next_slot_tail",
+    "matched_closes": 40,
+    "baseline_losers": 28,
+    "loser_damage_saved": 0.0,
+    "baseline_winners": 12,
+    "winner_upside_surrendered": -0.04028647600000007,
+    "total_staged_improvement": 0.04028647600000007,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "liquidity",
+    "scenario": "same_slot_one",
+    "matched_closes": 52,
+    "baseline_losers": 35,
+    "loser_damage_saved": 0.0,
+    "baseline_winners": 17,
+    "winner_upside_surrendered": -0.05550260200000001,
+    "total_staged_improvement": 0.05550260200000001,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "liquidity",
+    "scenario": "next_slot_tail",
+    "matched_closes": 47,
+    "baseline_losers": 33,
+    "loser_damage_saved": 0.0,
+    "baseline_winners": 14,
+    "winner_upside_surrendered": 0.04958768499999994,
+    "total_staged_improvement": -0.04958768499999994,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "mature_fresh",
+    "scenario": "same_slot_one",
+    "matched_closes": 33,
+    "baseline_losers": 17,
+    "loser_damage_saved": 1.1102024149999998,
+    "baseline_winners": 16,
+    "winner_upside_surrendered": 0.7718086079999994,
+    "total_staged_improvement": 0.3383938070000004,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  },
+  {
+    "rule": "mature_fresh",
+    "scenario": "next_slot_tail",
+    "matched_closes": 26,
+    "baseline_losers": 15,
+    "loser_damage_saved": 0.6547080139999999,
+    "baseline_winners": 11,
+    "winner_upside_surrendered": 0.886766888,
+    "total_staged_improvement": -0.23205887400000016,
+    "note": "Winner/loser labels used only to assess unchanged causal exit policies; not live routing inputs."
+  }
+]

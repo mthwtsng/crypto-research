@@ -1,0 +1,505 @@
+{
+  "jobs": [
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "curve": "54N3qKycuqfv3CZBnvb2wetHgKz8F1qcsdmxWzepSmzm",
+      "latest_signal_time": 1791015115,
+      "rules": [
+        "fresh_expansion",
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "curve": "ExiynEcbABJau1XBknqwK6VzD9BzQBuwuPHbxkdGHnfF",
+      "latest_signal_time": 1791076586,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption",
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "curve": "DTUpxKbfsdRFccbeod8GgUairNrDBJGXWh2gkFR4kugy",
+      "latest_signal_time": 1791050893,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "curve": "DhDMjEAZTTG3LgLgvrrLHP6BEt35jkVFY7h3nMFj3pgn",
+      "latest_signal_time": 1791011415,
+      "rules": [
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "curve": "4MfrxnE3xss2Wk4rxL68xgLUmHTiZvw4rSbW1tX3i2q8",
+      "latest_signal_time": 1791059080,
+      "rules": [
+        "fresh_expansion",
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "curve": "94bRf9BTnNAD2VkpdnTjW6MThTXfFhrGdDJGXCk2e8kZ",
+      "latest_signal_time": 1791026367,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption",
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "curve": "CY4bRcuy1UiGu9wPuvJozeznzpYYdYzZfzgYf3v3iCyN",
+      "latest_signal_time": 1791041170,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption",
+        "late_continuation"
+      ]
+    },
+    {
+      "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+      "curve": "EKbFkVVZEkDU9aSTKXiecTPSPdsVgkbqpYQtSruNvpHK",
+      "latest_signal_time": 1791051548,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+      "curve": "EE2xTELy2yhyAuCUuwRHJXToqRzJnARt33CfdveKbNQQ",
+      "latest_signal_time": 1791072149,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "7g5fkha95FDYFK1zFfYorwcNR6jUVP6oPZ3heYEZAErH",
+      "curve": "89LZg1xNMHLX1jpmX7Z7ZH4YCSrcgZf8Ws34oy2HTCcC",
+      "latest_signal_time": 1791070200,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+      "curve": "8EQbzoRXf81DLsYkQ7qtUR6qB9aynqXhYmMbikwYpNvm",
+      "latest_signal_time": 1791032471,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+      "curve": "G9s34pb9wzyqpuUve1LCQU7XCJqvJuMhWLL9dUVBxpt5",
+      "latest_signal_time": 1791028943,
+      "rules": [
+        "broad_recovery",
+        "quiet_absorption",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "curve": "87Z9Ap5ycRmgDnknWvCa99KH3V27A8kmz75mHA7A3Fhv",
+      "latest_signal_time": 1791097125,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "8CkviU1qVZNiNHcUmmS6EHr9gurpYj9KMPqhWdRfu6jY",
+      "curve": "9AH8MHdBrNrzDrGRPkcwbKZ3E3MihqSHPapV6o2cg4fX",
+      "latest_signal_time": 1791029052,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+      "curve": "C2RFyaXXq4bEDUuZipVGAYcKreh232nh4tv79Pzww9ye",
+      "latest_signal_time": 1791091540,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "BiuduAxFiTwYg1z3H7Yfmtwvjsx9WVF5FbR19RpZpump",
+      "curve": "GqqaWR5WWPZ4va3h1SxgueyYzYtFJw4RTDNq4Uns2bVi",
+      "latest_signal_time": 1791079670,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+      "curve": "HLpeUiWwEf4J7mZkru68og7NXRRAf1U3AAYZCuGkNqmp",
+      "latest_signal_time": 1791077042,
+      "rules": [
+        "fresh_expansion",
+        "quiet_absorption",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+      "curve": "5KN8NE8ZnJs4apAGKT9H3W2E2ut2vvoSYo8u8rKt4oY7",
+      "latest_signal_time": 1791027335,
+      "rules": [
+        "fresh_expansion",
+        "quiet_absorption",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+      "curve": "DXPE6weEoEuPbgx8VyuWreN57wVK4mDkLVhSjixBMp6r",
+      "latest_signal_time": 1791038841,
+      "rules": [
+        "fresh_expansion",
+        "quiet_absorption",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+      "curve": "SPaJ9V9xVyoQGjQNtyJrEKprgzivk7Ruq9smtjgEx9a",
+      "latest_signal_time": 1791061018,
+      "rules": [
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "EHQ6SqAugkusBtxYUEsr8ELbkK9Atg5LMm5rzGxjpump",
+      "curve": "Jmt1gP1iWiMaHyTKc7iUj9fJCiPP23eZV1MvCRLvzvG",
+      "latest_signal_time": 1791033126,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+      "curve": "6hoTJBdh4w57w6VcYkor2tEBJkuskRwxbsowr4bvz2Az",
+      "latest_signal_time": 1791034059,
+      "rules": [
+        "fresh_expansion",
+        "quiet_absorption",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "HTWVwVHCnuwFz8ombhtkEZyaCXk2hUY9yqjLpXPGpump",
+      "curve": "HGTPuSB5YNYnANGWaSRurG8R6siort2ZEVW3zuNzhKge",
+      "latest_signal_time": 1791051077,
+      "rules": [
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "GYTcHczXUBrNP6YjcbrE1U5Be3rJZiRXr9W9tTJ9pump",
+      "curve": "2y6psnshNBjGmULSeZX9ED5y22H6a4A9NhQGqDDtfYfQ",
+      "latest_signal_time": 1791072324,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "5RwHdFaF4pBmzkbAQJFPEBcosbGLphUwaDfkHZXupump",
+      "curve": "DC5kAPpqCUMqHk77ZM2LRmx41teUxqbb28m4hbtbxc3K",
+      "latest_signal_time": 1791033303,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "curve": "F62A9kGcWDJZFMqu1NMnnSDSU9mFhdv11KXZsvJ361nr",
+      "latest_signal_time": 1791012291,
+      "rules": [
+        "broad_recovery",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+      "curve": "9v5Tc68vaDBa4az6r8h6Zj3ygG96HECWGSdpUrpqWPYR",
+      "latest_signal_time": 1791080061,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+      "curve": "JA6SEmsd3e7WXmxb42NvNVUkme4CLuea7VtDgkMG9XNN",
+      "latest_signal_time": 1791070581,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "2m2AWRgT3jVYTnAqkd45fsFh9aEuR9dzpvYga9u1FezL",
+      "curve": "EGGxPs77NCAGH7tSzwGYc799FNpF3xhf6mxSwCProK36",
+      "latest_signal_time": 1791044209,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+      "curve": "3w36nKX4JrB1LcbkVuPZLXVb4ruEwiuQGnc7KstSSmHf",
+      "latest_signal_time": 1791082390,
+      "rules": [
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+      "curve": "29xvMp1LoqUbs58D2w4mLcdaFaunPq6C9EPKEHYXY4VB",
+      "latest_signal_time": 1791049482,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "curve": "31tkjs9Vc7Apwutq66MRzNWpWKJZpf2iGH4fqBp3dQ7Y",
+      "latest_signal_time": 1791051804,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "9FB7CpWqbe3gxTPykrwP32WRbhFRRjCkJgpWaGwUpump",
+      "curve": "AW4UoHefVwSZitYKowiYzbgHugm2tHmRrcdachb4npHv",
+      "latest_signal_time": 1791020702,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+      "curve": "3v8opq4tTKMCVyBH62n1nR5ngL8EvWN7bbigbg3ha1kZ",
+      "latest_signal_time": 1791060439,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "RizuZSNVSv2zYvsTQu8sGPGGFBusiH9Hstio436ZjAi",
+      "curve": "FDWatsyq3igBEJfxTtyha2hGytAXLAvBH3BEJr1qSxJY",
+      "latest_signal_time": 1791096614,
+      "rules": [
+        "broad_recovery",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "F7ZUzbVFMcjCwSjhUVHouM8Ltuhua8MKkzTGHRDvHoqS",
+      "curve": "3gQ5fxWocmdhKkkUDt8njaMGCHa1UD6Ejn2B7iC2iMUb",
+      "latest_signal_time": 1791018925,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+      "curve": "oa3VCEGwgbzRzmPG9GQpFUquBqwUdXn4VsHy7LP8ndD",
+      "latest_signal_time": 1791091168,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+      "curve": "3dNjp55id7AJzuodGaTcQjtzdKnumTmr2wdhtXkb2jJc",
+      "latest_signal_time": 1791060807,
+      "rules": [
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+      "curve": "DXceB782NkeWF7AcBcnFWdVgssDjqJacRhS7KVDwaQEe",
+      "latest_signal_time": 1791028134,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+      "curve": "FQPtZNZqoqXvH2BGdefjChQaprCcfE6vQcQRwq7oyiq7",
+      "latest_signal_time": 1791064211,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+      "curve": "4xSMJH8Ht57X8kk2aFAChaiuEvFQk7bMcv8WdLuaLG2v",
+      "latest_signal_time": 1791019237,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "GowW17EFGraNWh44KjEgCZ4yZtfuekvM7HB4WHdipump",
+      "curve": "494hhTDRJWQwqQv36tNQQtbneJXv9UwWaDC13CAk7BDV",
+      "latest_signal_time": 1791053929,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "EfgwtKAaSYMyR3uzSUn7MnakahToKhGqgoTu4F9mJK39",
+      "curve": "3L3uE4jeDUFwZ8CyFauqJyC9fq3BAuBJFg1MEn6HcauT",
+      "latest_signal_time": 1791010887,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+      "curve": "7DAHW3fmdPyFUoWuRhnv45cH2tApCKNgvtgu9FNSkW4f",
+      "latest_signal_time": 1791045241,
+      "rules": [
+        "broad_recovery",
+        "quiet_absorption",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+      "curve": "FZ5VBLhHtR6mYeusJA6W4TzuxTVqzVk1Mkgx4vnDiUD2",
+      "latest_signal_time": 1791075522,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+      "curve": "ByW7YJYzfcBJJMPvJjLeFbhBGBAHV1akWKqY7YnTBspQ",
+      "latest_signal_time": 1791075909,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+      "curve": "6Lc4Gx9qwM4xPDi1pU6vNrzmJ4dSMnfhHThs3FtwzHGF",
+      "latest_signal_time": 1791057304,
+      "rules": [
+        "fresh_expansion",
+        "broad_recovery"
+      ]
+    },
+    {
+      "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+      "curve": "FjyQCY2fTzodCRjSKh8KAAgtUbPeVHzVsrkkxJnMY2zP",
+      "latest_signal_time": 1791054356,
+      "rules": [
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+      "curve": "BF2K2k4sw9GH1MQ8wUh2tv7t3sUKZudma8ZTktNRgENX",
+      "latest_signal_time": 1791056342,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+      "curve": "7kh67WynRHcGRNta5vWZLHPZVz8wL4zy6tWD8u4gUFkd",
+      "latest_signal_time": 1791016866,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+      "curve": "42DYGkpJQjxMeufBnUim2wRE8uLKmf29wBtcsqWGddsR",
+      "latest_signal_time": 1791061893,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion",
+        "quiet_absorption"
+      ]
+    },
+    {
+      "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+      "curve": "D5Rw2bwAp16PtXcXeoyTofuUmJHEd3nU4mLhc98tWMQs",
+      "latest_signal_time": 1791022398,
+      "rules": [
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "7obZ1N9p59MnobGWwiXZc2FcgaabncDp4zqkxUn7pump",
+      "curve": "53UpwcS4WwCYyKLJiPjJZHTpUFyN87sfJLFpn71hoDR6",
+      "latest_signal_time": 1791057602,
+      "rules": [
+        "broad_recovery",
+        "fresh_expansion"
+      ]
+    },
+    {
+      "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+      "curve": "2J9eXN74QJEiKoeGiwLRoBUah9wXLcDcV3EKu5BQJ6ju",
+      "latest_signal_time": 1791074615,
+      "rules": [
+        "quiet_absorption",
+        "fresh_expansion",
+        "broad_recovery"
+      ]
+    }
+  ],
+  "selection": "all eligible mints from four frozen entry hypotheses on600creation-sampled launches; includes every nongraduating eligible mint; late-rule priority changes acquisition order only",
+  "curve_extra_seconds": 1800,
+  "amm_extra_seconds": 600
+}

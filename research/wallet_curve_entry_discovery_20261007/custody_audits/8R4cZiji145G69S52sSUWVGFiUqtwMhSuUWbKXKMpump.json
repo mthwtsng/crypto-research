@@ -1,0 +1,61 @@
+{
+  "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+  "passes": [
+    {
+      "signature": "4bDixgRpirai25b4ZVfEGddTs7tjb8VyxAMHFsFkw5wF4kYoAThVSLTLzXdorcGZThLvxcBNro8rjycs5uNAc8q9",
+      "owner": "3njXrJuWoyNwwjynXsC8pxnMXdfEMH7JHr9eMAKQnDq8",
+      "accounts": [
+        "CYcgaue8WWyxmb1VMXusfiBaa7vK8dhRAasweK13Qdtp"
+      ],
+      "added": [
+        "5Tp9UtUFG3wWA54UWCMJQgAq8CR1NGpcXgxn5HSMbZZFRPUKUvqzDuSQFQNi9yf3gXgYe9CK6BANgd8rSbG36yq3"
+      ]
+    },
+    {
+      "signature": "v2ReNPdge3KXo53sxJNCBvAvGHPgy6hzY6ahybFsbVsxdD2nSmccP9TbSCcr5NAvBwFJucE1D2XQNkAaF8JTEjk",
+      "owner": "9P9aAh3kdMK651CcDG4iCdoByYj1FJgKq3yVoPrXVCAu",
+      "accounts": [
+        "4yJv6F8HQb4FKeYZtyPpSYUdgJpCZE2s17av2wmtqrZf"
+      ],
+      "added": [
+        "5aEHTzdekocs7Sy2b5N6DPMMQdjpZtDcLXbjoTuqs9uU5WA93uL1YJdCvCMu2pyhjTLTeK85ZZisGMVs6jmyCyZn",
+        "4FVgszRvh8xRAy3jiNvnxUt4HpGN4A1oK4FHr3JNpzP8T3WHkJobmUPq693Lr1WWuhxtW7yJrAXkfehKZUG72Mt5"
+      ]
+    },
+    {
+      "signature": "2DU3ZC8HEfX4MiCjavKKsFs1Z8RCpN2UNES613F6PU69DMtveQvycGXEUoATKKLrvshXFYKiZ2j8AKa28dMzu3zZ",
+      "owner": "BDy5BiT8YrWbMiu9s4DnMDv1hS5ivNaVwdghCDC1ipy1",
+      "accounts": [
+        "H648WisdfAdpqVSgQZRuh5tUbtUtorM8JEAJFwhh1PuP"
+      ],
+      "added": [
+        "sfeUJi9Nu11qUdm4JPd8uitnHqvp1wmQuQu8xfNDgcfaJFHt3YZnCogCznYcKKrQruvjHzLjzpPQGJHHZu7A6cT"
+      ]
+    },
+    {
+      "signature": "4MspJU2PHDJSgBWoY5NUP8kJy9aVPLrwDpRXYBYLWj6u3WVWBU5aYKND6aFZgFgK5Zo1LeEPCtF1AYFtyPpZ6yaB",
+      "owner": "3njXrJuWoyNwwjynXsC8pxnMXdfEMH7JHr9eMAKQnDq8",
+      "accounts": [
+        "CYcgaue8WWyxmb1VMXusfiBaa7vK8dhRAasweK13Qdtp"
+      ],
+      "added": [
+        "4ySMpmqT4EqSS2PbeEPiEobLuZezchzmCEGdE7mzEgQVi1caMHsFQKVTvTE3gMoDAGfzTtnG8VzQwkdp6hWKXXwd"
+      ]
+    },
+    {
+      "signature": "3EzXYYp5Kq6MY6t7iksW6fVWz1V3zskiLmspQVYh2xpgQDwweWouReKiJ3vepi4LwicX8kR5Sug8nddksGjHx9dk",
+      "owner": "21cutQKXw6opqwAcUfVVSDFbjKjs9NA94cUTfYBy4SZ6",
+      "accounts": [
+        "ksuDkza2oSqc53eiG9WHv4SQnELbmvz4yAZgtqpsSo5"
+      ],
+      "added": [
+        "5rfGw96xuzipmoVBtZHYrGJCLJvtQimgnhdqEfoxCidskZVtLpyvXLwtec8ZvJZTWRcCDH6uxb1DGbm9HPZZQzJC"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 829,
+  "curve_groups": 829,
+  "initial_precompletion_gap": true
+}

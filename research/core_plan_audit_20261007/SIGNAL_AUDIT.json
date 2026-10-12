@@ -1,0 +1,16 @@
+{
+  "coins": 600,
+  "dates": {
+    "2026-10-03": 426,
+    "2026-10-04": 174
+  },
+  "signals": {
+    "s3_deadman": 19,
+    "s5_carryover": 7,
+    "s1_dev_absorption": 11,
+    "s2_survival_shelf": 12,
+    "s4_upper_ath": 27
+  },
+  "eligible_mints": 58,
+  "errors": []
+}

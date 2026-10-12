@@ -1,0 +1,120 @@
+{
+  "accounting": {
+    "combined_marked_estimate_sol": null,
+    "note": "This tool audits individual receipts/quotes and produces no account PnL or inventory ledger. Graduated inventory remains unresolved because this CLI only decodes Pump curve trades; it does not fabricate an AMM sale.",
+    "open_marked_pnl_sol": null,
+    "settled_pnl_sol": null,
+    "unresolved_inventory_count": null
+  },
+  "audits": [
+    {
+      "audit_event": "RPC_FILL_RECONCILIATION",
+      "classification": "unresolved",
+      "created_at_utc": "2026-10-11T07:31:41.626524+00:00",
+      "input_source_rows": [
+        1,
+        2
+      ],
+      "intent_id": "ghost-v2-20261011T064058-intent-38",
+      "mint": "J9pbNmgegUto8SygmkgnMGK1GPnUy4evTbeDThqXvXMN",
+      "placement_seed": "0fb747536ab96d4ffa72dd1fcd6f96dfade2e1de88a932629887ab2a93ad3303",
+      "position_id": "ghost-v2-20261011T064058-1791703704426-37",
+      "rpc_error": "RPC getBlock failed: HTTPError",
+      "side": "buy",
+      "source_event": "FILL",
+      "source_input_line": 2,
+      "source_rpc_notes": [],
+      "source_signature": "2nGCcqCviPTi8LYEPn4WXCSLjJye9PMmnewxtwGsub8UrKVTw6seLqbMKSpSpfvGMH2QKC4SeGLefmVje38Ex6jC",
+      "source_slot_canonical": 455568708,
+      "source_slot_logged": 455568708,
+      "source_transaction_index_canonical": 165,
+      "source_transaction_index_logged": 165,
+      "status": "scenario_rpc_error"
+    },
+    {
+      "audit_event": "RPC_FILL_RECONCILIATION",
+      "classification": "unresolved",
+      "created_at_utc": "2026-10-11T07:31:43.101981+00:00",
+      "input_source_rows": [
+        3,
+        4
+      ],
+      "intent_id": "ghost-v2-20261011T064058-intent-42",
+      "mint": "J9pbNmgegUto8SygmkgnMGK1GPnUy4evTbeDThqXvXMN",
+      "position_id": "ghost-v2-20261011T064058-1791703704426-37",
+      "rpc_error": "RPC getTransaction failed: HTTPError",
+      "side": "sell",
+      "source_event": "FILL",
+      "source_input_line": 4,
+      "status": "source_rpc_error"
+    },
+    {
+      "audit_event": "RPC_FILL_RECONCILIATION",
+      "classification": "unresolved",
+      "created_at_utc": "2026-10-11T07:31:44.329625+00:00",
+      "input_source_rows": [
+        5,
+        6,
+        7
+      ],
+      "intent_id": "ghost-v2-20261011T064058-intent-47",
+      "mint": "J9pbNmgegUto8SygmkgnMGK1GPnUy4evTbeDThqXvXMN",
+      "position_id": "ghost-v2-20261011T064058-1791703704426-37",
+      "rpc_error": "RPC getTransaction failed: HTTPError",
+      "side": "sell",
+      "source_event": "FILL",
+      "source_input_line": 6,
+      "status": "source_rpc_error"
+    }
+  ],
+  "counts": {
+    "action_records": 3,
+    "actual_receipts_reconciled": 0,
+    "graduated_unresolved_records": 0,
+    "quote_only_records": 0,
+    "status": {
+      "scenario_rpc_error": 1,
+      "source_rpc_error": 2
+    },
+    "unresolved_coverage_items": 3,
+    "unresolved_records": 3
+  },
+  "generated_at_utc": "2026-10-11T07:31:45.580980+00:00",
+  "input": {
+    "intents_path": "/home/mthwt/code/Crypto/reports/ghost_post_exit/ghost-v2-20261011T064058-intent-47-1791703877990.jsonl",
+    "intents_rows": 7,
+    "observation_rows": 786777,
+    "observations_path": "/home/mthwt/code/Crypto/data/ghost_observations.jsonl"
+  },
+  "limitations": [
+    "A hypothetical quote is not a filled transaction or a profitability estimate.",
+    "Actual source and landing indexes come from canonical getBlock transaction arrays; logged indexes are retained only for comparison.",
+    "Missing signature, block, event, reserve continuity or migrated-pool execution is reported as unresolved coverage.",
+    "Existing OPEN/CLOSE rows without source signature and slot are not assigned guessed transaction positions."
+  ],
+  "migration": {
+    "graduation_sell_created": false,
+    "post_migration_decoder": "not implemented in this bounded curve-fill audit; migrated positions remain unresolved and require separate authenticated PumpSwap/Raydium continuation coverage"
+  },
+  "placement_model": {
+    "brackets": [
+      "fast",
+      "slow"
+    ],
+    "central_scenarios": [
+      "central80",
+      "central85"
+    ],
+    "hypothetical_boundary": "curve-state boundary after the selected full transaction group; no within-transaction insertion or exact hypothetical block index asserted",
+    "seed_rule": "sha256('ghost-placement-v1|' + stable intent identity + scenario label); no outcome or RPC result enters the seed"
+  },
+  "quote_method": "Approved day_general integer quote helpers plus repaired Pump curve adapter; finite intent amount, protocol/creator fees and own reserve impact. Counterparty reactions after the hypothetical quote are not replayed.",
+  "rpc": {
+    "commitment": "confirmed",
+    "endpoint_recorded": false,
+    "max_supported_transaction_version": 1,
+    "raw_response_cache": "rpc_cache/"
+  },
+  "schema_version": 1,
+  "scope": "read-only post-exit Rust ghost intent/fill RPC audit; no order submission and no profitability replay"
+}

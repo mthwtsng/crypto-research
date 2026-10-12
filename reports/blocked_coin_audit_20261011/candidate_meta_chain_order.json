@@ -1,0 +1,119 @@
+{
+  "candidate_counts_by_family": {
+    "S1": 79,
+    "S2": 20,
+    "S3": 52,
+    "S4": 50,
+    "S5": 16
+  },
+  "candidate_mints_with_create_observed": 47,
+  "candidate_mints_without_create_observed": 8,
+  "candidate_rows": 217,
+  "candidate_rows_bytes": 1220262,
+  "candidate_rows_path": "reports/blocked_coin_audit_20261011/candidate_rows_chain_order.jsonl",
+  "coverage_and_limitations": [
+    "A mint without an observed create mapping has unknown genesis and incomplete pre-prefix history; candidate predicates can be missed or distorted.",
+    "ReceiptObservation lacks the fee payer pubkey, so signer_post_sol_lamports is deliberately not assigned to any user; fresh-wallet/dust anti-bundle state is therefore not reconstructed.",
+    "Tracked wallet and KOL whitelist files/environment are not used; a deterministic anti-bundle reason can be bypassed in the running process for a whitelisted coin.",
+    "No create event is fabricated as a trade. The live code registers the create mapping before receipt trades, which this helper mirrors.",
+    "Source predicates are current checked-out Rust behavior, not proof of deployed binary/config parity or canonical registry parity."
+  ],
+  "create_mappings_observed": 1055,
+  "curve_trade_events_applied": 91306,
+  "first_post_cutoff_rows_seen": 0,
+  "input": "/home/mthwt/code/Crypto/data/ghost_observations.jsonl",
+  "input_manifest_path": "/home/mthwt/code/Crypto/reports/blocked_coin_audit_20261011/MANIFEST.json",
+  "input_manifest_size_bytes": 404285795,
+  "last_receipt_at_or_before_cutoff_ms": 1791757533515,
+  "manifest_cutoff_ms": 1791757533517,
+  "manifest_session_start_ms": 1791756021000,
+  "manifest_warmup_start_ms": 1791755763175,
+  "method": [
+    "Parsed the complete sorted ReceiptObservation file built only from complete rows inside the MANIFEST frozen byte prefix and received_at_ms cutoff.",
+    "Mirrored the live order: register receipt create mappings, apply every event in the complete receipt in log order, then evaluate only the last event per mint.",
+    "Used current Rust CurveState.apply_onchain_trade and observer-only CurveState.audit_entry_candidates; candidate audit runs before the anti-bundle check and does not mutate signal_fired.",
+    "Dedupe key is mint/family/signature. Repeated source-predicate opportunities on later signatures remain visible.",
+    "Each candidate row embeds the complete original receipt JSON, including all events and raw_logs.",
+    "Chain-order output is a canonical chronology diagnostic; records may have arrived after the candidate receipt and this output does not claim those predicates were available to the live process at that receive time."
+  ],
+  "ordering_model": "slot_transaction_index",
+  "processing_bytes_consumed": 403658623,
+  "processing_input": "/tmp/ghost_observations_chain_order_20261011.jsonl",
+  "processing_input_limit_bytes": 403658623,
+  "receipts_before_candidate_window_used_for_state": 15028,
+  "receipts_through_cutoff": 91095,
+  "rows_seen_including_first_after_cutoff": 91095,
+  "source_screen_scope": "anti-bundle CurveState check only; runtime whitelist context and asynchronous fresh-wallet/cabal state are not reconstructed; not holder RPC verdict, live admission, funding/capacity, execution, or PnL",
+  "task": "offline source-predicate candidate audit",
+  "trailing_partial_bytes_within_manifest_prefix": 0,
+  "unique_mints_by_family": {
+    "S1": 18,
+    "S2": 13,
+    "S3": 7,
+    "S4": 19,
+    "S5": 7
+  },
+  "provenance": {
+    "repository_head": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+    "input_manifest_sha256": "d41ebd13fe5bf1213d2791005972129971808f367910f240c90ce4d70d379542",
+    "input_observations_frozen_prefix_sha256": "caaa60d73b5638b22639ffc813a0ce278f4b94a0a556dc0e0caa86610eca7af4",
+    "input_observations_frozen_prefix_bytes": 404285795,
+    "rust_source_sha256": {
+      "src/bot/curve_detector.rs": "a43d5cb7b90929dae325a5356aec6e5e7585ad6e5e379371e4bcf0e7d32e794c",
+      "src/bot/ghost_execution.rs": "dad0125a7260d36c7747d6fd750630bb4ba3862f68016a29745ff5b0eea9ce1a",
+      "src/bot/migration_amm.rs": "bc5269d7fe3f018f12827b383652e7fa3f5850ab3d2e038d18105a51e2b4dbd8"
+    },
+    "helper_sha256": {
+      "reports/blocked_coin_audit_20261011/helpers/Cargo.toml": "2a9f05b629a74e6e3b08eb722656f9778513a7638f1a1692d157bfa919116b00",
+      "reports/blocked_coin_audit_20261011/helpers/Cargo.lock": "a57dfd65ff2c89176473a74214f358d053bc225004f212a4661ade25175367f5",
+      "reports/blocked_coin_audit_20261011/helpers/main.rs": "5c02357cdf73b13cfe46721d01b5388ea4979be1bdfb52d8b32e0cb79e0a4517",
+      "reports/blocked_coin_audit_20261011/helpers/sort_receipts_chain_order.py": "143c7abc2bff477fdbbdb32c5b0e065a21c77dd94013eb5a01dadcd1806ac588",
+      "reports/blocked_coin_audit_20261011/helpers/finalize_candidate_meta.py": "5ec758eebe024a69b18f231a922120fb6386f96228a7b68a10ae8471df47731c"
+    },
+    "receive_order_rows_sha256": "79abc956764d5d016a0e3c5e878acf1992db31fa9a5945ae9687a3af66e9bd1f",
+    "chain_order_rows_sha256": "24c73000b1742938d88976491d502bb515dc03ac98e79ebc37679572d3f26de3"
+  },
+  "receive_vs_chain_order_check": {
+    "receive_candidate_rows": 217,
+    "chain_order_candidate_rows": 217,
+    "candidate_keys_equal": true,
+    "candidate_snapshot_differences": 0,
+    "candidate_receipt_payload_differences": 0,
+    "chain_candidates_using_prior_same_mint_receipt_received_later": 0,
+    "compared_snapshot_fields": [
+      "timestamp_ms",
+      "slot",
+      "transaction_index",
+      "signal_reserve_sol",
+      "spot",
+      "qualified_buyer_count",
+      "anti_bundle_clear",
+      "anti_bundle_first_reason",
+      "creation_observed"
+    ],
+    "receive_and_chain_order_row_key": [
+      "mint",
+      "family",
+      "signature"
+    ],
+    "caveat": "The chain-order series is a chronology diagnostic. A source predicate reconstructed from slot/index state does not prove its inputs were available to the live process at the candidate receipt's receive timestamp."
+  },
+  "receive_log_order_diagnostics": {
+    "frozen_prefix_bytes_read": 404285795,
+    "complete_receipts_in_manifest_prefix": 91232,
+    "eligible_receipts_at_or_before_cutoff": 91095,
+    "rows_after_cutoff_in_manifest_prefix": 137,
+    "same_slot_transaction_index_inversions_all_prefix": 6391,
+    "same_slot_transaction_index_inversions_eligible": 6381,
+    "slot_regressions_all_prefix": 0,
+    "slot_regressions_eligible": 0,
+    "receive_timestamp_regressions": 0
+  },
+  "reproduction_commands": [
+    "cargo build --offline --manifest-path reports/blocked_coin_audit_20261011/helpers/Cargo.toml --target-dir target",
+    "target/debug/blocked-source-candidates",
+    "python3 reports/blocked_coin_audit_20261011/helpers/sort_receipts_chain_order.py /tmp/ghost_observations_chain_order_20261011.jsonl",
+    "target/debug/blocked-source-candidates --chain-order /tmp/ghost_observations_chain_order_20261011.jsonl reports/blocked_coin_audit_20261011/candidate_rows_chain_order.jsonl reports/blocked_coin_audit_20261011/candidate_meta_chain_order.json",
+    "python3 reports/blocked_coin_audit_20261011/helpers/finalize_candidate_meta.py"
+  ]
+}

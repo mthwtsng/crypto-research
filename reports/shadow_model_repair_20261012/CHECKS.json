@@ -1,0 +1,60 @@
+{
+  "head": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+  "calculation_model_revision": "persistent_curve_v4",
+  "source_sha256": {
+    "src/bin/curve_detector.rs": "02eb25d52fc519b297ab52cd5dad0c07583c20cab04ee60015bf8e0f7cf308ef",
+    "src/bot/curve_detector.rs": "7cab8c6d89d5d5f7ad3debef2e6426d78fafc09713096557e5d9ebe2764c0368",
+    "src/bot/ghost_execution.rs": "e4f7b8ffaa66275b273c207632703d34468c92014d84023c5ff9e7a9bd800d40",
+    "src/bot/shadow_curve.rs": "a1358510af28b49341f2f05c3f294dc10caab6d8276f43eb1ec1b55a236c3a22",
+    "src/bot/pump_receipt_decoder.rs": "bdb201fe71dd65cd644865d1fa99edefacd0bceb5c9855d13c4c5619c63745ff",
+    "src/bot/sol_usd.rs": "fcee3a9d604c580a79319ec818d609eb3a625de914fc8254f45908937f1184e6",
+    "src/bot/mod.rs": "e61998d3f470d939819c3fef31fefe913ee12c35b6b1c11777d33a457f0406e2",
+    "ui/index.html": "ba82a1f8ef8934c2563545aff44934c36312215d0ecbf6de583fb5282035ade1",
+    "scripts/run_shadow_detector.sh": "53665aa1688279962e639d587f9b20821a8fb5f01d92248f5c9d345b31540884",
+    "tests/fixtures/shadow_dnku6n_entry_rpc.json": "269dac4e1bf566be2e773af05e40b89f6503aca067427b29940f8cf7a088272b",
+    "tests/fixtures/shadow_dnku6n_exit_rpc.json": "c72c5f3a04f0152f1e5acdfd65e3afe875341eb3fdd2416fd3f879249e77893a",
+    "target/release/curve_detector": "46780a784c067b5133f847a9336b3c2854372c8c8cf66e173faa8ce1848584f0"
+  },
+  "release_build": "passed; optimized offline; 1m03s",
+  "component_tests": "test result: ok. 13 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+  "ui_checks": "current inline JS syntax and valuation/history/render fixtures passed",
+  "launcher_syntax": "passed",
+  "strategy_pnl_replay": "not run",
+  "runtime_deployment": "isolated disabled-entry probe only; normal shadow session not restarted",
+  "full_detector_tests": "300 passed; zero failed; no tests filtered",
+  "final_test_log": "tests_final.log",
+  "git_diff_check": "passed",
+  "final_release_build_log": "release_build_final.log",
+  "final_live_probe": {
+    "exit_code": 124,
+    "observations": 1526,
+    "creations": 10,
+    "trade_events": 1489,
+    "complete_instruction_events": 1489,
+    "tracking_counts": {
+      "complete": 1,
+      "incomplete_history": 91,
+      "missing_creation": 87
+    },
+    "checkpoint_tracking_reasons": {
+      "creation history missing; setup features incomplete": 113,
+      "unrecognized successful trade; mint history needs backfill": 1,
+      "unsupported_or_missing_creation": 2,
+      "ordered custody coverage incomplete; setup history needs repair": 2,
+      "eligible": 1,
+      "receipt reserve transition gap or inconsistency": 1,
+      "wallet custody differs from covered swap history": 3
+    },
+    "sol_usd_price": 111.73,
+    "sol_usd_price_source": "coingecko_simple_price",
+    "sol_usd_price_source_at_ms": 1791767011000,
+    "active_positions": 0,
+    "closed_trades": 0,
+    "calculation_model_revision": "persistent_curve_v4",
+    "paper_entries_disabled": true,
+    "unresolved_receipt_rows": 803,
+    "global_receipt_coverage_gaps": 0,
+    "scoped_truncated_receipts": 5
+  },
+  "final_live_probe_log": "feed_probe_final/runtime.log"
+}

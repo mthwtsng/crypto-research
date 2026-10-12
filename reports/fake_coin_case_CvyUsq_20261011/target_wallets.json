@@ -1,0 +1,3922 @@
+{
+  "FcNHxPSqQ1ChyWmwW8C4zzXuUvQR3b7zBNBxk84VPmSv": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.493827159,
+    "sell_sol": 1.142184997,
+    "buy_tokens": 17376518166910,
+    "sell_tokens": 17376518166910,
+    "first_ms": 1791760398811,
+    "last_ms": 1791760399352
+  },
+  "Dv4MuKsqjXZPMsep9ZDdXrRvNmCEFFGPoYidRMgJQsad": {
+    "buys": 1,
+    "sells": 67,
+    "buy_sol": 15.799270901,
+    "sell_sol": 36.66283703100001,
+    "buy_tokens": 360271445579211,
+    "sell_tokens": 360271445579211,
+    "first_ms": 1791760398813,
+    "last_ms": 1791760452724
+  },
+  "5iVp875yHx44rpYggGRrpJyF16uMkpJeSQgm3mHTXdEj": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.049382715,
+    "sell_sol": 0.23928802,
+    "buy_tokens": 740969627912,
+    "sell_tokens": 740969627912,
+    "first_ms": 1791760399130,
+    "last_ms": 1791760703367
+  },
+  "HMybCNDLMEvwDkHC6RJM3Pu2F1HFSxadGUJfGfvVSg9V": {
+    "buys": 6,
+    "sells": 5,
+    "buy_sol": 0.8435306760000001,
+    "sell_sol": 1.0519602030000001,
+    "buy_tokens": 7455965022876,
+    "sell_tokens": 7455965022876,
+    "first_ms": 1791760399131,
+    "last_ms": 1791760672137
+  },
+  "3Dpb2MpKNB3WxDUmWMo1gxmQjRReJpdtWnNzvisYhTMW": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.049382715,
+    "sell_sol": 0.131617201,
+    "buy_tokens": 733632281597,
+    "sell_tokens": 733632281597,
+    "first_ms": 1791760399133,
+    "last_ms": 1791760537460
+  },
+  "B9ksmPhuhj43BBWXJxm1SUXDbVZRthmvf8FZMpYhVhoH": {
+    "buys": 15,
+    "sells": 9,
+    "buy_sol": 1.092952151,
+    "sell_sol": 1.0610522640000002,
+    "buy_tokens": 5281761928721,
+    "sell_tokens": 4238170616078,
+    "first_ms": 1791760400549,
+    "last_ms": 1791761006046
+  },
+  "CMcKT7wshBUjRrPy6uH4bdTRkmxFLngQh2kTXrrzRVdC": {
+    "buys": 15,
+    "sells": 9,
+    "buy_sol": 1.058158943,
+    "sell_sol": 1.046570639,
+    "buy_tokens": 5219484154344,
+    "sell_tokens": 4235596649176,
+    "first_ms": 1791760400550,
+    "last_ms": 1791761006046
+  },
+  "4WYQz961X9qaQ3ZsySSmPaxrLT1j7LcbUre6VSqBfruM": {
+    "buys": 6,
+    "sells": 6,
+    "buy_sol": 1.442201724,
+    "sell_sol": 3.759375657,
+    "buy_tokens": 16927197442609,
+    "sell_tokens": 16927197442609,
+    "first_ms": 1791760400665,
+    "last_ms": 1791760652189
+  },
+  "Hy4ZuryDVXuytB3TGXmAdcqHQeF7WMQD4dZLdAipyVFt": {
+    "buys": 7,
+    "sells": 11,
+    "buy_sol": 0.78118292,
+    "sell_sol": 0.9756922969999999,
+    "buy_tokens": 4051865227835,
+    "sell_tokens": 3315563102943,
+    "first_ms": 1791760401114,
+    "last_ms": 1791761032426
+  },
+  "7dGV2auDmovmUbb27KBW1QNN52aLXd4ZZbafG9nyr5VT": {
+    "buys": 7,
+    "sells": 11,
+    "buy_sol": 0.783261519,
+    "sell_sol": 0.961494832,
+    "buy_tokens": 3994653902823,
+    "sell_tokens": 3257218953252,
+    "first_ms": 1791760401159,
+    "last_ms": 1791761032428
+  },
+  "67yq4ZX8XwnMstykqd881CLhjLjuGNwkHg9zSQ4J7PsZ": {
+    "buys": 1,
+    "sells": 6,
+    "buy_sol": 0.198357256,
+    "sell_sol": 0.817738125,
+    "buy_tokens": 2989418664748,
+    "sell_tokens": 2989418664748,
+    "first_ms": 1791760401629,
+    "last_ms": 1791760749963
+  },
+  "GuDX871Lb2WqsLzbHG8srWvHR6zWD5L3dSCxA3jSUvma": {
+    "buys": 6,
+    "sells": 7,
+    "buy_sol": 1.95373635,
+    "sell_sol": 4.328520989,
+    "buy_tokens": 24705567315075,
+    "sell_tokens": 24705567315075,
+    "first_ms": 1791760401772,
+    "last_ms": 1791760665343
+  },
+  "BXzcd5R8m5KyQMPqfYouo9kM7gVL8AwAwLUXuUhD9dSC": {
+    "buys": 6,
+    "sells": 7,
+    "buy_sol": 1.10892946,
+    "sell_sol": 3.0957838549999996,
+    "buy_tokens": 11781437736599,
+    "sell_tokens": 11781437736599,
+    "first_ms": 1791760402859,
+    "last_ms": 1791760729000
+  },
+  "7qrpX5q2FjTkZvyU5sh2T54VJHSWiJ9nKrV24LLcNNBy": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.001777776,
+    "sell_sol": 0,
+    "buy_tokens": 26520795483,
+    "sell_tokens": 0,
+    "first_ms": 1791760403376,
+    "last_ms": 1791760403376
+  },
+  "8B7GebyBvCAZeKywQE1gF8RzSLrjsqMnDHbLmMdN1wGN": {
+    "buys": 6,
+    "sells": 7,
+    "buy_sol": 1.5136892520000003,
+    "sell_sol": 3.896882623,
+    "buy_tokens": 17107765628842,
+    "sell_tokens": 17107765628842,
+    "first_ms": 1791760404176,
+    "last_ms": 1791760670024
+  },
+  "FgYxuwPLftkvm2S5mM46c849XbGN5HBjf4iU3BRT6nrj": {
+    "buys": 3,
+    "sells": 7,
+    "buy_sol": 1.040739745,
+    "sell_sol": 3.207912094,
+    "buy_tokens": 12334200977632,
+    "sell_tokens": 12334200977632,
+    "first_ms": 1791760404738,
+    "last_ms": 1791760720424
+  },
+  "94NndXNt2eHKexb2BvHS2eXQ3o3Q83dtkqXfgrUgF8MY": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 2.2875599740000006,
+    "sell_sol": 3.538001826,
+    "buy_tokens": 26438116544349,
+    "sell_tokens": 26438116544349,
+    "first_ms": 1791760405632,
+    "last_ms": 1791760527478
+  },
+  "ERLZt4a7x3XXhWQELLeGJy5wtFdPU8knm2GaQUTD8hZ8": {
+    "buys": 5,
+    "sells": 7,
+    "buy_sol": 1.36220466,
+    "sell_sol": 3.722218778,
+    "buy_tokens": 14667603945077,
+    "sell_tokens": 14667603945077,
+    "first_ms": 1791760406679,
+    "last_ms": 1791760674737
+  },
+  "7rzs6VBauecF6BwKExMLSjgP5G5WoiZmMPK8UukhY2yj": {
+    "buys": 5,
+    "sells": 7,
+    "buy_sol": 1.8213034460000002,
+    "sell_sol": 4.082415838999999,
+    "buy_tokens": 21754765363282,
+    "sell_tokens": 21754765363282,
+    "first_ms": 1791760407912,
+    "last_ms": 1791760614649
+  },
+  "GWR6ykQYPimEhKRXdkiriFDy45LsU1yyARP1j9hFQndM": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.001777776,
+    "sell_sol": 0.000855543,
+    "buy_tokens": 23867216775,
+    "sell_tokens": 2386721677,
+    "first_ms": 1791760408559,
+    "last_ms": 1791760857811
+  },
+  "AiUAvGiKAURkh92SHh1VQX1XDjEY3whk2C1qsBbNw1XT": {
+    "buys": 4,
+    "sells": 7,
+    "buy_sol": 1.760437172,
+    "sell_sol": 3.7610966180000003,
+    "buy_tokens": 20259843757316,
+    "sell_tokens": 20259843757316,
+    "first_ms": 1791760408623,
+    "last_ms": 1791760601180
+  },
+  "HWRDr9Prs6e9RJqGYzM4HHytWdrT8L8jWmk5hkce2TVN": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.197530863,
+    "sell_sol": 0.239066327,
+    "buy_tokens": 2521014674987,
+    "sell_tokens": 2521014674987,
+    "first_ms": 1791760409274,
+    "last_ms": 1791760437763
+  },
+  "HKftWig22e9E68RoF1ncDWkYiNumsrps4inABkBqEWcF": {
+    "buys": 5,
+    "sells": 6,
+    "buy_sol": 0.838617991,
+    "sell_sol": 2.002610082,
+    "buy_tokens": 8118334862940,
+    "sell_tokens": 8118334862940,
+    "first_ms": 1791760409666,
+    "last_ms": 1791760794605
+  },
+  "BNHjbam5Z1QjUFp6NJCwDRe3ud3zE65bpRqey6fTBjRp": {
+    "buys": 5,
+    "sells": 3,
+    "buy_sol": 0.758749635,
+    "sell_sol": 2.447829564,
+    "buy_tokens": 8480816212161,
+    "sell_tokens": 8480816212161,
+    "first_ms": 1791760410718,
+    "last_ms": 1791760764090
+  },
+  "EDiWRmUpksvcEd49yG75SVjWVmJPmcVxxuq2LXV4r3hL": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 1.645271165,
+    "sell_sol": 3.726339996,
+    "buy_tokens": 17434251511729,
+    "sell_tokens": 17434251511729,
+    "first_ms": 1791760411811,
+    "last_ms": 1791760711286
+  },
+  "58GEBJR2dKYQ2gfHMESK7KC4MrgUmWmu1EnSX3wFhLzt": {
+    "buys": 5,
+    "sells": 5,
+    "buy_sol": 1.478787487,
+    "sell_sol": 3.1173566599999996,
+    "buy_tokens": 14914203540607,
+    "sell_tokens": 14914203540607,
+    "first_ms": 1791760412881,
+    "last_ms": 1791760582579
+  },
+  "CoVE356p4i7uu7arWV9aggyMRATncESqpus3iZsv3hfB": {
+    "buys": 5,
+    "sells": 3,
+    "buy_sol": 0.690313824,
+    "sell_sol": 2.43846824,
+    "buy_tokens": 7808312783507,
+    "sell_tokens": 7808312783507,
+    "first_ms": 1791760413755,
+    "last_ms": 1791760759623
+  },
+  "BQBrUqvAKUeERFkWanKD7s8Sq4aW5Zrh6do7wEreynFf": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.097777777,
+    "sell_sol": 0.11897894,
+    "buy_tokens": 1157388168113,
+    "sell_tokens": 1157388168113,
+    "first_ms": 1791760414141,
+    "last_ms": 1791760448539
+  },
+  "8PjyZHbe2os623Epo2rcckJqthrrZC4JpCy52HY7L5ts": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.003237421,
+    "sell_sol": 0.005432751,
+    "buy_tokens": 29414740338,
+    "sell_tokens": 26695964473,
+    "first_ms": 1791760414194,
+    "last_ms": 1791761062866
+  },
+  "AgkzKjY3yHq2FYRkykfSF6EkAXQighVHQS53wMeeH6mu": {
+    "buys": 5,
+    "sells": 6,
+    "buy_sol": 0.9140688109999999,
+    "sell_sol": 2.616109958,
+    "buy_tokens": 8469765168629,
+    "sell_tokens": 8469765168629,
+    "first_ms": 1791760414663,
+    "last_ms": 1791760750621
+  },
+  "G642Hh491m5DMP9duLdh6BH7psyAaqLY9oX56MDoLmsg": {
+    "buys": 5,
+    "sells": 6,
+    "buy_sol": 1.147696812,
+    "sell_sol": 3.3960503680000005,
+    "buy_tokens": 12070112745241,
+    "sell_tokens": 12070112745241,
+    "first_ms": 1791760415784,
+    "last_ms": 1791760661129
+  },
+  "GBvsrfACwDTBPqTbgtL5ZGejfsF3f1vVzoDiEAq8asns": {
+    "buys": 4,
+    "sells": 6,
+    "buy_sol": 1.654211796,
+    "sell_sol": 3.575016833,
+    "buy_tokens": 16863488938036,
+    "sell_tokens": 16863488938036,
+    "first_ms": 1791760416631,
+    "last_ms": 1791760693130
+  },
+  "2axVTMSr1kDEAUe7BzvXgjhvpfKidKMkyPAThUf7ikBS": {
+    "buys": 1,
+    "sells": 3,
+    "buy_sol": 0.098271604,
+    "sell_sol": 0.28747305500000003,
+    "buy_tokens": 1148065989058,
+    "sell_tokens": 1148065989058,
+    "first_ms": 1791760417547,
+    "last_ms": 1791761011288
+  },
+  "EkF1oe78tLQi6nr6scohVpQsggkQDm5Vr8UPo8iS8se5": {
+    "buys": 5,
+    "sells": 4,
+    "buy_sol": 0.8265672740000001,
+    "sell_sol": 2.160892365,
+    "buy_tokens": 8166169840557,
+    "sell_tokens": 8166169840557,
+    "first_ms": 1791760417838,
+    "last_ms": 1791760785906
+  },
+  "65wyz1CisRbjczWJSd9bCeZN1rbavtdPgNqKBJPS8pzB": {
+    "buys": 4,
+    "sells": 4,
+    "buy_sol": 1.527508999,
+    "sell_sol": 3.1527765600000004,
+    "buy_tokens": 14922998994258,
+    "sell_tokens": 14922998994258,
+    "first_ms": 1791760418610,
+    "last_ms": 1791760755013
+  },
+  "6CfqC9sZniF4afkoFMpmzM9JU29D8c6Q5E5bF6DmhjxK": {
+    "buys": 4,
+    "sells": 7,
+    "buy_sol": 1.332250557,
+    "sell_sol": 3.286933694,
+    "buy_tokens": 11877595912952,
+    "sell_tokens": 11877595912952,
+    "first_ms": 1791760419597,
+    "last_ms": 1791760683333
+  },
+  "74i5T21JqxKvQpjc1xHgoFPRgTAYVdvoYHbgf272fdaJ": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.000889543,
+    "sell_sol": 0.001936925,
+    "buy_tokens": 9673474433,
+    "sell_tokens": 9673474433,
+    "first_ms": 1791760425875,
+    "last_ms": 1791760571303
+  },
+  "AjwfW8BuPWwYVJFBfecanPZLzmoxfKssQfreemw9gW2u": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.098945668,
+    "sell_sol": 0.246850716,
+    "buy_tokens": 1074030501037,
+    "sell_tokens": 1074030501037,
+    "first_ms": 1791760425887,
+    "last_ms": 1791760601118
+  },
+  "ajgg1vB53Hf4JHC4Le8VMRXvbYWMo1BYL2zo4RD18vw": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.0799936,
+    "sell_sol": 0.085958177,
+    "buy_tokens": 872317453701,
+    "sell_tokens": 872317453701,
+    "first_ms": 1791760433708,
+    "last_ms": 1791760441435
+  },
+  "CeRYPJQDtVkZKBxJRdir359MMbPoEqhsnjywCi2htCUV": {
+    "buys": 4,
+    "sells": 0,
+    "buy_sol": 0.35510437,
+    "sell_sol": 0,
+    "buy_tokens": 2265664515901,
+    "sell_tokens": 0,
+    "first_ms": 1791760441695,
+    "last_ms": 1791760615691
+  },
+  "BbjK3rdn3rJeK2DxpbUDAKaXQ3JgJ27qNtyfNuesaX8s": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 0.987066108,
+    "sell_sol": 3.1452896709999996,
+    "buy_tokens": 9892023191464,
+    "sell_tokens": 9892023191464,
+    "first_ms": 1791760442812,
+    "last_ms": 1791760697756
+  },
+  "6WVw8jQoRe2fBTpjkKXHgw84ScMQtgPzdhtRSvCZXezJ": {
+    "buys": 3,
+    "sells": 3,
+    "buy_sol": 0.444444441,
+    "sell_sol": 0.5096019709999999,
+    "buy_tokens": 3510599132265,
+    "sell_tokens": 3510599132265,
+    "first_ms": 1791760442866,
+    "last_ms": 1791760521961
+  },
+  "BxjRD8SZct79Wj6gr9EeGB6cZYSW8DSLHshmsU7mYuw9": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.098765431,
+    "sell_sol": 0.137327185,
+    "buy_tokens": 966016561622,
+    "sell_tokens": 966016561622,
+    "first_ms": 1791760442867,
+    "last_ms": 1791760508518
+  },
+  "ADgmHHFYmqTHm8n6EBWMBniiKJKj7g86jCXSabBs7cug": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.818700311,
+    "sell_sol": 2.621520857,
+    "buy_tokens": 8115435051499,
+    "sell_tokens": 8115435051499,
+    "first_ms": 1791760443123,
+    "last_ms": 1791760737808
+  },
+  "FsLpw8UhyaJYcLqK8CMPmEsaprkcG5yWTBDm72kT1WTa": {
+    "buys": 1,
+    "sells": 4,
+    "buy_sol": 1.450532699,
+    "sell_sol": 3.2326678629999996,
+    "buy_tokens": 14559896920751,
+    "sell_tokens": 14559896920751,
+    "first_ms": 1791760443471,
+    "last_ms": 1791760591524
+  },
+  "4KaRSxTrPDLC6vpf7NY96MPv674iukaV69CrZbtTbQLH": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.098882336,
+    "sell_sol": 0.325188741,
+    "buy_tokens": 965778679707,
+    "sell_tokens": 965778679707,
+    "first_ms": 1791760443861,
+    "last_ms": 1791760738267
+  },
+  "7X58HH6Mp73XH9mwXk36Y654ugshoZ7AHBQFgV6qWiZ6": {
+    "buys": 1,
+    "sells": 4,
+    "buy_sol": 1.561343416,
+    "sell_sol": 3.128328585,
+    "buy_tokens": 15605901082548,
+    "sell_tokens": 15605901082548,
+    "first_ms": 1791760443910,
+    "last_ms": 1791760568336
+  },
+  "3H7xDiUm8MEb144KuUvRVaTL43LJVHwLAZTqLL5jReso": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.632862361,
+    "sell_sol": 2.045686092,
+    "buy_tokens": 6225864890798,
+    "sell_tokens": 6225864890798,
+    "first_ms": 1791760444037,
+    "last_ms": 1791760781479
+  },
+  "BRHacVMrBcYBvBscAu571q94bwkUKugPFp4nYPWVbgTo": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.353310027,
+    "sell_sol": 3.1320217559999994,
+    "buy_tokens": 13500506511016,
+    "sell_tokens": 13500506511016,
+    "first_ms": 1791760444357,
+    "last_ms": 1791760606225
+  },
+  "5kvUb9ruLkn5ofhWFNGpyhTW7abWzuQZTsDbqyQDFFai": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 1.706525277,
+    "sell_sol": 2.738497448,
+    "buy_tokens": 17158296960833,
+    "sell_tokens": 17158296960833,
+    "first_ms": 1791760444532,
+    "last_ms": 1791760536800
+  },
+  "5vsF2nxeA5gcWNwZV9uNkVDSJYGxhNkG67jvZ9uz4Gby": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.112875398,
+    "sell_sol": 0.187303385,
+    "buy_tokens": 922569970558,
+    "sell_tokens": 671877212459,
+    "first_ms": 1791760445147,
+    "last_ms": 1791760888708
+  },
+  "6e4ykU5f8gTNjBcRVnWDuRk25nG7gAwzuzCXBt4kxHp7": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.685492145,
+    "sell_sol": 2.191892706,
+    "buy_tokens": 6735772322313,
+    "sell_tokens": 6735772322313,
+    "first_ms": 1791760445149,
+    "last_ms": 1791760777401
+  },
+  "BoUUEz8LFEMhicum39xZ4zr4jTY2WAj7pD9D84gCDjaA": {
+    "buys": 1,
+    "sells": 3,
+    "buy_sol": 0.813794419,
+    "sell_sol": 2.6570361059999996,
+    "buy_tokens": 8020384019499,
+    "sell_tokens": 8020384019499,
+    "first_ms": 1791760445402,
+    "last_ms": 1791760741969
+  },
+  "F9N92YjznMnMEqAxHdfrpS1tdKio8wodqgdtQ26MsMbF": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.451154007,
+    "sell_sol": 3.130410482,
+    "buy_tokens": 14483210771609,
+    "sell_tokens": 14483210771609,
+    "first_ms": 1791760445662,
+    "last_ms": 1791760596166
+  },
+  "7JccsTnij1eVB4KKx1P5AyqcJ2cKCQ39PkxLkza93coe": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.048888888,
+    "sell_sol": 0.065258757,
+    "buy_tokens": 475221029085,
+    "sell_tokens": 475221029085,
+    "first_ms": 1791760445700,
+    "last_ms": 1791760489408
+  },
+  "8AniqSvRjZeohAdDmahBHbf6dv9QcjCVEvF3cEmtctMa": {
+    "buys": 1,
+    "sells": 6,
+    "buy_sol": 1.702950761,
+    "sell_sol": 3.105148776,
+    "buy_tokens": 17034488362995,
+    "sell_tokens": 17034488362995,
+    "first_ms": 1791760446389,
+    "last_ms": 1791760550640
+  },
+  "7bwkA8gk1jXJYoPjwpTqES3RpoAuwjEqYCAQzw4t4Myu": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.048541707,
+    "sell_sol": 3.186845367,
+    "buy_tokens": 10376795772152,
+    "sell_tokens": 10376795772152,
+    "first_ms": 1791760446667,
+    "last_ms": 1791760688175
+  },
+  "BUQvMLhos9HdZ1euqDvytJePPq5r5RtmM61T51bBp349": {
+    "buys": 1,
+    "sells": 6,
+    "buy_sol": 1.299636028,
+    "sell_sol": 3.344883098,
+    "buy_tokens": 12819999408751,
+    "sell_tokens": 12819999408751,
+    "first_ms": 1791760446915,
+    "last_ms": 1791760642508
+  },
+  "HJuvk9tFYsXdW9E7TDurppgJqBTBERrFgb4ct1yMJCiv": {
+    "buys": 1,
+    "sells": 4,
+    "buy_sol": 1.71254286,
+    "sell_sol": 2.986529905,
+    "buy_tokens": 17043570363869,
+    "sell_tokens": 17043570363869,
+    "first_ms": 1791760447260,
+    "last_ms": 1791760545618
+  },
+  "E4A6h2RYcsmEcHKt1cGRY7vdB3kH2Mq5qzqpa7kkT9YL": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.009876542,
+    "sell_sol": 0.017242137,
+    "buy_tokens": 95361418649,
+    "sell_tokens": 95361418649,
+    "first_ms": 1791760447291,
+    "last_ms": 1791760537459
+  },
+  "CYWSUxPu1tEZnkH5qpmdStxXRYyf4qRDXTPkFBSKy1Ei": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.197530863,
+    "sell_sol": 0.388019184,
+    "buy_tokens": 1900401772994,
+    "sell_tokens": 1900401772994,
+    "first_ms": 1791760447323,
+    "last_ms": 1791760567514
+  },
+  "EHyAS2DcxDibAYWsVUa9ujk6efELLHYWy9UAA7KwyAqs": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 0.742765491,
+    "sell_sol": 2.3359333930000004,
+    "buy_tokens": 7289991428754,
+    "sell_tokens": 7289991428754,
+    "first_ms": 1791760447710,
+    "last_ms": 1791760772716
+  },
+  "3qFVu2kTsNz7S2nbQ66N94RWR1u1KSeSW5frrhXpeDGx": {
+    "buys": 1,
+    "sells": 6,
+    "buy_sol": 1.320303304,
+    "sell_sol": 3.3748302609999996,
+    "buy_tokens": 13102204395218,
+    "sell_tokens": 13102204395218,
+    "first_ms": 1791760448044,
+    "last_ms": 1791760629612
+  },
+  "8Agec78tEMr8sAhA2zXyRhaCCbpPgEcWazMFpBhCYVe": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.321189414,
+    "sell_sol": 3.419086343,
+    "buy_tokens": 13126716388009,
+    "sell_tokens": 13126716388009,
+    "first_ms": 1791760448503,
+    "last_ms": 1791760624078
+  },
+  "ZsWJCNTwUdoudA5zZZERTFvCToZNd7SnSJR9aTJAbdD": {
+    "buys": 1,
+    "sells": 4,
+    "buy_sol": 0.942486649,
+    "sell_sol": 2.90694718,
+    "buy_tokens": 9203107107623,
+    "sell_tokens": 9203107107623,
+    "first_ms": 1791760448932,
+    "last_ms": 1791760706159
+  },
+  "GTfD4kk6PZsEfQFyJDf1jR4gtX9kTY8TJzhpmD8mwPbK": {
+    "buys": 1,
+    "sells": 4,
+    "buy_sol": 1.267662317,
+    "sell_sol": 3.334588214,
+    "buy_tokens": 12463499789523,
+    "sell_tokens": 12463499789523,
+    "first_ms": 1791760449284,
+    "last_ms": 1791760647793
+  },
+  "Csz7c5gLxZhs3irnVEKdiJ6oLS7oTwRDMYfKm1Cohvpo": {
+    "buys": 1,
+    "sells": 3,
+    "buy_sol": 0.861528688,
+    "sell_sol": 2.6765265560000002,
+    "buy_tokens": 8416518493542,
+    "sell_tokens": 8416518493542,
+    "first_ms": 1791760449581,
+    "last_ms": 1791760733311
+  },
+  "ENgBuBJN9CwSxMpRZ2pxHprwnym5JiB5VKHZP8HTgDqB": {
+    "buys": 1,
+    "sells": 6,
+    "buy_sol": 1.554063093,
+    "sell_sol": 3.187254062,
+    "buy_tokens": 15390255023271,
+    "sell_tokens": 15390255023271,
+    "first_ms": 1791760449783,
+    "last_ms": 1791760573137
+  },
+  "DheuQFCuoiCnKLTUriJ7HuhcdTAEt337Jakg8rVBfNEr": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.346570847,
+    "sell_sol": 3.399449668,
+    "buy_tokens": 13270751567903,
+    "sell_tokens": 13270751567903,
+    "first_ms": 1791760450169,
+    "last_ms": 1791760619282
+  },
+  "2HH8HXdv4CVHTdLztu3zfn62EBDasQCjzeUZN3yv3EtW": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 0.914399935,
+    "sell_sol": 2.882022809,
+    "buy_tokens": 8950451551784,
+    "sell_tokens": 8950451551784,
+    "first_ms": 1791760450374,
+    "last_ms": 1791760716154
+  },
+  "GYqSi1Hpe2D4HHixM79y7GkeUKBVXmT2NE89g3QmDSCi": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.017781956,
+    "sell_sol": 0.044245828,
+    "buy_tokens": 171249711968,
+    "sell_tokens": 171249711968,
+    "first_ms": 1791760450575,
+    "last_ms": 1791760613791
+  },
+  "87Eawt317LaSHpPqFhryGLxddn1GjP7eDExLMks9jdLJ": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.713344212,
+    "sell_sol": 3.240519404,
+    "buy_tokens": 16468520680444,
+    "sell_tokens": 16468520680444,
+    "first_ms": 1791760450817,
+    "last_ms": 1791760559809
+  },
+  "49P3BTTDeZLH7tQUToZkFAFoLq2YquJG3hVn345qJ7cu": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.587429724,
+    "sell_sol": 3.1236332350000002,
+    "buy_tokens": 15141097894429,
+    "sell_tokens": 15141097894429,
+    "first_ms": 1791760451241,
+    "last_ms": 1791760578186
+  },
+  "5PxunrPkNgmcu3gJiZWVzR6x5TUnsUz2YKN2DpeccjC6": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 1.804708609,
+    "sell_sol": 2.7363349560000003,
+    "buy_tokens": 17306484277345,
+    "sell_tokens": 17306484277345,
+    "first_ms": 1791760451652,
+    "last_ms": 1791760531929
+  },
+  "CRwDMK3FpdUyV2SzZFfceYdKbhWgY1xTVemDj8RowN2t": {
+    "buys": 1,
+    "sells": 5,
+    "buy_sol": 1.753215075,
+    "sell_sol": 3.109223231,
+    "buy_tokens": 16638758256739,
+    "sell_tokens": 16638758256739,
+    "first_ms": 1791760451954,
+    "last_ms": 1791760554998
+  },
+  "AEpu66SPccYTrYZXRSpFjDbVtDVrpK4X9E4rGYCCkKSi": {
+    "buys": 1,
+    "sells": 6,
+    "buy_sol": 1.380553067,
+    "sell_sol": 3.364713268,
+    "buy_tokens": 13033165188657,
+    "sell_tokens": 13033165188657,
+    "first_ms": 1791760452113,
+    "last_ms": 1791760638326
+  },
+  "6EeLb85YEgbdndscLxEwNN7t3AhtbtbArJwkkiBnP1qM": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.017322071,
+    "sell_sol": 0,
+    "buy_tokens": 159758112813,
+    "sell_tokens": 0,
+    "first_ms": 1791760452724,
+    "last_ms": 1791760452724
+  },
+  "AiR82pMGq1TS8Zkm3fko8535KfhC8E9DwZ2zeXPVHZq1": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.148148147,
+    "sell_sol": 0.379747699,
+    "buy_tokens": 1337776888741,
+    "sell_tokens": 1337776888741,
+    "first_ms": 1791760453624,
+    "last_ms": 1791760649282
+  },
+  "CSUxt7TnwyomTmDuqWhW26k5NtfYmo2Nwx3u4s3ixsdD": {
+    "buys": 6,
+    "sells": 5,
+    "buy_sol": 0.07744166,
+    "sell_sol": 0.087170949,
+    "buy_tokens": 439121700195,
+    "sell_tokens": 439121700195,
+    "first_ms": 1791760454527,
+    "last_ms": 1791760875905
+  },
+  "7oqH7v2sL3qoF2AgZheBEcNQokFj58wnZvSDdVAnpbsX": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.1827068,
+    "sell_sol": 0.264586683,
+    "buy_tokens": 1502054334404,
+    "sell_tokens": 751027167202,
+    "first_ms": 1791760464262,
+    "last_ms": 1791760980472
+  },
+  "FbEPcSRshWTtpejbnuEzhSxoM18fghXFoxkUgUShRmaz": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.060469402,
+    "sell_sol": 0.136310416,
+    "buy_tokens": 478594052038,
+    "sell_tokens": 478594052038,
+    "first_ms": 1791760465787,
+    "last_ms": 1791760804484
+  },
+  "EaL73aCLpmmJMrH3SXUbr6yEtMQC1hstu44XcLbxKj6o": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.177873319,
+    "sell_sol": 0.20233157200000002,
+    "buy_tokens": 987214164335,
+    "sell_tokens": 987214164335,
+    "first_ms": 1791760468799,
+    "last_ms": 1791761012056
+  },
+  "M42vE6ygtaH5JRoZVkdRts1S77WPNYZmsEKF8RWokcz": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.044446001,
+    "sell_sol": 0,
+    "buy_tokens": 354019686706,
+    "sell_tokens": 0,
+    "first_ms": 1791760469814,
+    "last_ms": 1791760469814
+  },
+  "3vSPhQrjKpWbTbCKt3eA9gARR6j3RhMaSD5vMS22q3VM": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.008891769,
+    "sell_sol": 0.0098166,
+    "buy_tokens": 70527129333,
+    "sell_tokens": 69821858039,
+    "first_ms": 1791760470061,
+    "last_ms": 1791760494246
+  },
+  "7iVCXQn4u6tiTEfNVqbWSEsRdEi69E9oYsSMiepuECwi": {
+    "buys": 6,
+    "sells": 0,
+    "buy_sol": 0.7033268269999999,
+    "sell_sol": 0,
+    "buy_tokens": 2706182533778,
+    "sell_tokens": 0,
+    "first_ms": 1791760483224,
+    "last_ms": 1791760919324
+  },
+  "FivVJ8AxjcXapZ7vDod89N8jTn97zBCHthD3USyH3J2m": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.097821011,
+    "sell_sol": 0.215282125,
+    "buy_tokens": 715596418559,
+    "sell_tokens": 715596418559,
+    "first_ms": 1791760489145,
+    "last_ms": 1791760809923
+  },
+  "FeE2oaktMJq7nzLb9WPTqAJMH9MDZmKke1gPc2ygMcXR": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.296296296,
+    "sell_sol": 0,
+    "buy_tokens": 2154704390803,
+    "sell_tokens": 0,
+    "first_ms": 1791760489148,
+    "last_ms": 1791760489148
+  },
+  "3bWYf27ym6U5QrTKdDaEyavJyAbFJmRNZMkMZujG5E4h": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.044463789,
+    "sell_sol": 0,
+    "buy_tokens": 323796382593,
+    "sell_tokens": 0,
+    "first_ms": 1791760490717,
+    "last_ms": 1791760490717
+  },
+  "GpFgPBsbCJ2g9ZQXBK86py6ap6jATMeV9LdUoi2PAUYD": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.395061726,
+    "sell_sol": 0,
+    "buy_tokens": 2395172163487,
+    "sell_tokens": 0,
+    "first_ms": 1791760490968,
+    "last_ms": 1791760560039
+  },
+  "3vnqjU9PQxLayncdx7DtoJCqTizCDmnKBu5HLeNvrY9p": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.222138179,
+    "sell_sol": 0.521115847,
+    "buy_tokens": 1587772585139,
+    "sell_tokens": 1587772585139,
+    "first_ms": 1791760492071,
+    "last_ms": 1791760711055
+  },
+  "Gjezej2vEczmaKUQKmN9zte5b3xQ1n2WZ1afEnjpi6Hj": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.039506171,
+    "sell_sol": 0.042720211,
+    "buy_tokens": 280748784964,
+    "sell_tokens": 280748784964,
+    "first_ms": 1791760497365,
+    "last_ms": 1791760522980
+  },
+  "FsDysgAzYNEe14Z4RkWRMaKhd7uMz5nxc8kZtpnq8z5L": {
+    "buys": 8,
+    "sells": 5,
+    "buy_sol": 3.5183634569999995,
+    "sell_sol": 2.581518627,
+    "buy_tokens": 14134190428593,
+    "sell_tokens": 10990078896745,
+    "first_ms": 1791760502259,
+    "last_ms": 1791760986518
+  },
+  "6TYDxGmVxkBPBmEfnmLXx6jVff9LknsjRHqdTjVyZmG8": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.026675777,
+    "sell_sol": 0,
+    "buy_tokens": 185475443205,
+    "sell_tokens": 0,
+    "first_ms": 1791760503370,
+    "last_ms": 1791760503370
+  },
+  "6mf8fVGF9U1kczRq2sZBvBfrDZm9CiWNJEDcAERiGCdN": {
+    "buys": 3,
+    "sells": 4,
+    "buy_sol": 1.011525365,
+    "sell_sol": 1.240757839,
+    "buy_tokens": 5399147461703,
+    "sell_tokens": 5399147461703,
+    "first_ms": 1791760503791,
+    "last_ms": 1791760766520
+  },
+  "6dTC1jHjKHLVB91H7yBqNhFW7uvhxEfVpDDf4D5LYW8q": {
+    "buys": 7,
+    "sells": 6,
+    "buy_sol": 4.3780038900000005,
+    "sell_sol": 3.315617124,
+    "buy_tokens": 15757483837403,
+    "sell_tokens": 10869289570706,
+    "first_ms": 1791760505666,
+    "last_ms": 1791760982091
+  },
+  "DtvYfudEqmXbEFp5VsnJfX8KYw3cekXyMSBM9TKBYFEM": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.044910339,
+    "sell_sol": 0,
+    "buy_tokens": 312550090305,
+    "sell_tokens": 0,
+    "first_ms": 1791760506879,
+    "last_ms": 1791760506879
+  },
+  "GqnDs2ebd3wwGJ6VRodpriFBPtXkVKR8odqUD1JXRrLY": {
+    "buys": 6,
+    "sells": 8,
+    "buy_sol": 4.288585993,
+    "sell_sol": 4.681797661,
+    "buy_tokens": 19243408296796,
+    "sell_tokens": 19243408296796,
+    "first_ms": 1791760507257,
+    "last_ms": 1791760942847
+  },
+  "CztDTq8FH4niSTKTWWu3W4NG5QZetUsyNYuM1nQxCUit": {
+    "buys": 9,
+    "sells": 7,
+    "buy_sol": 6.693686797,
+    "sell_sol": 4.758886883000001,
+    "buy_tokens": 29189343086563,
+    "sell_tokens": 21383919346435,
+    "first_ms": 1791760508613,
+    "last_ms": 1791760920371
+  },
+  "Gzy1B1qq9SZZjM5cXtV1tXWT2HaymXuWBai3LAzfaxpr": {
+    "buys": 5,
+    "sells": 7,
+    "buy_sol": 4.902794965000001,
+    "sell_sol": 3.9360133939999997,
+    "buy_tokens": 17087148044798,
+    "sell_tokens": 13044208085077,
+    "first_ms": 1791760510463,
+    "last_ms": 1791760965698
+  },
+  "G9ezpNG8gp6j5z9z45Wraf95pH7k941HqxJXdz2KjuZk": {
+    "buys": 4,
+    "sells": 1,
+    "buy_sol": 0.019555552,
+    "sell_sol": 0.021680676,
+    "buy_tokens": 137682596971,
+    "sell_tokens": 137682596971,
+    "first_ms": 1791760510467,
+    "last_ms": 1791760527295
+  },
+  "HycwBpDJnp7VMPkk6hKtHjq6Tb9MRQ3m9BQWWw5SFZX9": {
+    "buys": 6,
+    "sells": 8,
+    "buy_sol": 5.955010331,
+    "sell_sol": 2.698377395,
+    "buy_tokens": 23975077408035,
+    "sell_tokens": 14023902114942,
+    "first_ms": 1791760511714,
+    "last_ms": 1791761028729
+  },
+  "EXngJz4JErE9epdv7UUquCQZp3rkw8HCnCy1K3mXQNZ1": {
+    "buys": 5,
+    "sells": 4,
+    "buy_sol": 3.673593881,
+    "sell_sol": 3.143952253,
+    "buy_tokens": 17964671310930,
+    "sell_tokens": 16033114447243,
+    "first_ms": 1791760513023,
+    "last_ms": 1791761062277
+  },
+  "36aKgeC1FSUmKtSj7tt2S4etf6RsWuWz8USjRwkoMJqc": {
+    "buys": 6,
+    "sells": 7,
+    "buy_sol": 5.660815824,
+    "sell_sol": 4.651406822,
+    "buy_tokens": 22210322881585,
+    "sell_tokens": 16845408818049,
+    "first_ms": 1791760514405,
+    "last_ms": 1791761050031
+  },
+  "BbssdGiMjnjaDD7u1f1LsGjRoPwKmE6njjuWdMe4tCf": {
+    "buys": 6,
+    "sells": 7,
+    "buy_sol": 4.356798209000001,
+    "sell_sol": 2.258814922,
+    "buy_tokens": 19388674372108,
+    "sell_tokens": 12389534083513,
+    "first_ms": 1791760516239,
+    "last_ms": 1791761013160
+  },
+  "EXLiA8FAPdBuxfyCco92jqAEb9vsDPmRj69xy18pPTWB": {
+    "buys": 3,
+    "sells": 4,
+    "buy_sol": 3.102709256,
+    "sell_sol": 3.170725463,
+    "buy_tokens": 13843407296677,
+    "sell_tokens": 13843407296677,
+    "first_ms": 1791760519223,
+    "last_ms": 1791760757222
+  },
+  "DUdTFnjDBKoA9eRQoGmafcLpuUWdutE4vMNJMBjVS9Pd": {
+    "buys": 7,
+    "sells": 11,
+    "buy_sol": 6.874622678000001,
+    "sell_sol": 5.7620844490000005,
+    "buy_tokens": 27855097289719,
+    "sell_tokens": 23761671235637,
+    "first_ms": 1791760520475,
+    "last_ms": 1791761058864
+  },
+  "F2SsGGeGiDAyqhayraMo97R5ikinsVm6MgZyHSpHNq9e": {
+    "buys": 8,
+    "sells": 7,
+    "buy_sol": 0.007901232,
+    "sell_sol": 0.007952635000000001,
+    "buy_tokens": 35081570120,
+    "sell_tokens": 35081570120,
+    "first_ms": 1791760520747,
+    "last_ms": 1791760849047
+  },
+  "82Es2Wh3HheQ4txQpxju3Zhdth4rrep81jqC71gtw5k8": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.001975308,
+    "sell_sol": 0.003120709,
+    "buy_tokens": 9797131158,
+    "sell_tokens": 9797131158,
+    "first_ms": 1791760520812,
+    "last_ms": 1791760672775
+  },
+  "Ac6Po99KHWA697whjLcFqefNcTPodUqPpYcHoNjBXmEV": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.097777777,
+    "sell_sol": 0.131394379,
+    "buy_tokens": 634037172387,
+    "sell_tokens": 634037172387,
+    "first_ms": 1791760520817,
+    "last_ms": 1791760560976
+  },
+  "2PKjTP6ktBpYEM8tyv6QTvESXFUaML7yDPGyUwfbeERZ": {
+    "buys": 6,
+    "sells": 6,
+    "buy_sol": 5.035024142,
+    "sell_sol": 4.140009286,
+    "buy_tokens": 17957850666363,
+    "sell_tokens": 14458549209306,
+    "first_ms": 1791760522114,
+    "last_ms": 1791761006045
+  },
+  "B9ywN6KTCxmM1wQWafvChkuPBp9ASw5Xwc93PzYJz3vK": {
+    "buys": 6,
+    "sells": 1,
+    "buy_sol": 0.005925924,
+    "sell_sol": 0.010423741,
+    "buy_tokens": 29718746930,
+    "sell_tokens": 29718746930,
+    "first_ms": 1791760522340,
+    "last_ms": 1791760885099
+  },
+  "GhyfKLzCSNd4H2kQoQCacxyFWaj1RWG6eBKYc6uxGmeD": {
+    "buys": 8,
+    "sells": 10,
+    "buy_sol": 7.892297059,
+    "sell_sol": 8.464019683,
+    "buy_tokens": 34208038998207,
+    "sell_tokens": 34208038998207,
+    "first_ms": 1791760523879,
+    "last_ms": 1791760967690
+  },
+  "6kjV2Ky88G4Nm72smMFz3oAfuBbRj1pLwU2JuR9FEXWU": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.098765431,
+    "sell_sol": 0.112340634,
+    "buy_tokens": 623981375948,
+    "sell_tokens": 623981375948,
+    "first_ms": 1791760524242,
+    "last_ms": 1791760545611
+  },
+  "GbtrJe6wsGXZbHdNVSChbootDE9A2t8QZf8TviY3qk6M": {
+    "buys": 7,
+    "sells": 8,
+    "buy_sol": 3.938401072,
+    "sell_sol": 3.8947606029999995,
+    "buy_tokens": 13325212321957,
+    "sell_tokens": 12902904254909,
+    "first_ms": 1791760527042,
+    "last_ms": 1791760974318
+  },
+  "CGbLazQt5HXNPawzFct36WeFwj8dL4vGUd8KRHSJ1iCX": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 2.7954586900000002,
+    "sell_sol": 0.20871102,
+    "buy_tokens": 18282286469625,
+    "sell_tokens": 571077930441,
+    "first_ms": 1791760527108,
+    "last_ms": 1791761067938
+  },
+  "CrBTdFoHLrQPRT8rqtZCDizhsHwiUb5QtsLmXBZ5hEHX": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.001975308,
+    "sell_sol": 0.002270017,
+    "buy_tokens": 11748645339,
+    "sell_tokens": 11748645339,
+    "first_ms": 1791760527287,
+    "last_ms": 1791760560701
+  },
+  "qUPeC1MkeX2twFejkVKC9FTxyE5ef9Y6Md6t7VChf6b": {
+    "buys": 5,
+    "sells": 3,
+    "buy_sol": 0.055713374999999996,
+    "sell_sol": 0.0695361,
+    "buy_tokens": 297969317990,
+    "sell_tokens": 187358746745,
+    "first_ms": 1791760527484,
+    "last_ms": 1791760945399
+  },
+  "HmUvAaFDYZH7SK3ZfP9s1A4bZZnGK1uS1Gx999d4ipYA": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 4.216653340000001,
+    "sell_sol": 4.540772143,
+    "buy_tokens": 16729761708359,
+    "sell_tokens": 16573380466031,
+    "first_ms": 1791760529746,
+    "last_ms": 1791761047459
+  },
+  "98MLcc4UVzeLaDWckcBUCMcwS5CgSeqAjC4g2JNQ714c": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.668354133,
+    "sell_sol": 0,
+    "buy_tokens": 16892317185968,
+    "sell_tokens": 0,
+    "first_ms": 1791760531930,
+    "last_ms": 1791760531930
+  },
+  "35rjfkZZ46vioeVcotU7yQuFnKQgjbMhhHbdUhnGGkSP": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.197530863,
+    "sell_sol": 0.231996997,
+    "buy_tokens": 1201299086419,
+    "sell_tokens": 1201299086419,
+    "first_ms": 1791760532042,
+    "last_ms": 1791760552011
+  },
+  "3VZd5q1ZJgpdrLcHzLzLJsjhbvVXcEjsN4YCe9onHchh": {
+    "buys": 6,
+    "sells": 8,
+    "buy_sol": 4.899431893,
+    "sell_sol": 5.324222956,
+    "buy_tokens": 19049662148972,
+    "sell_tokens": 18404723489395,
+    "first_ms": 1791760532390,
+    "last_ms": 1791761058864
+  },
+  "BAwA3mTyZHUSYKEY8eFeyo9nHfuwKoFEZYrCdZQ9SXbh": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.000977776,
+    "sell_sol": 0.000970127,
+    "buy_tokens": 5878298968,
+    "sell_tokens": 5878298968,
+    "first_ms": 1791760532693,
+    "last_ms": 1791760533804
+  },
+  "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.009876542,
+    "sell_sol": 0.010801543,
+    "buy_tokens": 59837661137,
+    "sell_tokens": 59837661137,
+    "first_ms": 1791760534405,
+    "last_ms": 1791760543019
+  },
+  "E94ePPi5yxY8wsg9fh6QE5LZJN7bt7XFrvMg16Cx6M1u": {
+    "buys": 9,
+    "sells": 6,
+    "buy_sol": 4.803480268,
+    "sell_sol": 4.010159225,
+    "buy_tokens": 19809774683197,
+    "sell_tokens": 14742883639371,
+    "first_ms": 1791760535374,
+    "last_ms": 1791761048824
+  },
+  "HeVkQ2Khtca8UUqUZZvebN5g2aMuqz7jEso6PUANov7V": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.004888888,
+    "sell_sol": 0.005239465,
+    "buy_tokens": 29485548376,
+    "sell_tokens": 29485548376,
+    "first_ms": 1791760536454,
+    "last_ms": 1791760538780
+  },
+  "mMpEUcCgvHmdXvkrawYszRZpXTVfp1E2rDCc4vtGfdw": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 2.670462902,
+    "sell_sol": 0.149212756,
+    "buy_tokens": 16747616294713,
+    "sell_tokens": 449544705388,
+    "first_ms": 1791760536801,
+    "last_ms": 1791760736702
+  },
+  "Drn4kjcSooj8yE1Q8zW4M7HD43BGqhsajUEdK2p7BPCL": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 3.480201513,
+    "sell_sol": 2.74323171,
+    "buy_tokens": 13858477904536,
+    "sell_tokens": 10627172330889,
+    "first_ms": 1791760536815,
+    "last_ms": 1791761037730
+  },
+  "DYDAEwnccpbKKK6op2wCUMoHhdoqatzbe9WW5SyeDnWw": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.045752328,
+    "sell_sol": 0,
+    "buy_tokens": 11623579474178,
+    "sell_tokens": 0,
+    "first_ms": 1791760537431,
+    "last_ms": 1791760537431
+  },
+  "3TjcD4E2snQ5uwoFhFi2Kdg6zkSMHXuiffJg953nm7so": {
+    "buys": 8,
+    "sells": 5,
+    "buy_sol": 4.87493273,
+    "sell_sol": 1.3219253690000001,
+    "buy_tokens": 14584849763891,
+    "sell_tokens": 4466559077362,
+    "first_ms": 1791760538157,
+    "last_ms": 1791761052469
+  },
+  "DGzMXC1x5VzodF3UU79npnHVXD5RSPYPiXQo1KBYPyAL": {
+    "buys": 10,
+    "sells": 7,
+    "buy_sol": 6.264951768,
+    "sell_sol": 5.166673942999999,
+    "buy_tokens": 22365090108766,
+    "sell_tokens": 16401049003414,
+    "first_ms": 1791760539811,
+    "last_ms": 1791761039497
+  },
+  "3E5C4bw4MmAXZK9f8D5PFqGJrxqauCUFtfvQ7jD6oha2": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.350174236,
+    "sell_sol": 0,
+    "buy_tokens": 7747119134889,
+    "sell_tokens": 0,
+    "first_ms": 1791760541104,
+    "last_ms": 1791760541104
+  },
+  "BdGDHUtxMm6mDJntRfuC351V3ojJZjPzUkH46oPcm6d6": {
+    "buys": 3,
+    "sells": 8,
+    "buy_sol": 4.065278039,
+    "sell_sol": 4.479792242,
+    "buy_tokens": 14984240781016,
+    "sell_tokens": 14984240781016,
+    "first_ms": 1791760541806,
+    "last_ms": 1791760999486
+  },
+  "AMSqVa1RcvX4CFDCq11DtiMAu6tyevnWViGiWEjd21gw": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.26545487300000004,
+    "sell_sol": 0.34187688,
+    "buy_tokens": 1031044623574,
+    "sell_tokens": 1031044623574,
+    "first_ms": 1791760542760,
+    "last_ms": 1791761004178
+  },
+  "9GE3AdnxsC3HKwoZ47QdF5VprLARbLUZtse8FeyQhkRJ": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.084313374,
+    "sell_sol": 0.054156274,
+    "buy_tokens": 325678590600,
+    "sell_tokens": 172267736629,
+    "first_ms": 1791760542888,
+    "last_ms": 1791761026777
+  },
+  "AKZTiYGdD6x4bcjgdBF1sUL3rxyXjiDGDKzwS5KcG1Me": {
+    "buys": 3,
+    "sells": 3,
+    "buy_sol": 0.13364994600000002,
+    "sell_sol": 0.136736227,
+    "buy_tokens": 659235971898,
+    "sell_tokens": 659235971898,
+    "first_ms": 1791760545609,
+    "last_ms": 1791760596069
+  },
+  "6J3MHqay9BV37r2ykjnET4Zz3Vbx6rwQ9WRMzzNHJLaD": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.562159063,
+    "sell_sol": 0,
+    "buy_tokens": 8881195722022,
+    "sell_tokens": 0,
+    "first_ms": 1791760545618,
+    "last_ms": 1791760545618
+  },
+  "Ebj7zMBnRaJ8Gtr5ijy5iuqJdrLetpLURoJe8XQx7peh": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.017800001,
+    "sell_sol": 0.023127628,
+    "buy_tokens": 99521869700,
+    "sell_tokens": 99521869700,
+    "first_ms": 1791760548106,
+    "last_ms": 1791760605310
+  },
+  "Er7cCL5VkxbSCDLZRcuouLY1MsUQCXz6mKdNcLDLAnD2": {
+    "buys": 7,
+    "sells": 6,
+    "buy_sol": 6.730237855,
+    "sell_sol": 4.705161122,
+    "buy_tokens": 25014347390888,
+    "sell_tokens": 16223086833962,
+    "first_ms": 1791760548459,
+    "last_ms": 1791761036022
+  },
+  "4cgRqMDwBMYy74dCWzm7c462EJ7m6MqH2EQaHBo2cvo1": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.444368901,
+    "sell_sol": 0.844162197,
+    "buy_tokens": 2389387735909,
+    "sell_tokens": 2389387735899,
+    "first_ms": 1791760548549,
+    "last_ms": 1791760846630
+  },
+  "53MN5hAAGHu8Q8HM8ZCaenWYsBma4qTHD9Lp6ETKdLrL": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.028005232,
+    "sell_sol": 0,
+    "buy_tokens": 16621623275136,
+    "sell_tokens": 0,
+    "first_ms": 1791760549921,
+    "last_ms": 1791760550641
+  },
+  "HidrhXfiLZo9ZfYgTQDzJ91ujgD9WbMSj55GCDu7qUXT": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.26399999799999996,
+    "sell_sol": 0.27361171900000003,
+    "buy_tokens": 965500036353,
+    "sell_tokens": 965500036353,
+    "first_ms": 1791760550104,
+    "last_ms": 1791760816849
+  },
+  "3UKWShsZb42KcCFeXS4YnURfqfBi44SrPDLpnLT1jbzQ": {
+    "buys": 3,
+    "sells": 1,
+    "buy_sol": 0.0029629619999999995,
+    "sell_sol": 0.004826021,
+    "buy_tokens": 13567472708,
+    "sell_tokens": 13567472708,
+    "first_ms": 1791760550156,
+    "last_ms": 1791760915222
+  },
+  "8E8rLk7g3RPWu7oxz7tEp8L4iR7xAwzDgFskgHcbsoTn": {
+    "buys": 6,
+    "sells": 6,
+    "buy_sol": 5.260573064999999,
+    "sell_sol": 4.160740548000001,
+    "buy_tokens": 20159312401945,
+    "sell_tokens": 16188772347886,
+    "first_ms": 1791760550178,
+    "last_ms": 1791761072089
+  },
+  "Dio7tJScpeJSESKLk4PrEaPLfSwpKWSZqAbSExUn8ZRd": {
+    "buys": 9,
+    "sells": 8,
+    "buy_sol": 7.030110591,
+    "sell_sol": 6.56798268,
+    "buy_tokens": 22725343500589,
+    "sell_tokens": 19989654855606,
+    "first_ms": 1791760551273,
+    "last_ms": 1791761073404
+  },
+  "9jSEP1u4HsoFF3qenr2fn3eXu5EqjyaJgbK5QtyZGTbR": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.031978462,
+    "sell_sol": 0,
+    "buy_tokens": 16237029923751,
+    "sell_tokens": 0,
+    "first_ms": 1791760554758,
+    "last_ms": 1791760555000
+  },
+  "mh78zorpCmMsu1ufYANwo78DPtAm69AtsJqqtdwxq23": {
+    "buys": 3,
+    "sells": 7,
+    "buy_sol": 4.055773798,
+    "sell_sol": 4.62949137,
+    "buy_tokens": 15308027490642,
+    "sell_tokens": 14562368945759,
+    "first_ms": 1791760556774,
+    "last_ms": 1791760966701
+  },
+  "J2yS8L6Ut7GYpBQEFnQMp14yeQZpV7LrTZTQWdcb7cUU": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.009777777,
+    "sell_sol": 0.010455959,
+    "buy_tokens": 49243074429,
+    "sell_tokens": 49243074429,
+    "first_ms": 1791760557841,
+    "last_ms": 1791760572917
+  },
+  "btDNo32dhw4vdXn3aYyvPGzYUc9te8utzajCHpFCyie": {
+    "buys": 4,
+    "sells": 3,
+    "buy_sol": 5.025570975,
+    "sell_sol": 2.616113136,
+    "buy_tokens": 17994416482862,
+    "sell_tokens": 9882948411020,
+    "first_ms": 1791760558874,
+    "last_ms": 1791761053569
+  },
+  "4n2xDVSq3GbsaDdsURS8XP2MWb8uJr4v3mHTZYk3cJBC": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.1600127440000003,
+    "sell_sol": 0,
+    "buy_tokens": 16069204297787,
+    "sell_tokens": 0,
+    "first_ms": 1791760559505,
+    "last_ms": 1791760559810
+  },
+  "EKN4WDQcEtJTD7NFpv2nhpYbKcoUkVf44foQ7iFBMyKZ": {
+    "buys": 6,
+    "sells": 9,
+    "buy_sol": 3.539721322,
+    "sell_sol": 4.025529119,
+    "buy_tokens": 13715752645672,
+    "sell_tokens": 13656154894651,
+    "first_ms": 1791760560355,
+    "last_ms": 1791761004214
+  },
+  "8UMnFHeKUDKHfJSyiWAZUH3kmrhuKgi53nhjuQST7eMf": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.109999998,
+    "sell_sol": 0.111761877,
+    "buy_tokens": 355971021892,
+    "sell_tokens": 355971021892,
+    "first_ms": 1791760562676,
+    "last_ms": 1791760753134
+  },
+  "FzB3wvfdhSdLGkkfcPaw4gdvPe6rsvhUTniRwaRjoZhb": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.195555554,
+    "sell_sol": 0.202653531,
+    "buy_tokens": 837717916509,
+    "sell_tokens": 837717916509,
+    "first_ms": 1791760562845,
+    "last_ms": 1791760633328
+  },
+  "3ohnCecpGFqwFQ2DPRtDXyiTe1bFYAZG3QuSwzrpAsvA": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.024709022,
+    "sell_sol": 0,
+    "buy_tokens": 10120721799422,
+    "sell_tokens": 0,
+    "first_ms": 1791760564080,
+    "last_ms": 1791760564080
+  },
+  "FDpjH6Kmt5Cw5zbSYccZBYEMdmDNAPSiSNoK1CuKRttv": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.794366972,
+    "sell_sol": 0.843900046,
+    "buy_tokens": 3834319851609,
+    "sell_tokens": 3834319851609,
+    "first_ms": 1791760564404,
+    "last_ms": 1791760583916
+  },
+  "3ovD257YNdKgn3m3xh8QEeVgGn5f8u6XsrDaxukM81z6": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.048888888,
+    "sell_sol": 0,
+    "buy_tokens": 238343464531,
+    "sell_tokens": 0,
+    "first_ms": 1791760566495,
+    "last_ms": 1791760566495
+  },
+  "HjUaQ8vFoHuHrvScy4ZeTjsbdxJbZS1BRJkGk3uZdFvN": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.008888188,
+    "sell_sol": 0.011736238,
+    "buy_tokens": 43300957385,
+    "sell_tokens": 42867947811,
+    "first_ms": 1791760566985,
+    "last_ms": 1791760646881
+  },
+  "2ZNqbeGMLcNoDPAdgp7Bpkapras3HvEW7PwEPSbFPE8g": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.088938226,
+    "sell_sol": 0.141128909,
+    "buy_tokens": 437201834609,
+    "sell_tokens": 437201834609,
+    "first_ms": 1791760567776,
+    "last_ms": 1791760813959
+  },
+  "DStdqa3Nk3ukJSQmFi9qNFNCY3RUi3ojJDWTbEvNqXtH": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 1.025900147,
+    "sell_sol": 1.604190075,
+    "buy_tokens": 5105538148888,
+    "sell_tokens": 4447452082868,
+    "first_ms": 1791760568338,
+    "last_ms": 1791760947191
+  },
+  "64BKS2Wqe4WWd7xa52FBXnDqf82mXxNm96WWbvFjsQnW": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.062273284,
+    "sell_sol": 0.062092198,
+    "buy_tokens": 268546221135,
+    "sell_tokens": 188476532989,
+    "first_ms": 1791760571727,
+    "last_ms": 1791761006112
+  },
+  "ARMp7jHMLmSAmD1QNjrTHWpH5fL5SJhbdCNQQt4c5gZ6": {
+    "buys": 8,
+    "sells": 9,
+    "buy_sol": 7.622097993000001,
+    "sell_sol": 6.1257556189999995,
+    "buy_tokens": 27157502211788,
+    "sell_tokens": 18773613898980,
+    "first_ms": 1791760572584,
+    "last_ms": 1791761060339
+  },
+  "AGTKUDMFLu7MMP3QWn9shc3tmJyV4XSUtcV7EWVERseR": {
+    "buys": 7,
+    "sells": 2,
+    "buy_sol": 1.5994674,
+    "sell_sol": 1.8110161429999998,
+    "buy_tokens": 5539518832617,
+    "sell_tokens": 5539518832617,
+    "first_ms": 1791760572635,
+    "last_ms": 1791760745406
+  },
+  "CUPPJP2qt7EC4mW7YnkFGrMgiYE3QTvYEy4WAPQVpZkN": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.108070714,
+    "sell_sol": 0,
+    "buy_tokens": 15016743931795,
+    "sell_tokens": 0,
+    "first_ms": 1791760572716,
+    "last_ms": 1791760573138
+  },
+  "CdnXuGtbbobkt9sc62CAeXM1CM91TEB26tdi29pDKNfZ": {
+    "buys": 3,
+    "sells": 1,
+    "buy_sol": 0.0029629619999999995,
+    "sell_sol": 0.003949179,
+    "buy_tokens": 10509937070,
+    "sell_tokens": 10509937070,
+    "first_ms": 1791760572925,
+    "last_ms": 1791760862385
+  },
+  "Fhs8xDYT8jeDz25f7WEeQuwvoDVxrJN3wtkguwv9QXNC": {
+    "buys": 6,
+    "sells": 6,
+    "buy_sol": 4.999105356,
+    "sell_sol": 4.17395112,
+    "buy_tokens": 16444812504687,
+    "sell_tokens": 13085051043152,
+    "first_ms": 1791760573799,
+    "last_ms": 1791761070781
+  },
+  "9Vjhu6gdBbBJumz7vUnre5LZHGRxJzKhNqSwfERZYUm9": {
+    "buys": 6,
+    "sells": 7,
+    "buy_sol": 4.734182013,
+    "sell_sol": 4.687206353,
+    "buy_tokens": 17025547271867,
+    "sell_tokens": 14419346276942,
+    "first_ms": 1791760575046,
+    "last_ms": 1791760948555
+  },
+  "DBwHaBes3kkveQMdK6WNJ3pCJm1QKR5piKp62f7Tka77": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.023298639,
+    "sell_sol": 0.02468757,
+    "buy_tokens": 108710864600,
+    "sell_tokens": 108710864600,
+    "first_ms": 1791760575085,
+    "last_ms": 1791760598059
+  },
+  "8DMhiDALQTWtvSsGMHFUs5Bwm4jb2f9k9ZAvpZSZMoGw": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.046030468,
+    "sell_sol": 0,
+    "buy_tokens": 14775283327449,
+    "sell_tokens": 0,
+    "first_ms": 1791760577596,
+    "last_ms": 1791760578186
+  },
+  "81cHFZH41hvE8D5cNpEbtDpyfh4ALS42FbYXG5qqvMND": {
+    "buys": 7,
+    "sells": 8,
+    "buy_sol": 6.378119988,
+    "sell_sol": 6.641298431,
+    "buy_tokens": 22501003297346,
+    "sell_tokens": 21821107841517,
+    "first_ms": 1791760579298,
+    "last_ms": 1791760987793
+  },
+  "GjKjTmzuoAMdxmKHJpQp9PTJLNuvN1SBXAEARr4GEB1c": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.098765431,
+    "sell_sol": 0.12557395,
+    "buy_tokens": 458003204023,
+    "sell_tokens": 458003204023,
+    "first_ms": 1791760579650,
+    "last_ms": 1791760646858
+  },
+  "CwqvuoeFM4MrYRQKrxqni5K2JwuhKwzmTT88Q1tHX8Rg": {
+    "buys": 7,
+    "sells": 7,
+    "buy_sol": 4.321241157999999,
+    "sell_sol": 4.8035293999999995,
+    "buy_tokens": 15460027455057,
+    "sell_tokens": 14384756882839,
+    "first_ms": 1791760581136,
+    "last_ms": 1791761062222
+  },
+  "HfXZ6nCi6vRyNaYu12r24CwMX2Shw37Wzyo1EmXcYcgr": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.039909826,
+    "sell_sol": 0,
+    "buy_tokens": 14553073345314,
+    "sell_tokens": 0,
+    "first_ms": 1791760582316,
+    "last_ms": 1791760582581
+  },
+  "Fxm43dWRJmoguBsxusjt3d9iNNkf787rBkUjiZZ99VJB": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 3.495307089,
+    "sell_sol": 3.942393336,
+    "buy_tokens": 12629628859690,
+    "sell_tokens": 12629628859690,
+    "first_ms": 1791760582677,
+    "last_ms": 1791760915220
+  },
+  "CBVwEzT4eZn4jN1eEAuwbv7UE1NdZ3TV1mdeSJXAgAB7": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.892595185,
+    "sell_sol": 0.953663067,
+    "buy_tokens": 4057929090255,
+    "sell_tokens": 4057929090255,
+    "first_ms": 1791760583801,
+    "last_ms": 1791760604161
+  },
+  "67PtgdwX6sMVyVUwXzpm8oT7KcvzS9T8k5TdF5eUR2wZ": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.046949198,
+    "sell_sol": 0.056964633,
+    "buy_tokens": 215345767702,
+    "sell_tokens": 215345767702,
+    "first_ms": 1791760584027,
+    "last_ms": 1791760642488
+  },
+  "2VGRYuWKttTwYXjqQCaZh1JNH59uLzWk1Q1sJsdXa3wB": {
+    "buys": 8,
+    "sells": 4,
+    "buy_sol": 5.38609376,
+    "sell_sol": 4.0525665150000005,
+    "buy_tokens": 16748590170243,
+    "sell_tokens": 12408578186141,
+    "first_ms": 1791760586764,
+    "last_ms": 1791761051757
+  },
+  "3KgTvTKYxA3qEQ2ayZzoU9GS2NVWoK9muVEBnW7K4qhL": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 1.81376674,
+    "sell_sol": 0.517652621,
+    "buy_tokens": 8290692371606,
+    "sell_tokens": 1469758182096,
+    "first_ms": 1791760587279,
+    "last_ms": 1791760936843
+  },
+  "5hMAoE1JzHZ68bPfwBNByZexLpTnTEDffqTkCfsHMfsd": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.004913579,
+    "sell_sol": 0,
+    "buy_tokens": 21419140236,
+    "sell_tokens": 0,
+    "first_ms": 1791760588339,
+    "last_ms": 1791760588339
+  },
+  "DwGVhLDz7J4CPw3AG5g7NGFFwhJ8jbu8G4V1nfoKRiro": {
+    "buys": 6,
+    "sells": 5,
+    "buy_sol": 2.146643951,
+    "sell_sol": 2.55120769,
+    "buy_tokens": 7459923093446,
+    "sell_tokens": 7459923093446,
+    "first_ms": 1791760591036,
+    "last_ms": 1791761064975
+  },
+  "3DEsuLZjt3m4ZXsh4TV6rtpEpJcuhYkHNMv3pgoYD4nN": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.338589527,
+    "sell_sol": 0,
+    "buy_tokens": 5914339376727,
+    "sell_tokens": 0,
+    "first_ms": 1791760591526,
+    "last_ms": 1791760591526
+  },
+  "GVYGBdJiSZtnA24Hi2ZakAjVBBfWzWTvpwSc6uj3vWDz": {
+    "buys": 9,
+    "sells": 7,
+    "buy_sol": 0.08888887499999998,
+    "sell_sol": 0.10325195799999999,
+    "buy_tokens": 331845572411,
+    "sell_tokens": 331845572411,
+    "first_ms": 1791760591912,
+    "last_ms": 1791761047954
+  },
+  "4sQ6xiRxXfFgFdmmdEfdecDJf3BNYMAKX9SH4sqCUPte": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 4.612283187,
+    "sell_sol": 3.333458349,
+    "buy_tokens": 14806158163516,
+    "sell_tokens": 9993692266743,
+    "first_ms": 1791760593561,
+    "last_ms": 1791760998392
+  },
+  "FEAioZbAFnSw3vQfo3yDozBfLqrVtDTQCWddU6XcfX42": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.013344854,
+    "sell_sol": 0.01485035,
+    "buy_tokens": 58141839825,
+    "sell_tokens": 43606379868,
+    "first_ms": 1791760593983,
+    "last_ms": 1791760781880
+  },
+  "J2crbXA6eFMNMqYWyvWwQhbPaFMipTvZ9j6Moj7ZTJR3": {
+    "buys": 4,
+    "sells": 6,
+    "buy_sol": 4.410589104,
+    "sell_sol": 3.812483407,
+    "buy_tokens": 14016867330073,
+    "sell_tokens": 11847529325225,
+    "first_ms": 1791760595060,
+    "last_ms": 1791761060650
+  },
+  "4pb44iU4v2ZRaDo3qJvk7azjQxnaRYWzvpkxuYninRxw": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.052639341,
+    "sell_sol": 0,
+    "buy_tokens": 14133715511995,
+    "sell_tokens": 0,
+    "first_ms": 1791760596069,
+    "last_ms": 1791760596167
+  },
+  "6uiXo4EZicrLp68hXmEb8GxYwrvxKZyzq2xztUwsyBfd": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.127859666,
+    "sell_sol": 0.146483193,
+    "buy_tokens": 578092241126,
+    "sell_tokens": 578092241126,
+    "first_ms": 1791760597321,
+    "last_ms": 1791760613366
+  },
+  "JApG7w3APzJd3EDXFy5WCYi7YRSESLFoKKxmjgCR46bV": {
+    "buys": 7,
+    "sells": 6,
+    "buy_sol": 4.180868499000001,
+    "sell_sol": 2.293326259,
+    "buy_tokens": 14181884362306,
+    "sell_tokens": 6811222791185,
+    "first_ms": 1791760598038,
+    "last_ms": 1791761064054
+  },
+  "FUy56MTEYyTLatSMErKPkASqvBPcJj3RYZxFgb2KL4wG": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 3.152643675,
+    "sell_sol": 0.340208416,
+    "buy_tokens": 13874615954063,
+    "sell_tokens": 1027571166019,
+    "first_ms": 1791760600589,
+    "last_ms": 1791760957440
+  },
+  "D6H78FQQEudWwNFm88enDxsdP4ZQPYjzYocMwqX3MEBp": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.209762492,
+    "sell_sol": 0,
+    "buy_tokens": 913034342551,
+    "sell_tokens": 0,
+    "first_ms": 1791760601124,
+    "last_ms": 1791760601124
+  },
+  "8gFLbohWKw7Tuw85sH8vaUoECQTwobEhbdJFJha6VzWT": {
+    "buys": 6,
+    "sells": 4,
+    "buy_sol": 2.188021957,
+    "sell_sol": 1.065196415,
+    "buy_tokens": 6952417170635,
+    "sell_tokens": 3308749739292,
+    "first_ms": 1791760603854,
+    "last_ms": 1791761010740
+  },
+  "9WhNdRWW3QNMADfc62L9WQy5Fnm3jeLHQCnHAfFLxFuc": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.008896569,
+    "sell_sol": 0,
+    "buy_tokens": 38289648600,
+    "sell_tokens": 0,
+    "first_ms": 1791760605410,
+    "last_ms": 1791760605410
+  },
+  "2GcU49C3GbBhjsSaYqCSWvqZRq8V9EKoY2zikTi1QP5o": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.054210586,
+    "sell_sol": 0,
+    "buy_tokens": 13173746188495,
+    "sell_tokens": 0,
+    "first_ms": 1791760605712,
+    "last_ms": 1791760606226
+  },
+  "Ajj2hhshh6Agf46up9W7kxSpNmDmZTAua5u3b7Am1KCh": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.17884532,
+    "sell_sol": 0.251198288,
+    "buy_tokens": 750448338815,
+    "sell_tokens": 750448338815,
+    "first_ms": 1791760605756,
+    "last_ms": 1791760755630
+  },
+  "7P5aHU8GNUr64D8qzenBjiwogNn3xWNQzqSoyx7hppFT": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.197530862,
+    "sell_sol": 0.213056464,
+    "buy_tokens": 808124934884,
+    "sell_tokens": 808124934884,
+    "first_ms": 1791760607876,
+    "last_ms": 1791760638026
+  },
+  "AHyqMB55v8hyTgztCci8YmC4CSpKwyD2CzK6AzPr8c51": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.046132189,
+    "sell_sol": 0,
+    "buy_tokens": 8124804071368,
+    "sell_tokens": 0,
+    "first_ms": 1791760610416,
+    "last_ms": 1791760610416
+  },
+  "6uZwkQ9VzNyPuYaMTFXbDbKrr9SfnvFZhpDR5pKzLS5U": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.235277506,
+    "sell_sol": 0,
+    "buy_tokens": 4988675479748,
+    "sell_tokens": 0,
+    "first_ms": 1791760614650,
+    "last_ms": 1791760614650
+  },
+  "Bv2ArpKzyvtaaCGgQqRgMSkbwrhJMM6BP6G6z9ydX9wk": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.112902918,
+    "sell_sol": 0,
+    "buy_tokens": 437399799889,
+    "sell_tokens": 0,
+    "first_ms": 1791760616664,
+    "last_ms": 1791760616664
+  },
+  "7YFAwauKBtgz4QD17oyue36XrpRuNqAWZruikwMwU95Q": {
+    "buys": 2,
+    "sells": 3,
+    "buy_sol": 1.61769738,
+    "sell_sol": 1.731335954,
+    "buy_tokens": 5898485281406,
+    "sell_tokens": 5898485281406,
+    "first_ms": 1791760618571,
+    "last_ms": 1791760875640
+  },
+  "8rpVDKPycUTKk8qe4iSTzucLgdJGDotAwoPw8QPiYqke": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.314994586,
+    "sell_sol": 0,
+    "buy_tokens": 12948842828570,
+    "sell_tokens": 0,
+    "first_ms": 1791760619018,
+    "last_ms": 1791760619284
+  },
+  "TCGnAjyz5AGSPbynBaCRwaAPHaaAC9muzgMnErxrdbj": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.049382715,
+    "sell_sol": 0.066406821,
+    "buy_tokens": 188298833079,
+    "sell_tokens": 188298833079,
+    "first_ms": 1791760619459,
+    "last_ms": 1791760841974
+  },
+  "2Q1x9wotSpGeZDfZqoT2XfyxzwK8z2gRj89sN5CGKVju": {
+    "buys": 6,
+    "sells": 4,
+    "buy_sol": 6.54777807,
+    "sell_sol": 4.054817252,
+    "buy_tokens": 20627705891760,
+    "sell_tokens": 11996609801768,
+    "first_ms": 1791760621456,
+    "last_ms": 1791761066980
+  },
+  "FeMoGwBfJxxzXvAMWKEXviVhw2BEdK97zsxoxMaaEYJL": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.00987654,
+    "sell_sol": 0,
+    "buy_tokens": 34003838903,
+    "sell_tokens": 0,
+    "first_ms": 1791760622486,
+    "last_ms": 1791760747515
+  },
+  "AgU3NS8g1R4A32L4HoTwczjTwysG9hF59SjSyok23smr": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.044476873,
+    "sell_sol": 0,
+    "buy_tokens": 169596213894,
+    "sell_tokens": 0,
+    "first_ms": 1791760623145,
+    "last_ms": 1791760623145
+  },
+  "7pbUANSr4ANMH3AMxVgw6UWf36F3wdYVWX8y3p7XPqe4": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 3.3341434120000004,
+    "sell_sol": 0.270933224,
+    "buy_tokens": 12807847448883,
+    "sell_tokens": 776131635004,
+    "first_ms": 1791760623589,
+    "last_ms": 1791760870073
+  },
+  "GXws86Ci7M7ZMbMuwHtvia9pH26G8ga3FMw2iH8wx2pH": {
+    "buys": 1,
+    "sells": 3,
+    "buy_sol": 0.089120685,
+    "sell_sol": 0.10295916399999999,
+    "buy_tokens": 335044655242,
+    "sell_tokens": 335044655242,
+    "first_ms": 1791760626679,
+    "last_ms": 1791760682989
+  },
+  "34ouAxbVBjqwtnanDjvp1utD8suYxmYpa6sUCZBo518P": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.089624702,
+    "sell_sol": 0.098534711,
+    "buy_tokens": 336289563513,
+    "sell_tokens": 336289563513,
+    "first_ms": 1791760627380,
+    "last_ms": 1791760664957
+  },
+  "7JCe3GHwkEr3feHgtLXnmuJ1yB3A7coSeyynxTBgdG8k": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.022933922,
+    "sell_sol": 0,
+    "buy_tokens": 85948098995,
+    "sell_tokens": 0,
+    "first_ms": 1791760628471,
+    "last_ms": 1791760628471
+  },
+  "3bg8gY2Tv4iHr8UEGpAoBiTTzw5WCFfCLtWLdtdCZmhF": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 3.2909868159999998,
+    "sell_sol": 0.173034638,
+    "buy_tokens": 12784837774920,
+    "sell_tokens": 524118286356,
+    "first_ms": 1791760629602,
+    "last_ms": 1791760836860
+  },
+  "4VUa97Jj3ohvCXBWM7RPcpgFjENLX5yZgfgXFsUurjqz": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.200489602,
+    "sell_sol": 0,
+    "buy_tokens": 8619755894103,
+    "sell_tokens": 0,
+    "first_ms": 1791760635288,
+    "last_ms": 1791760635288
+  },
+  "2SjK8DGgiGKFNuNHbc3mRdqvk52Sk4hdSQfdag4G4CCx": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.080631565,
+    "sell_sol": 0,
+    "buy_tokens": 4096095935574,
+    "sell_tokens": 0,
+    "first_ms": 1791760638328,
+    "last_ms": 1791760638328
+  },
+  "BVBkyVVeudHxrtNHfzYXCv73rwTPzpvdhUMjNEZbCgY5": {
+    "buys": 2,
+    "sells": 5,
+    "buy_sol": 0.088737502,
+    "sell_sol": 0.103319459,
+    "buy_tokens": 319124828544,
+    "sell_tokens": 319124828544,
+    "first_ms": 1791760640536,
+    "last_ms": 1791760892349
+  },
+  "F9WHQ69FVbZtAzR68LH5jVvdUTY7YzudKXDsjtce5WP6": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.261783653,
+    "sell_sol": 0,
+    "buy_tokens": 12508629967493,
+    "sell_tokens": 0,
+    "first_ms": 1791760642053,
+    "last_ms": 1791760642509
+  },
+  "5PqMWhgQAjGLWfRHwzYeQAjHMDeKj4ez7TVkhQWv7cze": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.059259256,
+    "sell_sol": 0.072789237,
+    "buy_tokens": 202876388880,
+    "sell_tokens": 202876388880,
+    "first_ms": 1791760643440,
+    "last_ms": 1791761046178
+  },
+  "FuxyWuUtrQMAGj5BfziGDeShTU9W3GZHkMfNF7R1fjGV": {
+    "buys": 4,
+    "sells": 5,
+    "buy_sol": 2.454055459,
+    "sell_sol": 2.011805025,
+    "buy_tokens": 7930910360252,
+    "sell_tokens": 6614366400840,
+    "first_ms": 1791760645392,
+    "last_ms": 1791760864723
+  },
+  "AmbU5L9c6z9EDguQkpRY7T3UXGGZvUXy8nV9fuJbosvk": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.251744535,
+    "sell_sol": 0,
+    "buy_tokens": 12160448587166,
+    "sell_tokens": 0,
+    "first_ms": 1791760647065,
+    "last_ms": 1791760647794
+  },
+  "Gx3MMQBXHwZTvtF6z7bFZfwibY9ZzrHmdQ2V3qT5ox5H": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.019358023,
+    "sell_sol": 0.024149163,
+    "buy_tokens": 70808601076,
+    "sell_tokens": 70808601076,
+    "first_ms": 1791760647402,
+    "last_ms": 1791761015192
+  },
+  "2CShWryWZgTenWJ19v6KgyMnSyHRQtVsRnupvC5WTvDg": {
+    "buys": 3,
+    "sells": 2,
+    "buy_sol": 0.9025532199999999,
+    "sell_sol": 1.084446216,
+    "buy_tokens": 3189277824572,
+    "sell_tokens": 3189277824572,
+    "first_ms": 1791760647795,
+    "last_ms": 1791760878716
+  },
+  "FkHxqjfJ4rgHL6Vsft15kRoP9QHKVYwqYYs5bkhptoPK": {
+    "buys": 5,
+    "sells": 1,
+    "buy_sol": 2.149067871,
+    "sell_sol": 0.527449589,
+    "buy_tokens": 6316185849144,
+    "sell_tokens": 1587636733404,
+    "first_ms": 1791760650767,
+    "last_ms": 1791761007738
+  },
+  "6vHG5x2VSAFuJsgqxMTVf22cwvfaLspTeAfAuD1J4hyW": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.018415093,
+    "sell_sol": 0.020250166,
+    "buy_tokens": 64548443364,
+    "sell_tokens": 62873924264,
+    "first_ms": 1791760651979,
+    "last_ms": 1791760750442
+  },
+  "6doZmBQ6FucM5t9vB2bX1ZXpNC1zxdsbnvrGnXAH698T": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.044404924,
+    "sell_sol": 0.04810664,
+    "buy_tokens": 155545830500,
+    "sell_tokens": 155545830500,
+    "first_ms": 1791760651992,
+    "last_ms": 1791760672991
+  },
+  "FceESXdGZKt9YvRN7h5GRSt411kZvZ11ZBbHBdcUBeyA": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 3.372257662,
+    "sell_sol": 0.771814366,
+    "buy_tokens": 12103926156802,
+    "sell_tokens": 2236083377179,
+    "first_ms": 1791760651999,
+    "last_ms": 1791760726536
+  },
+  "G3UzGeMeGfMtZdYxL4dY24HPCCpFUAbSmWt6AmeAQA3T": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 1.508331356,
+    "sell_sol": 0.143295962,
+    "buy_tokens": 5462943719434,
+    "sell_tokens": 434448913069,
+    "first_ms": 1791760656548,
+    "last_ms": 1791760803439
+  },
+  "NUTN33YPQNsm68jwafcAsBps5aeGTCH16yWZnyRRtM8": {
+    "buys": 13,
+    "sells": 13,
+    "buy_sol": 5.318555512,
+    "sell_sol": 5.505064632000001,
+    "buy_tokens": 16831543825465,
+    "sell_tokens": 16831543825465,
+    "first_ms": 1791760656610,
+    "last_ms": 1791761039691
+  },
+  "Em8J3gBWapfVBGVhVipwQnLrqCvnWBnLajw6XFsFECPF": {
+    "buys": 3,
+    "sells": 0,
+    "buy_sol": 0.598074122,
+    "sell_sol": 0,
+    "buy_tokens": 1930081055968,
+    "sell_tokens": 0,
+    "first_ms": 1791760659143,
+    "last_ms": 1791760752777
+  },
+  "Afrb4kGC2ue48rf9RCHhK5UmwZCvae4v1BUjSxY2aP6r": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.80334838,
+    "sell_sol": 0,
+    "buy_tokens": 6312504817875,
+    "sell_tokens": 0,
+    "first_ms": 1791760661130,
+    "last_ms": 1791760661130
+  },
+  "4jfM8dYbK8QyHqyFm9fc6EtctBaMPCFwX5YSmddnqGo5": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 0.056768574,
+    "sell_sol": 0.058864638999999996,
+    "buy_tokens": 185053636940,
+    "sell_tokens": 185053636940,
+    "first_ms": 1791760662399,
+    "last_ms": 1791760775134
+  },
+  "NMVPSTS4BE4qui8ifBnuji2mvbLZ5e5mYgNgRjs3PVe": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.044073624,
+    "sell_sol": 0.049468433,
+    "buy_tokens": 155486482249,
+    "sell_tokens": 141230762445,
+    "first_ms": 1791760663173,
+    "last_ms": 1791760938144
+  },
+  "2X1T4wsJinGhRKMHxWTUcjDEtvYUoe4A1YsmdrACvmBb": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.078390206,
+    "sell_sol": 0,
+    "buy_tokens": 276197105850,
+    "sell_tokens": 0,
+    "first_ms": 1791760663673,
+    "last_ms": 1791760663673
+  },
+  "F5uiMNBmJcwHjbcYJxzr6Amd8bnQ8ErLzdJWdjjmW9gc": {
+    "buys": 5,
+    "sells": 5,
+    "buy_sol": 3.69705846,
+    "sell_sol": 3.158179896,
+    "buy_tokens": 11399228394249,
+    "sell_tokens": 9408780583532,
+    "first_ms": 1791760663675,
+    "last_ms": 1791760960048
+  },
+  "E1zAjFaXar727JYyuFasf4zJCrf6tsnLhksREHTorFAq": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.029333333,
+    "sell_sol": 0,
+    "buy_tokens": 101161978311,
+    "sell_tokens": 0,
+    "first_ms": 1791760663695,
+    "last_ms": 1791760663695
+  },
+  "3bHautisJy2zXVkF2Gd34ax9GzFvPTANv7vqHXohY91B": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.322533693,
+    "sell_sol": 0,
+    "buy_tokens": 11645130722865,
+    "sell_tokens": 0,
+    "first_ms": 1791760665092,
+    "last_ms": 1791760665344
+  },
+  "2EStZX66Q7eJLpCyJ3SBJbRteHX39g9chBLxeg1sWEUJ": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.048888888,
+    "sell_sol": 0.061782666,
+    "buy_tokens": 161585828897,
+    "sell_tokens": 161585828897,
+    "first_ms": 1791760666904,
+    "last_ms": 1791760947436
+  },
+  "9zZBJEoETrAFLV5xL4Xj7v6tnuCym35Cyc3wvEU1vwc7": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.043553011,
+    "sell_sol": 0.046747811,
+    "buy_tokens": 143786768521,
+    "sell_tokens": 143786768521,
+    "first_ms": 1791760667486,
+    "last_ms": 1791760697274
+  },
+  "7x9hJagHQDPTZTHvD2wuZmYmS5E73bbAEkDdyxRga2oa": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.087106731,
+    "sell_sol": 0,
+    "buy_tokens": 287195771075,
+    "sell_tokens": 0,
+    "first_ms": 1791760667504,
+    "last_ms": 1791760667504
+  },
+  "Atp7syRMJ87KhL1h4r2HozYabssh51UgBRykoQqkp8g": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.4152225090000004,
+    "sell_sol": 0,
+    "buy_tokens": 11353934492112,
+    "sell_tokens": 0,
+    "first_ms": 1791760669500,
+    "last_ms": 1791760670025
+  },
+  "6BCMP3bToai8dzTSF1sipu9LCH6XJeQCnrpwV3XzseW1": {
+    "buys": 3,
+    "sells": 1,
+    "buy_sol": 4.147504348,
+    "sell_sol": 0.949256812,
+    "buy_tokens": 12603000602258,
+    "sell_tokens": 3045129105357,
+    "first_ms": 1791760670448,
+    "last_ms": 1791761065499
+  },
+  "EGdAuRADj7LbbdFDR6QawBM5WViou1yiUBRuCrbfwTgD": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.097777777,
+    "sell_sol": 0.10109834,
+    "buy_tokens": 314720076734,
+    "sell_tokens": 314720076734,
+    "first_ms": 1791760671420,
+    "last_ms": 1791760812613
+  },
+  "12H4tnfhuW1T18h4HSTmdBFo18MSFzkT9L3CSLDu6HJn": {
+    "buys": 4,
+    "sells": 3,
+    "buy_sol": 2.825456097,
+    "sell_sol": 2.32972101,
+    "buy_tokens": 8621695494428,
+    "sell_tokens": 7314346816776,
+    "first_ms": 1791760672107,
+    "last_ms": 1791761069175
+  },
+  "98mBQVv4s951aZ51mZCkcUh6t5LTXweNgtZHU2B93o3A": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.069135801,
+    "sell_sol": 0.075651352,
+    "buy_tokens": 223493470846,
+    "sell_tokens": 223493470846,
+    "first_ms": 1791760673407,
+    "last_ms": 1791760722961
+  },
+  "DJ3oK59A9Ca7jzodp9151haN1C38rV2c655TWXuocUXF": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.087248173,
+    "sell_sol": 0.087602865,
+    "buy_tokens": 281713068151,
+    "sell_tokens": 281713068151,
+    "first_ms": 1791760673833,
+    "last_ms": 1791760686866
+  },
+  "2zZwWLo1pG2FrLHk9gYKr2LaBGNQ2NmZqVVsSNYfJvXs": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.370698777,
+    "sell_sol": 0,
+    "buy_tokens": 11025443110923,
+    "sell_tokens": 0,
+    "first_ms": 1791760674275,
+    "last_ms": 1791760674739
+  },
+  "cpCtv4ZqRw2f2X8dGH4A6JaTeoKn6MMG98ymkgX1ZBJ": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.087108817,
+    "sell_sol": 0.097268691,
+    "buy_tokens": 286908338365,
+    "sell_tokens": 286908338365,
+    "first_ms": 1791760676606,
+    "last_ms": 1791760722664
+  },
+  "9rHMSjjZCQfxfQwg58zwpBdYfEKFCGPi69sgWb4au1mV": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.056179434,
+    "sell_sol": 0,
+    "buy_tokens": 180221632439,
+    "sell_tokens": 0,
+    "first_ms": 1791760677338,
+    "last_ms": 1791760683427
+  },
+  "GqzjACVewonjR1GJYSMh91HrxrApGC2RxREJ2Tm697nN": {
+    "buys": 5,
+    "sells": 3,
+    "buy_sol": 2.769835119,
+    "sell_sol": 1.077977734,
+    "buy_tokens": 8232134343897,
+    "sell_tokens": 3124772139324,
+    "first_ms": 1791760678974,
+    "last_ms": 1791761055323
+  },
+  "3d6wYbdfHvNpYiJUTiDMQhFs7FsH3HyuzutRhYQhUL7c": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.848889531,
+    "sell_sol": 0.918139053,
+    "buy_tokens": 2867306461507,
+    "sell_tokens": 2525996046867,
+    "first_ms": 1791760678994,
+    "last_ms": 1791760914793
+  },
+  "2R4xN4mp9K9GKaVtUW3jNbgqWvgsEbEuxDWCmrzS9Qka": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.097777777,
+    "sell_sol": 0,
+    "buy_tokens": 324382312422,
+    "sell_tokens": 0,
+    "first_ms": 1791760680277,
+    "last_ms": 1791760680277
+  },
+  "5XisJWcj1T4anHZdG42kfQ2Hn7jsM67UVDkmH3URUVyZ": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.084430139,
+    "sell_sol": 0.093674652,
+    "buy_tokens": 279583487905,
+    "sell_tokens": 279583487905,
+    "first_ms": 1791760680282,
+    "last_ms": 1791760762459
+  },
+  "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn": {
+    "buys": 2,
+    "sells": 3,
+    "buy_sol": 0.7014585219999999,
+    "sell_sol": 2.418138737,
+    "buy_tokens": 2212956505573,
+    "sell_tokens": 7078003453341,
+    "first_ms": 1791760682071,
+    "last_ms": 1791761069668
+  },
+  "928Cx3PrYsF2YVzXFjqreKJYKj1otzisvFpipr1RWQyj": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.238403879,
+    "sell_sol": 0,
+    "buy_tokens": 7441312560469,
+    "sell_tokens": 0,
+    "first_ms": 1791760683335,
+    "last_ms": 1791760683335
+  },
+  "24q7YNExkMogbYnxUasuEzZA4XDQSorG4D5TNzNtf844": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.088929795,
+    "sell_sol": 0.092581725,
+    "buy_tokens": 285983996458,
+    "sell_tokens": 285983996458,
+    "first_ms": 1791760686724,
+    "last_ms": 1791760715313
+  },
+  "ETMiDGVxKSCmbbYgBBMZc6NUCpJZEJt6CLreJcj8siMs": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.088917852,
+    "sell_sol": 0.087760599,
+    "buy_tokens": 285938039081,
+    "sell_tokens": 285938039081,
+    "first_ms": 1791760686968,
+    "last_ms": 1791760692014
+  },
+  "N9DCsRBQK9xzwUtaF858hg7k1h989Au32MCcv5Y81xS": {
+    "buys": 6,
+    "sells": 1,
+    "buy_sol": 1.1263443480000002,
+    "sell_sol": 0.433755398,
+    "buy_tokens": 3252847565647,
+    "sell_tokens": 1351087923329,
+    "first_ms": 1791760686970,
+    "last_ms": 1791760987115
+  },
+  "7kpEoayodrJAZUqerWjvM97xiVLveip2ZTdxFwGxH1PR": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.04356625,
+    "sell_sol": 0,
+    "buy_tokens": 139306221114,
+    "sell_tokens": 0,
+    "first_ms": 1791760687715,
+    "last_ms": 1791760687715
+  },
+  "HLxzzVmY8g4wCLx2TZsvQiRzRdGCPucbvUMuFuXyWnmF": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.107672173,
+    "sell_sol": 0,
+    "buy_tokens": 10124089179851,
+    "sell_tokens": 0,
+    "first_ms": 1791760688047,
+    "last_ms": 1791760688177
+  },
+  "CnkiLZQfJycotiNdepWeyhwDLgnQp3GvrZAUQdcxs3PM": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.043567557,
+    "sell_sol": 0.049173982,
+    "buy_tokens": 141886940862,
+    "sell_tokens": 141886940862,
+    "first_ms": 1791760691873,
+    "last_ms": 1791760883302
+  },
+  "2yRawshVH2AUS9h1r6TTt4LiFiHSkzKDXkK3FqSjzwHE": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 2.880433403,
+    "sell_sol": 0,
+    "buy_tokens": 9713329370539,
+    "sell_tokens": 0,
+    "first_ms": 1791760692640,
+    "last_ms": 1791760693132
+  },
+  "GkAkgQLExVkwuqFUUfqLbUg4Rq2wL144RUiWiBxn6JkD": {
+    "buys": 5,
+    "sells": 6,
+    "buy_sol": 4.122327128,
+    "sell_sol": 4.336853088,
+    "buy_tokens": 12627944056997,
+    "sell_tokens": 12627944056997,
+    "first_ms": 1791760693141,
+    "last_ms": 1791760983648
+  },
+  "8jpnKubX3Gqhfue5Q8kt5vqyZto1Sk79xwEDVbGuusb2": {
+    "buys": 4,
+    "sells": 6,
+    "buy_sol": 2.990661969,
+    "sell_sol": 3.0488325310000004,
+    "buy_tokens": 8991234231101,
+    "sell_tokens": 8991234231101,
+    "first_ms": 1791760695853,
+    "last_ms": 1791760958669
+  },
+  "9vsq6nPg8DLNp5MMFQBUX3W1HA9pWphaSgDYijKDLoAB": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.561648736,
+    "sell_sol": 0.580550989,
+    "buy_tokens": 1760455683912,
+    "sell_tokens": 1760455683912,
+    "first_ms": 1791760695980,
+    "last_ms": 1791760818490
+  },
+  "2xxecLe4EVyNdchFJMS7BNNdKQmUD4icS8r2JevfkXeC": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 3.067148876,
+    "sell_sol": 0,
+    "buy_tokens": 9651384281621,
+    "sell_tokens": 0,
+    "first_ms": 1791760697391,
+    "last_ms": 1791760697758
+  },
+  "6f58mRLDeNgoWVaZipRfFzYnXGLV3yrB9nxcNcFvPUHZ": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.222294631,
+    "sell_sol": 0.240391128,
+    "buy_tokens": 683605132115,
+    "sell_tokens": 683605132115,
+    "first_ms": 1791760698753,
+    "last_ms": 1791760843691
+  },
+  "ESaq5HP871oUREbCrHj9KGiAwPzhYxP4t6kVZMBuQbUM": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.043563545,
+    "sell_sol": 0,
+    "buy_tokens": 133619939094,
+    "sell_tokens": 0,
+    "first_ms": 1791760698793,
+    "last_ms": 1791760698793
+  },
+  "2Vsi5excxub8jGgCjU7fnSxxsCkwK1pjUhxAuLQ7SPMW": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.058666665,
+    "sell_sol": 0,
+    "buy_tokens": 178787593786,
+    "sell_tokens": 0,
+    "first_ms": 1791760699509,
+    "last_ms": 1791760706008
+  },
+  "C3RRPKiin4ZABx69daVQSMD9zq2DmoECbyfjkYhdd4b2": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.531552066,
+    "sell_sol": 0,
+    "buy_tokens": 4790062241819,
+    "sell_tokens": 0,
+    "first_ms": 1791760702068,
+    "last_ms": 1791760702068
+  },
+  "GvRRSC6yPT35HrbgfSyud3pZsxtv9E5qit96Rquk95xY": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.019753085,
+    "sell_sol": 0.0200472,
+    "buy_tokens": 61057375290,
+    "sell_tokens": 61057375290,
+    "first_ms": 1791760702961,
+    "last_ms": 1791760808837
+  },
+  "ghgxFmF8Q6zUCpvneZ6THjaKVJFoJqcTmbyshSf2PcU": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.01867999,
+    "sell_sol": 0,
+    "buy_tokens": 57718669787,
+    "sell_tokens": 0,
+    "first_ms": 1791760703295,
+    "last_ms": 1791760703295
+  },
+  "FXGJNVR9BPQ56wRmJ3kp6xfG8hKQNR1NiAYo3hr4565N": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.303175642,
+    "sell_sol": 0,
+    "buy_tokens": 4187612536741,
+    "sell_tokens": 0,
+    "first_ms": 1791760706160,
+    "last_ms": 1791760706160
+  },
+  "21W6Vipotb74cd6zt1ACw8iXPX4y9UPgdiFHwaAirArN": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.986262454,
+    "sell_sol": 0.992627386,
+    "buy_tokens": 3057160011146,
+    "sell_tokens": 3057160011146,
+    "first_ms": 1791760706161,
+    "last_ms": 1791760892811
+  },
+  "4qJ2YJ9NFQymmr2RMnHfbyAhHDNPdiG4K2hraMNWnj97": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.04358553,
+    "sell_sol": 0.044678175,
+    "buy_tokens": 136222901786,
+    "sell_tokens": 136222901786,
+    "first_ms": 1791760709103,
+    "last_ms": 1791760754974
+  },
+  "Bw7UaFwDr6mHxK8DAptUkStTsGYwr1joGsAsRk3f3Mcb": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.408692979,
+    "sell_sol": 0,
+    "buy_tokens": 4301199564546,
+    "sell_tokens": 0,
+    "first_ms": 1791760709737,
+    "last_ms": 1791760709737
+  },
+  "8vGr31ttDpvDUDzqxW3vyBPyJztdzoiyNfYT2Mn3BLqJ": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 2.9019005910000004,
+    "sell_sol": 0,
+    "buy_tokens": 8934925291424,
+    "sell_tokens": 0,
+    "first_ms": 1791760711054,
+    "last_ms": 1791760711287
+  },
+  "HdyyTYpxbcjCDhHJNc7Tqq1U42v5zVRtvkyyVxTjNq4h": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.425116662,
+    "sell_sol": 0.4351328,
+    "buy_tokens": 1293578346613,
+    "sell_tokens": 1293578346613,
+    "first_ms": 1791760713570,
+    "last_ms": 1791761000187
+  },
+  "3v2qNTRBsusWnREjFnJMFMudWSEHKLEL4ET21UVeajpK": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.255572335,
+    "buy_tokens": 0,
+    "sell_tokens": 786775786396,
+    "first_ms": 1791760714899,
+    "last_ms": 1791760714899
+  },
+  "8TFqiAX66QvEQq9NGDddGrDmqCK911E3ndDwXg8goJzJ": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 2.810422551,
+    "sell_sol": 0.46067056399999995,
+    "buy_tokens": 8732307954210,
+    "sell_tokens": 1277711445674,
+    "first_ms": 1791760715531,
+    "last_ms": 1791760859043
+  },
+  "CkGhFJitrkh6gBFH37wCMuZqo8wZkaQKcQruxNL9HHwG": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.42910091,
+    "sell_sol": 0.429446431,
+    "buy_tokens": 1314241222999,
+    "sell_tokens": 1314241222999,
+    "first_ms": 1791760715775,
+    "last_ms": 1791760798112
+  },
+  "262mraZ3wkzBivAJW2DwLTCWEfzvAEccTquwfTwMoy5H": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.04540095,
+    "sell_sol": 0,
+    "buy_tokens": 137397898952,
+    "sell_tokens": 0,
+    "first_ms": 1791760717789,
+    "last_ms": 1791760717789
+  },
+  "B8sRyCtfViUQtkGCzuVMk5sXYrye9jh9NHonFbK8X6g8": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.266381636,
+    "sell_sol": 0.264984526,
+    "buy_tokens": 800057100867,
+    "sell_tokens": 800057100867,
+    "first_ms": 1791760717902,
+    "last_ms": 1791760783909
+  },
+  "AWkNo8AyuqLkS9WHdGvXgT8bLMCm531oftwYYWMvfguG": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 2.8409548009999996,
+    "sell_sol": 0,
+    "buy_tokens": 8686015043536,
+    "sell_tokens": 0,
+    "first_ms": 1791760720120,
+    "last_ms": 1791760720426
+  },
+  "HNqj7JM3Jd87NbxdQwGLUU6q1VRMnWtV8ySDa5mHwRng": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.441006038,
+    "sell_sol": 0,
+    "buy_tokens": 1298179640751,
+    "sell_tokens": 0,
+    "first_ms": 1791760723682,
+    "last_ms": 1791760723682
+  },
+  "8T75EX3cbADoGy5GR1k8cAhxMgyo6W8Yw9GgxhvtwsPb": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.016899297,
+    "sell_sol": 0,
+    "buy_tokens": 49311936054,
+    "sell_tokens": 0,
+    "first_ms": 1791760724174,
+    "last_ms": 1791760724174
+  },
+  "7w7eRMXTmRrdyNuwBDgGyo99UixzZ8J7zXHkBsyZ31FJ": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.778186311,
+    "sell_sol": 0,
+    "buy_tokens": 5281821270659,
+    "sell_tokens": 0,
+    "first_ms": 1791760724709,
+    "last_ms": 1791760724709
+  },
+  "HytseC3DxFF6NN91jVSsEk4ipX6nRYtDV32uBpFBHXzC": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.055680659,
+    "sell_sol": 0.053336938,
+    "buy_tokens": 164917132335,
+    "sell_tokens": 164917132335,
+    "first_ms": 1791760727635,
+    "last_ms": 1791760813862
+  },
+  "GJZKq45hmseyR1hPNLcgshMTdj95GjyQv2rdrqz43fSZ": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.016899546,
+    "sell_sol": 0,
+    "buy_tokens": 50018897052,
+    "sell_tokens": 0,
+    "first_ms": 1791760728095,
+    "last_ms": 1791760728095
+  },
+  "HbLEfarWEGztcoYSRfhkaqskdFBKimNrA2sTwFGJxLE7": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.293333333,
+    "sell_sol": 0.31452535499999995,
+    "buy_tokens": 896218617542,
+    "sell_tokens": 896218617542,
+    "first_ms": 1791760728887,
+    "last_ms": 1791760897740
+  },
+  "2J7i6FV8wn1DNqrVQJzsX9swRuCbUa7vNWx1uwNcCHUP": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.028720661,
+    "sell_sol": 0,
+    "buy_tokens": 3167377110023,
+    "sell_tokens": 0,
+    "first_ms": 1791760729002,
+    "last_ms": 1791760729002
+  },
+  "3SDLcJzSpgay5DKJndJVqrZgf3qhqFZnSEeYTEr18gwW": {
+    "buys": 3,
+    "sells": 3,
+    "buy_sol": 2.017248748,
+    "sell_sol": 1.919458884,
+    "buy_tokens": 5948957254980,
+    "sell_tokens": 5948957254980,
+    "first_ms": 1791760731709,
+    "last_ms": 1791761007783
+  },
+  "5KxqEymAo3Ka3eFzyb17me9hYwLZsu27EhVratYQcoba": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 2.610031597,
+    "sell_sol": 0.164631545,
+    "buy_tokens": 8212747234440,
+    "sell_tokens": 463193910250,
+    "first_ms": 1791760733313,
+    "last_ms": 1791761034623
+  },
+  "6hsZ3vGY6qHSzhDhTntVceNnFidk35Ns9UHJABi1GvNQ": {
+    "buys": 3,
+    "sells": 1,
+    "buy_sol": 0.02133333,
+    "sell_sol": 0.020918565,
+    "buy_tokens": 63996795163,
+    "sell_tokens": 63996795163,
+    "first_ms": 1791760733590,
+    "last_ms": 1791760814708
+  },
+  "7HKDs4hCaVM1NUutw1G8HBkwLqELtJcGLCkE2LsN2bPp": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.043583584,
+    "sell_sol": 0,
+    "buy_tokens": 129781262601,
+    "sell_tokens": 0,
+    "first_ms": 1791760735280,
+    "last_ms": 1791760735280
+  },
+  "HJy3Ug1VY6x9Vwgj7HVnUv7L1ibjxmeEF4omxo9LkT7j": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.049382715,
+    "sell_sol": 0.049105517,
+    "buy_tokens": 148635432275,
+    "sell_tokens": 148635432275,
+    "first_ms": 1791760736495,
+    "last_ms": 1791760755961
+  },
+  "DBwzH1jypnWiiwzaee5esQwWVfrvUuDCrPsr53AKGhMo": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 2.556392446,
+    "sell_sol": 0.073852643,
+    "buy_tokens": 7918810261745,
+    "sell_tokens": 222863517866,
+    "first_ms": 1791760737809,
+    "last_ms": 1791760814533
+  },
+  "p4e522bhZBvZ3KNyVPy3ZSMxf5XjCJKCCLKsA5cdRJd": {
+    "buys": 3,
+    "sells": 2,
+    "buy_sol": 2.516788782,
+    "sell_sol": 0.741195027,
+    "buy_tokens": 7230251416081,
+    "sell_tokens": 2196051907067,
+    "first_ms": 1791760737825,
+    "last_ms": 1791761050814
+  },
+  "3rWhVsNsSThTUh39RYWRyeS7p3PCNSUR2vFVJe4JJj87": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.009876542,
+    "sell_sol": 0.00961164,
+    "buy_tokens": 29446236890,
+    "sell_tokens": 29446236890,
+    "first_ms": 1791760738288,
+    "last_ms": 1791760808318
+  },
+  "8i7ddrSe8sqf7T6gYczLcRX8u5LpUA9QPtnKwXA5qJan": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.049382715,
+    "sell_sol": 0,
+    "buy_tokens": 149190863039,
+    "sell_tokens": 0,
+    "first_ms": 1791760740921,
+    "last_ms": 1791760740921
+  },
+  "6J3oLEGddGNhkBGV3kSryqvVTP1tkeZL5qPNHb58pxjd": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.591025362,
+    "sell_sol": 0,
+    "buy_tokens": 7826066254106,
+    "sell_tokens": 0,
+    "first_ms": 1791760741971,
+    "last_ms": 1791760741971
+  },
+  "6LTD4fUk3yL5cpHRyGvNJipVHCvrQGjXRA68pWXZ81TM": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.017779009,
+    "sell_sol": 0,
+    "buy_tokens": 53191499491,
+    "sell_tokens": 0,
+    "first_ms": 1791760742461,
+    "last_ms": 1791760742461
+  },
+  "9UWtamGk6eq5ehqd4jD5qviqsxjuK8H7YqdRAds3bQcb": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.041959344,
+    "sell_sol": 0.040588739,
+    "buy_tokens": 122686496759,
+    "sell_tokens": 122686496759,
+    "first_ms": 1791760742902,
+    "last_ms": 1791760794262
+  },
+  "GRtXavccBMj6GcQFhDK1eesEJuWoKrh5Y2EsvSuXFcFR": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.174332059,
+    "sell_sol": 0.165745454,
+    "buy_tokens": 508687214997,
+    "sell_tokens": 508687214997,
+    "first_ms": 1791760743308,
+    "last_ms": 1791760786299
+  },
+  "CsfL5W9R3EfGEyeUPznTQL9As2cb4DWY2WRZJCWGYeZQ": {
+    "buys": 3,
+    "sells": 2,
+    "buy_sol": 2.380589386,
+    "sell_sol": 1.1692630419999999,
+    "buy_tokens": 7055633750577,
+    "sell_tokens": 3166868020436,
+    "first_ms": 1791760744179,
+    "last_ms": 1791761072088
+  },
+  "AWyJ4VwaSVKgdhG2gjGqMURm7XhdDokkLEogdKNxeczr": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.57495097,
+    "sell_sol": 0,
+    "buy_tokens": 4801123746145,
+    "sell_tokens": 0,
+    "first_ms": 1791760746265,
+    "last_ms": 1791760746265
+  },
+  "3dUzXJoQG1ffftyVyozAk1uGLcawrTKzMfUeSvfLk5Dc": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.924529316,
+    "sell_sol": 0,
+    "buy_tokens": 2898762841881,
+    "sell_tokens": 0,
+    "first_ms": 1791760750622,
+    "last_ms": 1791760750622
+  },
+  "8h4QtZqfsM6t5tsPWKNbWotYkSpfdYSA8gGoL6kF8V8m": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.181677574,
+    "sell_sol": 0.178088993,
+    "buy_tokens": 556789932595,
+    "sell_tokens": 556789932595,
+    "first_ms": 1791760754446,
+    "last_ms": 1791760830834
+  },
+  "8fJdekuS2rMyRf4g5DJ6zifS2TriDgH2W6pZEsyXijqb": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.45098063,
+    "sell_sol": 0,
+    "buy_tokens": 7668411726790,
+    "sell_tokens": 0,
+    "first_ms": 1791760755015,
+    "last_ms": 1791760755015
+  },
+  "22Woti8KfpKcsF26cLe8sfJFZLfvXwKiPnfFjUrtYmtf": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.001975308,
+    "sell_sol": 0,
+    "buy_tokens": 5877299189,
+    "sell_tokens": 0,
+    "first_ms": 1791760755265,
+    "last_ms": 1791760794855
+  },
+  "6U2NkSFbdTnXqGepwqJfkiPfa5H3hp3j71QaD2Wbnnhb": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.881280302,
+    "sell_sol": 0,
+    "buy_tokens": 2643183949701,
+    "sell_tokens": 0,
+    "first_ms": 1791760756952,
+    "last_ms": 1791760756952
+  },
+  "EKpC7xTWjrxETPffZJkUA7qywjp5G4vexpY479QLRprR": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 2.377887542,
+    "sell_sol": 0.167399116,
+    "buy_tokens": 7618872822145,
+    "sell_tokens": 475486757607,
+    "first_ms": 1791760759625,
+    "last_ms": 1791760968188
+  },
+  "9Vp3tSd25HCSPphprCWpcbgBH5BXdBDUUehJYpbTiWJE": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.013042147,
+    "sell_sol": 0.013964865,
+    "buy_tokens": 39746719523,
+    "sell_tokens": 39746719523,
+    "first_ms": 1791760760826,
+    "last_ms": 1791760874441
+  },
+  "EnBmH2YdWzLSYJYuL4R7FfgzoAkKvneaYXBWPuxKL1D": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.292433658,
+    "sell_sol": 0,
+    "buy_tokens": 7119947567546,
+    "sell_tokens": 0,
+    "first_ms": 1791760764092,
+    "last_ms": 1791760764092
+  },
+  "tgFx63bZn5f6EKVK4BVGyjwHkY41RQ2EJTvS7rNsasF": {
+    "buys": 5,
+    "sells": 4,
+    "buy_sol": 2.7854091190000005,
+    "sell_sol": 2.846657876,
+    "buy_tokens": 8300727040699,
+    "sell_tokens": 8300727040699,
+    "first_ms": 1791760765880,
+    "last_ms": 1791761047457
+  },
+  "Az4bDN9eBGWvCmhvSLmaB629Hh46Qfjaqdi6rhTmbKcE": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.087196391,
+    "sell_sol": 0,
+    "buy_tokens": 261627873834,
+    "sell_tokens": 0,
+    "first_ms": 1791760766775,
+    "last_ms": 1791760766775
+  },
+  "6ejTjt68s7CmmtMd6dCFutwWq5CV3f1DJNvP233XYB6d": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.087196695,
+    "sell_sol": 0,
+    "buy_tokens": 265889289636,
+    "sell_tokens": 0,
+    "first_ms": 1791760767848,
+    "last_ms": 1791760767848
+  },
+  "AeBbb4ktTL3SbhFWa7YeCbqkeH7rJL2nc7Lv4ABABtNo": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.90580184,
+    "sell_sol": 0.167981574,
+    "buy_tokens": 2785514544924,
+    "sell_tokens": 485484428827,
+    "first_ms": 1791760768475,
+    "last_ms": 1791760881529
+  },
+  "GeTgDVCDhtc68YqRy8hyYzpcAKDeGTbMnmxmD2YWw6RA": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.261589345,
+    "sell_sol": 0.25879363,
+    "buy_tokens": 810218927592,
+    "sell_tokens": 810218927592,
+    "first_ms": 1791760771478,
+    "last_ms": 1791760822625
+  },
+  "7aYLupB96jT24bq29FSoGkhidCxyx2BkcSjGUsy9Qeux": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.811276662,
+    "sell_sol": 0.81056341,
+    "buy_tokens": 2487329583020,
+    "sell_tokens": 2487329583020,
+    "first_ms": 1791760772208,
+    "last_ms": 1791760805811
+  },
+  "BHCLVM439dDsCgD3yvLY5qcHe7DTe2iMjRLAneEtxEMd": {
+    "buys": 3,
+    "sells": 1,
+    "buy_sol": 0.31108622,
+    "sell_sol": 0.043662811,
+    "buy_tokens": 955557614683,
+    "sell_tokens": 124090360159,
+    "first_ms": 1791760772322,
+    "last_ms": 1791760881503
+  },
+  "n63Ue5BDutD7mNMKWK2y3Byxiw2FybUA5x1yCprjCDK": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.180907014,
+    "sell_sol": 0.184452825,
+    "buy_tokens": 563421674202,
+    "sell_tokens": 563421674202,
+    "first_ms": 1791760772325,
+    "last_ms": 1791760802383
+  },
+  "32dJ4gM6RFvuJtPQv2K6J2gLTvNMeEr4ehTneXHQhy69": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.017795339,
+    "sell_sol": 0,
+    "buy_tokens": 55314073379,
+    "sell_tokens": 0,
+    "first_ms": 1791760772697,
+    "last_ms": 1791760772697
+  },
+  "8nLkgdiEzGvkUwmtyzqBX2dwkSBuGraqbgbpPYLmrMyH": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.372098205,
+    "sell_sol": 0,
+    "buy_tokens": 4325477203344,
+    "sell_tokens": 0,
+    "first_ms": 1791760772717,
+    "last_ms": 1791760772717
+  },
+  "A729a8K8mSxtnfQykwVyXhc4AJw3drZaTeYtAGVHNGgg": {
+    "buys": 1,
+    "sells": 2,
+    "buy_sol": 0.009777777,
+    "sell_sol": 0.010730198,
+    "buy_tokens": 30082600051,
+    "sell_tokens": 30082600051,
+    "first_ms": 1791760773592,
+    "last_ms": 1791760865292
+  },
+  "BAuAe7MvwEW9aVPBf6tadvBmXc9XHPkwa47Jsuwad5xh": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.016308413,
+    "buy_tokens": 0,
+    "sell_tokens": 49046791303,
+    "first_ms": 1791760776746,
+    "last_ms": 1791760776746
+  },
+  "BCZrFELwUKEjTQncuEZfYke8CD9E8dptYd78KGJhDVcw": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.13743787,
+    "sell_sol": 0,
+    "buy_tokens": 6571889864240,
+    "sell_tokens": 0,
+    "first_ms": 1791760777401,
+    "last_ms": 1791760777401
+  },
+  "CNi8Lo2kwdeFUkM2TA6K7VLVQzYMvWt6RjjbQsYsZ2pC": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.009086418,
+    "sell_sol": 0,
+    "buy_tokens": 27271441299,
+    "sell_tokens": 0,
+    "first_ms": 1791760777463,
+    "last_ms": 1791760781695
+  },
+  "Hzp9jww6CCczmCJf9bFqFHPrEfWRfK6kswRsjic5NL5C": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.994863576,
+    "sell_sol": 0,
+    "buy_tokens": 6074163012626,
+    "sell_tokens": 0,
+    "first_ms": 1791760781481,
+    "last_ms": 1791760781481
+  },
+  "7WYh1VeAoJMbV2C4tstnyanT2KZy44QrEF1hLJq7xuuH": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.073864136,
+    "sell_sol": 0.070024316,
+    "buy_tokens": 216771537228,
+    "sell_tokens": 216771537228,
+    "first_ms": 1791760781885,
+    "last_ms": 1791760894115
+  },
+  "HjhLSBfXoEiT1r4vQneYnRoDSCQ8XSyQ11WsvabLFUJf": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.101061491,
+    "buy_tokens": 0,
+    "sell_tokens": 296665592698,
+    "first_ms": 1791760782460,
+    "last_ms": 1791760782460
+  },
+  "8wrNA7W1B73bupB3ziddZXuaq5BNnwpUufdKFqLDr4hM": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 1.923936371,
+    "sell_sol": 0,
+    "buy_tokens": 5974227759029,
+    "sell_tokens": 0,
+    "first_ms": 1791760785908,
+    "last_ms": 1791760785908
+  },
+  "Ee2q6kchXuJcyEm6Fjh6bzWS1PkU7xEMay3eDVvnRtVd": {
+    "buys": 4,
+    "sells": 4,
+    "buy_sol": 2.415196308,
+    "sell_sol": 1.6237246039999997,
+    "buy_tokens": 6865401892672,
+    "sell_tokens": 4544106757299,
+    "first_ms": 1791760788948,
+    "last_ms": 1791761002674
+  },
+  "FttnU4uLvkB9oAEfW1ys4CQx55tTEjnBhkr6kupyrjnN": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.111681362,
+    "sell_sol": 0.11960983,
+    "buy_tokens": 343553762982,
+    "sell_tokens": 343553762982,
+    "first_ms": 1791760789277,
+    "last_ms": 1791760839125
+  },
+  "GuuwnZw44kFLxFUKYuoS5Si9Fw9si11z6c5wv6HT5LjW": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 1.165038412,
+    "sell_sol": 0.05600985,
+    "buy_tokens": 3628301476719,
+    "sell_tokens": 171547870906,
+    "first_ms": 1791760790295,
+    "last_ms": 1791760792565
+  },
+  "9mSErZpQDtZfbxMmTQ845Z8iYWx6QPFABY6ZYPX3oCKj": {
+    "buys": 2,
+    "sells": 1,
+    "buy_sol": 0.08717836200000001,
+    "sell_sol": 0.100248131,
+    "buy_tokens": 274986166927,
+    "sell_tokens": 274986166927,
+    "first_ms": 1791760791653,
+    "last_ms": 1791760949827
+  },
+  "HQJmULxdoTAZEEd1mZJSwFPsKwTkCvkn1wEMt6ZNfiGa": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.574541569,
+    "sell_sol": 0,
+    "buy_tokens": 1747560409937,
+    "sell_tokens": 0,
+    "first_ms": 1791760794606,
+    "last_ms": 1791760794606
+  },
+  "AcEjJWTF8jTh4GP3gVbMQo3n93a1HCjzoRf6sTEMKxvu": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.22323047,
+    "sell_sol": 0,
+    "buy_tokens": 684659843263,
+    "sell_tokens": 0,
+    "first_ms": 1791760798355,
+    "last_ms": 1791760798355
+  },
+  "8AKQ7WMGeAFEZiciFEXsoKQFEbHoXk3MeChJqCK4rFoW": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.902949521,
+    "sell_sol": 1.058752079,
+    "buy_tokens": 2694287279935,
+    "sell_tokens": 2694287279935,
+    "first_ms": 1791760800313,
+    "last_ms": 1791760946769
+  },
+  "45mvEeeU49aQZpaCX5NVizQ9RLknwFrduWfbz425aEbj": {
+    "buys": 3,
+    "sells": 4,
+    "buy_sol": 2.333845355,
+    "sell_sol": 1.948061036,
+    "buy_tokens": 6976999858702,
+    "sell_tokens": 5633589477581,
+    "first_ms": 1791760804121,
+    "last_ms": 1791760969543
+  },
+  "8waS5tVrEAEFG5xrr7h2fRLZ6a3LJaG2pe5ZXA9gwh1w": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.355977967,
+    "buy_tokens": 0,
+    "sell_tokens": 1098037160221,
+    "first_ms": 1791760807481,
+    "last_ms": 1791760807481
+  },
+  "8FkERt8XxTHxsvNcs3C8VhaggbZNEH5FqquzF73xYpxz": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.087196907,
+    "sell_sol": 0,
+    "buy_tokens": 267338925355,
+    "sell_tokens": 0,
+    "first_ms": 1791760807972,
+    "last_ms": 1791760807972
+  },
+  "8NXXp7jbE9RED9YQi4eZ3NxcaW3mUCDdtbqnB2JtHNuR": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.099388421,
+    "sell_sol": 0,
+    "buy_tokens": 302472004561,
+    "sell_tokens": 0,
+    "first_ms": 1791760809422,
+    "last_ms": 1791760809422
+  },
+  "BpknXf4NogyHKFVHDbadPyr3RUvpJwuFHofnqQsUjmYD": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.097777777,
+    "sell_sol": 0,
+    "buy_tokens": 298910541270,
+    "sell_tokens": 0,
+    "first_ms": 1791760815109,
+    "last_ms": 1791760815109
+  },
+  "hTGpcutzNkqHWUbst38EoE7h1j8RYMhEwTxEyywqZv8": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.068602802,
+    "sell_sol": 0,
+    "buy_tokens": 209066194296,
+    "sell_tokens": 0,
+    "first_ms": 1791760819530,
+    "last_ms": 1791760819530
+  },
+  "HBkw4pzVr2s95tMpF2jrBLw5aCZVLMhLYEkFeP6DbMNy": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.009876542,
+    "sell_sol": 0.011615495,
+    "buy_tokens": 30916654883,
+    "sell_tokens": 30916654883,
+    "first_ms": 1791760824066,
+    "last_ms": 1791760862853
+  },
+  "J9kmQfLB8v14YDcB5ggVFhvNkUfgopfK54W57J2rJVKS": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.261170287,
+    "sell_sol": 0,
+    "buy_tokens": 804313410569,
+    "sell_tokens": 0,
+    "first_ms": 1791760828269,
+    "last_ms": 1791760828269
+  },
+  "8WGpaznprbqwRYkR4VNteakr9nEP1k1wBgsRgW2k5e1Y": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.002962961,
+    "sell_sol": 0,
+    "buy_tokens": 8989564786,
+    "sell_tokens": 0,
+    "first_ms": 1791760837304,
+    "last_ms": 1791760837304
+  },
+  "272uTxVGYoitV2kfMhw68UHYBsN5VFqM7MELU74aJ1EE": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 1.070016053,
+    "sell_sol": 1.020856869,
+    "buy_tokens": 3212938207204,
+    "sell_tokens": 3212938207204,
+    "first_ms": 1791760837343,
+    "last_ms": 1791761011339
+  },
+  "FmbNoEBzUv3LWRTfKRBtowovv8onYqBr7hphiv3nGSFL": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.011851851,
+    "sell_sol": 0,
+    "buy_tokens": 34076581613,
+    "sell_tokens": 0,
+    "first_ms": 1791760839162,
+    "last_ms": 1791760839162
+  },
+  "45FUY4PqPrXLrjMRQkPois1PM4T3VmXCytahoan9vAHj": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.346860919,
+    "sell_sol": 0,
+    "buy_tokens": 985390452966,
+    "sell_tokens": 0,
+    "first_ms": 1791760844947,
+    "last_ms": 1791760844947
+  },
+  "5bpX3xAJ7qR4qD8oU4eMQTpAeYRi8TMhCdzqbzZTcBAD": {
+    "buys": 2,
+    "sells": 3,
+    "buy_sol": 1.264577101,
+    "sell_sol": 1.25943896,
+    "buy_tokens": 3515918151788,
+    "sell_tokens": 3515918151788,
+    "first_ms": 1791760846447,
+    "last_ms": 1791761063280
+  },
+  "7qx4AcXbeKeGYk5pcoT67n1q5G1PfDU4GHtYNFkQuRnG": {
+    "buys": 3,
+    "sells": 1,
+    "buy_sol": 2.053333331,
+    "sell_sol": 2.094655823,
+    "buy_tokens": 5798868028200,
+    "sell_tokens": 5798868028200,
+    "first_ms": 1791760846715,
+    "last_ms": 1791760916991
+  },
+  "5Wc7VMoPxFwHD5iv7467okMeuNdkFjQJ9E3e7wmfVP1U": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.024767026,
+    "sell_sol": 0.025320178,
+    "buy_tokens": 69305767759,
+    "sell_tokens": 69305767759,
+    "first_ms": 1791760850569,
+    "last_ms": 1791761070471
+  },
+  "D4uaziPGoqTaYnCFUbG6F4Mfs1tEqoDEe33UjHPXp4Td": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.008889244,
+    "sell_sol": 0.008255081,
+    "buy_tokens": 23657974575,
+    "sell_tokens": 23657974575,
+    "first_ms": 1791760862140,
+    "last_ms": 1791760926178
+  },
+  "95BEGWDrRSUy4E4ZfRVGA2DM4hSX18koukhFEaVLzzfZ": {
+    "buys": 2,
+    "sells": 2,
+    "buy_sol": 1.358666924,
+    "sell_sol": 1.415959145,
+    "buy_tokens": 3920504231623,
+    "sell_tokens": 3907291461216,
+    "first_ms": 1791760865292,
+    "last_ms": 1791760972157
+  },
+  "5mfVT9pqUn8eepbFBncE4hjxaTQDEQxw7tcxYDECpoz6": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.038427243,
+    "sell_sol": 0,
+    "buy_tokens": 112840585381,
+    "sell_tokens": 0,
+    "first_ms": 1791760879706,
+    "last_ms": 1791760879706
+  },
+  "8tixfakqSvsdRxTnBJjiXsCdRHZmPArn5WK6X2tf55nw": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.036963725,
+    "buy_tokens": 0,
+    "sell_tokens": 105134618101,
+    "first_ms": 1791760900293,
+    "last_ms": 1791760900293
+  },
+  "2kXehi1iMWsCWjZe28ajL2yzPwSeqi6GiipZJYNM3CbW": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.216651756,
+    "sell_sol": 0.223031115,
+    "buy_tokens": 625678624074,
+    "sell_tokens": 625678624074,
+    "first_ms": 1791760902039,
+    "last_ms": 1791760915221
+  },
+  "8sWAwLqrqwa7G7h8vzcfG1pSDZVVNizNxWVzWPQLuUoi": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.088847729,
+    "sell_sol": 0,
+    "buy_tokens": 257370083061,
+    "sell_tokens": 0,
+    "first_ms": 1791760906540,
+    "last_ms": 1791760906540
+  },
+  "HUxu363NrLg93qcWba3bH2LwyS6LoEps7FZjXyYRP5JA": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.828032155,
+    "sell_sol": 0,
+    "buy_tokens": 2363010137144,
+    "sell_tokens": 0,
+    "first_ms": 1791760908407,
+    "last_ms": 1791760908407
+  },
+  "EARLypgWPi96qSAiTm5WaSgu5kT6VGWEQtgomLfTihv6": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.98765432,
+    "sell_sol": 0.969033151,
+    "buy_tokens": 2770977353847,
+    "sell_tokens": 2770977353847,
+    "first_ms": 1791760908808,
+    "last_ms": 1791760968556
+  },
+  "FPgt8NkBZsAc3MyQ4C5GEKc56r8deU6cSSbtXqWd75ay": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.177975307,
+    "sell_sol": 0,
+    "buy_tokens": 493930262465,
+    "sell_tokens": 0,
+    "first_ms": 1791760910114,
+    "last_ms": 1791760910114
+  },
+  "5MEwjPrduJ9UKMV5Y21QGpf7PNqxQ2e6pUj2UUduPXAy": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.261423722,
+    "sell_sol": 0.254745812,
+    "buy_tokens": 715123551252,
+    "sell_tokens": 715123551252,
+    "first_ms": 1791760910743,
+    "last_ms": 1791761064183
+  },
+  "3Z7su8igZcGGRAtz1LSi16VSgSnWAjEu8MhpGdGXuxDR": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.101792715,
+    "sell_sol": 0.09666397,
+    "buy_tokens": 277392303585,
+    "sell_tokens": 277392303585,
+    "first_ms": 1791760915550,
+    "last_ms": 1791760979700
+  },
+  "638oJA1oHhYnmjvKfBqpJSfCNQuK3Lb4EdTc9DBXiYFf": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.018203078,
+    "buy_tokens": 0,
+    "sell_tokens": 51958491881,
+    "first_ms": 1791760918978,
+    "last_ms": 1791760918978
+  },
+  "4oFDiy7fX7hHwMYX1jLhFFg9VkA91hREoQSffQTnawnF": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.016901294,
+    "sell_sol": 0,
+    "buy_tokens": 47275094790,
+    "sell_tokens": 0,
+    "first_ms": 1791760920326,
+    "last_ms": 1791760920326
+  },
+  "wzu3L38AJZ8BgCjijdwJ16Uc1xk16DWrHFwgueKQZXF": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.977777777,
+    "sell_sol": 0,
+    "buy_tokens": 2709842351614,
+    "sell_tokens": 0,
+    "first_ms": 1791760920328,
+    "last_ms": 1791760920328
+  },
+  "2TWjb3Xm5M3zFqihbmPo2PgdjHp3T9azdTedGsrGJFbC": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.005793058,
+    "sell_sol": 0.005308576,
+    "buy_tokens": 16509030304,
+    "sell_tokens": 16509030304,
+    "first_ms": 1791760927488,
+    "last_ms": 1791761010781
+  },
+  "3wfTkcbb6RUB3GdBucfoQgZqftF64AtiZ117x81HY1uo": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.19375969599999998,
+    "sell_sol": 0,
+    "buy_tokens": 537360357661,
+    "sell_tokens": 0,
+    "first_ms": 1791760932370,
+    "last_ms": 1791760980805
+  },
+  "GPq2GRvhNL37zGXtpnXpH5mK6A4RnnkXUxZL8WQjsgyn": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.424691357,
+    "sell_sol": 0,
+    "buy_tokens": 1162588338759,
+    "sell_tokens": 0,
+    "first_ms": 1791760933542,
+    "last_ms": 1791760933542
+  },
+  "An2oQB15ArWGYJQAWW6qsifxJs16BkdHV4T9krekebPk": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.085402803,
+    "sell_sol": 0,
+    "buy_tokens": 238738564790,
+    "sell_tokens": 0,
+    "first_ms": 1791760934351,
+    "last_ms": 1791760934351
+  },
+  "HvRo3TLTy5SKjzAykBwML4waLFUuyCthpeAX1bk2LYNK": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.009876542,
+    "sell_sol": 0,
+    "buy_tokens": 27167854977,
+    "sell_tokens": 0,
+    "first_ms": 1791760941065,
+    "last_ms": 1791760941065
+  },
+  "DrzCkowpvjq6kjAi98EKvxw4Jt3jspc9xuVpwmhtosDh": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 2.172839505,
+    "sell_sol": 2.107577288,
+    "buy_tokens": 5779579619543,
+    "sell_tokens": 5779579619543,
+    "first_ms": 1791760942606,
+    "last_ms": 1791760987664
+  },
+  "6Dain7bvjx1DERB5kY5Xm7VUTfrAU9dJovqrDWnUdSfa": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.493827159,
+    "sell_sol": 0,
+    "buy_tokens": 1264705128852,
+    "sell_tokens": 0,
+    "first_ms": 1791760945199,
+    "last_ms": 1791760945199
+  },
+  "AkFcxpfzAbCPBDbgA9ynuXQ4xw92o6obz2ppLLJbDgFc": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.493827159,
+    "sell_sol": 0,
+    "buy_tokens": 1253636855875,
+    "sell_tokens": 0,
+    "first_ms": 1791760945200,
+    "last_ms": 1791760945200
+  },
+  "B9vkrZ545n3hYmSKkmh9KpxcmqnupBbgMwDgKE12gme3": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.493827159,
+    "sell_sol": 0,
+    "buy_tokens": 1242713248557,
+    "sell_tokens": 0,
+    "first_ms": 1791760945231,
+    "last_ms": 1791760945231
+  },
+  "9pRFCxGEpvKbJ4MRcWLAEdGo1fenzizbWpxoh4AQJY2q": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.009777777,
+    "sell_sol": 0.008854809,
+    "buy_tokens": 25584696810,
+    "sell_tokens": 25584696810,
+    "first_ms": 1791760948460,
+    "last_ms": 1791761017727
+  },
+  "7rXm7rueuDSBnNVZAfxhQwpzg8FJkcw8KkBxx4Y9toUW": {
+    "buys": 2,
+    "sells": 0,
+    "buy_sol": 0.684444443,
+    "sell_sol": 0,
+    "buy_tokens": 2028078579263,
+    "sell_tokens": 0,
+    "first_ms": 1791760956287,
+    "last_ms": 1791761008814
+  },
+  "7FPqg7MpJwvGneBPvkBrCDjAvZhFnAvoiUw9LF91nsN": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.210224341,
+    "sell_sol": 0,
+    "buy_tokens": 587312814533,
+    "sell_tokens": 0,
+    "first_ms": 1791760963228,
+    "last_ms": 1791760963228
+  },
+  "F1XdBKg6VHH2sefp2AEBfBe4K8ga39At3LYzyKj1QENk": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.080439293,
+    "sell_sol": 0.020569322,
+    "buy_tokens": 232935140085,
+    "sell_tokens": 57270378686,
+    "first_ms": 1791760965123,
+    "last_ms": 1791760976562
+  },
+  "Hqf7vnmQhTmsi8Ny3dFPRq6XoL3QNYeJCfBEDk1xKpSe": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.045116142,
+    "sell_sol": 0.024620887,
+    "buy_tokens": 132918755935,
+    "sell_tokens": 66459377967,
+    "first_ms": 1791760990701,
+    "last_ms": 1791761042777
+  },
+  "CdVUTTBLCkZW9EZkuKKQKVpKTcfaGg4cRvsiREB1Gsjt": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.034689642,
+    "sell_sol": 0.038358944,
+    "buy_tokens": 102923406978,
+    "sell_tokens": 102923406978,
+    "first_ms": 1791760999576,
+    "last_ms": 1791761046467
+  },
+  "EwRNSpYgtYefWQEB5UjZX8FXXagtSG3ACgzPQWHhVm9c": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.049526915,
+    "buy_tokens": 0,
+    "sell_tokens": 147922912529,
+    "first_ms": 1791761000450,
+    "last_ms": 1791761000450
+  },
+  "Byp94qdS3ZPZe6EqWfz3pi38Cig9WSi8FWfUHgZScewB": {
+    "buys": 1,
+    "sells": 1,
+    "buy_sol": 0.014666666,
+    "sell_sol": 0.015468037,
+    "buy_tokens": 45752700108,
+    "sell_tokens": 45752700108,
+    "first_ms": 1791761008830,
+    "last_ms": 1791761016503
+  },
+  "5zv3xegTBfQ5uHNuKc7pVpADKfjDv3ycRRDxKViTvnDk": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.029333333,
+    "sell_sol": 0,
+    "buy_tokens": 89639768955,
+    "sell_tokens": 0,
+    "first_ms": 1791761012714,
+    "last_ms": 1791761012714
+  },
+  "8RcQQHhVv7airA3FfEecb64fgrEsieHcjwuwui8U7hJy": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.019555555,
+    "sell_sol": 0,
+    "buy_tokens": 59731387269,
+    "sell_tokens": 0,
+    "first_ms": 1791761012969,
+    "last_ms": 1791761012969
+  },
+  "6qpoYXDDMaTxTUNp1ap9JJCJVoBbwh7ReqrdK3SxGeCo": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.437294911,
+    "buy_tokens": 0,
+    "sell_tokens": 1287878810933,
+    "first_ms": 1791761015793,
+    "last_ms": 1791761015793
+  },
+  "Ch3Fbp8DRBSBKB7rQADTVuZdvp5jNcvH4iMoz8uFqEsP": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.097777777,
+    "sell_sol": 0,
+    "buy_tokens": 282277013102,
+    "sell_tokens": 0,
+    "first_ms": 1791761019004,
+    "last_ms": 1791761019004
+  },
+  "EJzBuNsSPNJ1ApZT56jTWCFdA9vsf8bHQTdeQuD1yit3": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.008896728,
+    "sell_sol": 0,
+    "buy_tokens": 25658242559,
+    "sell_tokens": 0,
+    "first_ms": 1791761021614,
+    "last_ms": 1791761021614
+  },
+  "2T3dxKPXYsnAyybyJ45PYMxdbm2GQoLFmYAKeZUcb1c4": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.491358023,
+    "sell_sol": 0,
+    "buy_tokens": 1404164144689,
+    "sell_tokens": 0,
+    "first_ms": 1791761029367,
+    "last_ms": 1791761029367
+  },
+  "6TkF3LZS4TrB3j4J32EFFMtVYamQgoMDLMv5cpCfB2tY": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.095763424,
+    "sell_sol": 0,
+    "buy_tokens": 261684519277,
+    "sell_tokens": 0,
+    "first_ms": 1791761037764,
+    "last_ms": 1791761037764
+  },
+  "CbXWDcBQzoS8FoLM3E3Bu62ypTLSiNguWoPUZa6tR6Se": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.488888888,
+    "sell_sol": 0,
+    "buy_tokens": 1334602101038,
+    "sell_tokens": 0,
+    "first_ms": 1791761040152,
+    "last_ms": 1791761040152
+  },
+  "5HqbM45DgjfnacQiuQiFacnhfco6GFqxoDRWPYykXH1k": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.062733515,
+    "sell_sol": 0,
+    "buy_tokens": 168407355278,
+    "sell_tokens": 0,
+    "first_ms": 1791761044784,
+    "last_ms": 1791761044784
+  },
+  "75DqWY8AGjWT1pyKgWgjcoXwqD4aEuj95dBCmWGEp8BL": {
+    "buys": 0,
+    "sells": 1,
+    "buy_sol": 0,
+    "sell_sol": 0.048040201,
+    "buy_tokens": 0,
+    "sell_tokens": 131144079595,
+    "first_ms": 1791761052731,
+    "last_ms": 1791761052731
+  },
+  "FGWVjVUuxEjbWERzp2Ce4KiwPX4TgHE3BQgmTeoNyrMQ": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.555022682,
+    "sell_sol": 0,
+    "buy_tokens": 1518601320523,
+    "sell_tokens": 0,
+    "first_ms": 1791761055538,
+    "last_ms": 1791761055538
+  },
+  "GLzKdZyZ8HRxmRqUds6JR4itHPhn4wQxe7v2ZtsKhkxM": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 0.009876542,
+    "sell_sol": 0,
+    "buy_tokens": 26251512578,
+    "sell_tokens": 0,
+    "first_ms": 1791761057605,
+    "last_ms": 1791761057605
+  },
+  "6cbFusMvJ3EgfqRniLKk7GMvUCTP8CQEmxvdzyHwJVQU": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 2.933333333,
+    "sell_sol": 0,
+    "buy_tokens": 7616325126356,
+    "sell_tokens": 0,
+    "first_ms": 1791761072657,
+    "last_ms": 1791761072657
+  },
+  "5TUNxqAELbFA3BU8Fv3TNc38vCB2X7gwVmPwM2a5ZyoF": {
+    "buys": 1,
+    "sells": 0,
+    "buy_sol": 3.108303386,
+    "sell_sol": 0,
+    "buy_tokens": 7775129586780,
+    "sell_tokens": 0,
+    "first_ms": 1791761073435,
+    "last_ms": 1791761073435
+  }
+}

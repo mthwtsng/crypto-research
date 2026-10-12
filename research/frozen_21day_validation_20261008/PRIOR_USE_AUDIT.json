@@ -1,0 +1,237 @@
+{
+  "files": [
+    {
+      "file": "research/core_gap_refinement_20261007/TRANSFER_SECONDARY_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "1611d7fb08881192bd5a476781340cd89b892a29ecefab2f44c861651842913f"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/CONFIRMED_EXIT_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "38f29f9094049a580b92692014312eac03069d00fae516d99d034a65c108cfa1"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/TRANSFER_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "7ce263753eb4207d457a4511dd2f128e7a49fd20a75d45367ef080b7301fedbe"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/STAGE1_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "3cd37f4b97c5447f40c0c26b77562b66d5905a2ef700e9a119ca81f54802c044"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/REPORT.md",
+      "dates": [
+        "2026-10-05"
+      ],
+      "sha256": "3b3cbdb69e0d305f2650d72dc025d4e56247dde022d8eca27ce721e549e8f095"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/JOINT_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "aa88fb03f5339f277c172503ece49b9f6e168e783ff02a2a9331b9790824301d"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/STAGE2_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "ea04bc751fc909a584404e03ce8326e9236ef7cb8fdee8c0560d27af38e31588"
+    },
+    {
+      "file": "research/day_general_20261004/COIN_MANIFEST.json",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "sha256": "340791de314b63d77a332cf6484b86db7ebc663afaeeef3024a9c7f484c5de26"
+    },
+    {
+      "file": "research/day_general_20261004/EVALUATION_FREEZE.json",
+      "dates": [
+        "2026-10-04"
+      ],
+      "sha256": "0ca6c96b9fbd9ae4474629712b9fcbc02a995da2b87d417bdf219b24c4637bf6"
+    },
+    {
+      "file": "research/day_general_20261004/ACCURACY_CONTRACT_REPORT.md",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "sha256": "500112e9d2264fadc1e520ee2f874b5a7a5d0ab9e316a95a01d63d08c58a0bab"
+    },
+    {
+      "file": "research/day_general_20261004/REPORT.md",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "sha256": "c5f8f90875a9d6afde02ecefae2984f651a8f1dbcf73e75aee10c107c56965fc"
+    },
+    {
+      "file": "research/core_plan_audit_20261007/SPEC_FREEZE.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "aaf23ba22d359b8854226255ea242fef4c23af01ca43101a3d500fdd03cc9ee4"
+    },
+    {
+      "file": "research/wallet_curve_entry_discovery_20261007/ENTRY_FREEZE.json",
+      "dates": [
+        "2026-10-07"
+      ],
+      "sha256": "f418691a5b2ddf0e1c31b828b94f3f7a1368f26bccd535d487b5dd78c27207b3"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/sample_expansion/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "990913b6822066e7561adbe646befc85f7e5a56dd9881e2e9bb14a5e38e91f56"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/tailored_requested_cycle/REPORT.md",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "sha256": "dcbc652b2092a75e001334d9ef503ec396060a6c98003a318d190476ec1b2afc"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/tailored_requested_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "62d34f565f8a931a49dd450480b53df8f4cd1fc3927150e75302ab464738b1ea"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/grace_verification_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "39f4274a7b7db0af31b3e4ebaa458f3ac1f22a7c0d9e1c3fa1474a81db6e1d65"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/fresh_oct05_oct06/FREEZE.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "d22fd71119ced66baa608e887465880bae896c4338f85fd342b6eb4ea6fd3a11"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/refined_registry_cycle/SPEC.json",
+      "dates": [
+        "2026-10-09"
+      ],
+      "sha256": "9051a3261d306ed713d8edd24d8e253593c23fc42fd91a6bb884b9948da2630a"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/recovery_sequence_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "166b68bb9b605253e400f3ce5e43943d0d30faddd8a358fb668218c48b6f5dae"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/unlimited_requested_cycle/REPORT.md",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "sha256": "add1fdbf72c50af9790b8eddaf5445f3332b75bfeda85e6f5f5a0adbb3231e34"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/unlimited_requested_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "809e8e0d074d03c8be6123c4c3f12dc202d552c6190f67c6e3d35879b618da0c"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/demand_and_bounce_cycle/SELL_SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "668bb7c0ad8ed8aad7a39af8f78bab75e3ff1f3317792f7103b20339dbbb00f9"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/demand_and_bounce_cycle/REPORT.md",
+      "dates": [
+        "2026-10-05"
+      ],
+      "sha256": "7f81b1c2674714731dd1a88f94ea2eb93af4038d62a2efd7ce86bbdf9de1cf47"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/demand_and_bounce_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "0fe59697d7a78d2686a501018183c04d81f08b9a9dc87f2a89b40b0375fb8b78"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/unified_requested_cycle/REPORT.md",
+      "dates": [
+        "2026-10-03"
+      ],
+      "sha256": "5d7ff2942aed478ef06a9d42ff40602de8ad37bdb4c4d8ff724e27a9b55ace25"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/unified_requested_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "1ecbe09462cecbafc82895218a27d20c7df8bc02524020fcec63494c0af55856"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/shadow_feedback_cycle/REPORT.md",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06"
+      ],
+      "sha256": "3f8a4a31001e44c5fa93b707816f9066fef104e07f3d55fba3557c81f61a9eac"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/shadow_feedback_cycle/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "06a890158af8eed5bf7e8cda8863d3835fcc459fb2f2e8ad0e1eba49bee68db9"
+    },
+    {
+      "file": "research/core_gap_refinement_20261007/unified_requested_cycle/before_user_target_floor_clarification/SPEC.json",
+      "dates": [
+        "2026-10-08"
+      ],
+      "sha256": "a9c3683db1f2683dc5311852c4173c0078c3c00b1eda7e24bead947f8883aa65"
+    }
+  ],
+  "date_mentions": {
+    "2026-10-03": 7,
+    "2026-10-04": 7,
+    "2026-10-05": 5,
+    "2026-10-06": 3,
+    "2026-10-07": 1,
+    "2026-10-08": 18,
+    "2026-10-09": 1
+  },
+  "known_prior_mints": 1840,
+  "limitation": "Deleted artifacts and wallet-selected studies prevent an assertion of completely untouched historical dates. Exclude known mints and label retrospective transfer, not forward-confirmed."
+}

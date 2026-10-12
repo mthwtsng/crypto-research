@@ -1,0 +1,50 @@
+{
+  "cutoff_ms": 1791760375541,
+  "cutoff_utc": "2026-10-11T23:12:55.541572439+00:00",
+  "vm_id": "ghost-v2-20261011T231014",
+  "runtime_saved_at_ms": 1791760383828,
+  "inputs": {
+    "data/ghost_trades_master.jsonl": {
+      "bytes": 989262
+    },
+    "data/ghost_holder_screen.jsonl": {
+      "bytes": 190059506
+    },
+    "data/ghost_shielded_coins.jsonl": {
+      "bytes": 391304
+    },
+    "data/ghost_observations.jsonl": {
+      "bytes": 54831207
+    },
+    "data/ghost_trades.jsonl": {
+      "bytes": 213717
+    },
+    "data/ghost_summary.json": {
+      "bytes": 5047
+    },
+    "data/ghost_force_sells.jsonl": {
+      "bytes": 1152
+    },
+    "data/ghost_fake_detector.jsonl": {
+      "bytes": 1565703
+    },
+    "data/ghost_amm_evidence.jsonl": {
+      "bytes": 22325592
+    },
+    "data/ghost_variant_signals.jsonl": {
+      "bytes": 124054
+    },
+    "data/ghost_intents.jsonl": {
+      "bytes": 1607087
+    },
+    "data/ghost_runtime_state.json": {
+      "bytes": 49439663
+    },
+    "data/ghost_failed_activity.jsonl": {
+      "bytes": 28051917
+    },
+    "data/ghost_session_reset.json": {
+      "bytes": 171
+    }
+  }
+}

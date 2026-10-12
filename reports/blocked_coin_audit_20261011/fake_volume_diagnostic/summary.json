@@ -1,0 +1,435 @@
+{
+  "creation_observed_mints": 1055,
+  "crossing_count": 77,
+  "crossing_labels": {
+    "censored_migration_before_120s": 3,
+    "censored_recent": 7,
+    "curve_tape_1_5x_no_observed_80pct_drawdown_120s": 20,
+    "no_postcross_receipt_observed": 8,
+    "other_observed_path": 35,
+    "rise_then_80pct_collapse": 4
+  },
+  "cutoff_ms": 1791757533517,
+  "cutoff_utc": "2026-10-11T22:25:33.517242059+00:00",
+  "event_count": 91306,
+  "exclusions": {
+    "creation_without_trade_event": 233,
+    "no_16_sol_crossing": 716,
+    "no_supported_sol_trade_after_creation": 29
+  },
+  "feature_definitions": {
+    "burst_share": "Largest fixed 1-second received-time bucket or on-chain slot's outside buy volume / all outside buy volume.",
+    "collapse_label": "Within 120s, spot first reaches >=1.25x crossing proxy, then observed spot <=20% of its running post-cross peak.",
+    "creator_residual": "Visible creator-user buy tokens minus visible creator-user sell tokens through crossing, saturated at zero; excludes transfers and unobserved seeded inventory.",
+    "crossing": "First creation-observed supported native-SOL receipt whose last event for this mint has rsol_raw >= 16 SOL, in file/receive order.",
+    "feature_window": "Prior 10,000ms by received_at_ms, through and including the complete crossing receipt; all supported trade events count toward gross volume, and outside-buyer features use user != event creator.",
+    "meaningful_buyer": "Distinct outside address with at least one individual buy event >=0.05 SOL.",
+    "order": "Live-observed receipt/file order only; price/reserve trajectory uses one final same-mint state per receipt. The global receipt stream has cross-mint same-slot transaction-index inversions; per-mint path audit found none. Fine receipt timing is not calibrated to chain time.",
+    "repeat_buyer_share": "Outside buy volume attributable to addresses with >=2 buy events in the feature window / all outside buy volume.",
+    "reserve_retention": "Crossing rsol minus last observed rsol before feature-window start, divided by gross buy volume; initial reserve assumed zero only when no prior observation exists after observed creation.",
+    "runner_label": "Exploratory curve-tape proxy only: within 120s, spot reaches >=1.5x crossing proxy without an observed 80% running-peak drawdown; this does not establish complete market coverage, stability, or post-migration behavior. Migration before 120s is censored.",
+    "size_bins": "Outside buys rounded to nearest 0.01 SOL; top-bin metrics are descriptive only.",
+    "spot": "vsol_raw/vtokens_raw within-mint ratio proxy from the last event for this mint in each complete receipt; decimal scale cancels in multiples.",
+    "top3_share": "Top three outside addresses by buy volume / all outside buy volume."
+  },
+  "groups": {
+    "curve_tape_1_5x_no_observed_80pct_drawdown_120s": {
+      "features": {
+        "creator_observed_residual_supply_pct": {
+          "median": 1.737651816691,
+          "n": 20,
+          "p25": 0.0,
+          "p75": 3.4199203154141005
+        },
+        "cross_age_seconds": {
+          "median": 0.18,
+          "n": 20,
+          "p25": 0.0027500000000000003,
+          "p75": 1.0642500000000001
+        },
+        "max_observed_drawdown_pct": {
+          "median": 61.09778083671796,
+          "n": 20,
+          "p25": 45.87739703377888,
+          "p75": 73.3201298295618
+        },
+        "max_real_reserve_drawdown_pct": {
+          "median": 66.03931546022696,
+          "n": 20,
+          "p25": 53.551037583760085,
+          "p75": 93.65852014454124
+        },
+        "window_gross_buy_sol": {
+          "median": 16.432968778,
+          "n": 20,
+          "p25": 14.419870952,
+          "p75": 17.813378923000002
+        },
+        "window_gross_sell_sol": {
+          "median": 0.0,
+          "n": 20,
+          "p25": 0.0,
+          "p75": 0.3120940235
+        },
+        "window_max_1s_buy_volume_share": {
+          "median": 0.7416615151035961,
+          "n": 20,
+          "p25": 0.6148866193831445,
+          "p75": 0.9684873949700487
+        },
+        "window_max_slot_buy_volume_share": {
+          "median": 0.863832685532732,
+          "n": 20,
+          "p25": 0.6403503123840663,
+          "p75": 1.0
+        },
+        "window_meaningful_outside_buyers_ge_0_05": {
+          "median": 6.5,
+          "n": 20,
+          "p25": 1.75,
+          "p75": 9.25
+        },
+        "window_modal_size_event_share": {
+          "median": 0.26666666666666666,
+          "n": 20,
+          "p25": 0.1607142857142857,
+          "p75": 0.75
+        },
+        "window_repeat_buyer_volume_share": {
+          "median": 0.0,
+          "n": 20,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "window_reserve_delta_vs_gross_buy": {
+          "median": 1.0,
+          "n": 20,
+          "p25": 0.9625385714680668,
+          "p75": 1.0
+        },
+        "window_sell_buy_churn": {
+          "median": 0.0,
+          "n": 20,
+          "p25": 0.0,
+          "p75": 0.03746142853193293
+        },
+        "window_top3_buyer_volume_share": {
+          "median": 0.7508815088054321,
+          "n": 20,
+          "p25": 0.5295378929094285,
+          "p75": 1.0
+        },
+        "window_top3_size_bins_event_share": {
+          "median": 0.5777777777777777,
+          "n": 20,
+          "p25": 0.375,
+          "p75": 1.0
+        }
+      },
+      "n": 20
+    },
+    "other_observed_path": {
+      "features": {
+        "creator_observed_residual_supply_pct": {
+          "median": 1.737651816691,
+          "n": 35,
+          "p25": 0.0,
+          "p75": 3.7099601556468005
+        },
+        "cross_age_seconds": {
+          "median": 10.522,
+          "n": 35,
+          "p25": 1.1015000000000001,
+          "p75": 50.7315
+        },
+        "max_observed_drawdown_pct": {
+          "median": 58.655983284021914,
+          "n": 35,
+          "p25": 38.17102836435942,
+          "p75": 67.76923192861027
+        },
+        "max_real_reserve_drawdown_pct": {
+          "median": 94.75222007070516,
+          "n": 35,
+          "p25": 57.29010459649897,
+          "p75": 99.78145551060578
+        },
+        "window_gross_buy_sol": {
+          "median": 16.068372179000004,
+          "n": 35,
+          "p25": 10.594527835000001,
+          "p75": 20.575737414500004
+        },
+        "window_gross_sell_sol": {
+          "median": 1.9958406530000001,
+          "n": 35,
+          "p25": 0.0,
+          "p75": 4.4981239655
+        },
+        "window_max_1s_buy_volume_share": {
+          "median": 0.6368225602522921,
+          "n": 34,
+          "p25": 0.41739992227198286,
+          "p75": 0.867869866388629
+        },
+        "window_max_slot_buy_volume_share": {
+          "median": 0.5629638296302886,
+          "n": 34,
+          "p25": 0.3464888840973752,
+          "p75": 0.9904736248442191
+        },
+        "window_meaningful_outside_buyers_ge_0_05": {
+          "median": 8.0,
+          "n": 35,
+          "p25": 3.0,
+          "p75": 18.5
+        },
+        "window_modal_size_event_share": {
+          "median": 0.15476190476190477,
+          "n": 34,
+          "p25": 0.10277777777777779,
+          "p75": 0.3333333333333333
+        },
+        "window_repeat_buyer_volume_share": {
+          "median": 0.0,
+          "n": 34,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "window_reserve_delta_vs_gross_buy": {
+          "median": 0.8844002351565018,
+          "n": 35,
+          "p25": 0.688678771054237,
+          "p75": 1.0
+        },
+        "window_sell_buy_churn": {
+          "median": 0.17447582914322854,
+          "n": 35,
+          "p25": 0.0,
+          "p75": 0.31132122894576286
+        },
+        "window_top3_buyer_volume_share": {
+          "median": 0.5754158484371059,
+          "n": 34,
+          "p25": 0.39069300324839923,
+          "p75": 0.9934300590743257
+        },
+        "window_top3_size_bins_event_share": {
+          "median": 0.3798076923076923,
+          "n": 34,
+          "p25": 0.3,
+          "p75": 0.9166666666666666
+        }
+      },
+      "n": 35
+    },
+    "rise_then_80pct_collapse": {
+      "features": {
+        "creator_observed_residual_supply_pct": {
+          "median": 1.56614515681305,
+          "n": 4,
+          "p25": 1.2649584625616002,
+          "p75": 2.1582189405337
+        },
+        "cross_age_seconds": {
+          "median": 0.001,
+          "n": 4,
+          "p25": 0.00075,
+          "p75": 0.001
+        },
+        "max_observed_drawdown_pct": {
+          "median": 84.28161503715633,
+          "n": 4,
+          "p25": 83.16652729323555,
+          "p75": 85.04840744999785
+        },
+        "max_real_reserve_drawdown_pct": {
+          "median": 99.7334620138679,
+          "n": 4,
+          "p25": 99.15824866537565,
+          "p75": 99.82962230899658
+        },
+        "window_gross_buy_sol": {
+          "median": 21.535204636499998,
+          "n": 4,
+          "p25": 19.894599991999996,
+          "p75": 22.37256630425
+        },
+        "window_gross_sell_sol": {
+          "median": 0.0,
+          "n": 4,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "window_max_1s_buy_volume_share": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 1.0,
+          "p75": 1.0
+        },
+        "window_max_slot_buy_volume_share": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 1.0,
+          "p75": 1.0
+        },
+        "window_meaningful_outside_buyers_ge_0_05": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 1.0,
+          "p75": 1.25
+        },
+        "window_modal_size_event_share": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 0.875,
+          "p75": 1.0
+        },
+        "window_repeat_buyer_volume_share": {
+          "median": 0.0,
+          "n": 4,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "window_reserve_delta_vs_gross_buy": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 1.0,
+          "p75": 1.0
+        },
+        "window_sell_buy_churn": {
+          "median": 0.0,
+          "n": 4,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "window_top3_buyer_volume_share": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 1.0,
+          "p75": 1.0
+        },
+        "window_top3_size_bins_event_share": {
+          "median": 1.0,
+          "n": 4,
+          "p25": 1.0,
+          "p75": 1.0
+        }
+      },
+      "n": 4
+    }
+  },
+  "illustrations_earliest_by_crossing_time": [
+    {
+      "creator_observed_residual_supply_pct": 1.3946384969351,
+      "cross_received_at_ms": 1791756791238,
+      "drawdown_from_peak_pct": null,
+      "forward_event_count": 877,
+      "label": "rise_then_80pct_collapse",
+      "mint": "3nLbfzGbjTGtLBp2PHZGVb7eAyZF2Yagzyodr8fUpump",
+      "peak_spot_multiple": 2.6784111858648725,
+      "same_slot_index_in_forward_window": null,
+      "same_slot_index_in_window": null,
+      "window_gross_buy_sol": 21.095100635999998,
+      "window_max_1s_buy_volume_share": 1.0,
+      "window_max_slot_buy_volume_share": 1.0,
+      "window_meaningful_outside_buyers_ge_0_05": 2,
+      "window_modal_size_bin_sol": 10.28,
+      "window_modal_size_event_share": 0.5,
+      "window_repeat_buyer_volume_share": 0.0,
+      "window_reserve_delta_vs_gross_buy": 1.0000000000000002,
+      "window_sell_buy_churn": 0.0,
+      "window_top3_buyer_volume_share": 1.0,
+      "window_top3_size_bins_event_share": 1.0
+    },
+    {
+      "creator_observed_residual_supply_pct": 1.737651816691,
+      "cross_received_at_ms": 1791756998448,
+      "drawdown_from_peak_pct": null,
+      "forward_event_count": 346,
+      "label": "rise_then_80pct_collapse",
+      "mint": "jkdXNzpcj9Ly59Gy9ZA2sYw2dsuB2NmiywP91cdpump",
+      "peak_spot_multiple": 2.2538139928025362,
+      "same_slot_index_in_forward_window": null,
+      "same_slot_index_in_window": null,
+      "window_gross_buy_sol": 16.29309806,
+      "window_max_1s_buy_volume_share": 1.0,
+      "window_max_slot_buy_volume_share": 1.0,
+      "window_meaningful_outside_buyers_ge_0_05": 1,
+      "window_modal_size_bin_sol": 15.8,
+      "window_modal_size_event_share": 1.0,
+      "window_repeat_buyer_volume_share": 0.0,
+      "window_reserve_delta_vs_gross_buy": 1.0,
+      "window_sell_buy_churn": 0.0,
+      "window_top3_buyer_volume_share": 1.0,
+      "window_top3_size_bins_event_share": 1.0
+    },
+    {
+      "creator_observed_residual_supply_pct": 0.0,
+      "cross_received_at_ms": 1791755806911,
+      "drawdown_from_peak_pct": null,
+      "forward_event_count": 749,
+      "label": "curve_tape_1_5x_no_observed_80pct_drawdown_120s",
+      "mint": "F667wWjyngHSzjJyYDCu888JAa1q1jkMmaUxsb2npump",
+      "peak_spot_multiple": 2.9337097660499216,
+      "same_slot_index_in_forward_window": null,
+      "same_slot_index_in_window": null,
+      "window_gross_buy_sol": 16.629629629,
+      "window_max_1s_buy_volume_share": 0.6614699332098998,
+      "window_max_slot_buy_volume_share": 0.6614699332098998,
+      "window_meaningful_outside_buyers_ge_0_05": 4,
+      "window_modal_size_bin_sol": 3.0,
+      "window_modal_size_event_share": 0.5,
+      "window_repeat_buyer_volume_share": 0.0,
+      "window_reserve_delta_vs_gross_buy": 1.0,
+      "window_sell_buy_churn": 0.0,
+      "window_top3_buyer_volume_share": 0.8195991091245728,
+      "window_top3_size_bins_event_share": 1.0
+    },
+    {
+      "creator_observed_residual_supply_pct": 0.35363597703599997,
+      "cross_received_at_ms": 1791755861364,
+      "drawdown_from_peak_pct": null,
+      "forward_event_count": 370,
+      "label": "curve_tape_1_5x_no_observed_80pct_drawdown_120s",
+      "mint": "4nDhKgrfTvMx2YmrVoHAX4LiK6Nvs1mNcuhw7hkJpump",
+      "peak_spot_multiple": 2.2278632737150112,
+      "same_slot_index_in_forward_window": null,
+      "same_slot_index_in_window": null,
+      "window_gross_buy_sol": 22.157836711999998,
+      "window_max_1s_buy_volume_share": 0.35450235571904015,
+      "window_max_slot_buy_volume_share": 0.2763597131530817,
+      "window_meaningful_outside_buyers_ge_0_05": 17,
+      "window_modal_size_bin_sol": 0.22,
+      "window_modal_size_event_share": 0.2,
+      "window_repeat_buyer_volume_share": 0.03940115662572145,
+      "window_reserve_delta_vs_gross_buy": 0.7290253145178066,
+      "window_sell_buy_churn": 0.2709746854821935,
+      "window_top3_buyer_volume_share": 0.48056802833666284,
+      "window_top3_size_bins_event_share": 0.35
+    }
+  ],
+  "interpretation_limits": [
+    "Behavioral volume patterns cannot prove bot control, fake volume, common ownership, or organic participation.",
+    "Live receive order is not canonical chain order and fine receipt timing is not calibrated. A separate audit found all global same-slot index inversions are cross-mint, with none within a per-mint path.",
+    "No post-migration AMM path is included; graduation before a label is resolved is censored. Sparse per-mint receipts cannot establish quiet, stable, or rug-free periods.",
+    "Creator residuals are receipt-derived trade deltas, not complete custody accounting.",
+    "This is descriptive only: no classifier, threshold selection, profitability estimate, or live filter."
+  ],
+  "observed_real_reserve_drain_ge_90pct_by_label": {
+    "curve_tape_1_5x_no_observed_80pct_drawdown_120s": 6,
+    "other_observed_path": 21,
+    "rise_then_80pct_collapse": 4
+  },
+  "outputs": [
+    "crossings.csv"
+  ],
+  "quote_event_counts": {
+    "other_or_unknown": 7782,
+    "supported_sol": 83524
+  },
+  "receipt_count": 91095,
+  "receive_order_same_slot_index_inversions_global": 6381,
+  "source": "/home/mthwt/code/Crypto/reports/blocked_coin_audit_20261011/observations_slim.jsonl",
+  "source_head": "9dcff3f509b40d78d51921509ca09e79a2eafe63"
+}

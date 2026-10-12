@@ -1,0 +1,21 @@
+{
+  "frozen_at": "2026-10-08T03:26:08.903141+00:00",
+  "development": true,
+  "new_entry_mechanisms": 2,
+  "new_exit_mechanisms": 3,
+  "portfolio_assemblies": 3,
+  "total_new_looks_including_prior": 26,
+  "configs": {
+    "confirmed_control": {},
+    "confirmed_full5": {
+      "s3_full_target": 0.05
+    },
+    "confirmed_full10": {
+      "s3_full_target": 0.1
+    },
+    "confirmed_scratch3": {
+      "s3_scratch": 3
+    }
+  },
+  "control": "Original Starting Five lower exits on gated entries; confirmed S3 control with original exits; all other strategies unchanged, every S5 retained"
+}

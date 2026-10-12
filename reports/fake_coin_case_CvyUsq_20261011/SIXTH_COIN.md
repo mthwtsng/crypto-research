@@ -1,0 +1,35 @@
+# Sixth case: Gazk1Gt6msSYuy6E1tnC3jPeie2N7DMeb1dBdS2GoSbW
+
+## Finding
+
+This is **Baton Ansem (BATONSEM)**, mint `BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump`. The bounded evidence supports the known four-address Cvy repeat-buyer cohort, but does not show a token relay among those four or establish common ownership. At the paper entry, the recorded holder screen returned **Watch** with incomplete funding, receipt, and cross-launch coverage. This example does not independently support a Cvy-only block rule.
+
+## Identity and on-chain anchors
+
+- Mint: `BbGtqvPB5XrF7QFkMkBth6ojhhJNi1YZJrC3K2gcpump`, metadata name **Baton Ansem**, symbol **BATONSEM**, six decimals. Its account is owned by Token-2022 (`TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb`). The confirmed mint-account response reports no mint authority and no freeze authority. See [mint account response](sixth_getaccountinfo.json) and [supply response](sixth_gettokensupply.json).
+- The mint-creation/first-creator-trade transaction is `4HuqerH4SHc8hth7J8HyK6Z6cnuRp6Pu9NdwW9DaSx6FXEdxgjR5PwBjcjR7UaZSXnbRZiwSSduTiyEHhhqMeU6R`, slot `455847149`, signer/creator `6nXtNkac9rymZ1qDBm4fCB56CPo74eKvpETe7PuBXX5U`. The chain `blockTime` is 00:22:13 UTC on 2026-10-12; the local observer row is timestamped 00:22:13.877 UTC.
+- Pool account `Gazk1Gt6msSYuy6E1tnC3jPeie2N7DMeb1dBdS2GoSbW` is owned by PumpSwap (`pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA`), confirmed at slot `455856973`; see [pool account response](sixth_pool_accountinfo.json). A successful interaction in the fetched pool-address signature page is at slot `455850349`, transaction `4F1oqBPbV8STMbjbokdGfptQcyifcgknuD8yJKG8EPM2vCkjVaLpxnhCE4c1rMwtXjfwjtiihrudUKL78o77jit1`, involving this mint. That instruction is a PumpSwap `buy_exact_quote_in`, not evidence of pool initialization. The bounded query does not establish the pool's earliest transaction.
+
+## What was observable by the paper entry
+
+The four wallets previously identified in the Cvy casebook as its repeat-20 cohort are `B9ksmPhuhj43BBWXJxm1SUXDbVZRthmvf8FZMpYhVhoH`, `CMcKT7wshBUjRrPy6uH4bdTRkmxFLngQh2kTXrrzRVdC`, `Hy4ZuryDVXuytB3TGXmAdcqHQeF7WMQD4dZLdAipyVFt`, and `7dGV2auDmovmUbb27KBW1QNN52aLXd4ZZbafG9nyr5VT`. The earlier [case report](REPORT.md) documents paired trading patterns for the first two and second two; [wallet-overlap review](WALLET_OVERLAP.md) describes these four as repeat participants on three earlier launches and cautions that the shared transaction-shape fingerprint is common.
+
+On this mint, all four bought within the first two seconds after creation. In the selected 15-second launch window, three signatures per wallet were returned and all 12 transaction bodies were fetched successfully. The initial buys were about 0.089–0.107 SOL each. In those 12 bodies, I found no successful direct Token-2022 transfer from one of these four owners to another. Each address appears as its own curve-trade user in the local event tape. This is evidence of a recurring early buyer group, not proof that the addresses share an operator.
+
+The entry-time screen completed at **00:27:16.543 UTC** (13.188 seconds before the paper OPEN recorded at **00:27:29.731 UTC**). It returned `Watch`; it had resolved 19 holder wallets from its bounded top-account sample, with zero unresolved in that sample. Funding probing was incomplete (two records returned), cross-launch probing was incomplete (zero records returned), and receipt probing was incomplete (256 records returned). The retained-supply lower bound was null, no supporting wallets were named, and the flags included `funder_scope_unverified`, `funding_probe_incomplete`, `receipt_probe_incomplete`, and `cross_launch_probe_incomplete`. The source record is line 21,498 of `data/ghost_holder_screen.jsonl`; a matching row is preserved in [the frozen log rows](sixth_frozen_log_rows.jsonl), with source-prefix inventory in [the manifest](sixth_MANIFEST.json).
+
+The paper FILL row is not a confirmed bot execution: it sets `actual_fill_established=false`, `our_signature=null`, and `placement_calibrated=false`. Its source signature `5cSsBk3uwjWti67ZgZea31H1M62Pw3XQWsso6b6tEZGGM7HGa4YvuU8yWqouhkvwyZcxbQGHLvMrnH9QWyedMuD8` belongs to a market participant, not to the paper system. The relevant intent and receipt are preserved in the frozen rows and [key transaction evidence](sixth_key_transactions.json).
+
+The prior-launch membership is visible in the local casebook now, but the entry-time screen did not return cross-launch matches. A classifier would therefore have needed a separate maintained history of these addresses to use that relationship at entry; the captured screen itself did not provide it. The initial four-wallet buys were already on-chain before entry, while the post-entry curve terminal and pool observations below could not inform that decision.
+
+## Later observed curve and pool state
+
+The frozen Pump-program observation tape records `1,485` supported-SOL curve events through slot `455849712`, transaction index `1279`. The chain `blockTime` is 00:31:34 UTC; the terminal observer row is timestamped **00:31:34.555 UTC**. Its `rsol_raw=85,005,360,078` (85.005360078 SOL) is the tape's maximum recorded real-SOL reserve, and `rtokens_raw=0` marks its terminal curve event. Signature `5DVkdvDr22UFcK1apaCHaeihooUo4rpbTMFG2eQL9N4rUUzcXMHYsY2j8mggxR2wjoCHaJiuFZVktbvt1B4p6pUy` appears in the fetched mint-signature response as finalized with no transaction error. The reserve and terminal fields here are from the frozen observer event row, whose signature status is authenticated by that response; I did not independently re-decode the full terminal receipt in this bounded pass.
+
+The local paper CLOSE tied to that terminal signature was recorded at 00:33:46.969 UTC as migrated-full, but again has `actual_fill_established=false` and no bot signature. A local AMM snapshot records pool context slot `455850320`; the successful PumpSwap interaction above is at slot `455850349`. These observations do not establish pool creation timing or a paper/live exit fill. No profitability or PnL conclusion is made.
+
+## Evidence scope and limits
+
+[The frozen manifest](sixth_MANIFEST.json) covers matching rows from six append-only local logs: 1,805 matching rows across a combined 10,209,651-byte scanned prefix. Per-source byte counts and SHA-256 hashes identify exactly which prefixes were read. The source mtimes were observed after scanning, not at file-open time. On-chain history checks here are also bounded: the mint query returned 3,329 signatures over its fetched slot range, and the pool check used a fetched signature page. Neither is a claim of complete lifetime history.
+
+The classification is **Watch / insufficient for a stronger fake-coin finding**. The repeated Cvy cohort is a useful review feature, but this case supplies neither a proven wallet-to-wallet relay nor reliable common-control evidence. The no-transfer result applies only to the selected 12 early transaction bodies; it does not rule out transfers through other transactions, intermediaries, or later activity.

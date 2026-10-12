@@ -1,0 +1,35 @@
+{
+  "asof_utc": "2026-10-11T23:37:49.386789+00:00",
+  "wallets": [
+    "FcNHxPSqQ1ChyWmwW8C4zzXuUvQR3b7zBNBxk84VPmSv",
+    "Dv4MuKsqjXZPMsep9ZDdXrRvNmCEFFGPoYidRMgJQsad",
+    "B9ksmPhuhj43BBWXJxm1SUXDbVZRthmvf8FZMpYhVhoH",
+    "CMcKT7wshBUjRrPy6uH4bdTRkmxFLngQh2kTXrrzRVdC",
+    "Hy4ZuryDVXuytB3TGXmAdcqHQeF7WMQD4dZLdAipyVFt",
+    "7dGV2auDmovmUbb27KBW1QNN52aLXd4ZZbafG9nyr5VT",
+    "GhyfKLzCSNd4H2kQoQCacxyFWaj1RWG6eBKYc6uxGmeD",
+    "ARMp7jHMLmSAmD1QNjrTHWpH5fL5SJhbdCNQQt4c5gZ6",
+    "Dio7tJScpeJSESKLk4PrEaPLfSwpKWSZqAbSExUn8ZRd",
+    "81cHFZH41hvE8D5cNpEbtDpyfh4ALS42FbYXG5qqvMND",
+    "DUdTFnjDBKoA9eRQoGmafcLpuUWdutE4vMNJMBjVS9Pd",
+    "CztDTq8FH4niSTKTWWu3W4NG5QZetUsyNYuM1nQxCUit",
+    "Er7cCL5VkxbSCDLZRcuouLY1MsUQCXz6mKdNcLDLAnD2",
+    "DGzMXC1x5VzodF3UU79npnHVXD5RSPYPiXQo1KBYPyAL",
+    "NUTN33YPQNsm68jwafcAsBps5aeGTCH16yWZnyRRtM8",
+    "CGbLazQt5HXNPawzFct36WeFwj8dL4vGUd8KRHSJ1iCX",
+    "98MLcc4UVzeLaDWckcBUCMcwS5CgSeqAjC4g2JNQ714c",
+    "mMpEUcCgvHmdXvkrawYszRZpXTVfp1E2rDCc4vtGfdw",
+    "53MN5hAAGHu8Q8HM8ZCaenWYsBma4qTHD9Lp6ETKdLrL"
+  ],
+  "history_limit_per_wallet": 50,
+  "transaction_selection": "first observed target receipt plus five nearest and five oldest successful prior signatures in the bounded50 sample",
+  "transactions_requested": 191,
+  "transactions_resolved": 191,
+  "incoming_transfers": 34,
+  "funding_history_complete": false,
+  "rpc_methods": [
+    "getSignaturesForAddress",
+    "getTransaction"
+  ],
+  "max_supported_transaction_version": 1
+}

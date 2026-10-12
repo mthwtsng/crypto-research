@@ -1,0 +1,148 @@
+{
+  "admission_snapshot": {
+    "decimals": 6,
+    "evaluated_at_ms": 1791770992301,
+    "expires_at_ms": 1791771022301,
+    "mint_supply_raw": "1000000000000000",
+    "owner_accounts": [
+      {
+        "holding_pct_supply": 3.1054207932475,
+        "owner": "DBzSeRxeU2gNAn3pTwxW26Z62RaSKxi2NRAsh1Tcpa9H",
+        "rank": 1,
+        "token_amount_raw": "31054207932475"
+      },
+      {
+        "holding_pct_supply": 3.0304070784732,
+        "owner": "AVsytXJSNVSD7i4yorVN9QrBbE1t6dVNS9yyT8TihCA1",
+        "rank": 2,
+        "token_amount_raw": "30304070784732"
+      },
+      {
+        "holding_pct_supply": 2.0883087292591,
+        "owner": "8twuinL7KYWuicppU41vnnxCjnivhiAm4Fgbt9HrvYu8",
+        "rank": 3,
+        "token_amount_raw": "20883087292591"
+      },
+      {
+        "holding_pct_supply": 2.0739344434154,
+        "owner": "A1BVy6wvjwbznbdxqZ3sdcH9C7nZRtV3yy6iY9JTVGNM",
+        "rank": 4,
+        "token_amount_raw": "20739344434154"
+      }
+    ],
+    "scope": "Top 20 token accounts grouped to 19 resolved on-curve, system-owned wallet owners; bounded sample, not a full wallet census.",
+    "source": "data/ghost_holder_screen.jsonl line 25828, final pre-entry screen",
+    "status": "watch",
+    "supply_slot": 455876758,
+    "top4_current_holder_sample_share_pct": 10.2980710443952
+  },
+  "bounded_funding_witness": {
+    "conclusion": "No material owner seed parent was established from this bounded sample. The zero screen receipt count is incomplete coverage, not evidence that no funder exists.",
+    "screen_current_funding_records_received": 0,
+    "screen_funding_probe_complete": false,
+    "selected_owner_history_scope": "Bounded recent-address probes only; no exhaustive funding ancestry."
+  },
+  "captured_at_utc": "2026-10-12T02:26:38.166417+00:00",
+  "casebook_comparison": {
+    "Cfiyy_DgT6": "Imported seed families each have four verified relay edges plus four funding edges with exact buy-amount matches; BmFdp is shared funding source. Cfiyy alone has a same-venue AMM drain >=90% after >=20 SOL peak. Target scan has zero verified current relays/funding and cannot be linked by exact wallets.",
+    "Cvy_7x_Gazk": "Prior casebook cohorts show repeated buyers/rapid sells, but no exact target owner overlap; the cited Cvy cohort records no direct token transfer among its four members and no common-control proof.",
+    "comparison_limit": "These are analogies only. Their later outcomes or records are not target entry features.",
+    "sample_wallet_exact_overlap_with_Cvy_7x_Gazk_Cf_Dg": 0
+  },
+  "collector_boundary": {
+    "blockTime_vs_persisted_scan_availability_ms": -6740,
+    "blockTime_vs_source_ms": -12532,
+    "coverage_conclusion": "Coverage is incomplete and the timing cause of the 77 future-blockTime warnings cannot be reconstructed from saved runtime data. These 77 status rows do not establish relay content because their transaction bodies were not fetched in the scan.",
+    "current_getBlock_blockTime_s": {
+      "455876723": 1791770984,
+      "455876724": 1791770984
+    },
+    "failed_status_err_count": 39,
+    "funding_records_returned": 0,
+    "future_signature_warnings": 77,
+    "meaning_of_observed_at_ms": "For a normally completed scan, this field is overwritten with local_now_ms at completion (current source line 1198). The initial scan-start value is returned only on invalid-input early return; this persisted field is not a per-request timestamp.",
+    "other_errors": {
+      "128_signature_bound_warnings": 1,
+      "64_signature_bound_warnings": 4,
+      "initial_holder_relay_20_transaction_budget_cap": 1,
+      "more_than_12_mint_transactions": 1,
+      "more_than_16_launch_window_transactions": 4
+    },
+    "per_rpc_response_available_at_ms": "Not captured for this historical runtime. Current source has been repaired to capture local_now_ms after each getSignaturesForAddress response and pass that per-response availability time to the signature parser. The deployed source hash is not preserved, so the current implementation does not prove which cutoff the historical VM used or what per-response cutoff it saw. The current blockTime being 6.740 seconds before the persisted scan availability timestamp does not adjudicate the per-response comparison.",
+    "relays_returned": 0,
+    "scan_complete": false,
+    "scan_observed_at_ms": 1791770990740,
+    "scan_record_line": 22288,
+    "source_code": "Current source: src/bot/fake_coin_history.rs lines 906-950 (per-response availability passed to parser) and 1198 (normal-completion scan timestamp). Historical deployed source hash was not captured.",
+    "status_rows_known_via_shyft": 77,
+    "status_slots": {
+      "455876723": 28,
+      "455876724": 49
+    }
+  },
+  "mint": "7soS8bF4JW5UCLrLdzqhgtCBmJ6XrACgF13wpupCpump",
+  "ordering_caveat": {
+    "local_feed_transaction_index": 556,
+    "rule": "Provider transaction indices differ; same-slot temporal ordering in this witness uses Shyft getBlock indices only.",
+    "shyft_getBlock_index": 86,
+    "source_signature": "5T3sPz6eaT2JvDzeaDCuh8oLe63jycJe4zthAwKU3WSa1E3wEeoFAgDZRp6LmTiVWbLH6svjDzTuWprBEyD9Dh9"
+  },
+  "protocol_destination_classification": {
+    "authority_account_owner_program": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "authority_is_executable": false,
+    "interpretation": "The transferChecked legs terminate at the Pump bonding-curve vault authority. They are protocol sell legs, not holder-to-holder inventory relays; exclude all four from V4 relay counts.",
+    "pda_derivation": "Pump program PDA for seeds [\"bonding-curve\", mint_bytes], bump 255; off-curve.",
+    "recipient_token_account": "BUMLNBYJdVAuiHfsjdrQWgwR3vjm8dcCXhtr4AgJG3xB",
+    "token_account_authority": "5zs8RdhGJZodRUJJQrsA7J3oqVqVkmEkHGsaKtouqsef"
+  },
+  "purpose": "Bounded read-only Shyft RPC witness check of four largest holder owners and the omitted-signature timing. RPC observations are post hoc coverage adjudication only; they do not alter the frozen historical Watch verdict and no future market outcome is an entry feature.",
+  "rpc_methods_used": [
+    "getSignatureStatuses",
+    "getBlock",
+    "getSignaturesForAddress",
+    "getTransaction",
+    "getAccountInfo"
+  ],
+  "sampled_sell_receipts": [
+    {
+      "amount_raw": "21333067460703",
+      "block_time_s": 1791770992,
+      "holder_rank": 1,
+      "owner": "DBzSeRxeU2gNAn3pTwxW26Z62RaSKxi2NRAsh1Tcpa9H",
+      "relative_to_source": "before",
+      "shyft_block_index": 44,
+      "signature": "2ryhqrJErzubC1RgwvELUnjwCFaLw66zEzKCQBKS5R5Fxf4PeF6VR6hm7KirEZ9Kz2Q1vgoXrEo1WfyM7zF6WE75",
+      "slot": 455876760
+    },
+    {
+      "amount_raw": "15554508325615",
+      "block_time_s": 1791770992,
+      "holder_rank": 4,
+      "owner": "A1BVy6wvjwbznbdxqZ3sdcH9C7nZRtV3yy6iY9JTVGNM",
+      "relative_to_source": "before",
+      "shyft_block_index": 61,
+      "signature": "R4veb5w1Sk4BJFXVrphU6j83mMEo1MtG66i1YQbvjutZmMi3m4unAukFiG8uTDpGqqvZBVmzn3NUPDo2VPjbpYs",
+      "slot": 455876763
+    },
+    {
+      "amount_raw": "11157450847215",
+      "block_time_s": 1791770994,
+      "holder_rank": 2,
+      "owner": "AVsytXJSNVSD7i4yorVN9QrBbE1t6dVNS9yyT8TihCA1",
+      "relative_to_source": "before",
+      "shyft_block_index": 160,
+      "signature": "3PDKEfpcdzrxNMW1xzdgqopyQy8CWsP229wUxvbmMYm1t3EtKkT2L48eTp2YtrC1xyyNUPkaDEDDmUbtMzf4NPBt",
+      "slot": 455876771
+    },
+    {
+      "amount_raw": "11595956425790",
+      "block_time_s": 1791770996,
+      "holder_rank": 3,
+      "owner": "8twuinL7KYWuicppU41vnnxCjnivhiAm4Fgbt9HrvYu8",
+      "relative_to_source": "after; same slot, Shyft source index 86",
+      "shyft_block_index": 315,
+      "signature": "54RXEYSGHhpWyk7hDwULsP17WdvpV5M64uECAUvbMfwA144k96u4v1bQo2x4suCFb9CeZvKwuixZDdzjQtzcKZxo",
+      "slot": 455876779
+    }
+  ]
+}

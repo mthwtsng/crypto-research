@@ -1,0 +1,29 @@
+{
+  "git_revision": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+  "files_sha256": {
+    "reports/wallet_edge_20261012/entry_patterns.json": "a5a52ff2888de545481bfb5222db1c2df3a235078cb23b2867cc2680c1336149",
+    "reports/wallet_edge_20261012/creation_anchors.json": "8bd2340c0792208f380e15af1808de1f77e2547b5d3f3f5fe9b53c1fc271f628",
+    "reports/wallet_edge_20261012/collection.json": "d600fb2ae4d32872ddd20bec077d01c78db559b47e7609ed32feb184cb70c9b8",
+    "reports/wallet_edge_20261012/accounting.py": "17a2b624a416fa444fa55c752167120c146b152090de1e9980533522ba594108",
+    "reports/wallet_edge_20261012/bottimus_accounting.py": "4bbe9afa8a8157f304605071774bbf0e4f2c37dcf0504d0d7e21bf1307faa014",
+    "reports/wallet_edge_20261012/held_leaders.py": "4013885023bcfb3d740198301ea33920f5a181f723e32c669904fa520118cc2e",
+    "reports/wallet_edge_20261012/shadow_opens.json": "396ad8da7a85e0e7eecf9ff5bcf92efde9c68e953120cfc22a19a699d564f57a",
+    "reports/wallet_edge_20261012/shadow_overlap.py": "e552884f8bf65660601da02e27bfac360809726ccb412e1a4879ec716cf20e32",
+    "reports/wallet_edge_20261012/ANALYSIS_SUMMARY.json": "3427049d5056313cd8421330ece8918e4d6198b3e9c70149ea0df5430d119694",
+    "research/day_general_20261004/helpers/decoder.py": "7219a7c34c7fa0cef2ca710639af8dc52c6368a534cb18332c5b34347e961303",
+    "research/day_general_20261004/helpers/OFFICIAL_PUMP_IDL.json": "26c77383c3626bd3ef1c376c52680be6c4ba2ff4cfde1f4b0076d1de43b9130c",
+    "research/amm_multiday_20261006/amm_adapter.py": "e4323f54a4d0ca951dffbb71e7f1c4e4932b2486753c5f9dce179885ed946c9d",
+    "research/amm_multiday_20261006/official/SOURCE_PUMP_AMM_IDL.json": "2091433899b07d003d98118ae6cd3c628960fd393b40710b6e15bce6d0e7f2d1",
+    "research/MASTER_STRATEGY_REGISTRY.md": "b2a6b24b286778dc9b362e15948451bb0f3561717fe3e8b4dcbe1b7e30bab080",
+    "reports/wallet_edge_20261012/execution_costs.py": "38a07a38a44329c2b25c45f78047dddd4e06dceae9204b99060780aa5ad7d062",
+    "reports/wallet_edge_20261012/execution_costs.json": "136986b76407b2fa278646c0fa0e6546cc9a89e468f2aa940a4b371d7da9b5b0",
+    "reports/wallet_edge_20261012/execution_costs.md": "facb9a6fb2b77c85e6434d396e5e98826c5a16b2c58cf878d038139651eabd12",
+    "reports/wallet_edge_20261012/REPORT.md": "31941f9fef265a7f39737f246eba6aef8fe767aeb353419a1d13c6b435f320e0",
+    "reports/wallet_edge_20261012/held_leaders.json": "aeba4a0d0a86d5ef92eaf2bf3a52f5cc8f770e92ab1e85aab9e1f1e96866ff5f",
+    "reports/wallet_edge_20261012/shadow_overlap.json": "213f3c8438ae55226567e816cac86d43229debee7a54e14d06fb75a09228cbc3",
+    "reports/wallet_edge_20261012/summarize.py": "70e2ac9f774322cbc10b128b341b009a1cfbfca8d2f7a6c566616da93ea1ae61",
+    "reports/wallet_edge_20261012/migration_cycle_cash.json": "aeee035c15c8a61039c8227153fdab73c9b9f59dfa0d41bff55933e5dd5d99af",
+    "reports/wallet_edge_20261012/VALIDATION.json": "186b0484e64e62986d453e9a0f2342ecf1214935522447a1dfcf6b86c2833145"
+  },
+  "raw_page_hashes": "collection.json and prefix cache request/receipt artifacts"
+}

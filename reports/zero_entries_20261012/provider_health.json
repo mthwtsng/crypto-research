@@ -1,0 +1,14 @@
+[
+  {
+    "provider": "shyft",
+    "http_status": 200,
+    "elapsed_s": 0.452,
+    "resolved": true,
+    "rpc_error": null
+  },
+  {
+    "provider": "alchemy",
+    "http_status": 429,
+    "elapsed_s": 0.142
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "frozen_at": "2026-10-08T02:36:34.329489+00:00",
+  "new_looks": 1,
+  "secondary_candidate": "joint_confirmed_half10",
+  "selection": "development confirmed-half10 exit was+0.5411 central85/+0.4607 fast on6/10close/fillattempts; insufficientsample",
+  "fresh_policy": "add as explicitly exploratory secondary candidate; original selected joint remains primary transfer; no fresh profit outcomes inspected yet",
+  "hashes": {
+    "research/core_gap_refinement_20261007/transfer.py": "6ba3466d131145378a60fff0cd1f892a250add998ebfe739d395846ea61203e6",
+    "research/core_gap_refinement_20261007/variants.py": "ee8507d780a2a1d5eb5dd69b17bf06fb5314995d20107bfcd2acd405a4c39b68"
+  }
+}

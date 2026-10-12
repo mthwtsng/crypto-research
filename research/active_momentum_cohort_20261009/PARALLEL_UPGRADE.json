@@ -1,0 +1,20 @@
+{
+  "state": "integration_in_progress",
+  "verified_preserved": 5,
+  "target": 2000,
+  "requested_worker_processes": 6,
+  "agents": [
+    "rpc_parallel_pool",
+    "parallel_coordinator",
+    "collection_review"
+  ],
+  "changes": [
+    "parent-only manifest writes",
+    "unique-mint ordered candidate queue",
+    "cross-process cache-key locking and provider pacing",
+    "defer pool downloads until curve qualifies",
+    "revalidate cached admissions"
+  ],
+  "archival_constraint": "Shyft samples unavailable; Solami signature arrays differ from canonical reference; only Alchemy eligible for tested block ordering",
+  "updated_utc": "2026-10-09T17:18:24.948540+00:00"
+}

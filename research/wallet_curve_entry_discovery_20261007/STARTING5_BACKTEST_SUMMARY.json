@@ -1,0 +1,89 @@
+{
+  "breakers_on": {
+    "scenario": "central85",
+    "breakers": true,
+    "attempts": 106,
+    "closed": 94,
+    "failed": 12,
+    "total_net_SOL": -0.7161232869999998,
+    "win_rate": 34.04255319148936,
+    "profit_factor": 0.8612405654771563,
+    "max_drawdown_SOL": 1.734838268,
+    "trips": {
+      "broad_recovery": 2,
+      "fresh_expansion": 1
+    },
+    "skipped": {
+      "max_positions": 1,
+      "breaker_broad_recovery": 8,
+      "breaker_fresh_expansion": 5
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 26,
+        "net_SOL": -0.783656086,
+        "wins": 9,
+        "wr": 34.61538461538461
+      },
+      "fresh_expansion": {
+        "trades": 39,
+        "net_SOL": -0.27273425399999984,
+        "wins": 13,
+        "wr": 33.33333333333333
+      },
+      "quiet_absorption": {
+        "trades": 22,
+        "net_SOL": -0.738347645,
+        "wins": 6,
+        "wr": 27.27272727272727
+      },
+      "late_continuation": {
+        "trades": 7,
+        "net_SOL": 1.084674698,
+        "wins": 4,
+        "wr": 57.14285714285714
+      }
+    }
+  },
+  "breakers_off": {
+    "scenario": "central85",
+    "breakers": false,
+    "attempts": 119,
+    "closed": 104,
+    "failed": 15,
+    "total_net_SOL": -1.384873616,
+    "win_rate": 33.65384615384615,
+    "profit_factor": 0.7695672594584009,
+    "max_drawdown_SOL": 2.55272296,
+    "trips": {},
+    "skipped": {
+      "max_positions": 1
+    },
+    "by_rule": {
+      "broad_recovery": {
+        "trades": 32,
+        "net_SOL": -1.499670268,
+        "wins": 10,
+        "wr": 31.25
+      },
+      "fresh_expansion": {
+        "trades": 43,
+        "net_SOL": -0.22395540099999986,
+        "wins": 15,
+        "wr": 34.883720930232556
+      },
+      "quiet_absorption": {
+        "trades": 22,
+        "net_SOL": -0.738347645,
+        "wins": 6,
+        "wr": 27.27272727272727
+      },
+      "late_continuation": {
+        "trades": 7,
+        "net_SOL": 1.084674698,
+        "wins": 4,
+        "wr": 57.14285714285714
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mint": "2whTkPdPkRhWix9iduiA1Z2Pp53PxKUxZC2mZ8kEpump",
+  "creation_found": true,
+  "creation_time": 1787011311,
+  "curve": "jjX6oSf6mDt7VuQ4TiFHfj7TDVVmmUCQGpGLcjtUyaZ",
+  "migration": {
+    "pool": "A8jWYk3nrod139Ew1EgRiwBoP32gcCJzEsCxydH9aCXc",
+    "mint": "2whTkPdPkRhWix9iduiA1Z2Pp53PxKUxZC2mZ8kEpump",
+    "quote_mint": "So11111111111111111111111111111111111111112",
+    "time": 1787011311,
+    "slot": 439949641,
+    "index": 477,
+    "signature": "2DgZZVyzTemv2iCjEqCRGAZyZWjPtEW995gvEuSM81RMh9ichznrYrEEpb4QDpQvNGVBHFiFJnbaqkGGzGxAj3PB",
+    "instruction": "migrate_v2",
+    "base_vault": "Ext63wLE8sN2sMimoNeMVYfkJuMnj3svSKYZhwX42WWL",
+    "quote_vault": "7LTPzdaYLwCf3QeWhppc8pZHE42pcXvkagxeAVQp6JTQ",
+    "creator": "BU7nvxET417gvkk1YEBNaSRzjvsGUDuhD6dQ7DeB2gnS",
+    "source": "authenticated_migration_census"
+  }
+}

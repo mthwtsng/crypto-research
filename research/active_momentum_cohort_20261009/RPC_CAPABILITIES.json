@@ -1,0 +1,149 @@
+{
+  "probe_version": 1,
+  "probed_at_utc": "2026-10-09T17:15:37.019561+00:00",
+  "window_utc": {
+    "start": "2026-08-18T00:00:00Z",
+    "end_exclusive": "2026-10-01T00:00:00Z"
+  },
+  "probe_method": "getBlock transactionDetails=signatures; finalized; no transaction bodies",
+  "periods": {
+    "2026-08": {
+      "sample_slot": 441666345,
+      "sample_block_time": 1787674059,
+      "transaction_details": "signatures",
+      "alchemy_first_attempt": true,
+      "probe_order": [
+        "alchemy",
+        "shyft",
+        "solami",
+        "helius"
+      ],
+      "providers": {
+        "alchemy": {
+          "status": "ok",
+          "signature_count": 1869,
+          "elapsed_seconds": 0.450163
+        },
+        "shyft": {
+          "status": "error",
+          "error_kind": "rpc_error",
+          "rpc_code": -32009,
+          "elapsed_seconds": 0.466246,
+          "exact_signature_order_match": false,
+          "comparison": "secondary_unavailable",
+          "routing_eligible": false
+        },
+        "solami": {
+          "status": "ok",
+          "signature_count": 1175,
+          "elapsed_seconds": 5.295471,
+          "exact_signature_order_match": false,
+          "same_signature_set": false,
+          "shared_signature_count": 1175,
+          "alchemy_only_signature_count": 694,
+          "secondary_only_signature_count": 0,
+          "secondary_order_is_alchemy_subsequence": true,
+          "routing_eligible": false
+        },
+        "helius": {
+          "status": "ok",
+          "signature_count": 1869,
+          "alchemy_signature_count": 1869,
+          "exact_signature_order_match": true,
+          "same_blockhash": true,
+          "same_block_time": true,
+          "routing_eligible": true,
+          "elapsed_seconds": 0.4973152200000186
+        }
+      },
+      "secondary_route_enabled": true
+    },
+    "2026-09": {
+      "sample_slot": 447527916,
+      "sample_block_time": 1789563371,
+      "transaction_details": "signatures",
+      "alchemy_first_attempt": true,
+      "probe_order": [
+        "alchemy",
+        "shyft",
+        "solami",
+        "helius"
+      ],
+      "providers": {
+        "alchemy": {
+          "status": "ok",
+          "signature_count": 1643,
+          "elapsed_seconds": 0.438101
+        },
+        "shyft": {
+          "status": "error",
+          "error_kind": "rpc_error",
+          "rpc_code": -32009,
+          "elapsed_seconds": 0.323752,
+          "exact_signature_order_match": false,
+          "comparison": "secondary_unavailable",
+          "routing_eligible": false
+        },
+        "solami": {
+          "status": "ok",
+          "signature_count": 975,
+          "elapsed_seconds": 1.585716,
+          "exact_signature_order_match": false,
+          "same_signature_set": false,
+          "shared_signature_count": 865,
+          "alchemy_only_signature_count": 778,
+          "secondary_only_signature_count": 57,
+          "secondary_order_is_alchemy_subsequence": false,
+          "routing_eligible": false
+        },
+        "helius": {
+          "status": "ok",
+          "signature_count": 1643,
+          "alchemy_signature_count": 1643,
+          "exact_signature_order_match": true,
+          "same_blockhash": true,
+          "same_block_time": true,
+          "routing_eligible": true,
+          "elapsed_seconds": 0.316287260000081
+        }
+      },
+      "secondary_route_enabled": true
+    }
+  },
+  "slot_ranges": {
+    "2026-08": {
+      "start_slot": null,
+      "end_slot_exclusive": 443282098
+    },
+    "2026-09": {
+      "start_slot": 443282098,
+      "end_slot_exclusive": 452119504
+    }
+  },
+  "boundary_probes": {
+    "2026-09-01": {
+      "known_slot_before": 443281993,
+      "known_block_time_before": 1788220766,
+      "target_block_time": 1788220800,
+      "result": {
+        "slot": 443282098,
+        "block_time": 1788220800,
+        "method": "Alchemy getBlockTime binary search"
+      },
+      "status": "ok"
+    },
+    "2026-10-01": {
+      "known_slot_before": 452119280,
+      "known_block_time_before": 1790812740,
+      "target_block_time": 1790812800,
+      "result": {
+        "slot": 452119504,
+        "block_time": 1790812800,
+        "method": "Alchemy getBlockTime binary search"
+      },
+      "status": "ok"
+    }
+  },
+  "routing_policy": "Alchemy and Helius signatures-only blocks may share routing after exact ordered-signature, blockhash and time equality in both sampled months. All retained transaction indexes still checked independently; history pagination remains provider-bound.",
+  "helius_added_utc": "2026-10-09T18:26:25.915952+00:00"
+}

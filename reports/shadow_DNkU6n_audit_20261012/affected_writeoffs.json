@@ -1,0 +1,12 @@
+[
+  {
+    "mint": "DNkU6n6ZP1knEuGWFdYKqSqAHqQ4vx72WB47o8Pipump",
+    "position_id": "ghost-v2-20261011T231014-1791762554604-293",
+    "intent_id": "ghost-v2-20261011T231014-intent-295",
+    "status": "filled_full_close",
+    "quantity_tokens_raw": 16112887222808,
+    "quoted_tokens_raw": 2865428220102,
+    "net_sol_raw": 79324891,
+    "detail": "S1 Floor Invalidation / Stop Loss (ROI: -84.5%, below_trough: true) | 13247459002706 tokens unsellable (curve real SOL exhausted), written off"
+  }
+]

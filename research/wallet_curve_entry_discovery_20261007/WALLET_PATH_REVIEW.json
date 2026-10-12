@@ -1,0 +1,4162 @@
+[
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "GA1THM24JjfZjsz2YrQw7yA9dsgfBXJ5Up7iu3vCHyHY",
+    "signature": "2A17owLgdPU8ea9ZAWaMcrJ4PXbUkvuss8U8dpZWyT2v37SyYqQKYAYXiptPHi34deoyRAWFtVXci6SW1UYrpZzR",
+    "entry": {
+      "age": 9,
+      "reserve_SOL": 10.645547044,
+      "breadth": 27,
+      "recent_buyers": 19,
+      "fresh_buyers": 19,
+      "recent_buy_SOL": 13.328078018,
+      "dominance": 0.15408363915836135,
+      "recent_sell_SOL": 15.405269239,
+      "drawdown": 0.22318651596681682,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "EDGEKeUN",
+        "SOL": 0.0,
+        "reserve": 7.953
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "HCsVftaM",
+        "SOL": 0.2501,
+        "reserve": 8.203
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "77wS9zZH",
+        "SOL": 0.0988,
+        "reserve": 8.302
+      },
+      {
+        "age": 9,
+        "side": "S",
+        "actor": "FPTyuH9S",
+        "SOL": 0.0008,
+        "reserve": 8.301
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "6hVi8dpz",
+        "SOL": 0.0001,
+        "reserve": 8.301
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "8xNzQx1h",
+        "SOL": 0.0001,
+        "reserve": 8.301
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "ChAi4b75",
+        "SOL": 0.0001,
+        "reserve": 8.301
+      },
+      {
+        "age": 9,
+        "side": "S",
+        "actor": "HCsVftaM",
+        "SOL": 0.2514,
+        "reserve": 8.05
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "9Yy3C9B9",
+        "SOL": 0.8893,
+        "reserve": 8.939
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "jdWXCCvM",
+        "SOL": 1.0663,
+        "reserve": 10.005
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "J6DdwTar",
+        "SOL": 0.5415,
+        "reserve": 10.547
+      },
+      {
+        "age": 9,
+        "side": "B",
+        "actor": "uwuRcFYR",
+        "SOL": 0.0988,
+        "reserve": 10.646
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/2A17owLgdPU8ea9ZAWaMcrJ4PXbUkvuss8U8dpZWyT2v37SyYqQKYAYXiptPHi34deoyRAWFtVXci6SW1UYrpZzR.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "D3e5g2eUAMtZ5YaDWEDpuwi9cQHLr4G1rujv3a39JBR2",
+    "signature": "2RyqW51rNtwj8gghUnXLwGZM3Gyq5naaj3cZvBPJ2chpf3niDJxfRt647tx7oiSbn8VtNqR7xHEziGnzZim5UqTd",
+    "entry": {
+      "age": 24,
+      "reserve_SOL": 30.170548077,
+      "breadth": 140,
+      "recent_buyers": 14,
+      "fresh_buyers": 12,
+      "recent_buy_SOL": 12.925203575,
+      "dominance": 0.22694678006261113,
+      "recent_sell_SOL": 7.025740513,
+      "drawdown": 0.04940278131906117,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 23,
+        "side": "S",
+        "actor": "3pLAJYTK",
+        "SOL": 0.1021,
+        "reserve": 23.378
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "6ZAzTzMn",
+        "SOL": 2.9333,
+        "reserve": 26.312
+      },
+      {
+        "age": 24,
+        "side": "S",
+        "actor": "ARARAw1A",
+        "SOL": 1.0664,
+        "reserve": 25.245
+      },
+      {
+        "age": 24,
+        "side": "B",
+        "actor": "6ZFsAAUk",
+        "SOL": 0.5378,
+        "reserve": 25.783
+      },
+      {
+        "age": 24,
+        "side": "S",
+        "actor": "AvgzJYCg",
+        "SOL": 0.4243,
+        "reserve": 25.359
+      },
+      {
+        "age": 24,
+        "side": "B",
+        "actor": "EP5vZSxi",
+        "SOL": 2.1649,
+        "reserve": 27.524
+      },
+      {
+        "age": 24,
+        "side": "B",
+        "actor": "CnL6TwM9",
+        "SOL": 2.1166,
+        "reserve": 29.64
+      },
+      {
+        "age": 24,
+        "side": "B",
+        "actor": "4MNb2YiP",
+        "SOL": 2.074,
+        "reserve": 31.714
+      },
+      {
+        "age": 24,
+        "side": "S",
+        "actor": "dsegg9CX",
+        "SOL": 0.3457,
+        "reserve": 31.369
+      },
+      {
+        "age": 24,
+        "side": "S",
+        "actor": "BQtvdeZM",
+        "SOL": 0.0379,
+        "reserve": 31.331
+      },
+      {
+        "age": 24,
+        "side": "S",
+        "actor": "sssssDdM",
+        "SOL": 1.3077,
+        "reserve": 30.023
+      },
+      {
+        "age": 24,
+        "side": "B",
+        "actor": "3XxDdoWz",
+        "SOL": 0.1476,
+        "reserve": 30.171
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/2RyqW51rNtwj8gghUnXLwGZM3Gyq5naaj3cZvBPJ2chpf3niDJxfRt647tx7oiSbn8VtNqR7xHEziGnzZim5UqTd.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "7LNj3dsxBg5HEPrGaJdH5h2pNazzCc9vXbQw8PGXpump",
+    "signature": "2SMnCu42moTVxUrkDPXFctsE2wz9k3ikMQpJoVduPHsvgAnbQJe6wQmPpx8jQLF3WpPTZnVQhzTd2oFK7QQJAnKA",
+    "entry": {
+      "age": 103,
+      "reserve_SOL": 12.197775907,
+      "breadth": 74,
+      "recent_buyers": 4,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.267988126,
+      "dominance": 0.3049227860192582,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.19196452204227288,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 94,
+        "side": "S",
+        "actor": "CxkxCQYL",
+        "SOL": 0.156,
+        "reserve": 12.613
+      },
+      {
+        "age": 96,
+        "side": "S",
+        "actor": "6c346of5",
+        "SOL": 0.2241,
+        "reserve": 12.389
+      },
+      {
+        "age": 96,
+        "side": "S",
+        "actor": "Bck5r87K",
+        "SOL": 0.0573,
+        "reserve": 12.332
+      },
+      {
+        "age": 96,
+        "side": "S",
+        "actor": "HZmtPE5F",
+        "SOL": 0.3504,
+        "reserve": 11.981
+      },
+      {
+        "age": 96,
+        "side": "S",
+        "actor": "Bck5r87K",
+        "SOL": 0.0293,
+        "reserve": 11.952
+      },
+      {
+        "age": 96,
+        "side": "S",
+        "actor": "HygcdZPk",
+        "SOL": 0.0377,
+        "reserve": 11.914
+      },
+      {
+        "age": 96,
+        "side": "S",
+        "actor": "7bSm6eFZ",
+        "SOL": 0.0333,
+        "reserve": 11.881
+      },
+      {
+        "age": 99,
+        "side": "B",
+        "actor": "BUM8fpNW",
+        "SOL": 0.06,
+        "reserve": 11.941
+      },
+      {
+        "age": 99,
+        "side": "B",
+        "actor": "5dGnaoog",
+        "SOL": 0.0602,
+        "reserve": 12.001
+      },
+      {
+        "age": 100,
+        "side": "B",
+        "actor": "9bR92yLh",
+        "SOL": 0.0817,
+        "reserve": 12.083
+      },
+      {
+        "age": 102,
+        "side": "B",
+        "actor": "CBKtJrQp",
+        "SOL": 0.0661,
+        "reserve": 12.149
+      },
+      {
+        "age": 102,
+        "side": "B",
+        "actor": "7pe8xgzW",
+        "SOL": 0.0489,
+        "reserve": 12.198
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/2SMnCu42moTVxUrkDPXFctsE2wz9k3ikMQpJoVduPHsvgAnbQJe6wQmPpx8jQLF3WpPTZnVQhzTd2oFK7QQJAnKA.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "CV5mZtvNhrdi7jTohNXaehZFLt7dmpwzTvqAgNCpump",
+    "signature": "2goa5MT3TuEvpkGomuxE7f3bnzsuCiaw58U2WDganM6ha7tAzy9sdJrRs1kaJ2FZ8BGfQEaXEw84g9eSzdRyMSdx",
+    "entry": {
+      "age": 2,
+      "reserve_SOL": 6.739053441,
+      "breadth": 10,
+      "recent_buyers": 10,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 9.925943044,
+      "dominance": 0.2697556609110843,
+      "recent_sell_SOL": 3.681704416,
+      "drawdown": 0.0956002554483869,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "DxhpC9c4",
+        "SOL": 0.9877,
+        "reserve": 4.159
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "FZU56d9i",
+        "SOL": 1.2346,
+        "reserve": 5.394
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "HXzdyGkm",
+        "SOL": 0.4444,
+        "reserve": 5.838
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "3fqcrPht",
+        "SOL": 0.001,
+        "reserve": 5.839
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "FjJiYpUc",
+        "SOL": 1.7991,
+        "reserve": 7.638
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "13NS73NU",
+        "SOL": 0.4024,
+        "reserve": 8.041
+      },
+      {
+        "age": 1,
+        "side": "S",
+        "actor": "FiFawHqx",
+        "SOL": 1.7887,
+        "reserve": 6.252
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "ANDuWBeg",
+        "SOL": 0.7852,
+        "reserve": 7.037
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "3gvzkRoD",
+        "SOL": 0.4933,
+        "reserve": 7.53
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "nya666pQ",
+        "SOL": 0.0965,
+        "reserve": 7.627
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "88887QrR",
+        "SOL": 1.0052,
+        "reserve": 8.632
+      },
+      {
+        "age": 2,
+        "side": "S",
+        "actor": "FjJiYpUc",
+        "SOL": 1.893,
+        "reserve": 6.739
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/2goa5MT3TuEvpkGomuxE7f3bnzsuCiaw58U2WDganM6ha7tAzy9sdJrRs1kaJ2FZ8BGfQEaXEw84g9eSzdRyMSdx.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "7uypGttFntVBfMBhySak8XHMPbQGXCrHWfYpftLdpump",
+    "signature": "2uQhWTP1nDfNKA64uGRpVadvkXhSdPu8LbiKYHqDUQctEWBHzSZ2kQroq2WgFzcRdGobrHDa8xkEJJBiBjHeRREh",
+    "entry": {
+      "age": 303,
+      "reserve_SOL": 13.739355248,
+      "breadth": 257,
+      "recent_buyers": 2,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 1.466666667,
+      "dominance": 0.5426355632857647,
+      "recent_sell_SOL": 0.505171329,
+      "drawdown": 0.5811410301271803,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 293,
+        "side": "B",
+        "actor": "9VbhYsi9",
+        "SOL": 0.0099,
+        "reserve": 12.859
+      },
+      {
+        "age": 293,
+        "side": "B",
+        "actor": "H6Q4HhDm",
+        "SOL": 0.4117,
+        "reserve": 13.27
+      },
+      {
+        "age": 293,
+        "side": "S",
+        "actor": "334q8Z5Y",
+        "SOL": 0.0008,
+        "reserve": 13.27
+      },
+      {
+        "age": 293,
+        "side": "S",
+        "actor": "H6wt1cY8",
+        "SOL": 0.0008,
+        "reserve": 13.269
+      },
+      {
+        "age": 295,
+        "side": "S",
+        "actor": "AVk7oQx4",
+        "SOL": 0.031,
+        "reserve": 13.238
+      },
+      {
+        "age": 295,
+        "side": "S",
+        "actor": "H6Q4HhDm",
+        "SOL": 0.4111,
+        "reserve": 12.827
+      },
+      {
+        "age": 297,
+        "side": "S",
+        "actor": "FAvf3MDC",
+        "SOL": 0.0078,
+        "reserve": 12.819
+      },
+      {
+        "age": 298,
+        "side": "S",
+        "actor": "6v5ggUyA",
+        "SOL": 0.0412,
+        "reserve": 12.778
+      },
+      {
+        "age": 299,
+        "side": "S",
+        "actor": "6iDTRg5J",
+        "SOL": 0.058,
+        "reserve": 12.72
+      },
+      {
+        "age": 300,
+        "side": "S",
+        "actor": "8vFUqrki",
+        "SOL": 0.4472,
+        "reserve": 12.273
+      },
+      {
+        "age": 302,
+        "side": "B",
+        "actor": "GxRHGsnc",
+        "SOL": 0.6708,
+        "reserve": 12.943
+      },
+      {
+        "age": 302,
+        "side": "B",
+        "actor": "5gdKdSk4",
+        "SOL": 0.7959,
+        "reserve": 13.739
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/2uQhWTP1nDfNKA64uGRpVadvkXhSdPu8LbiKYHqDUQctEWBHzSZ2kQroq2WgFzcRdGobrHDa8xkEJJBiBjHeRREh.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "FJb34aqJzoFH6wgEyjm3zk8Zg5kn4Qzz6AGTiLmad5wQ",
+    "signature": "3CjWLYQKGMs7eX6qegLSFVA2KCadu2SfsJuE7r8to5DBNxHaWEB5G4G2KwvBZmJZqNDR7VmqCEErurGnEgMcpMTC",
+    "entry": {
+      "age": 55,
+      "reserve_SOL": 6.690591012,
+      "breadth": 42,
+      "recent_buyers": 9,
+      "fresh_buyers": 9,
+      "recent_buy_SOL": 7.5285596,
+      "dominance": 0.25843974337401804,
+      "recent_sell_SOL": 2.304247104,
+      "drawdown": 0.2655992630983304,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "55YWjLwZ",
+        "SOL": 1.9457,
+        "reserve": 6.326
+      },
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "8tEjj2Kw",
+        "SOL": 0.7407,
+        "reserve": 7.067
+      },
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "FpNMwD26",
+        "SOL": 0.4938,
+        "reserve": 7.561
+      },
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "4wbrLxXe",
+        "SOL": 0.1197,
+        "reserve": 7.68
+      },
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "4wbrLxXe",
+        "SOL": 0.0903,
+        "reserve": 7.771
+      },
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "ceBaMgQ7",
+        "SOL": 0.1877,
+        "reserve": 7.958
+      },
+      {
+        "age": 54,
+        "side": "S",
+        "actor": "EdgeuzbG",
+        "SOL": 0.0,
+        "reserve": 7.958
+      },
+      {
+        "age": 54,
+        "side": "S",
+        "actor": "H2RSofnR",
+        "SOL": 0.0202,
+        "reserve": 7.938
+      },
+      {
+        "age": 54,
+        "side": "B",
+        "actor": "8Tcn1AkB",
+        "SOL": 0.0,
+        "reserve": 7.938
+      },
+      {
+        "age": 55,
+        "side": "S",
+        "actor": "haqqiUUX",
+        "SOL": 1.4227,
+        "reserve": 6.515
+      },
+      {
+        "age": 55,
+        "side": "S",
+        "actor": "55YWjLwZ",
+        "SOL": 0.8124,
+        "reserve": 5.703
+      },
+      {
+        "age": 55,
+        "side": "B",
+        "actor": "BDW8Bjoe",
+        "SOL": 0.9877,
+        "reserve": 6.691
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3CjWLYQKGMs7eX6qegLSFVA2KCadu2SfsJuE7r8to5DBNxHaWEB5G4G2KwvBZmJZqNDR7VmqCEErurGnEgMcpMTC.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "5Z5WvVb6ZV5mwVJu3yoPoFeQFJ9jfERR2iXjg4nXpump",
+    "signature": "3GUha2EGaZ3TevnsA1ydAUVP1ejR5bbbc2LRhV7TcnvwQhSfZtmNB283rPR5MmCQkUjMjeyST2CARa8gn36toM8Y",
+    "entry": {
+      "age": 263,
+      "reserve_SOL": 25.834147643,
+      "breadth": 92,
+      "recent_buyers": 8,
+      "fresh_buyers": 5,
+      "recent_buy_SOL": 9.492379906,
+      "dominance": 0.36416474648417846,
+      "recent_sell_SOL": 8.7621e-05,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 255,
+        "side": "S",
+        "actor": "m1YiEoEQ",
+        "SOL": 0.0277,
+        "reserve": 16.722
+      },
+      {
+        "age": 256,
+        "side": "S",
+        "actor": "72NWWbch",
+        "SOL": 0.522,
+        "reserve": 16.2
+      },
+      {
+        "age": 257,
+        "side": "B",
+        "actor": "wibsGNCf",
+        "SOL": 0.1424,
+        "reserve": 16.342
+      },
+      {
+        "age": 259,
+        "side": "B",
+        "actor": "5h4kCqfW",
+        "SOL": 0.9867,
+        "reserve": 17.329
+      },
+      {
+        "age": 260,
+        "side": "B",
+        "actor": "4KQGocKQ",
+        "SOL": 0.1975,
+        "reserve": 17.526
+      },
+      {
+        "age": 260,
+        "side": "B",
+        "actor": "72NWWbch",
+        "SOL": 0.4734,
+        "reserve": 17.999
+      },
+      {
+        "age": 262,
+        "side": "B",
+        "actor": "Dqn8Zt9v",
+        "SOL": 0.4938,
+        "reserve": 18.493
+      },
+      {
+        "age": 262,
+        "side": "S",
+        "actor": "8Mn7FPeh",
+        "SOL": 0.0001,
+        "reserve": 18.493
+      },
+      {
+        "age": 263,
+        "side": "B",
+        "actor": "DLPcv1v5",
+        "SOL": 1.2972,
+        "reserve": 19.79
+      },
+      {
+        "age": 263,
+        "side": "B",
+        "actor": "6GofQwh2",
+        "SOL": 3.4568,
+        "reserve": 23.247
+      },
+      {
+        "age": 263,
+        "side": "B",
+        "actor": "8VCF6TTV",
+        "SOL": 1.1705,
+        "reserve": 24.418
+      },
+      {
+        "age": 263,
+        "side": "B",
+        "actor": "DKy8jH9Z",
+        "SOL": 1.4165,
+        "reserve": 25.834
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3GUha2EGaZ3TevnsA1ydAUVP1ejR5bbbc2LRhV7TcnvwQhSfZtmNB283rPR5MmCQkUjMjeyST2CARa8gn36toM8Y.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "Bq7eGyJPTViPQhdCsHaKMDArPC8Vzp84MSdjcsnDpump",
+    "signature": "3NmFu7n5tQSJAenaYzjE6x5i5jx9VGtrP2Gw9G6gEsrNYS2JVvnysVKTk6n2s5CNigVHYQLJMcuY8yw9xUrWFBtt",
+    "entry": {
+      "age": 369,
+      "reserve_SOL": 15.131328437,
+      "breadth": 194,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.258368447,
+      "drawdown": 0.32258532816385344,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 358,
+        "side": "B",
+        "actor": "8YD5HxCy",
+        "SOL": 0.0,
+        "reserve": 14.562
+      },
+      {
+        "age": 358,
+        "side": "B",
+        "actor": "FXLZNADc",
+        "SOL": 0.0001,
+        "reserve": 14.562
+      },
+      {
+        "age": 358,
+        "side": "B",
+        "actor": "2vwNGRVD",
+        "SOL": 0.2519,
+        "reserve": 14.813
+      },
+      {
+        "age": 358,
+        "side": "B",
+        "actor": "FXLZNADc",
+        "SOL": 0.0,
+        "reserve": 14.814
+      },
+      {
+        "age": 358,
+        "side": "B",
+        "actor": "8YD5HxCy",
+        "SOL": 0.0001,
+        "reserve": 14.814
+      },
+      {
+        "age": 358,
+        "side": "B",
+        "actor": "9ygnFstY",
+        "SOL": 0.0,
+        "reserve": 14.814
+      },
+      {
+        "age": 358,
+        "side": "S",
+        "actor": "BuGacsFW",
+        "SOL": 0.0693,
+        "reserve": 14.744
+      },
+      {
+        "age": 359,
+        "side": "B",
+        "actor": "CMhJu9ng",
+        "SOL": 0.0,
+        "reserve": 14.744
+      },
+      {
+        "age": 360,
+        "side": "B",
+        "actor": "6ydHFe5f",
+        "SOL": 0.0,
+        "reserve": 14.744
+      },
+      {
+        "age": 362,
+        "side": "B",
+        "actor": "6KY8g4UH",
+        "SOL": 0.6453,
+        "reserve": 15.39
+      },
+      {
+        "age": 368,
+        "side": "B",
+        "actor": "7yNnahrY",
+        "SOL": 0.0,
+        "reserve": 15.39
+      },
+      {
+        "age": 368,
+        "side": "S",
+        "actor": "2vwNGRVD",
+        "SOL": 0.2584,
+        "reserve": 15.131
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3NmFu7n5tQSJAenaYzjE6x5i5jx9VGtrP2Gw9G6gEsrNYS2JVvnysVKTk6n2s5CNigVHYQLJMcuY8yw9xUrWFBtt.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "61SwYjeGvG38WMuVhGXcKC1jBSmtnJtDP1eJYAUWpump",
+    "signature": "3Xxa63EQXiTnYUU6v9cqsubGsi4km1FketKHxjWHpfQCQyFkZHUccHpmG3QRkjuhZ7SFJPLc9tGspin45Sgo3LRZ",
+    "entry": {
+      "age": 15,
+      "reserve_SOL": 1.834023433,
+      "breadth": 46,
+      "recent_buyers": 16,
+      "fresh_buyers": 11,
+      "recent_buy_SOL": 3.211798732,
+      "dominance": 0.15567600641296972,
+      "recent_sell_SOL": 12.395062659,
+      "drawdown": 0.5116029270777396,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 14,
+        "side": "S",
+        "actor": "3LftdKWV",
+        "SOL": 0.5457,
+        "reserve": 2.709
+      },
+      {
+        "age": 15,
+        "side": "S",
+        "actor": "BuGacsFW",
+        "SOL": 0.0385,
+        "reserve": 2.67
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "FPTyuH9S",
+        "SOL": 0.0988,
+        "reserve": 2.769
+      },
+      {
+        "age": 15,
+        "side": "S",
+        "actor": "d4uZpXsN",
+        "SOL": 0.1744,
+        "reserve": 2.595
+      },
+      {
+        "age": 15,
+        "side": "S",
+        "actor": "dsegg9CX",
+        "SOL": 0.2607,
+        "reserve": 2.334
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "5QY3MBvL",
+        "SOL": 0.1481,
+        "reserve": 2.482
+      },
+      {
+        "age": 15,
+        "side": "S",
+        "actor": "Etishewf",
+        "SOL": 0.3614,
+        "reserve": 2.121
+      },
+      {
+        "age": 15,
+        "side": "S",
+        "actor": "Bnxrora1",
+        "SOL": 0.2139,
+        "reserve": 1.907
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "3BdF2Fte",
+        "SOL": 0.0,
+        "reserve": 1.907
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "9bwHbhAE",
+        "SOL": 0.5,
+        "reserve": 2.407
+      },
+      {
+        "age": 15,
+        "side": "S",
+        "actor": "EvbPo7eC",
+        "SOL": 0.6716,
+        "reserve": 1.735
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "39nduMYS",
+        "SOL": 0.0988,
+        "reserve": 1.834
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3Xxa63EQXiTnYUU6v9cqsubGsi4km1FketKHxjWHpfQCQyFkZHUccHpmG3QRkjuhZ7SFJPLc9tGspin45Sgo3LRZ.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "GutTY4xGwsrnvMtHF3FtmBdhcaXnDaiEBEXLGu5qpump",
+    "signature": "3YK3ETz5h8fPXeeYe4XeB9KKAtwqGV8Kd6gd66Do98g64xvLsD4dQTTJrvBWKmdhNPTb2k6bXKrYJmHChyXFcpi9",
+    "entry": {
+      "age": 171,
+      "reserve_SOL": 19.930724786,
+      "breadth": 343,
+      "recent_buyers": 5,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 2.335294837,
+      "dominance": 0.4282114554257459,
+      "recent_sell_SOL": 23.697186715,
+      "drawdown": 0.7181743983188011,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "CN9Wuw2k",
+        "SOL": 0.0333,
+        "reserve": 31.35
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "EaYBEQW3",
+        "SOL": 0.3075,
+        "reserve": 31.043
+      },
+      {
+        "age": 171,
+        "side": "B",
+        "actor": "9g2gAUg2",
+        "SOL": 0.093,
+        "reserve": 31.136
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "4kt79f52",
+        "SOL": 3.0086,
+        "reserve": 28.127
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "FKMYs75o",
+        "SOL": 2.5882,
+        "reserve": 25.539
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "7Rh2G7dq",
+        "SOL": 2.1604,
+        "reserve": 23.378
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "GHgGKn7j",
+        "SOL": 0.0075,
+        "reserve": 23.371
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "CjbR3XxC",
+        "SOL": 1.5739,
+        "reserve": 21.797
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "4sAUSQFd",
+        "SOL": 1.7425,
+        "reserve": 20.055
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "DBNDqjku",
+        "SOL": 0.0163,
+        "reserve": 20.038
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "Drym4jyn",
+        "SOL": 0.0285,
+        "reserve": 20.01
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "7SRkN9Q6",
+        "SOL": 0.079,
+        "reserve": 19.931
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3YK3ETz5h8fPXeeYe4XeB9KKAtwqGV8Kd6gd66Do98g64xvLsD4dQTTJrvBWKmdhNPTb2k6bXKrYJmHChyXFcpi9.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "62h6xWhiwkhjJuRu6nuZyHBPXXEUc2tf4nZoFhsG5MHa",
+    "signature": "3Yc4qfjX3nx38XjE3YvD6yPNuZN4LsQ84HiWKzes3th5T7UN4Lsjjdvk7uGZyoGoUd4XDPFRpDTwBLfiqaLQjTnM",
+    "entry": {
+      "age": 102,
+      "reserve_SOL": 0.380305505,
+      "breadth": 88,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 5.162749781,
+      "drawdown": 0.6901532880112233,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 71,
+        "side": "S",
+        "actor": "EZ5Mt5tS",
+        "SOL": 0.0818,
+        "reserve": 5.878
+      },
+      {
+        "age": 71,
+        "side": "S",
+        "actor": "4MKG5k49",
+        "SOL": 0.1555,
+        "reserve": 5.723
+      },
+      {
+        "age": 74,
+        "side": "S",
+        "actor": "4bYg4tpN",
+        "SOL": 0.1522,
+        "reserve": 5.57
+      },
+      {
+        "age": 76,
+        "side": "S",
+        "actor": "rYQgEsRh",
+        "SOL": 0.0136,
+        "reserve": 5.557
+      },
+      {
+        "age": 88,
+        "side": "S",
+        "actor": "4Lf8D2AX",
+        "SOL": 0.0137,
+        "reserve": 5.543
+      },
+      {
+        "age": 101,
+        "side": "S",
+        "actor": "HkfoJ9mJ",
+        "SOL": 0.904,
+        "reserve": 4.639
+      },
+      {
+        "age": 101,
+        "side": "S",
+        "actor": "4ahcHwGZ",
+        "SOL": 0.8158,
+        "reserve": 3.823
+      },
+      {
+        "age": 101,
+        "side": "S",
+        "actor": "5qbvfrsv",
+        "SOL": 0.859,
+        "reserve": 2.964
+      },
+      {
+        "age": 101,
+        "side": "S",
+        "actor": "HWGMZcxw",
+        "SOL": 0.0786,
+        "reserve": 2.886
+      },
+      {
+        "age": 102,
+        "side": "S",
+        "actor": "5RBNo1oR",
+        "SOL": 0.9115,
+        "reserve": 1.974
+      },
+      {
+        "age": 102,
+        "side": "S",
+        "actor": "HWGMZcxw",
+        "SOL": 0.7739,
+        "reserve": 1.2
+      },
+      {
+        "age": 102,
+        "side": "S",
+        "actor": "BjoY4EBm",
+        "SOL": 0.8201,
+        "reserve": 0.38
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3Yc4qfjX3nx38XjE3YvD6yPNuZN4LsQ84HiWKzes3th5T7UN4Lsjjdvk7uGZyoGoUd4XDPFRpDTwBLfiqaLQjTnM.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "72Dcx5bKDoHyxhvrWXEyfnAyVXE3RCkcXUkSBBbUpump",
+    "signature": "3bsDTKmpBJapYgqYKAk4jNubjYr6p4KzRP3pK3Lk9cKNLtWxd9ff6yfRBrwcJDaGTuv1MTQiDT38ukx9Df1J3EUv",
+    "entry": {
+      "age": 5,
+      "reserve_SOL": 19.359313114,
+      "breadth": 34,
+      "recent_buyers": 30,
+      "fresh_buyers": 30,
+      "recent_buy_SOL": 17.094033098,
+      "dominance": 0.08183982428135579,
+      "recent_sell_SOL": 1.261820622,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "Epysd8fS",
+        "SOL": 0.2019,
+        "reserve": 16.16
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "DjenYeK8",
+        "SOL": 0.0988,
+        "reserve": 16.259
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "nya666pQ",
+        "SOL": 0.1069,
+        "reserve": 16.365
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "7fdyE3wY",
+        "SOL": 0.6914,
+        "reserve": 17.057
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "2gnL2LdN",
+        "SOL": 0.4938,
+        "reserve": 17.551
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "Eh4Vq9N1",
+        "SOL": 0.3457,
+        "reserve": 17.896
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "EaaCfVxV",
+        "SOL": 0.9877,
+        "reserve": 18.884
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "EDGEKeUN",
+        "SOL": 0.0,
+        "reserve": 18.884
+      },
+      {
+        "age": 5,
+        "side": "S",
+        "actor": "AMDEmVoc",
+        "SOL": 0.4908,
+        "reserve": 18.393
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "rfq8uWY8",
+        "SOL": 0.1183,
+        "reserve": 18.511
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "8CvB2PPv",
+        "SOL": 0.6503,
+        "reserve": 19.162
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "GTfHPpyy",
+        "SOL": 0.1975,
+        "reserve": 19.359
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3bsDTKmpBJapYgqYKAk4jNubjYr6p4KzRP3pK3Lk9cKNLtWxd9ff6yfRBrwcJDaGTuv1MTQiDT38ukx9Df1J3EUv.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "5Vw22peqbuP7xvQPH4ZrYm6YTDpgzNTM4cKZECAepump",
+    "signature": "3jWU9Zzbbz8rfppeGbW2yqczeWpe7qahynnzRFUzjxQNdMS7dNRUc1S3BTijjRwR46P6kfy1E1jxGU7AmpSMv3kL",
+    "entry": {
+      "age": 281,
+      "reserve_SOL": 12.938353699,
+      "breadth": 119,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.109293464,
+      "drawdown": 0.16268657717003454,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 267,
+        "side": "B",
+        "actor": "AgmJFrPU",
+        "SOL": 0.4938,
+        "reserve": 11.647
+      },
+      {
+        "age": 267,
+        "side": "B",
+        "actor": "DFFXHcmT",
+        "SOL": 0.4938,
+        "reserve": 12.141
+      },
+      {
+        "age": 267,
+        "side": "B",
+        "actor": "95mkm5RM",
+        "SOL": 0.081,
+        "reserve": 12.222
+      },
+      {
+        "age": 268,
+        "side": "S",
+        "actor": "6BdC3J78",
+        "SOL": 0.0484,
+        "reserve": 12.174
+      },
+      {
+        "age": 271,
+        "side": "B",
+        "actor": "6BdC3J78",
+        "SOL": 0.0462,
+        "reserve": 12.22
+      },
+      {
+        "age": 272,
+        "side": "B",
+        "actor": "5SCSoDC9",
+        "SOL": 0.0083,
+        "reserve": 12.228
+      },
+      {
+        "age": 272,
+        "side": "B",
+        "actor": "5v5kGSJS",
+        "SOL": 0.0825,
+        "reserve": 12.311
+      },
+      {
+        "age": 273,
+        "side": "B",
+        "actor": "2WQEzxYL",
+        "SOL": 0.4131,
+        "reserve": 12.724
+      },
+      {
+        "age": 274,
+        "side": "B",
+        "actor": "5FU5ruM4",
+        "SOL": 0.0978,
+        "reserve": 12.822
+      },
+      {
+        "age": 275,
+        "side": "B",
+        "actor": "HGcooPGs",
+        "SOL": 0.2259,
+        "reserve": 13.048
+      },
+      {
+        "age": 278,
+        "side": "S",
+        "actor": "5SCSoDC9",
+        "SOL": 0.0252,
+        "reserve": 13.022
+      },
+      {
+        "age": 278,
+        "side": "S",
+        "actor": "95mkm5RM",
+        "SOL": 0.0841,
+        "reserve": 12.938
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3jWU9Zzbbz8rfppeGbW2yqczeWpe7qahynnzRFUzjxQNdMS7dNRUc1S3BTijjRwR46P6kfy1E1jxGU7AmpSMv3kL.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "EmLT3CmuBPWXMXDanijgs5d3PHbSGcLbdyXhJpUDpump",
+    "signature": "3tWEQhpVXEMvJPNude3JJXVwzHdkRhtZAN48Lnk3DD5NckMrAjRtMWpijKhfLKTR1f5dwwQfrpxWrbmG7JhoSxQ9",
+    "entry": {
+      "age": 47,
+      "reserve_SOL": 13.563747355,
+      "breadth": 92,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.98765432,
+      "dominance": 1.0,
+      "recent_sell_SOL": 0.761285983,
+      "drawdown": 0.2594874500808464,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 40,
+        "side": "S",
+        "actor": "HFqqybUh",
+        "SOL": 0.3231,
+        "reserve": 13.295
+      },
+      {
+        "age": 40,
+        "side": "B",
+        "actor": "CWSUwu6A",
+        "SOL": 0.0041,
+        "reserve": 13.299
+      },
+      {
+        "age": 40,
+        "side": "B",
+        "actor": "2vwNGRVD",
+        "SOL": 0.2448,
+        "reserve": 13.544
+      },
+      {
+        "age": 41,
+        "side": "S",
+        "actor": "HJqVde2P",
+        "SOL": 0.1494,
+        "reserve": 13.395
+      },
+      {
+        "age": 41,
+        "side": "B",
+        "actor": "DKRHtFxm",
+        "SOL": 0.0293,
+        "reserve": 13.424
+      },
+      {
+        "age": 42,
+        "side": "S",
+        "actor": "B6Ag4Wox",
+        "SOL": 0.0869,
+        "reserve": 13.337
+      },
+      {
+        "age": 44,
+        "side": "S",
+        "actor": "7cqn5cpU",
+        "SOL": 0.1915,
+        "reserve": 13.146
+      },
+      {
+        "age": 44,
+        "side": "S",
+        "actor": "9999huSC",
+        "SOL": 0.5211,
+        "reserve": 12.625
+      },
+      {
+        "age": 44,
+        "side": "S",
+        "actor": "EDGEKeUN",
+        "SOL": 0.0,
+        "reserve": 12.625
+      },
+      {
+        "age": 46,
+        "side": "S",
+        "actor": "2zxZhxVC",
+        "SOL": 0.0311,
+        "reserve": 12.594
+      },
+      {
+        "age": 47,
+        "side": "B",
+        "actor": "8qAR1ZJF",
+        "SOL": 0.9877,
+        "reserve": 13.581
+      },
+      {
+        "age": 47,
+        "side": "S",
+        "actor": "AfcTL3Fp",
+        "SOL": 0.0176,
+        "reserve": 13.564
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/3tWEQhpVXEMvJPNude3JJXVwzHdkRhtZAN48Lnk3DD5NckMrAjRtMWpijKhfLKTR1f5dwwQfrpxWrbmG7JhoSxQ9.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "EbHuK37KGvyuRGCdbTWdX3mzTafvw7GUKQzL83SEmtp5",
+    "signature": "4FXVHRnjujfQieaSWoFgY3up3rap1AZDB31PjrPfpLDyfskqYbHmFGAM8e5okwmfwc7fyt2WgTJwmqXosazPSEv8",
+    "entry": {
+      "age": 1940,
+      "reserve_SOL": 7.735092223,
+      "breadth": 194,
+      "recent_buyers": 5,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 2.642640735,
+      "dominance": 0.5979802294238078,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.49351478640229407,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 1889,
+        "side": "S",
+        "actor": "8dtx2tr4",
+        "SOL": 0.4464,
+        "reserve": 4.984
+      },
+      {
+        "age": 1889,
+        "side": "S",
+        "actor": "BuGacsFW",
+        "SOL": 0.0546,
+        "reserve": 4.929
+      },
+      {
+        "age": 1891,
+        "side": "B",
+        "actor": "3XeFcZKS",
+        "SOL": 0.2488,
+        "reserve": 5.178
+      },
+      {
+        "age": 1892,
+        "side": "S",
+        "actor": "6Wuk7eLR",
+        "SOL": 0.0834,
+        "reserve": 5.095
+      },
+      {
+        "age": 1896,
+        "side": "B",
+        "actor": "8cLqQFgp",
+        "SOL": 0.2077,
+        "reserve": 5.303
+      },
+      {
+        "age": 1898,
+        "side": "S",
+        "actor": "3XeFcZKS",
+        "SOL": 0.2506,
+        "reserve": 5.052
+      },
+      {
+        "age": 1937,
+        "side": "B",
+        "actor": "4omMYfvy",
+        "SOL": 1.5802,
+        "reserve": 6.632
+      },
+      {
+        "age": 1937,
+        "side": "B",
+        "actor": "7pqsMoUB",
+        "SOL": 0.1185,
+        "reserve": 6.751
+      },
+      {
+        "age": 1937,
+        "side": "B",
+        "actor": "6AB2827U",
+        "SOL": 0.0988,
+        "reserve": 6.85
+      },
+      {
+        "age": 1937,
+        "side": "B",
+        "actor": "BWBd3hj2",
+        "SOL": 0.6873,
+        "reserve": 7.537
+      },
+      {
+        "age": 1937,
+        "side": "B",
+        "actor": "HVE8996r",
+        "SOL": 0.0404,
+        "reserve": 7.577
+      },
+      {
+        "age": 1937,
+        "side": "B",
+        "actor": "HRBonvjq",
+        "SOL": 0.1579,
+        "reserve": 7.735
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/4FXVHRnjujfQieaSWoFgY3up3rap1AZDB31PjrPfpLDyfskqYbHmFGAM8e5okwmfwc7fyt2WgTJwmqXosazPSEv8.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "2putM7DRJ9d39np1dkgfJrsDkbhPJSuwqDtqsJNx389v",
+    "signature": "4HoD2tNrJ8MCWsMwpFehUzE2Xc9UqAG3J4vVRefeE4fyVomSfAvAwjbgyQ8upqGr1pTw3UJTFM1sXFctvCDocHfU",
+    "entry": {
+      "age": 736,
+      "reserve_SOL": 10.938408124,
+      "breadth": 56,
+      "recent_buyers": 8,
+      "fresh_buyers": 8,
+      "recent_buy_SOL": 7.469957917,
+      "dominance": 0.2644337040379608,
+      "recent_sell_SOL": 2.040469701,
+      "drawdown": 0.17437612317841056,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 713,
+        "side": "B",
+        "actor": "BYsySYgr",
+        "SOL": 0.9778,
+        "reserve": 4.929
+      },
+      {
+        "age": 713,
+        "side": "B",
+        "actor": "H1xshmCR",
+        "SOL": 0.3951,
+        "reserve": 5.324
+      },
+      {
+        "age": 714,
+        "side": "B",
+        "actor": "7a4XEWA6",
+        "SOL": 0.1851,
+        "reserve": 5.509
+      },
+      {
+        "age": 735,
+        "side": "B",
+        "actor": "6oXqLE7x",
+        "SOL": 1.0494,
+        "reserve": 6.558
+      },
+      {
+        "age": 735,
+        "side": "B",
+        "actor": "EGjpZ59j",
+        "SOL": 1.1728,
+        "reserve": 7.731
+      },
+      {
+        "age": 735,
+        "side": "B",
+        "actor": "3xxq97gn",
+        "SOL": 0.9877,
+        "reserve": 8.719
+      },
+      {
+        "age": 735,
+        "side": "B",
+        "actor": "FBQzynAg",
+        "SOL": 1.9753,
+        "reserve": 10.694
+      },
+      {
+        "age": 735,
+        "side": "B",
+        "actor": "HtvyWRnx",
+        "SOL": 0.5926,
+        "reserve": 11.287
+      },
+      {
+        "age": 735,
+        "side": "B",
+        "actor": "FaCYdntu",
+        "SOL": 0.09,
+        "reserve": 11.377
+      },
+      {
+        "age": 735,
+        "side": "S",
+        "actor": "FBQzynAg",
+        "SOL": 2.0405,
+        "reserve": 9.336
+      },
+      {
+        "age": 736,
+        "side": "B",
+        "actor": "14KbXMEi",
+        "SOL": 0.6145,
+        "reserve": 9.951
+      },
+      {
+        "age": 736,
+        "side": "B",
+        "actor": "NajoJR4T",
+        "SOL": 0.9877,
+        "reserve": 10.938
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/4HoD2tNrJ8MCWsMwpFehUzE2Xc9UqAG3J4vVRefeE4fyVomSfAvAwjbgyQ8upqGr1pTw3UJTFM1sXFctvCDocHfU.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "6Q3qPzeyeLKVR6EJ7xtJvo2VJycAevEXu1N54wX2pump",
+    "signature": "4UEWSxSFCR3Y16m2kbm3bmn2UKDV6WXTUiEsQrh6gGLwCg4yCLBsLr2yRvZHU12ij71j3zouUTFgVPiEXpkbzuPG",
+    "entry": {
+      "age": 19,
+      "reserve_SOL": 0.421109199,
+      "breadth": 7,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 0.217709884,
+      "drawdown": 0.3668263582042045,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 4,
+        "side": "S",
+        "actor": "Hy4ZuryD",
+        "SOL": 0.0729,
+        "reserve": 8.158
+      },
+      {
+        "age": 4,
+        "side": "S",
+        "actor": "7dGV2auD",
+        "SOL": 0.0737,
+        "reserve": 8.084
+      },
+      {
+        "age": 4,
+        "side": "S",
+        "actor": "GKBCs9U4",
+        "SOL": 0.4811,
+        "reserve": 7.603
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "HAXqshfy",
+        "SOL": 0.0098,
+        "reserve": 7.613
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "HAXqshfy",
+        "SOL": 0.0098,
+        "reserve": 7.623
+      },
+      {
+        "age": 10,
+        "side": "B",
+        "actor": "85hs1pne",
+        "SOL": 0.0685,
+        "reserve": 7.691
+      },
+      {
+        "age": 10,
+        "side": "S",
+        "actor": "GKBCs9U4",
+        "SOL": 0.1237,
+        "reserve": 7.568
+      },
+      {
+        "age": 14,
+        "side": "S",
+        "actor": "GKBCs9U4",
+        "SOL": 0.0585,
+        "reserve": 7.509
+      },
+      {
+        "age": 16,
+        "side": "S",
+        "actor": "DrJYGfCL",
+        "SOL": 6.9681,
+        "reserve": 0.541
+      },
+      {
+        "age": 16,
+        "side": "S",
+        "actor": "GKBCs9U4",
+        "SOL": 0.2177,
+        "reserve": 0.323
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "7dGV2auD",
+        "SOL": 0.0491,
+        "reserve": 0.372
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "Hy4ZuryD",
+        "SOL": 0.0487,
+        "reserve": 0.421
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/4UEWSxSFCR3Y16m2kbm3bmn2UKDV6WXTUiEsQrh6gGLwCg4yCLBsLr2yRvZHU12ij71j3zouUTFgVPiEXpkbzuPG.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "6BPXgr3YqUnY7cUttwatMGX4L9pVMkJbT6a5pkJBpump",
+    "signature": "4dqDJU5QA7tKjrHRsmWWAYTUKbTedLN5R4cxYrHSQ4wUM1fiWJR5tnQcdNm2e5uiJu9XvoWzpuaqMWaywGeCnFVg",
+    "entry": {
+      "age": 8,
+      "reserve_SOL": 22.645353606,
+      "breadth": 54,
+      "recent_buyers": 52,
+      "fresh_buyers": 52,
+      "recent_buy_SOL": 37.624596206,
+      "dominance": 0.09546669410972176,
+      "recent_sell_SOL": 17.044394768,
+      "drawdown": 0.1571126221939898,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "4drQuYuY",
+        "SOL": 0.7319,
+        "reserve": 27.342
+      },
+      {
+        "age": 8,
+        "side": "S",
+        "actor": "9ZepEnZG",
+        "SOL": 3.5623,
+        "reserve": 23.78
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "2heRyE1B",
+        "SOL": 0.538,
+        "reserve": 24.318
+      },
+      {
+        "age": 8,
+        "side": "S",
+        "actor": "BK6HuEoE",
+        "SOL": 4.0433,
+        "reserve": 20.275
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "3yeHQ8Pa",
+        "SOL": 0.5941,
+        "reserve": 20.869
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "AUrkH8jW",
+        "SOL": 0.3041,
+        "reserve": 21.173
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "HozTLvyi",
+        "SOL": 0.2565,
+        "reserve": 21.429
+      },
+      {
+        "age": 8,
+        "side": "S",
+        "actor": "3Xk2EuuS",
+        "SOL": 0.5889,
+        "reserve": 20.841
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "CNS2xkz2",
+        "SOL": 0.3457,
+        "reserve": 21.186
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "E8jLeB1Y",
+        "SOL": 0.7407,
+        "reserve": 21.927
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "omegoMAe",
+        "SOL": 0.6774,
+        "reserve": 22.604
+      },
+      {
+        "age": 8,
+        "side": "B",
+        "actor": "Dt7NA7kX",
+        "SOL": 0.0409,
+        "reserve": 22.645
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/4dqDJU5QA7tKjrHRsmWWAYTUKbTedLN5R4cxYrHSQ4wUM1fiWJR5tnQcdNm2e5uiJu9XvoWzpuaqMWaywGeCnFVg.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "HZiJCAv43ax1meFUB8Q1sKh9VHpds3R9drcqQcf2pump",
+    "signature": "4mSSbjds9323187x4uZjoaTC942bh9vb29C595TnfjRpBgKiuQPeB1Cb3HNPEpp83QFNedubHYZLhitEy3FHPjVV",
+    "entry": {
+      "age": 175,
+      "reserve_SOL": 22.100332175,
+      "breadth": 136,
+      "recent_buyers": 4,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 2.080132153,
+      "dominance": 0.5032603305949668,
+      "recent_sell_SOL": 0.720678577,
+      "drawdown": 0.07154262974777292,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 169,
+        "side": "S",
+        "actor": "T9qvX3sp",
+        "SOL": 0.0093,
+        "reserve": 20.089
+      },
+      {
+        "age": 169,
+        "side": "B",
+        "actor": "5QY3MBvL",
+        "SOL": 0.1481,
+        "reserve": 20.237
+      },
+      {
+        "age": 169,
+        "side": "B",
+        "actor": "3Vggwn3L",
+        "SOL": 0.0494,
+        "reserve": 20.286
+      },
+      {
+        "age": 169,
+        "side": "B",
+        "actor": "Dht64jLL",
+        "SOL": 0.2473,
+        "reserve": 20.534
+      },
+      {
+        "age": 169,
+        "side": "B",
+        "actor": "DceFwg98",
+        "SOL": 0.2073,
+        "reserve": 20.741
+      },
+      {
+        "age": 171,
+        "side": "B",
+        "actor": "9sMTYPh7",
+        "SOL": 0.4761,
+        "reserve": 21.217
+      },
+      {
+        "age": 171,
+        "side": "B",
+        "actor": "2yWotjPG",
+        "SOL": 0.5017,
+        "reserve": 21.719
+      },
+      {
+        "age": 171,
+        "side": "S",
+        "actor": "FKKc2hxh",
+        "SOL": 0.0131,
+        "reserve": 21.706
+      },
+      {
+        "age": 172,
+        "side": "B",
+        "actor": "Dt73Jbqt",
+        "SOL": 1.0468,
+        "reserve": 22.752
+      },
+      {
+        "age": 172,
+        "side": "S",
+        "actor": "4RMb8vyj",
+        "SOL": 0.3562,
+        "reserve": 22.396
+      },
+      {
+        "age": 172,
+        "side": "S",
+        "actor": "63otb3qf",
+        "SOL": 0.3514,
+        "reserve": 22.045
+      },
+      {
+        "age": 173,
+        "side": "B",
+        "actor": "E8MNtTqT",
+        "SOL": 0.0555,
+        "reserve": 22.1
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/4mSSbjds9323187x4uZjoaTC942bh9vb29C595TnfjRpBgKiuQPeB1Cb3HNPEpp83QFNedubHYZLhitEy3FHPjVV.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "BnBS5M46eQ35vomwk9WoGTNV3m52gFWfaqvG2LFggfvE",
+    "signature": "4tyAM3C1k8ZUa8Pjhbx3otDgYRUgknW7mtiq2ijFhNH7qGyCNiUVioQR5zfNbLF1LnEVvAU4pgCy7aJoi1YuhSmo",
+    "entry": {
+      "age": 245,
+      "reserve_SOL": 51.246686619,
+      "breadth": 252,
+      "recent_buyers": 7,
+      "fresh_buyers": 6,
+      "recent_buy_SOL": 2.018648997,
+      "dominance": 0.4843723591635381,
+      "recent_sell_SOL": 0.0,
+      "drawdown": 0.0031597193053086725,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 240,
+        "side": "B",
+        "actor": "6P4Y8ksD",
+        "SOL": 0.0391,
+        "reserve": 50.274
+      },
+      {
+        "age": 240,
+        "side": "S",
+        "actor": "9NGvPDvg",
+        "SOL": 1.1694,
+        "reserve": 49.104
+      },
+      {
+        "age": 240,
+        "side": "B",
+        "actor": "BEbPsEhE",
+        "SOL": 0.0401,
+        "reserve": 49.144
+      },
+      {
+        "age": 240,
+        "side": "B",
+        "actor": "2pWbPiQw",
+        "SOL": 0.0494,
+        "reserve": 49.194
+      },
+      {
+        "age": 242,
+        "side": "B",
+        "actor": "9h6ADAdm",
+        "SOL": 0.0587,
+        "reserve": 49.252
+      },
+      {
+        "age": 242,
+        "side": "B",
+        "actor": "FRpqNUHB",
+        "SOL": 0.0807,
+        "reserve": 49.333
+      },
+      {
+        "age": 243,
+        "side": "B",
+        "actor": "Ggvou8xG",
+        "SOL": 0.0344,
+        "reserve": 49.367
+      },
+      {
+        "age": 243,
+        "side": "B",
+        "actor": "Fw6hZxwn",
+        "SOL": 0.9778,
+        "reserve": 50.345
+      },
+      {
+        "age": 243,
+        "side": "B",
+        "actor": "HKm5FbUr",
+        "SOL": 0.0978,
+        "reserve": 50.443
+      },
+      {
+        "age": 243,
+        "side": "B",
+        "actor": "ECmjuWnu",
+        "SOL": 0.5084,
+        "reserve": 50.951
+      },
+      {
+        "age": 243,
+        "side": "B",
+        "actor": "639NHLf3",
+        "SOL": 0.1975,
+        "reserve": 51.149
+      },
+      {
+        "age": 245,
+        "side": "B",
+        "actor": "2tyR8UtR",
+        "SOL": 0.0978,
+        "reserve": 51.247
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/4tyAM3C1k8ZUa8Pjhbx3otDgYRUgknW7mtiq2ijFhNH7qGyCNiUVioQR5zfNbLF1LnEVvAU4pgCy7aJoi1YuhSmo.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "Hgbsej4DQiAm33SwJG4RkqWeVHWPZkEGUQbjYVbvpump",
+    "signature": "55qjSWKAebgRQ93qqfvGx7HMsrdFmJKQ35mmXnj7KTAybZTqV2Xjtjsq7r1KzFTCEztAvp6YCQB3LqhyALtxEj7s",
+    "entry": {
+      "age": 67,
+      "reserve_SOL": 11.478238976,
+      "breadth": 85,
+      "recent_buyers": 5,
+      "fresh_buyers": 4,
+      "recent_buy_SOL": 0.689320491,
+      "dominance": 0.2865588149185021,
+      "recent_sell_SOL": 1.121837237,
+      "drawdown": 0.16818280642318506,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 62,
+        "side": "B",
+        "actor": "T9qvX3sp",
+        "SOL": 0.01,
+        "reserve": 11.764
+      },
+      {
+        "age": 62,
+        "side": "B",
+        "actor": "GcG2oyPe",
+        "SOL": 0.0978,
+        "reserve": 11.862
+      },
+      {
+        "age": 63,
+        "side": "B",
+        "actor": "3XQzG6xH",
+        "SOL": 0.1975,
+        "reserve": 12.059
+      },
+      {
+        "age": 63,
+        "side": "S",
+        "actor": "3PhK9SQe",
+        "SOL": 0.0627,
+        "reserve": 11.997
+      },
+      {
+        "age": 63,
+        "side": "B",
+        "actor": "Hpd1CQeV",
+        "SOL": 0.0506,
+        "reserve": 12.047
+      },
+      {
+        "age": 63,
+        "side": "B",
+        "actor": "2m8UYaeY",
+        "SOL": 0.1956,
+        "reserve": 12.243
+      },
+      {
+        "age": 63,
+        "side": "S",
+        "actor": "8jsPACii",
+        "SOL": 0.4656,
+        "reserve": 11.777
+      },
+      {
+        "age": 63,
+        "side": "S",
+        "actor": "8pisMPgQ",
+        "SOL": 0.4887,
+        "reserve": 11.289
+      },
+      {
+        "age": 64,
+        "side": "B",
+        "actor": "Cqc8ZQiA",
+        "SOL": 0.0489,
+        "reserve": 11.337
+      },
+      {
+        "age": 66,
+        "side": "B",
+        "actor": "4Md63hua",
+        "SOL": 0.1956,
+        "reserve": 11.533
+      },
+      {
+        "age": 66,
+        "side": "B",
+        "actor": "2X9SyYVH",
+        "SOL": 0.0501,
+        "reserve": 11.583
+      },
+      {
+        "age": 67,
+        "side": "S",
+        "actor": "988YBVri",
+        "SOL": 0.1049,
+        "reserve": 11.478
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/55qjSWKAebgRQ93qqfvGx7HMsrdFmJKQ35mmXnj7KTAybZTqV2Xjtjsq7r1KzFTCEztAvp6YCQB3LqhyALtxEj7s.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "DRwbR2oefHtGjThos1oioRDPx2Hf48Qd18GDN23w4xhY",
+    "signature": "5EBhSGaMgBAvE99ogtgJrPDo1v8vPEpNXpycyyaCcvMYwuixxKkSNWVGQEEZgUH2ZvHpuCiHZpKvh7c2ZtHeGf6Z",
+    "entry": {
+      "age": 337,
+      "reserve_SOL": 18.032395164,
+      "breadth": 48,
+      "recent_buyers": 9,
+      "fresh_buyers": 5,
+      "recent_buy_SOL": 10.637037028,
+      "dominance": 0.18570102142169587,
+      "recent_sell_SOL": 2.544478192,
+      "drawdown": 0.11040095901174485,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "6bCqcMvb",
+        "SOL": 1.4667,
+        "reserve": 11.406
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "BvgzdC1V",
+        "SOL": 1.9753,
+        "reserve": 13.381
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "A3xMbRBF",
+        "SOL": 1.4667,
+        "reserve": 14.847
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "7Ut1gh36",
+        "SOL": 0.9877,
+        "reserve": 15.835
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "FSz6mptA",
+        "SOL": 1.4815,
+        "reserve": 17.317
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "56e2Pjxq",
+        "SOL": 0.9877,
+        "reserve": 18.304
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "HmzxkYKj",
+        "SOL": 0.9877,
+        "reserve": 19.292
+      },
+      {
+        "age": 336,
+        "side": "B",
+        "actor": "Fgp4apbK",
+        "SOL": 0.0988,
+        "reserve": 19.391
+      },
+      {
+        "age": 336,
+        "side": "S",
+        "actor": "BvgzdC1V",
+        "SOL": 1.8091,
+        "reserve": 17.582
+      },
+      {
+        "age": 336,
+        "side": "S",
+        "actor": "BvgzdC1V",
+        "SOL": 0.7354,
+        "reserve": 16.846
+      },
+      {
+        "age": 337,
+        "side": "B",
+        "actor": "EaaCfVxV",
+        "SOL": 1.1852,
+        "reserve": 18.031
+      },
+      {
+        "age": 337,
+        "side": "B",
+        "actor": "9sNh7PyZ",
+        "SOL": 0.001,
+        "reserve": 18.032
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5EBhSGaMgBAvE99ogtgJrPDo1v8vPEpNXpycyyaCcvMYwuixxKkSNWVGQEEZgUH2ZvHpuCiHZpKvh7c2ZtHeGf6Z.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "8gyMYipc8SxvkmAGgse3sGN2VCq4mgATX1ceENdNcYFd",
+    "signature": "5FWeB1s88n3zLKwZ5c17UugjZzkbTdnj8w92UDaSUT9Suyq33fs4pVhLTiLURGFgpyTHBzQgAznji3tZik5TA63V",
+    "entry": {
+      "age": 35,
+      "reserve_SOL": 19.564792314,
+      "breadth": 32,
+      "recent_buyers": 10,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 9.319077318,
+      "dominance": 0.22791306687600552,
+      "recent_sell_SOL": 0.423581069,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 34,
+        "side": "B",
+        "actor": "3m6Gjt6Q",
+        "SOL": 0.3963,
+        "reserve": 11.723
+      },
+      {
+        "age": 34,
+        "side": "B",
+        "actor": "5WvBB2Zc",
+        "SOL": 1.4324,
+        "reserve": 13.155
+      },
+      {
+        "age": 34,
+        "side": "B",
+        "actor": "2BdNX9eK",
+        "SOL": 1.2605,
+        "reserve": 14.416
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "ayaCRDLw",
+        "SOL": 0.237,
+        "reserve": 14.653
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "Ew3YYd5Q",
+        "SOL": 0.0099,
+        "reserve": 14.663
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "4JkzFdA9",
+        "SOL": 1.2182,
+        "reserve": 15.881
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "6Zx9wRV4",
+        "SOL": 0.5926,
+        "reserve": 16.473
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "4KQGocKQ",
+        "SOL": 0.1481,
+        "reserve": 16.622
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "5WvBB2Zc",
+        "SOL": 0.6916,
+        "reserve": 17.313
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "4JkzFdA9",
+        "SOL": 0.6532,
+        "reserve": 17.966
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "64hJxoZz",
+        "SOL": 0.9877,
+        "reserve": 18.954
+      },
+      {
+        "age": 35,
+        "side": "B",
+        "actor": "2BdNX9eK",
+        "SOL": 0.6108,
+        "reserve": 19.565
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5FWeB1s88n3zLKwZ5c17UugjZzkbTdnj8w92UDaSUT9Suyq33fs4pVhLTiLURGFgpyTHBzQgAznji3tZik5TA63V.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "DpZZt9GTzMM9iy2ZWAGrpR924oQyhdJ3rruAgPczpump",
+    "signature": "5H3C2dB2RFBBPPN7N98LBJ1tHzwn2Sqr4H6F1oNRhVXDszsHj2n4xYBb2hLPpqe15r1uHWF8FEdgRygKpjKe7RhN",
+    "entry": {
+      "age": 71,
+      "reserve_SOL": 17.655333187,
+      "breadth": 58,
+      "recent_buyers": 8,
+      "fresh_buyers": 7,
+      "recent_buy_SOL": 5.831847835,
+      "dominance": 0.27702011501471213,
+      "recent_sell_SOL": 0.952272555,
+      "drawdown": 0.008085347800425802,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 68,
+        "side": "S",
+        "actor": "EBWkQGHP",
+        "SOL": 0.4008,
+        "reserve": 12.325
+      },
+      {
+        "age": 68,
+        "side": "B",
+        "actor": "3w19SMKn",
+        "SOL": 1.3677,
+        "reserve": 13.693
+      },
+      {
+        "age": 70,
+        "side": "S",
+        "actor": "CrNoRHB6",
+        "SOL": 0.3572,
+        "reserve": 13.336
+      },
+      {
+        "age": 70,
+        "side": "B",
+        "actor": "AgaRoXCy",
+        "SOL": 0.4938,
+        "reserve": 13.829
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "BoYHJoKn",
+        "SOL": 1.6155,
+        "reserve": 15.445
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "8qZ6qho6",
+        "SOL": 1.3178,
+        "reserve": 16.763
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "4GcCNFbM",
+        "SOL": 0.1975,
+        "reserve": 16.96
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "EC1SJENg",
+        "SOL": 0.1481,
+        "reserve": 17.108
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "9Uq8GVrv",
+        "SOL": 0.5926,
+        "reserve": 17.701
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "2zMj6wNq",
+        "SOL": 0.0988,
+        "reserve": 17.8
+      },
+      {
+        "age": 71,
+        "side": "B",
+        "actor": "DiJF3L37",
+        "SOL": 0.0494,
+        "reserve": 17.849
+      },
+      {
+        "age": 71,
+        "side": "S",
+        "actor": "4VfKyL8J",
+        "SOL": 0.1938,
+        "reserve": 17.655
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5H3C2dB2RFBBPPN7N98LBJ1tHzwn2Sqr4H6F1oNRhVXDszsHj2n4xYBb2hLPpqe15r1uHWF8FEdgRygKpjKe7RhN.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "AMGe8KVdHCpmspNNg4aQuogyVu34oX12SWdiYggYrTm4",
+    "signature": "5HgDGU7M2ike6hiS1KRJ9giPh9mdzSQc7DK6uQQfCuV37cSMuRQaix2phqd4GoexUbu6v4EEHXkuf64gHfgyjdER",
+    "entry": {
+      "age": 23,
+      "reserve_SOL": 12.252168354,
+      "breadth": 37,
+      "recent_buyers": 12,
+      "fresh_buyers": 11,
+      "recent_buy_SOL": 10.798288111,
+      "dominance": 0.27439191569464505,
+      "recent_sell_SOL": 4.870975831,
+      "drawdown": 0.05256893315942024,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "2qXLBNa7",
+        "SOL": 0.5956,
+        "reserve": 10.044
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "7mpRCD6F",
+        "SOL": 1.0398,
+        "reserve": 11.083
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "EcqZg7A3",
+        "SOL": 0.5955,
+        "reserve": 11.679
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "GGwGwhpf",
+        "SOL": 0.6402,
+        "reserve": 12.319
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "F1ZrWw8g",
+        "SOL": 1.0401,
+        "reserve": 13.359
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "GC5P1JKj",
+        "SOL": 0.0494,
+        "reserve": 13.409
+      },
+      {
+        "age": 23,
+        "side": "S",
+        "actor": "D1QuMgpv",
+        "SOL": 3.7409,
+        "reserve": 9.668
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "88887QrR",
+        "SOL": 0.5,
+        "reserve": 10.168
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "9999huSC",
+        "SOL": 0.5128,
+        "reserve": 10.68
+      },
+      {
+        "age": 23,
+        "side": "S",
+        "actor": "FAxDC11V",
+        "SOL": 0.0575,
+        "reserve": 10.623
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "8KB4ZnWV",
+        "SOL": 0.9877,
+        "reserve": 11.611
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "J6DdwTar",
+        "SOL": 0.6416,
+        "reserve": 12.252
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5HgDGU7M2ike6hiS1KRJ9giPh9mdzSQc7DK6uQQfCuV37cSMuRQaix2phqd4GoexUbu6v4EEHXkuf64gHfgyjdER.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "GN7sBBdsx7w8StnXJjRAitpZGruGS1rqwVrVnSnJs2ac",
+    "signature": "5QEhiEoQ9fpHnEWE31KUsd9FSHcePwhsqDWQ7tmc6tsEEgKJbVNCPPvf6RnaEGHBHUZeDQ34dzjpVX1MrDcdSwuV",
+    "entry": {
+      "age": 37,
+      "reserve_SOL": 20.818769492,
+      "breadth": 50,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.097777777,
+      "dominance": 1.0,
+      "recent_sell_SOL": 2.093671084,
+      "drawdown": 0.0769004630938892,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 30,
+        "side": "B",
+        "actor": "GZBjhjQb",
+        "SOL": 0.4988,
+        "reserve": 21.693
+      },
+      {
+        "age": 31,
+        "side": "B",
+        "actor": "4C2VnXs5",
+        "SOL": 0.1,
+        "reserve": 21.793
+      },
+      {
+        "age": 31,
+        "side": "B",
+        "actor": "91sP85Ds",
+        "SOL": 0.1004,
+        "reserve": 21.893
+      },
+      {
+        "age": 31,
+        "side": "B",
+        "actor": "9RNZnq4u",
+        "SOL": 1.0,
+        "reserve": 22.893
+      },
+      {
+        "age": 32,
+        "side": "S",
+        "actor": "91RpCePw",
+        "SOL": 0.0977,
+        "reserve": 22.796
+      },
+      {
+        "age": 33,
+        "side": "S",
+        "actor": "66AbxhfZ",
+        "SOL": 0.5175,
+        "reserve": 22.278
+      },
+      {
+        "age": 33,
+        "side": "S",
+        "actor": "9999huSC",
+        "SOL": 0.8344,
+        "reserve": 21.444
+      },
+      {
+        "age": 33,
+        "side": "B",
+        "actor": "6gzhX4M9",
+        "SOL": 0.0978,
+        "reserve": 21.541
+      },
+      {
+        "age": 34,
+        "side": "B",
+        "actor": "BAoJmpEf",
+        "SOL": 0.0191,
+        "reserve": 21.561
+      },
+      {
+        "age": 34,
+        "side": "S",
+        "actor": "ayaCRDLw",
+        "SOL": 0.2519,
+        "reserve": 21.309
+      },
+      {
+        "age": 35,
+        "side": "S",
+        "actor": "8DZZsi4a",
+        "SOL": 0.126,
+        "reserve": 21.183
+      },
+      {
+        "age": 37,
+        "side": "S",
+        "actor": "91RpCePw",
+        "SOL": 0.3639,
+        "reserve": 20.819
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5QEhiEoQ9fpHnEWE31KUsd9FSHcePwhsqDWQ7tmc6tsEEgKJbVNCPPvf6RnaEGHBHUZeDQ34dzjpVX1MrDcdSwuV.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "rDjfP6wXjKA1uQEvrhgjb4njyvsqzBWaRUMyBQH9BnR",
+    "signature": "5QY1ixEFZXTdHYCRF1JNZpdTFEX7BHjGezsaR4YCa12aPJ2af1Wnpfv6crZSKEX56mBLMbtv56uKK7DybpHFLpNE",
+    "entry": {
+      "age": 23,
+      "reserve_SOL": 22.588210092,
+      "breadth": 82,
+      "recent_buyers": 34,
+      "fresh_buyers": 30,
+      "recent_buy_SOL": 20.758011775,
+      "dominance": 0.1903177108588956,
+      "recent_sell_SOL": 11.528418257,
+      "drawdown": 0.12490600505187899,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "DpJpQoaU",
+        "SOL": 0.0978,
+        "reserve": 20.793
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "99i9uVA7",
+        "SOL": 0.0978,
+        "reserve": 20.891
+      },
+      {
+        "age": 23,
+        "side": "S",
+        "actor": "EN99z91j",
+        "SOL": 1.8361,
+        "reserve": 19.055
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "HZhCar35",
+        "SOL": 0.9778,
+        "reserve": 20.033
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "CLoRvuen",
+        "SOL": 0.1975,
+        "reserve": 20.23
+      },
+      {
+        "age": 23,
+        "side": "S",
+        "actor": "9NEpj8Ub",
+        "SOL": 0.0414,
+        "reserve": 20.189
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "eqwrZ7x6",
+        "SOL": 0.1956,
+        "reserve": 20.385
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "7ZEseQq2",
+        "SOL": 0.0494,
+        "reserve": 20.434
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "HRBonvjq",
+        "SOL": 0.1,
+        "reserve": 20.534
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "FsL1AMvh",
+        "SOL": 0.0988,
+        "reserve": 20.633
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "HtC5nWZQ",
+        "SOL": 0.9778,
+        "reserve": 21.61
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "HZhCar35",
+        "SOL": 0.9778,
+        "reserve": 22.588
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5QY1ixEFZXTdHYCRF1JNZpdTFEX7BHjGezsaR4YCa12aPJ2af1Wnpfv6crZSKEX56mBLMbtv56uKK7DybpHFLpNE.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "4HtR71CczfxwpiJWXrqbNGpLktmj3dvo57qidjMQpump",
+    "signature": "5aqLteKK7j783YYNz8n4C9XheiirKdCXoiQRMZ3rT8gY8d7HrkZy6DstYLqFahLKK6NMYDgn5GsgBLeSTSEUQmr",
+    "entry": {
+      "age": 25,
+      "reserve_SOL": 17.784818232,
+      "breadth": 56,
+      "recent_buyers": 8,
+      "fresh_buyers": 7,
+      "recent_buy_SOL": 2.032549829,
+      "dominance": 0.4810596832851373,
+      "recent_sell_SOL": 1.663740301,
+      "drawdown": 0.03632830525510766,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 21,
+        "side": "B",
+        "actor": "3ZyBRrpb",
+        "SOL": 0.0978,
+        "reserve": 17.509
+      },
+      {
+        "age": 22,
+        "side": "B",
+        "actor": "FL4spTbi",
+        "SOL": 0.0049,
+        "reserve": 17.514
+      },
+      {
+        "age": 23,
+        "side": "B",
+        "actor": "kTzXm3rq",
+        "SOL": 0.1956,
+        "reserve": 17.709
+      },
+      {
+        "age": 25,
+        "side": "S",
+        "actor": "91RpCePw",
+        "SOL": 0.0664,
+        "reserve": 17.643
+      },
+      {
+        "age": 25,
+        "side": "S",
+        "actor": "3ZyBRrpb",
+        "SOL": 0.0983,
+        "reserve": 17.545
+      },
+      {
+        "age": 25,
+        "side": "B",
+        "actor": "Dra5hkDH",
+        "SOL": 0.0988,
+        "reserve": 17.643
+      },
+      {
+        "age": 25,
+        "side": "B",
+        "actor": "2vByxgCS",
+        "SOL": 0.9778,
+        "reserve": 18.621
+      },
+      {
+        "age": 25,
+        "side": "S",
+        "actor": "4AimMWs6",
+        "SOL": 1.4991,
+        "reserve": 17.122
+      },
+      {
+        "age": 25,
+        "side": "B",
+        "actor": "7R2ynigq",
+        "SOL": 0.0988,
+        "reserve": 17.221
+      },
+      {
+        "age": 25,
+        "side": "B",
+        "actor": "3maekpvz",
+        "SOL": 0.0988,
+        "reserve": 17.32
+      },
+      {
+        "age": 25,
+        "side": "B",
+        "actor": "NGDxcnaY",
+        "SOL": 0.0988,
+        "reserve": 17.418
+      },
+      {
+        "age": 25,
+        "side": "B",
+        "actor": "ssssswdk",
+        "SOL": 0.3664,
+        "reserve": 17.785
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5aqLteKK7j783YYNz8n4C9XheiirKdCXoiQRMZ3rT8gY8d7HrkZy6DstYLqFahLKK6NMYDgn5GsgBLeSTSEUQmr.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "4TAgBNKH21fUP1pAnWc14Hm8DECXScCp2H7KKTQ1pump",
+    "signature": "5hE2GWXFf58NAAyDLEE1CD8hg256ubEdS3MtgNvCMKFo2wisk2ToybGTG7Kk8TDzdgWBTPnZoAqULBdVBM7cyMjB",
+    "entry": {
+      "age": 1,
+      "reserve_SOL": 12.202497959,
+      "breadth": 15,
+      "recent_buyers": 15,
+      "fresh_buyers": 15,
+      "recent_buy_SOL": 13.17423198,
+      "dominance": 0.22024354409462887,
+      "recent_sell_SOL": 1.981311824,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "4TnayWRQ",
+        "SOL": 0.9877,
+        "reserve": 8.925
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "AMDEmVoc",
+        "SOL": 0.237,
+        "reserve": 9.162
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "uUJvAggo",
+        "SOL": 0.0988,
+        "reserve": 9.261
+      },
+      {
+        "age": 0,
+        "side": "S",
+        "actor": "FiFawHqx",
+        "SOL": 1.9813,
+        "reserve": 7.28
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "2ccgxuZv",
+        "SOL": 0.9877,
+        "reserve": 8.267
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "6SHf2w54",
+        "SOL": 2.4889,
+        "reserve": 10.756
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "3W2eGgXg",
+        "SOL": 0.1975,
+        "reserve": 10.954
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "apexpDoP",
+        "SOL": 0.2019,
+        "reserve": 11.156
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "8d1YSS1u",
+        "SOL": 0.7901,
+        "reserve": 11.946
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "AqMoKz92",
+        "SOL": 0.0525,
+        "reserve": 11.998
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "67LwNGru",
+        "SOL": 0.0198,
+        "reserve": 12.018
+      },
+      {
+        "age": 0,
+        "side": "B",
+        "actor": "5BFuw7Ky",
+        "SOL": 0.1843,
+        "reserve": 12.202
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/5hE2GWXFf58NAAyDLEE1CD8hg256ubEdS3MtgNvCMKFo2wisk2ToybGTG7Kk8TDzdgWBTPnZoAqULBdVBM7cyMjB.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "4mwtS6WT28BeEGmBrLSF3WAkQEoXUmuZM95tfRMtpump",
+    "signature": "PEsjKbZ3i4dgDXfwjNmQTiGeyKQX86qGunRRwmfW9ZUV5k7qN1mxjiVMzDtKBourUMuzzCoRVQvXbdg3DE6Zewe",
+    "entry": {
+      "age": 508,
+      "reserve_SOL": 40.307866878,
+      "breadth": 445,
+      "recent_buyers": 27,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 14.451017129,
+      "dominance": 0.17491870755085864,
+      "recent_sell_SOL": 5.735892686,
+      "drawdown": 0.41414624617777007,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "8oo8kSBG",
+        "SOL": 0.0098,
+        "reserve": 41.487
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "b6eJWAo6",
+        "SOL": 0.0424,
+        "reserve": 41.53
+      },
+      {
+        "age": 507,
+        "side": "S",
+        "actor": "omegoMAe",
+        "SOL": 0.8545,
+        "reserve": 40.675
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "D6q2FT4g",
+        "SOL": 0.0978,
+        "reserve": 40.773
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "3SD1JFcW",
+        "SOL": 0.316,
+        "reserve": 41.089
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "8oo8kSBG",
+        "SOL": 0.0098,
+        "reserve": 41.099
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "4sYmtFBi",
+        "SOL": 0.2572,
+        "reserve": 41.356
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "4ioj6uLb",
+        "SOL": 0.9337,
+        "reserve": 42.29
+      },
+      {
+        "age": 507,
+        "side": "B",
+        "actor": "A5qucSMU",
+        "SOL": 0.0096,
+        "reserve": 42.299
+      },
+      {
+        "age": 508,
+        "side": "B",
+        "actor": "DLZ9KEsv",
+        "SOL": 0.1975,
+        "reserve": 42.497
+      },
+      {
+        "age": 508,
+        "side": "B",
+        "actor": "7KVotge6",
+        "SOL": 0.0083,
+        "reserve": 42.505
+      },
+      {
+        "age": 508,
+        "side": "S",
+        "actor": "4dUDeFFs",
+        "SOL": 2.1971,
+        "reserve": 40.308
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/PEsjKbZ3i4dgDXfwjNmQTiGeyKQX86qGunRRwmfW9ZUV5k7qN1mxjiVMzDtKBourUMuzzCoRVQvXbdg3DE6Zewe.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "5d655oTg4fEEcipWrfQR1d9hLn7XhSEmSt8yURJMH8gi",
+    "signature": "RRfm6Wnq9eKGVnAzha1yxspxzTy6azAUptUsLnpz8TpNd9WNPv1648GhLE6tAT1naWUEn2sQ41LnFa3qpVS3gG1",
+    "entry": {
+      "age": 15,
+      "reserve_SOL": 9.313491732,
+      "breadth": 27,
+      "recent_buyers": 2,
+      "fresh_buyers": 2,
+      "recent_buy_SOL": 1.272098764,
+      "dominance": 0.9223602492235422,
+      "recent_sell_SOL": 0.57125758,
+      "drawdown": 0.1547621799561777,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 5,
+        "side": "S",
+        "actor": "21RoDkuW",
+        "SOL": 0.0037,
+        "reserve": 10.231
+      },
+      {
+        "age": 5,
+        "side": "S",
+        "actor": "4zBjvYXe",
+        "SOL": 0.0037,
+        "reserve": 10.228
+      },
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "2PfUX4hm",
+        "SOL": 0.0037,
+        "reserve": 10.224
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "FC5Qj4Nj",
+        "SOL": 0.3422,
+        "reserve": 10.566
+      },
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "DFFXHcmT",
+        "SOL": 1.0257,
+        "reserve": 9.54
+      },
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "GLNt3qp8",
+        "SOL": 0.0036,
+        "reserve": 9.537
+      },
+      {
+        "age": 7,
+        "side": "S",
+        "actor": "Eh4Vq9N1",
+        "SOL": 0.3892,
+        "reserve": 9.148
+      },
+      {
+        "age": 12,
+        "side": "S",
+        "actor": "6Rcp5D7B",
+        "SOL": 0.535,
+        "reserve": 8.613
+      },
+      {
+        "age": 12,
+        "side": "S",
+        "actor": "6yRBpeDD",
+        "SOL": 0.2053,
+        "reserve": 8.407
+      },
+      {
+        "age": 12,
+        "side": "S",
+        "actor": "EZbw9MrM",
+        "SOL": 0.3659,
+        "reserve": 8.041
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "DsqRyTUh",
+        "SOL": 1.1733,
+        "reserve": 9.215
+      },
+      {
+        "age": 15,
+        "side": "B",
+        "actor": "2zMj6wNq",
+        "SOL": 0.0988,
+        "reserve": 9.313
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/RRfm6Wnq9eKGVnAzha1yxspxzTy6azAUptUsLnpz8TpNd9WNPv1648GhLE6tAT1naWUEn2sQ41LnFa3qpVS3gG1.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "BTvgrVEJd7985TJhwu7ZN2ZxdGJvviyLMBedXXwupump",
+    "signature": "WQCGjoShsyuKBLzrY9qePP9iyV6pASdKbqLGm4hgahnHrKJHBeSzBgm4fryLdckW6biZz36JfbnVbLArm83Jdnb",
+    "entry": {
+      "age": 141,
+      "reserve_SOL": 13.95890293,
+      "breadth": 115,
+      "recent_buyers": 0,
+      "fresh_buyers": 0,
+      "recent_buy_SOL": 0.0,
+      "dominance": null,
+      "recent_sell_SOL": 1.436103841,
+      "drawdown": 0.35208278316863517,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 122,
+        "side": "B",
+        "actor": "CxkxCQYL",
+        "SOL": 0.5752,
+        "reserve": 14.756
+      },
+      {
+        "age": 123,
+        "side": "S",
+        "actor": "CSwo9FsN",
+        "SOL": 0.014,
+        "reserve": 14.742
+      },
+      {
+        "age": 123,
+        "side": "S",
+        "actor": "3ELzoLKJ",
+        "SOL": 0.0,
+        "reserve": 14.742
+      },
+      {
+        "age": 123,
+        "side": "S",
+        "actor": "CSwo9FsN",
+        "SOL": 0.014,
+        "reserve": 14.728
+      },
+      {
+        "age": 126,
+        "side": "S",
+        "actor": "F853Fn7o",
+        "SOL": 0.0,
+        "reserve": 14.728
+      },
+      {
+        "age": 128,
+        "side": "B",
+        "actor": "71B3tu7M",
+        "SOL": 0.0587,
+        "reserve": 14.787
+      },
+      {
+        "age": 130,
+        "side": "B",
+        "actor": "GUDP1dP2",
+        "SOL": 0.4889,
+        "reserve": 15.276
+      },
+      {
+        "age": 136,
+        "side": "B",
+        "actor": "3mK5Tz8z",
+        "SOL": 0.0995,
+        "reserve": 15.375
+      },
+      {
+        "age": 137,
+        "side": "S",
+        "actor": "BAuAe7Mv",
+        "SOL": 0.0199,
+        "reserve": 15.356
+      },
+      {
+        "age": 139,
+        "side": "B",
+        "actor": "2tgSbz4B",
+        "SOL": 0.0103,
+        "reserve": 15.366
+      },
+      {
+        "age": 139,
+        "side": "B",
+        "actor": "9QzggnmZ",
+        "SOL": 0.0093,
+        "reserve": 15.375
+      },
+      {
+        "age": 139,
+        "side": "S",
+        "actor": "5e8DjVTq",
+        "SOL": 1.4163,
+        "reserve": 13.959
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/WQCGjoShsyuKBLzrY9qePP9iyV6pASdKbqLGm4hgahnHrKJHBeSzBgm4fryLdckW6biZz36JfbnVbLArm83Jdnb.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "G8jXowFsA7NRGRuLMD9GB9W9kFZudopAeb85eu7jsS6J",
+    "signature": "WU9CTGic7fgkhpqrqt2imqk96Gr7xX6Ka9TN19WK8wxXovcBByZaf2RR8kVQrjVTACW4xTJTb9yiTBR1oDzbk1M",
+    "entry": {
+      "age": 6,
+      "reserve_SOL": 7.878264402,
+      "breadth": 23,
+      "recent_buyers": 18,
+      "fresh_buyers": 18,
+      "recent_buy_SOL": 7.375443728,
+      "dominance": 0.26514412245814645,
+      "recent_sell_SOL": 4.876667893,
+      "drawdown": 0.1280109943065474,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 4,
+        "side": "B",
+        "actor": "FaNaUysv",
+        "SOL": 1.9556,
+        "reserve": 9.276
+      },
+      {
+        "age": 4,
+        "side": "S",
+        "actor": "2mqrindM",
+        "SOL": 0.678,
+        "reserve": 8.598
+      },
+      {
+        "age": 5,
+        "side": "S",
+        "actor": "5nsDhZRG",
+        "SOL": 0.675,
+        "reserve": 7.923
+      },
+      {
+        "age": 5,
+        "side": "S",
+        "actor": "2mqrindM",
+        "SOL": 1.2624,
+        "reserve": 6.66
+      },
+      {
+        "age": 5,
+        "side": "S",
+        "actor": "7rtyqW2y",
+        "SOL": 0.4594,
+        "reserve": 6.201
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "DgTKef6x",
+        "SOL": 0.0988,
+        "reserve": 6.3
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "5QY3MBvL",
+        "SOL": 0.1481,
+        "reserve": 6.448
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "82J2y1T2",
+        "SOL": 0.0988,
+        "reserve": 6.547
+      },
+      {
+        "age": 5,
+        "side": "B",
+        "actor": "3Vggwn3L",
+        "SOL": 0.0494,
+        "reserve": 6.596
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "J77G27fa",
+        "SOL": 0.9094,
+        "reserve": 7.506
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "G3ouJNKD",
+        "SOL": 1.0461,
+        "reserve": 8.552
+      },
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "E35uoEGT",
+        "SOL": 0.6734,
+        "reserve": 7.878
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/WU9CTGic7fgkhpqrqt2imqk96Gr7xX6Ka9TN19WK8wxXovcBByZaf2RR8kVQrjVTACW4xTJTb9yiTBR1oDzbk1M.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "EPyQeS2LxzpbkQQxnjUkaXfsLZKkV91ctm5KFPtMKgPb",
+    "signature": "Z2c3Tn1146M4f1xhHZyA4p4s8bKtvahsLKLTEyoL8bsnvtTnBbGLZ3fnL973BdwRD4Rj8a9pXHAKWmGirqNVzxb",
+    "entry": {
+      "age": 2,
+      "reserve_SOL": 15.120602891,
+      "breadth": 14,
+      "recent_buyers": 14,
+      "fresh_buyers": 14,
+      "recent_buy_SOL": 18.181493944,
+      "dominance": 0.22815221674173333,
+      "recent_sell_SOL": 3.212012036,
+      "drawdown": 0.026660742318993735,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "HrtVLLCB",
+        "SOL": 1.5873,
+        "reserve": 13.206
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "BfCP1ncx",
+        "SOL": 1.346,
+        "reserve": 14.552
+      },
+      {
+        "age": 1,
+        "side": "S",
+        "actor": "2vzVZeQv",
+        "SOL": 2.0378,
+        "reserve": 12.515
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "97jv9pjC",
+        "SOL": 0.1452,
+        "reserve": 12.66
+      },
+      {
+        "age": 1,
+        "side": "S",
+        "actor": "3ELzoLKJ",
+        "SOL": 0.0,
+        "reserve": 12.66
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "6oN5Y247",
+        "SOL": 2.9333,
+        "reserve": 15.593
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "6xpC934B",
+        "SOL": 0.0286,
+        "reserve": 15.622
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "89qZA4L2",
+        "SOL": 0.0286,
+        "reserve": 15.65
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "7Bza9tPx",
+        "SOL": 0.0277,
+        "reserve": 15.678
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "AcvSivuS",
+        "SOL": 0.0286,
+        "reserve": 15.707
+      },
+      {
+        "age": 1,
+        "side": "B",
+        "actor": "8hp7qw3p",
+        "SOL": 0.0277,
+        "reserve": 15.734
+      },
+      {
+        "age": 2,
+        "side": "S",
+        "actor": "5bb5kQKh",
+        "SOL": 0.6138,
+        "reserve": 15.121
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/Z2c3Tn1146M4f1xhHZyA4p4s8bKtvahsLKLTEyoL8bsnvtTnBbGLZ3fnL973BdwRD4Rj8a9pXHAKWmGirqNVzxb.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "39dYrD3Qo7pZiP9n7uPVSGwFYarGpUPUYKWPJzAk97zF",
+    "signature": "m8smWUZYE4DN2eEKvvwF2QQGkGapsi4yf5MZKjnym6bER6fS5ShNQVsQ2hLooSFxXzx27qZzvdbUXvVqUuHSUcj",
+    "entry": {
+      "age": 19,
+      "reserve_SOL": 48.457971539,
+      "breadth": 198,
+      "recent_buyers": 56,
+      "fresh_buyers": 46,
+      "recent_buy_SOL": 51.664755068,
+      "dominance": 0.07646638947189986,
+      "recent_sell_SOL": 29.583652125,
+      "drawdown": 0.24488241636522046,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "DLhoLhi4",
+        "SOL": 0.0691,
+        "reserve": 53.528
+      },
+      {
+        "age": 19,
+        "side": "S",
+        "actor": "8jsPACii",
+        "SOL": 0.4322,
+        "reserve": 53.095
+      },
+      {
+        "age": 19,
+        "side": "S",
+        "actor": "3pk5yRhw",
+        "SOL": 0.5312,
+        "reserve": 52.564
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "9HJbUAiu",
+        "SOL": 1.4291,
+        "reserve": 53.993
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "DdD92Asv",
+        "SOL": 0.2249,
+        "reserve": 54.218
+      },
+      {
+        "age": 19,
+        "side": "S",
+        "actor": "GG8hd6XK",
+        "SOL": 0.529,
+        "reserve": 53.689
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "643fC2ho",
+        "SOL": 2.4444,
+        "reserve": 56.133
+      },
+      {
+        "age": 19,
+        "side": "S",
+        "actor": "9BjcGY9Z",
+        "SOL": 11.6261,
+        "reserve": 44.507
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "HW1wbyPS",
+        "SOL": 0.9877,
+        "reserve": 45.495
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "2fNPNJKE",
+        "SOL": 0.9877,
+        "reserve": 46.483
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "AdXexVH8",
+        "SOL": 0.9877,
+        "reserve": 47.47
+      },
+      {
+        "age": 19,
+        "side": "B",
+        "actor": "Gf8wub9h",
+        "SOL": 0.9877,
+        "reserve": 48.458
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/m8smWUZYE4DN2eEKvvwF2QQGkGapsi4yf5MZKjnym6bER6fS5ShNQVsQ2hLooSFxXzx27qZzvdbUXvVqUuHSUcj.json.gz"
+  },
+  {
+    "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+    "mint": "367vwbRPVi2vgEZqdEwEoMYNo5ESdypuznPT3isdpump",
+    "signature": "mB6Bnf1rMT2TgiXtr9s3geyeZMaCJm32R7VK8hrfPc1qQ6FWNgvgeiTXNqzosQF8eyu4VrmTiJrs7LCUqxjLgmX",
+    "entry": {
+      "age": 468,
+      "reserve_SOL": 59.080455993,
+      "breadth": 336,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.094884411,
+      "dominance": 1.0,
+      "recent_sell_SOL": 1.535379841,
+      "drawdown": 0.12318635601506989,
+      "last_side": "sell"
+    },
+    "prior12": [
+      {
+        "age": 462,
+        "side": "B",
+        "actor": "CxAuHCZp",
+        "SOL": 0.0441,
+        "reserve": 61.439
+      },
+      {
+        "age": 462,
+        "side": "S",
+        "actor": "J6BH9GNa",
+        "SOL": 0.0999,
+        "reserve": 61.339
+      },
+      {
+        "age": 462,
+        "side": "S",
+        "actor": "8iWLNyAc",
+        "SOL": 0.4367,
+        "reserve": 60.902
+      },
+      {
+        "age": 463,
+        "side": "S",
+        "actor": "8iWLNyAc",
+        "SOL": 0.411,
+        "reserve": 60.491
+      },
+      {
+        "age": 464,
+        "side": "S",
+        "actor": "8iWLNyAc",
+        "SOL": 0.387,
+        "reserve": 60.104
+      },
+      {
+        "age": 464,
+        "side": "S",
+        "actor": "8iWLNyAc",
+        "SOL": 0.3646,
+        "reserve": 59.74
+      },
+      {
+        "age": 465,
+        "side": "B",
+        "actor": "6Zzx6F46",
+        "SOL": 0.0949,
+        "reserve": 59.835
+      },
+      {
+        "age": 465,
+        "side": "S",
+        "actor": "8iWLNyAc",
+        "SOL": 0.3444,
+        "reserve": 59.49
+      },
+      {
+        "age": 466,
+        "side": "B",
+        "actor": "BAQFv8W3",
+        "SOL": 0.0099,
+        "reserve": 59.5
+      },
+      {
+        "age": 466,
+        "side": "S",
+        "actor": "8iWLNyAc",
+        "SOL": 0.3248,
+        "reserve": 59.175
+      },
+      {
+        "age": 466,
+        "side": "B",
+        "actor": "ARu4n5mF",
+        "SOL": 0.0197,
+        "reserve": 59.195
+      },
+      {
+        "age": 466,
+        "side": "S",
+        "actor": "CxbSHb5u",
+        "SOL": 0.1146,
+        "reserve": 59.08
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/mB6Bnf1rMT2TgiXtr9s3geyeZMaCJm32R7VK8hrfPc1qQ6FWNgvgeiTXNqzosQF8eyu4VrmTiJrs7LCUqxjLgmX.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "9TETVzsgVyWEev9q69uXK4BjLYtmRfbsxZnkgYEipump",
+    "signature": "oFLigQFqvMYG9A195TT1Gy2uBFoMciTtR88SD4opB3EteecF44RYVdvsqK3MZak67dhAT7VnnnSkgW6CFsiPTK5",
+    "entry": {
+      "age": 52,
+      "reserve_SOL": 27.084440892,
+      "breadth": 77,
+      "recent_buyers": 11,
+      "fresh_buyers": 10,
+      "recent_buy_SOL": 10.972717255,
+      "dominance": 0.34203801408350426,
+      "recent_sell_SOL": 8.062783343,
+      "drawdown": 0.17063359903890174,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 49,
+        "side": "B",
+        "actor": "EL7Jzokr",
+        "SOL": 0.0029,
+        "reserve": 30.83
+      },
+      {
+        "age": 49,
+        "side": "S",
+        "actor": "Cz89noaf",
+        "SOL": 0.2885,
+        "reserve": 30.541
+      },
+      {
+        "age": 50,
+        "side": "B",
+        "actor": "HDb2WPuo",
+        "SOL": 0.0593,
+        "reserve": 30.601
+      },
+      {
+        "age": 50,
+        "side": "B",
+        "actor": "5x5uvqww",
+        "SOL": 0.0494,
+        "reserve": 30.65
+      },
+      {
+        "age": 50,
+        "side": "B",
+        "actor": "KFDUjSLG",
+        "SOL": 0.0489,
+        "reserve": 30.699
+      },
+      {
+        "age": 50,
+        "side": "S",
+        "actor": "FpX5c3bv",
+        "SOL": 0.1989,
+        "reserve": 30.5
+      },
+      {
+        "age": 50,
+        "side": "B",
+        "actor": "5xpb4js5",
+        "SOL": 0.4938,
+        "reserve": 30.994
+      },
+      {
+        "age": 50,
+        "side": "S",
+        "actor": "BiFYSKmp",
+        "SOL": 1.9303,
+        "reserve": 29.063
+      },
+      {
+        "age": 50,
+        "side": "S",
+        "actor": "34HvV4oT",
+        "SOL": 0.9044,
+        "reserve": 28.159
+      },
+      {
+        "age": 51,
+        "side": "S",
+        "actor": "5aRgz8Qn",
+        "SOL": 2.3747,
+        "reserve": 25.784
+      },
+      {
+        "age": 51,
+        "side": "B",
+        "actor": "CyBiGyD1",
+        "SOL": 0.9877,
+        "reserve": 26.772
+      },
+      {
+        "age": 51,
+        "side": "B",
+        "actor": "63otb3qf",
+        "SOL": 0.3124,
+        "reserve": 27.084
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/oFLigQFqvMYG9A195TT1Gy2uBFoMciTtR88SD4opB3EteecF44RYVdvsqK3MZak67dhAT7VnnnSkgW6CFsiPTK5.json.gz"
+  },
+  {
+    "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+    "mint": "GzxmNeAXdJSk2mjbRsdzTmfcASeVCEbzfUZJ89cpsRtX",
+    "signature": "tAeC8piQ1JoALsoMYjoAK1i2dUp6JaQ4ZJ2FRFbHpBGuN9379JEQzTwcUt5778145nKhfY84jmBq2uX3PAGUcDc",
+    "entry": {
+      "age": 7,
+      "reserve_SOL": 8.335347196,
+      "breadth": 54,
+      "recent_buyers": 37,
+      "fresh_buyers": 37,
+      "recent_buy_SOL": 30.475324433,
+      "dominance": 0.19444997010706638,
+      "recent_sell_SOL": 36.763128806,
+      "drawdown": 0.5285107747747042,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "J3gZFpvs",
+        "SOL": 0.7391,
+        "reserve": 9.637
+      },
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "4RHoTDWz",
+        "SOL": 0.2203,
+        "reserve": 9.417
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "3gHrfi6t",
+        "SOL": 1.4667,
+        "reserve": 10.883
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "ESb5iQdn",
+        "SOL": 0.0978,
+        "reserve": 10.981
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "44K8RSPz",
+        "SOL": 0.4889,
+        "reserve": 11.47
+      },
+      {
+        "age": 6,
+        "side": "B",
+        "actor": "7oETR4QB",
+        "SOL": 0.001,
+        "reserve": 11.471
+      },
+      {
+        "age": 6,
+        "side": "S",
+        "actor": "3crj9TB2",
+        "SOL": 4.306,
+        "reserve": 7.165
+      },
+      {
+        "age": 7,
+        "side": "B",
+        "actor": "HmNMbkLV",
+        "SOL": 0.0196,
+        "reserve": 7.184
+      },
+      {
+        "age": 7,
+        "side": "B",
+        "actor": "ARu4n5mF",
+        "SOL": 0.2976,
+        "reserve": 7.482
+      },
+      {
+        "age": 7,
+        "side": "B",
+        "actor": "9999huSC",
+        "SOL": 0.5086,
+        "reserve": 7.991
+      },
+      {
+        "age": 7,
+        "side": "B",
+        "actor": "7RZtdxAz",
+        "SOL": 0.2469,
+        "reserve": 8.238
+      },
+      {
+        "age": 7,
+        "side": "B",
+        "actor": "FXKvv4Qc",
+        "SOL": 0.0978,
+        "reserve": 8.335
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/tAeC8piQ1JoALsoMYjoAK1i2dUp6JaQ4ZJ2FRFbHpBGuN9379JEQzTwcUt5778145nKhfY84jmBq2uX3PAGUcDc.json.gz"
+  },
+  {
+    "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+    "mint": "4YHHbNwyBJB1f8mWSpqz9zJ7VfZdV2HjqFAzFZnfpump",
+    "signature": "tu6DEQczxyXum3ik9Tu8CRR6JrS2kFyvTMV1bug6uwSfSNrpmgapYoUZyv9doMZfqecarwTEe3FWTR77FzCqb53",
+    "entry": {
+      "age": 212,
+      "reserve_SOL": 31.097320726,
+      "breadth": 62,
+      "recent_buyers": 14,
+      "fresh_buyers": 14,
+      "recent_buy_SOL": 11.934473971,
+      "dominance": 0.0898195043706799,
+      "recent_sell_SOL": 0.322602079,
+      "drawdown": 0.0,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "HTFZ9NtZ",
+        "SOL": 1.0146,
+        "reserve": 21.353
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "BQG3Pa1u",
+        "SOL": 1.0611,
+        "reserve": 22.414
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "6wn7pXLV",
+        "SOL": 1.0053,
+        "reserve": 23.419
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "286CHN57",
+        "SOL": 0.9849,
+        "reserve": 24.404
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "Hh1AigQW",
+        "SOL": 0.9262,
+        "reserve": 25.33
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "6kcNB3Bt",
+        "SOL": 0.9393,
+        "reserve": 26.27
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "66AbxhfZ",
+        "SOL": 0.9877,
+        "reserve": 27.257
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "5bb5kQKh",
+        "SOL": 1.0719,
+        "reserve": 28.329
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "CBKgS8Nj",
+        "SOL": 0.4823,
+        "reserve": 28.811
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "5G9u1U2m",
+        "SOL": 0.8771,
+        "reserve": 29.689
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "AmwJToZR",
+        "SOL": 0.4211,
+        "reserve": 30.11
+      },
+      {
+        "age": 212,
+        "side": "B",
+        "actor": "4t45tpPT",
+        "SOL": 0.9877,
+        "reserve": 31.097
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/tu6DEQczxyXum3ik9Tu8CRR6JrS2kFyvTMV1bug6uwSfSNrpmgapYoUZyv9doMZfqecarwTEe3FWTR77FzCqb53.json.gz"
+  },
+  {
+    "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+    "mint": "8rL7khXPD5Li5j7rYiEFx5yjLWYZLkJfG5cxaaMGpump",
+    "signature": "zWq4Bh6cmhhM1TmBjZZ9kpPGkHMgAkCkzf6KvvGSAx7ffMoVohmTNMzhxxWhNw9UjnkKWhydSt7487sarVn35vS",
+    "entry": {
+      "age": 287,
+      "reserve_SOL": 6.687486032,
+      "breadth": 75,
+      "recent_buyers": 1,
+      "fresh_buyers": 1,
+      "recent_buy_SOL": 0.16644919,
+      "dominance": 1.0,
+      "recent_sell_SOL": 4.256529597,
+      "drawdown": 0.3777716169388443,
+      "last_side": "buy"
+    },
+    "prior12": [
+      {
+        "age": 281,
+        "side": "S",
+        "actor": "8BLMeCzK",
+        "SOL": 0.0074,
+        "reserve": 11.255
+      },
+      {
+        "age": 282,
+        "side": "S",
+        "actor": "H8D1FCCx",
+        "SOL": 0.3378,
+        "reserve": 10.917
+      },
+      {
+        "age": 282,
+        "side": "S",
+        "actor": "5bC9vW7f",
+        "SOL": 0.1398,
+        "reserve": 10.778
+      },
+      {
+        "age": 283,
+        "side": "S",
+        "actor": "8PMudDui",
+        "SOL": 0.13,
+        "reserve": 10.648
+      },
+      {
+        "age": 284,
+        "side": "B",
+        "actor": "EuCv53bS",
+        "SOL": 0.0832,
+        "reserve": 10.731
+      },
+      {
+        "age": 285,
+        "side": "S",
+        "actor": "8baLSCzr",
+        "SOL": 2.3285,
+        "reserve": 8.402
+      },
+      {
+        "age": 286,
+        "side": "S",
+        "actor": "65vTf2gV",
+        "SOL": 0.4804,
+        "reserve": 7.922
+      },
+      {
+        "age": 287,
+        "side": "S",
+        "actor": "2XUsvRRv",
+        "SOL": 0.9915,
+        "reserve": 6.93
+      },
+      {
+        "age": 287,
+        "side": "S",
+        "actor": "H1LLJ7eZ",
+        "SOL": 0.0001,
+        "reserve": 6.93
+      },
+      {
+        "age": 287,
+        "side": "S",
+        "actor": "2k7K6NGL",
+        "SOL": 0.3261,
+        "reserve": 6.604
+      },
+      {
+        "age": 287,
+        "side": "S",
+        "actor": "AiwsYMom",
+        "SOL": 0.0001,
+        "reserve": 6.604
+      },
+      {
+        "age": 287,
+        "side": "B",
+        "actor": "EuCv53bS",
+        "SOL": 0.0832,
+        "reserve": 6.687
+      }
+    ],
+    "source_file": "research/wallet_curve_entry_discovery_20261007/trajectories/zWq4Bh6cmhhM1TmBjZZ9kpPGkHMgAkCkzf6KvvGSAx7ffMoVohmTNMzhxxWhNw9UjnkKWhydSt7487sarVn35vS.json.gz"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "traces": 210,
+  "covered_repetitions": 150,
+  "unique_mints": 42,
+  "diagnostics": [
+    {
+      "mode": "first_buy",
+      "scenario": "central80",
+      "horizon": 10,
+      "filled_known": 24,
+      "mean_return": 0.0009919218333333335,
+      "positive_at_horizon": 8,
+      "mean_MFE": 0.25413809891666667,
+      "MFE20": 7
+    },
+    {
+      "mode": "first_buy",
+      "scenario": "central80",
+      "horizon": 60,
+      "filled_known": 24,
+      "mean_return": -0.13720189733333332,
+      "positive_at_horizon": 6,
+      "mean_MFE": 0.3630336759166667,
+      "MFE20": 10
+    },
+    {
+      "mode": "first_buy",
+      "scenario": "central85",
+      "horizon": 10,
+      "filled_known": 24,
+      "mean_return": 0.0008906265833333347,
+      "positive_at_horizon": 8,
+      "mean_MFE": 0.25413809891666667,
+      "MFE20": 7
+    },
+    {
+      "mode": "first_buy",
+      "scenario": "central85",
+      "horizon": 60,
+      "filled_known": 24,
+      "mean_return": -0.13730319258333332,
+      "positive_at_horizon": 6,
+      "mean_MFE": 0.3630336759166667,
+      "MFE20": 10
+    },
+    {
+      "mode": "two_buy_groups",
+      "scenario": "central80",
+      "horizon": 10,
+      "filled_known": 21,
+      "mean_return": 0.060417188761904765,
+      "positive_at_horizon": 8,
+      "mean_MFE": 0.27216030333333335,
+      "MFE20": 4
+    },
+    {
+      "mode": "two_buy_groups",
+      "scenario": "central80",
+      "horizon": 60,
+      "filled_known": 21,
+      "mean_return": -0.023029896952380963,
+      "positive_at_horizon": 7,
+      "mean_MFE": 0.48017045704761907,
+      "MFE20": 9
+    },
+    {
+      "mode": "two_buy_groups",
+      "scenario": "central85",
+      "horizon": 10,
+      "filled_known": 21,
+      "mean_return": 0.05658679028571429,
+      "positive_at_horizon": 8,
+      "mean_MFE": 0.26750820180952384,
+      "MFE20": 4
+    },
+    {
+      "mode": "two_buy_groups",
+      "scenario": "central85",
+      "horizon": 60,
+      "filled_known": 21,
+      "mean_return": -0.024969677523809537,
+      "positive_at_horizon": 7,
+      "mean_MFE": 0.4767505336190476,
+      "MFE20": 9
+    }
+  ]
+}

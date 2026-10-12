@@ -1,0 +1,13 @@
+{
+  "capture_epoch_ms": 1791779676150,
+  "note": "Current target checkpoint revision; source runtime continued advancing after capture. The failure-time snapshot and shadow ledgers are preserved in input_checkpoint_targets.json.",
+  "saved_at_ms": 1791779675900,
+  "selected_mints": [
+    "Gxv4V2j7sqyGz8DqXsPrKjCuD1z52bSa5MeghQ2jpump",
+    "DNoBMrAY4sKSMbR2PiPb4TjNa3NhBveizwnrnfcppump"
+  ],
+  "source_file": "data/ghost_runtime_state.json",
+  "source_sha256": "a8a6c980d5fbaf33546614fd705c1721de2698c389133a10c6f0294393eb4314",
+  "source_size_bytes": 10459240,
+  "vm_id": "ghost-v2-20261012T041817"
+}

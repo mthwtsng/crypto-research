@@ -1,0 +1,177 @@
+{
+ "6FZ1RasKHCPa9DnNYzg2v6ppDBhMigPM9X3L5fUY8kab": {
+  "note": "micro bumper 0.000978 x124 (term router)",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 05:46:55",
+  "oldest_seen": "2026-10-10 17:34:54",
+  "history_complete": false
+ },
+ "64Eo13uodbdMyrXqsUK9Hmazj5v2vHcURtDMS9R3z2UL": {
+  "note": "FLASHX lockstep triad",
+  "n_sigs_le1000": 674,
+  "newest": "2026-10-12 06:40:03",
+  "oldest_seen": "2026-10-12 00:50:48",
+  "history_complete": true,
+  "first_tx_hours_before_revival": 1.31,
+  "funding": {
+   "first_tx_signer": "moeypiG1S8jepY2hCtP5RC6iCcpHvdgkagNPKiFWxN6",
+   "largest_sender": "moeypiG1S8jepY2hCtP5RC6iCcpHvdgkagNPKiFWxN6",
+   "sender_delta": -0.7529305,
+   "wallet_gain": 0.752921
+  }
+ },
+ "GT16BVecjpFvDJPnctZM499aDYNEsL2iAu83oeoBjghr": {
+  "note": "FLASHX lockstep triad",
+  "n_sigs_le1000": 134,
+  "newest": "2026-10-12 06:40:03",
+  "oldest_seen": "2026-10-12 05:04:23",
+  "history_complete": true,
+  "first_tx_hours_before_revival": -2.91,
+  "funding": {
+   "first_tx_signer": "moeypiG1S8jepY2hCtP5RC6iCcpHvdgkagNPKiFWxN6",
+   "largest_sender": "moeypiG1S8jepY2hCtP5RC6iCcpHvdgkagNPKiFWxN6",
+   "sender_delta": -8.1553275,
+   "wallet_gain": 8.155318
+  }
+ },
+ "moeypiG1S8jepY2hCtP5RC6iCcpHvdgkagNPKiFWxN6": {
+  "note": "FLASHX lockstep triad",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:40:03",
+  "oldest_seen": "2026-10-11 23:19:50",
+  "history_complete": false
+ },
+ "HzjDm1fiMha9UguXGWKKSdRdu6H9s5k6fWBQtKPhH5ni": {
+  "note": "micro bumper 0.009877 x26",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:32:43",
+  "oldest_seen": "2026-10-07 15:00:48",
+  "history_complete": false
+ },
+ "3JQvkiF2GKfca3ggMPRwTHmzvnj6emReuSFwSrBBonp5": {
+  "note": "late micro bumper via FHpcNSe6 relay",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:34:47",
+  "oldest_seen": "2026-10-09 17:03:07",
+  "history_complete": false
+ },
+ "4qzJLi17Sh9SgKvUPXDL2WMuiJpNJGB1Pd9cjJgN83Ei": {
+  "note": "micro bumper GMGN",
+  "n_sigs_le1000": 373,
+  "newest": "2026-10-12 06:33:57",
+  "oldest_seen": "2026-10-10 05:32:40",
+  "history_complete": true,
+  "first_tx_hours_before_revival": 44.62,
+  "funding": {
+   "first_tx_signer": "EMXJqHznGSnSzeMyigBGQNEFw4EeaNDbj1UwaFTpp3sg",
+   "largest_sender": "EMXJqHznGSnSzeMyigBGQNEFw4EeaNDbj1UwaFTpp3sg",
+   "sender_delta": -0.900530014,
+   "wallet_gain": 0.90052
+  }
+ },
+ "H8URrcUAopozaDLYAZVUGYj83DzSRgWoRH1tnfGiAAAm": {
+  "note": "launch micro bumper/churner x48",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-10 20:31:48",
+  "oldest_seen": "2026-10-09 12:52:24",
+  "history_complete": false
+ },
+ "DGma4Uxm9JS6yLNdgYaxsZhwk2nxrRGMfMt5buXbiFCm": {
+  "note": "revival first buyer (leader)",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:38:44",
+  "oldest_seen": "2026-10-10 01:27:16",
+  "history_complete": false
+ },
+ "FjpP8RjP99ozeqPvTidadjKgh9gDGbZEQLE7SLkByobq": {
+  "note": "revival wave-1",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:02:12",
+  "oldest_seen": "2026-09-24 08:58:55",
+  "history_complete": false
+ },
+ "CNBuuRcP2vFSoS6pmBN1wQYan9UPJ8CXPyJyLTNWHpj": {
+  "note": "revival wave-1",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:39:52",
+  "oldest_seen": "2026-10-10 19:23:09",
+  "history_complete": false
+ },
+ "8eftoRDpRcjkrT6VZ1HPSB1mJfE9SdgkNKqid58F5XKi": {
+  "note": "revival wave-1 (0.083 repeat)",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:41:35",
+  "oldest_seen": "2026-10-12 04:05:43",
+  "history_complete": false
+ },
+ "6Qt8a3Y6B4nekSRQ1p2e5yqP5bSCbE6HzUTdWwdfYXmR": {
+  "note": "revival wave-1",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:41:15",
+  "oldest_seen": "2026-10-11 22:51:55",
+  "history_complete": false
+ },
+ "3QJ1Dze6YxH1g3YNzzrzcvbFS9spaTxjiJZGqRCmFMD2": {
+  "note": "main-run first buyer 05:09:08",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 05:23:48",
+  "oldest_seen": "2026-10-09 10:13:26",
+  "history_complete": false
+ },
+ "GGBJfSLF9xVjHsQcVJhVjrqogCEsUEQXxNeWLz79csrJ": {
+  "note": "2.963 SOL ignition-slot buyer, then laddered sells",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:35:58",
+  "oldest_seen": "2026-10-11 06:28:17",
+  "history_complete": false
+ },
+ "CHCLtC1AWpSshZkiU8TNoNn9r7CHecVhTakuao7u4aBX": {
+  "note": "main-run 3rd buyer (FLASHX)",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:28:08",
+  "oldest_seen": "2026-10-10 00:43:20",
+  "history_complete": false
+ },
+ "UuAvcGTc3g8si8N39YYoBa8UqVPLunGCwRRK47LDDbs": {
+  "note": "term-pair partner of 6FZ1Ra, 0.0006 micro-buys",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 05:30:57",
+  "oldest_seen": "2026-10-04 17:26:35",
+  "history_complete": false
+ },
+ "FczAVrSD8WPAymBhWrcFy8QsRjgDqmFkuqWa1KkAbzuD": {
+  "note": "term pair 1.4667 just before whale",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:37:55",
+  "oldest_seen": "2026-10-12 06:37:31",
+  "history_complete": false
+ },
+ "DVMkhiQe1D8yenuEgsW44NjRn9LfVQjGEpZcez5x7Mff": {
+  "note": "term pair 1.4667 just before whale",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:43:06",
+  "oldest_seen": "2026-10-12 06:39:18",
+  "history_complete": false
+ },
+ "2H6DwrqAsETL1PjrT5KAX3MAELx71FuDkKVZj18PaeJf": {
+  "note": "6.91 SOL whale 05:10:57, laddered sells",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 06:42:15",
+  "oldest_seen": "2026-10-11 16:24:58",
+  "history_complete": false
+ },
+ "5iRNttewykzqwnbKATrCXwe7a2Pna574HTEBY5uANndz": {
+  "note": "4.89 SOL FLASHX buy 05:11:00",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 05:35:08",
+  "oldest_seen": "2026-09-19 11:01:03",
+  "history_complete": false
+ },
+ "BDRubJ9jipMhGEte1279ZbqVC4bWrvZ7A4acfJfSRHYY": {
+  "note": "repeat 0.4298 FLASHX buyer",
+  "n_sigs_le1000": 1000,
+  "newest": "2026-10-12 05:11:51",
+  "oldest_seen": "2026-10-04 19:40:35",
+  "history_complete": false
+ }
+}

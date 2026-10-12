@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-10-08T02:15:59.247837+00:00",
+  "stage": "mechanism-based refinements after entry-only diagnostics; before variant sell outcomes",
+  "data": "600 inspected October3\u20134 launches; retrospective development; not a holdout",
+  "looks": {
+    "exit_changes": 7,
+    "entry_changes": 2,
+    "configs": 9
+  },
+  "configs": {
+    "baseline": {},
+    "dev_breadth": {
+      "entry": "dev_breadth"
+    },
+    "dev_small_target": {
+      "s1_target": 0.1
+    },
+    "shelf_full_trail": {
+      "s2_full_trail": true
+    },
+    "deadman_scratch3": {
+      "s3_scratch": 3
+    },
+    "deadman_scratch5": {
+      "s3_scratch": 5
+    },
+    "deadman_confirm": {
+      "entry": "dip_confirm"
+    },
+    "ath_timer20": {
+      "s4_timeout": 20
+    },
+    "ath_stop15": {
+      "s4_stop": 0.15
+    },
+    "ath_timer20_stop15": {
+      "s4_timeout": 20,
+      "s4_stop": 0.15
+    }
+  },
+  "selection": {
+    "dev_breadth": "additional >=3 outside buyers and >=0.5SOL buys in trailing3 slots, same signal; baseline exit retained",
+    "dip_confirm": "first >=0.05SOL outside buy within2slots after dip, reserve8\u201318; baseline exit retained; new quote/guard at new signal"
+  },
+  "constraints": {
+    "bankroll": 15,
+    "ticket": 0.5,
+    "probe": 0.25,
+    "max_open": 2
+  },
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/variants.py": "0adc8ea336355770eceb43c7a9924c27c1d0d7431298ed07cc41109d9f7fa9a4",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "5048635c512efadb883e1ba104712bc7fd01d24f01a1dc39a04c9586b0c3a906",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/ENTRY_TRAJECTORIES.json.gz": "e58a408ed5f5b0e9329fc8b36fe5d929ebd7a322d5c58aefaa42fd6d9081bc11"
+  }
+}

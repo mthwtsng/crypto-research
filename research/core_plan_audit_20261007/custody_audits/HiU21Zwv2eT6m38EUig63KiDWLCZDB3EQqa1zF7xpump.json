@@ -1,0 +1,22 @@
+{
+  "mint": "HiU21Zwv2eT6m38EUig63KiDWLCZDB3EQqa1zF7xpump",
+  "passes": [
+    {
+      "signature": "2ZX4C181HhUiuVnGKiM2kDMSAj5bSfJV8BZTmscREbuuzG66HZ57KQmDWRqhU9VFG627KtHXpgjZDYFsvGmB4tvA",
+      "owner": "GhkwdvfqZs3GS7sJBhGCpP47i4uxkgVvDcNr8QR9us61",
+      "accounts": [
+        "EzfFe96sJAu8QuzxL3uwvAezVRWrBKfbRuzXZRzKKoaW"
+      ],
+      "added": [
+        "3XoavyCcAf5DRiafZyMpjEUUpykusghZPnzjkbQrQGoK95BDaSZVN43A49Ybi9ACJ76SnmKMyidx2stdL479KsfP",
+        "43oG2pL8bA9fD87kB1awwSuruh5PQuEaPdmNkkUroxoTkYawJCLbeuu9NtX3kit1jrrNm8hCyUS9BoCRC1gtUYQn",
+        "5wdvk39qxF5YkHfCe8V1CfwGNFt1sZUP51zRFMYzrksTQLQZ66kSYmMTaKDzXFqtuhFQxg5cunux88LCE7iAND9L"
+      ]
+    }
+  ],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 60,
+  "curve_groups": 57,
+  "initial_precompletion_gap": true
+}

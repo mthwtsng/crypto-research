@@ -1,0 +1,32 @@
+{
+  "mode": "observed-wallet entry discovery; no strategy backtest or live changes",
+  "source_cutoff": {
+    "commitment": "finalized",
+    "slot": 455910302,
+    "block_time": 1791778325,
+    "utc": "2026-10-12T04:12:05Z",
+    "provider_for_get_slot": "shyft",
+    "provider_for_get_block_time": "shyft",
+    "frozen_at_utc": "2026-10-12T04:12:13Z"
+  },
+  "selection": "all22 user-supplied addresses; wallet universe chosen by user for profitability; retrospective selected-wallet cohort, not unfiltered opportunity census",
+  "looks": [
+    "reserves/stage",
+    "prior-price-path",
+    "recent outside order flow and breadth",
+    "creator identity",
+    "known KOL/tracked presence and same-transaction custom-program references",
+    "bot-to-bot lead lag",
+    "actual execution costs",
+    "actual exit/re-entry shape",
+    "shared-mint shadow signal timing"
+  ],
+  "look_count": 9,
+  "entry_sample": "fixedhash wallet+signature one per distinctmint, up to24 per wallet from latest250; separate sparse-wallet successful-history and linkedpayer signer extensions",
+  "validation": "No candidate promoted. All rows after cutoff excluded. Fresh14-21day forward evaluation requires freezing exact entry before inspecting its later outcomes. No untouched outcome data collected or graded.",
+  "exclusions": "Current source quotes/cash diagnostic are observed source only, not a central-placement copy replay. Unknown inventory never classified as losing.",
+  "own_paths": [
+    "reports/wallet_edge_20261012"
+  ],
+  "created_utc": "2026-10-12T04:25:33.858916+00:00"
+}

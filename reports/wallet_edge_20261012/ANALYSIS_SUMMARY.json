@@ -1,0 +1,2265 @@
+{
+  "source_cutoff": {
+    "commitment": "finalized",
+    "slot": 455910302,
+    "block_time": 1791778325,
+    "utc": "2026-10-12T04:12:05Z",
+    "provider_for_get_slot": "shyft",
+    "provider_for_get_block_time": "shyft",
+    "frozen_at_utc": "2026-10-12T04:12:13Z",
+    "blockTime": 1791778325,
+    "blockTime_utc": "2026-10-12T04:12:05Z"
+  },
+  "entry_prefixes": 455,
+  "wallets": 22,
+  "unique_entry_mints": 393,
+  "scope": "Observed entry states and source execution profiles; exact private rules and transferable profitability undetermined. Mixed fixed-hash cohort origins retained.",
+  "rows": [
+    {
+      "wallet": {
+        "address": "C4JRuZx3nAFGqJ8ZcYuwWhRGxL4N9ZwpsErjfhGqxxAf",
+        "name": "broke bot lol"
+      },
+      "selected_entry_prefixes": 13,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 13
+      },
+      "median_age_seconds": 6,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 14.18116557,
+      "median_curve_sol_input": 0.98765432,
+      "median_observed_prefix_drawdown_pct": 0.0,
+      "median_outside_net_sol_5slots": 4.48854827,
+      "median_recent_unique_buyers": 2,
+      "immediately_previous_trade_side": {
+        "buy": 13
+      },
+      "recent_kol_2slots": 5,
+      "recent_kol_5slots": 5,
+      "observed_completed_cycles": 415,
+      "median_observed_completed_hold_seconds": 61,
+      "subsequent_completed_cycles_same_mint": 0,
+      "subsequent_cycle_share": 0.0,
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 4,
+        "transaction_count": 2856,
+        "status_counts": {
+          "success": 2008,
+          "failed": 848,
+          "unknown": 0
+        },
+        "payer_failed_count": 842,
+        "min_block_time": 1789966352,
+        "max_block_time": 1791778210,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Momentum/near observed highs; recent size differs from longer capture.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 1215000,
+          "median": 2844255.0,
+          "p95_nearest_rank": 11968255,
+          "max": 23105000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 80,
+            "network_fee_lamports": {
+              "n": 80,
+              "min": 54000,
+              "median": 115000.0,
+              "p95_nearest_rank": 11005000,
+              "max": 22005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 80,
+              "min": 1100000,
+              "median": 1100000.0,
+              "p95_nearest_rank": 2000000,
+              "max": 12200000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 80,
+              "min": 1215000,
+              "median": 1215000.0,
+              "p95_nearest_rank": 12105000,
+              "max": 23105000
+            }
+          },
+          "sell": {
+            "n": 120,
+            "network_fee_lamports": {
+              "n": 120,
+              "min": 9334,
+              "median": 11667.0,
+              "p95_nearest_rank": 11667,
+              "max": 11667
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 120,
+              "min": 1489991,
+              "median": 4402999.5,
+              "p95_nearest_rank": 11245681,
+              "max": 13328464
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 120,
+              "min": 1501658,
+              "median": 4414666.5,
+              "p95_nearest_rank": 11257348,
+              "max": 13340131
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+        "name": "Cbot7"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 9.5,
+      "creation_slot_entries": 2,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 8.3911916705,
+      "median_curve_sol_input": 0.4536862735,
+      "median_observed_prefix_drawdown_pct": -2.357595311071048,
+      "median_outside_net_sol_5slots": 3.3360264109999997,
+      "median_recent_unique_buyers": 5.0,
+      "immediately_previous_trade_side": {
+        "buy": 24
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 0,
+      "observed_completed_cycles": 4658,
+      "median_observed_completed_hold_seconds": 11.0,
+      "subsequent_completed_cycles_same_mint": 57,
+      "subsequent_cycle_share": 0.012237011592958352,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 9416,
+          "failed": 584,
+          "unknown": 0
+        },
+        "payer_failed_count": 583,
+        "min_block_time": 1791219126,
+        "max_block_time": 1791778304,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Renewed buy flow: immediately after a buy in 24/24 sampled entries.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 119596,
+          "median": 119596.0,
+          "p95_nearest_rank": 119596,
+          "max": 769836
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 114,
+            "network_fee_lamports": {
+              "n": 114,
+              "min": 9596,
+              "median": 9596.0,
+              "p95_nearest_rank": 9596,
+              "max": 9596
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 110000,
+              "median": 110000.0,
+              "p95_nearest_rank": 110000,
+              "max": 760240
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 119596,
+              "median": 119596.0,
+              "p95_nearest_rank": 119596,
+              "max": 769836
+            }
+          },
+          "sell": {
+            "n": 86,
+            "network_fee_lamports": {
+              "n": 86,
+              "min": 9596,
+              "median": 9596.0,
+              "p95_nearest_rank": 9596,
+              "max": 9596
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 110000,
+              "median": 110000.0,
+              "p95_nearest_rank": 110000,
+              "max": 110000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 119596,
+              "median": 119596.0,
+              "p95_nearest_rank": 119596,
+              "max": 119596
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+        "name": "russianbot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 3.0,
+      "creation_slot_entries": 1,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 8.4389984735,
+      "median_curve_sol_input": 0.09444844050000001,
+      "median_observed_prefix_drawdown_pct": -7.127790758991981,
+      "median_outside_net_sol_5slots": 1.9274632735,
+      "median_recent_unique_buyers": 4.0,
+      "immediately_previous_trade_side": {
+        "buy": 18,
+        "sell": 5,
+        "none": 1
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 0,
+      "observed_completed_cycles": 4255,
+      "median_observed_completed_hold_seconds": 10,
+      "subsequent_completed_cycles_same_mint": 95,
+      "subsequent_cycle_share": 0.022326674500587545,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 8586,
+          "failed": 1414,
+          "unknown": 0
+        },
+        "payer_failed_count": 1414,
+        "min_block_time": 1791567613,
+        "max_block_time": 1791778291,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Small tickets, early flow and shallow pullbacks; brief source holds.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 132443,
+          "median": 159886.0,
+          "p95_nearest_rank": 1059886,
+          "max": 1059886
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 102,
+            "network_fee_lamports": {
+              "n": 102,
+              "min": 59886,
+              "median": 59886.0,
+              "p95_nearest_rank": 59886,
+              "max": 59886
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 102,
+              "min": 100000,
+              "median": 100000.0,
+              "p95_nearest_rank": 1000000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 102,
+              "min": 159886,
+              "median": 159886.0,
+              "p95_nearest_rank": 1059886,
+              "max": 1059886
+            }
+          },
+          "sell": {
+            "n": 98,
+            "network_fee_lamports": {
+              "n": 98,
+              "min": 32443,
+              "median": 32443.0,
+              "p95_nearest_rank": 32443,
+              "max": 32443
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 98,
+              "min": 100000,
+              "median": 100000.0,
+              "p95_nearest_rank": 100000,
+              "max": 100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 98,
+              "min": 132443,
+              "median": 132443.0,
+              "p95_nearest_rank": 132443,
+              "max": 132443
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "85YwZaQa8SATizDxCwZ8z5EpdpLvy5Ub9zp1a3TkaHrL",
+        "name": "snipebot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 1.0,
+      "creation_slot_entries": 3,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 10.5200487545,
+      "median_curve_sol_input": 1.975308641,
+      "median_observed_prefix_drawdown_pct": 0.0,
+      "median_outside_net_sol_5slots": 4.276378606,
+      "median_recent_unique_buyers": 4.0,
+      "immediately_previous_trade_side": {
+        "buy": 22,
+        "sell": 1,
+        "none": 1
+      },
+      "recent_kol_2slots": 3,
+      "recent_kol_5slots": 3,
+      "observed_completed_cycles": 1095,
+      "median_observed_completed_hold_seconds": 1,
+      "subsequent_completed_cycles_same_mint": 13,
+      "subsequent_cycle_share": 0.011872146118721462,
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 8,
+        "transaction_count": 6871,
+        "status_counts": {
+          "success": 3932,
+          "failed": 2939,
+          "unknown": 0
+        },
+        "payer_failed_count": 2935,
+        "min_block_time": 1789966613,
+        "max_block_time": 1791776170,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Early momentum scalp; one-second median completed hold.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 2005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 11105000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 68,
+            "network_fee_lamports": {
+              "n": 68,
+              "min": 5000,
+              "median": 5005000.0,
+              "p95_nearest_rank": 10005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 68,
+              "min": 0,
+              "median": 0.0,
+              "p95_nearest_rank": 10000000,
+              "max": 10000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 68,
+              "min": 105000,
+              "median": 10005000.0,
+              "p95_nearest_rank": 10005000,
+              "max": 10655240
+            }
+          },
+          "sell": {
+            "n": 132,
+            "network_fee_lamports": {
+              "n": 132,
+              "min": 5000,
+              "median": 1005000.0,
+              "p95_nearest_rank": 1005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 132,
+              "min": 0,
+              "median": 550000.0,
+              "p95_nearest_rank": 1000000,
+              "max": 10000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 132,
+              "min": 5000,
+              "median": 1505000.0,
+              "p95_nearest_rank": 2005000,
+              "max": 11105000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+        "name": "nbot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 4,
+        "succeeded_only_21day_history_supplement": 20
+      },
+      "median_age_seconds": 23.5,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 16.2617534405,
+      "median_curve_sol_input": 3.555555555,
+      "median_observed_prefix_drawdown_pct": -7.724844725813745,
+      "median_outside_net_sol_5slots": 4.3789773685,
+      "median_recent_unique_buyers": 5.0,
+      "immediately_previous_trade_side": {
+        "buy": 23,
+        "sell": 1
+      },
+      "recent_kol_2slots": 12,
+      "recent_kol_5slots": 12,
+      "observed_completed_cycles": 9,
+      "median_observed_completed_hold_seconds": 9,
+      "subsequent_completed_cycles_same_mint": 0,
+      "subsequent_cycle_share": 0.0,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 176,
+          "failed": 9824,
+          "unknown": 0
+        },
+        "payer_failed_count": 9824,
+        "min_block_time": 1791771662,
+        "max_block_time": 1791778298,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "KOL-following candidate: recent KOL buy within two slots in 12/24.",
+      "execution_cost_sample": {
+        "sample_n": 57,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 57,
+          "min": 25000,
+          "median": 135000,
+          "p95_nearest_rank": 157905000,
+          "max": 1201005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 11,
+            "network_fee_lamports": {
+              "n": 11,
+              "min": 5000,
+              "median": 1905000,
+              "p95_nearest_rank": 36179700,
+              "max": 36179700
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 11,
+              "min": 0,
+              "median": 110000000,
+              "p95_nearest_rank": 1201000000,
+              "max": 1201000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 11,
+              "min": 4305000,
+              "median": 111905000,
+              "p95_nearest_rank": 1201005000,
+              "max": 1201005000
+            }
+          },
+          "sell": {
+            "n": 46,
+            "network_fee_lamports": {
+              "n": 46,
+              "min": 25000,
+              "median": 25000.0,
+              "p95_nearest_rank": 25000,
+              "max": 25000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 46,
+              "min": 0,
+              "median": 110000.0,
+              "p95_nearest_rank": 110000,
+              "max": 110000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 46,
+              "min": 25000,
+              "median": 135000.0,
+              "p95_nearest_rank": 135000,
+              "max": 135000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "AURAEDwoBtWnqkzUfGQ2CVF53BFU5NoTCt5MeL4C1wPu",
+        "name": "bot12"
+      },
+      "selected_entry_prefixes": 20,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 20
+      },
+      "median_age_seconds": 169.5,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 22.9533726375,
+      "median_curve_sol_input": 1.471259259,
+      "median_observed_prefix_drawdown_pct": -3.662160993924407,
+      "median_outside_net_sol_5slots": 3.607104479,
+      "median_recent_unique_buyers": 3.0,
+      "immediately_previous_trade_side": {
+        "buy": 20
+      },
+      "recent_kol_2slots": 1,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 506,
+      "median_observed_completed_hold_seconds": 25.0,
+      "subsequent_completed_cycles_same_mint": 26,
+      "subsequent_cycle_share": 0.05138339920948617,
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 8130,
+        "status_counts": {
+          "success": 3160,
+          "failed": 4970,
+          "unknown": 0
+        },
+        "payer_failed_count": 4961,
+        "min_block_time": 1789970565,
+        "max_block_time": 1791776599,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Later-stage demand/momentum; wide actual entry reserve distribution.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 705000,
+          "median": 10107614.0,
+          "p95_nearest_rank": 114805000,
+          "max": 330705000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 99,
+            "network_fee_lamports": {
+              "n": 99,
+              "min": 5000,
+              "median": 1955000,
+              "p95_nearest_rank": 54505000,
+              "max": 54505000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 2765000,
+              "median": 15800000,
+              "p95_nearest_rank": 120700000,
+              "max": 320700000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 2965000,
+              "median": 17905000,
+              "p95_nearest_rank": 127705000,
+              "max": 330705000
+            }
+          },
+          "sell": {
+            "n": 101,
+            "network_fee_lamports": {
+              "n": 101,
+              "min": 105000,
+              "median": 1005000,
+              "p95_nearest_rank": 1005000,
+              "max": 1005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 505000,
+              "median": 7644537,
+              "p95_nearest_rank": 23812763,
+              "max": 30664336
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 705000,
+              "median": 8162303,
+              "p95_nearest_rank": 24644066,
+              "max": 31669336
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "4BHBSZA96XCaepYLvmteV6wLqKTqJPyfkME941X5PqHP",
+        "name": "bot"
+      },
+      "selected_entry_prefixes": 4,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 4
+      },
+      "median_age_seconds": 3.0,
+      "creation_slot_entries": 1,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 11.970584564,
+      "median_curve_sol_input": 5.6790123445,
+      "median_observed_prefix_drawdown_pct": -0.8621305487314213,
+      "median_outside_net_sol_5slots": 0.18367261750000008,
+      "median_recent_unique_buyers": 3.0,
+      "immediately_previous_trade_side": {
+        "buy": 4
+      },
+      "recent_kol_2slots": 1,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 63,
+      "median_observed_completed_hold_seconds": 5,
+      "subsequent_completed_cycles_same_mint": 0,
+      "subsequent_cycle_share": 0.0,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 7096,
+          "failed": 2904,
+          "unknown": 0
+        },
+        "payer_failed_count": 1819,
+        "min_block_time": 1791045193,
+        "max_block_time": 1791773789,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Large tickets and extra custody/signers; only four prefix samples.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 1176898,
+          "median": 5587821.0,
+          "p95_nearest_rank": 43977018,
+          "max": 1440505000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 13,
+            "network_fee_lamports": {
+              "n": 13,
+              "min": 107401,
+              "median": 1105000,
+              "p95_nearest_rank": 250005000,
+              "max": 250005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 13,
+              "min": 1000000,
+              "median": 221000000,
+              "p95_nearest_rank": 1440000000,
+              "max": 1440000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 13,
+              "min": 6095283,
+              "median": 222105000,
+              "p95_nearest_rank": 1440505000,
+              "max": 1440505000
+            }
+          },
+          "sell": {
+            "n": 187,
+            "network_fee_lamports": {
+              "n": 187,
+              "min": 11667,
+              "median": 145087,
+              "p95_nearest_rank": 305000,
+              "max": 305000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 187,
+              "min": 871898,
+              "median": 4939938,
+              "p95_nearest_rank": 18493321,
+              "max": 68317010
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 187,
+              "min": 1176898,
+              "median": 5122971,
+              "p95_nearest_rank": 18638408,
+              "max": 68328677
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "8TPkrBcRayR3EJzaxXb87XGmJs9k1U8tdc7wX3GJgw1z",
+        "name": "1 sol bot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 123.0,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 20.6732969515,
+      "median_curve_sol_input": 0.493827159,
+      "median_observed_prefix_drawdown_pct": -19.49619972915243,
+      "median_outside_net_sol_5slots": -1.2270541224999998,
+      "median_recent_unique_buyers": 4.0,
+      "immediately_previous_trade_side": {
+        "sell": 12,
+        "buy": 12
+      },
+      "recent_kol_2slots": 2,
+      "recent_kol_5slots": 4,
+      "observed_completed_cycles": 4228,
+      "median_observed_completed_hold_seconds": 35.0,
+      "subsequent_completed_cycles_same_mint": 2183,
+      "subsequent_cycle_share": 0.5163197729422895,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 8700,
+          "failed": 1300,
+          "unknown": 0
+        },
+        "payer_failed_count": 1290,
+        "min_block_time": 1791154997,
+        "max_block_time": 1791777644,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Mature pullbacks, often after sells; frequent separate re-entries.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 105000,
+          "median": 205000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 97,
+            "network_fee_lamports": {
+              "n": 97,
+              "min": 5000,
+              "median": 5000,
+              "p95_nearest_rank": 1105000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 1100000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 105000,
+              "median": 1105000,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            }
+          },
+          "sell": {
+            "n": 103,
+            "network_fee_lamports": {
+              "n": 103,
+              "min": 105000,
+              "median": 105000,
+              "p95_nearest_rank": 105000,
+              "max": 105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 100000,
+              "max": 100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 105000,
+              "median": 205000,
+              "p95_nearest_rank": 205000,
+              "max": 205000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "4yFAz7dp5WwuZs3vbWKedbRiUmSFxTVGCdsLAxfEQrG3",
+        "name": "Snippebot"
+      },
+      "selected_entry_prefixes": 17,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 17
+      },
+      "median_age_seconds": 0,
+      "creation_slot_entries": 16,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 2.804046877,
+      "median_curve_sol_input": 2.069700929,
+      "median_observed_prefix_drawdown_pct": 0.0,
+      "median_outside_net_sol_5slots": 0.790123455,
+      "median_recent_unique_buyers": 1,
+      "immediately_previous_trade_side": {
+        "buy": 17
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 0,
+      "observed_completed_cycles": 377,
+      "median_observed_completed_hold_seconds": 3,
+      "subsequent_completed_cycles_same_mint": 3,
+      "subsequent_cycle_share": 0.007957559681697613,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 1675,
+          "failed": 8325,
+          "unknown": 0
+        },
+        "payer_failed_count": 7926,
+        "min_block_time": 1791578499,
+        "max_block_time": 1791778294,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Creation-slot entry in 16/17; short holds and frequent partial exits.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 105000,
+          "median": 205000.0,
+          "p95_nearest_rank": 140005000,
+          "max": 900005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 53,
+            "network_fee_lamports": {
+              "n": 53,
+              "min": 5000,
+              "median": 10005000,
+              "p95_nearest_rank": 180005000,
+              "max": 250005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 53,
+              "min": 0,
+              "median": 1300000,
+              "p95_nearest_rank": 180000000,
+              "max": 899900000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 53,
+              "min": 105000,
+              "median": 15655240,
+              "p95_nearest_rank": 250005000,
+              "max": 900005000
+            }
+          },
+          "sell": {
+            "n": 147,
+            "network_fee_lamports": {
+              "n": 147,
+              "min": 25000,
+              "median": 105000,
+              "p95_nearest_rank": 1105000,
+              "max": 1105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 147,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 1100000,
+              "max": 1750240
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 147,
+              "min": 105000,
+              "median": 205000,
+              "p95_nearest_rank": 2205000,
+              "max": 2855240
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "8dtx2tr4TuJsYpri2suggFu1pg3DVjFLBBVmhtDy1MEF",
+        "name": "Bottom Bidder"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 104.5,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 8.466923896499999,
+      "median_curve_sol_input": 0.562714208,
+      "median_observed_prefix_drawdown_pct": -10.459470453854886,
+      "median_outside_net_sol_5slots": 1.1030056190000002,
+      "median_recent_unique_buyers": 2.0,
+      "immediately_previous_trade_side": {
+        "buy": 23,
+        "sell": 1
+      },
+      "recent_kol_2slots": 1,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 4524,
+      "median_observed_completed_hold_seconds": 14.0,
+      "subsequent_completed_cycles_same_mint": 854,
+      "subsequent_cycle_share": 0.1887709991158267,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 9649,
+          "failed": 351,
+          "unknown": 0
+        },
+        "payer_failed_count": 350,
+        "min_block_time": 1791076946,
+        "max_block_time": 1791778260,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Mature pullback followed by renewed buying, not blind sell catching.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 430243,
+          "median": 1941787.0,
+          "p95_nearest_rank": 2036432,
+          "max": 2037648
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 104,
+            "network_fee_lamports": {
+              "n": 104,
+              "min": 461797,
+              "median": 908807.0,
+              "p95_nearest_rank": 912869,
+              "max": 913243
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 104,
+              "min": 0,
+              "median": 1030000.0,
+              "p95_nearest_rank": 1030100,
+              "max": 1030100
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 104,
+              "min": 462378,
+              "median": 1938499.0,
+              "p95_nearest_rank": 1942869,
+              "max": 1943310
+            }
+          },
+          "sell": {
+            "n": 96,
+            "network_fee_lamports": {
+              "n": 96,
+              "min": 427969,
+              "median": 1000965.0,
+              "p95_nearest_rank": 1007648,
+              "max": 1007648
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 96,
+              "min": 0,
+              "median": 1030000.0,
+              "p95_nearest_rank": 1030000,
+              "max": 1030100
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 96,
+              "min": 430243,
+              "median": 2030358.0,
+              "p95_nearest_rank": 2037648,
+              "max": 2037648
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+        "name": "bottty"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 25.0,
+      "creation_slot_entries": 1,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 9.038272475500001,
+      "median_curve_sol_input": 0.98765432,
+      "median_observed_prefix_drawdown_pct": -19.03557663219571,
+      "median_outside_net_sol_5slots": 0.35031023250000004,
+      "median_recent_unique_buyers": 3.0,
+      "immediately_previous_trade_side": {
+        "buy": 11,
+        "sell": 13
+      },
+      "recent_kol_2slots": 1,
+      "recent_kol_5slots": 2,
+      "observed_completed_cycles": 4301,
+      "median_observed_completed_hold_seconds": 5,
+      "subsequent_completed_cycles_same_mint": 1743,
+      "subsequent_cycle_share": 0.40525459195535923,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 8783,
+          "failed": 1217,
+          "unknown": 0
+        },
+        "payer_failed_count": 1214,
+        "min_block_time": 1791339002,
+        "max_block_time": 1791778273,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Pullback/sell-response scalps; frequent re-entries.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 205000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 86,
+            "network_fee_lamports": {
+              "n": 86,
+              "min": 5000,
+              "median": 105000.0,
+              "p95_nearest_rank": 1105000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 0,
+              "median": 100000.0,
+              "p95_nearest_rank": 1100000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 5000,
+              "median": 1105000.0,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            }
+          },
+          "sell": {
+            "n": 114,
+            "network_fee_lamports": {
+              "n": 114,
+              "min": 104000,
+              "median": 105000.0,
+              "p95_nearest_rank": 105000,
+              "max": 105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 0,
+              "median": 100000.0,
+              "p95_nearest_rank": 100000,
+              "max": 1100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 105000,
+              "median": 205000.0,
+              "p95_nearest_rank": 205000,
+              "max": 1204000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "bcnzSs3F6F3MG7utvEQHpd8A53nRBM8ZM4TfEs2Zmcp",
+        "name": "bottimus"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "payer_linked_child_event_user_recent250": 24
+      },
+      "median_age_seconds": 479.5,
+      "creation_slot_entries": 2,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 6.6851391525,
+      "median_curve_sol_input": 0.98765432,
+      "median_observed_prefix_drawdown_pct": -20.417547621296745,
+      "median_outside_net_sol_5slots": 2.3551923649999997,
+      "median_recent_unique_buyers": 3.0,
+      "immediately_previous_trade_side": {
+        "buy": 24
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 0,
+      "observed_completed_cycles": 2755,
+      "median_observed_completed_hold_seconds": 50,
+      "subsequent_completed_cycles_same_mint": 248,
+      "subsequent_cycle_share": 0.09001814882032667,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 9473,
+          "failed": 527,
+          "unknown": 0
+        },
+        "payer_failed_count": 526,
+        "min_block_time": 1791370058,
+        "max_block_time": 1791778243,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Controller funds 12 trading signers; older recovery entries and partial exits.",
+      "execution_cost_sample": {
+        "sample_n": 0,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": null,
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          },
+          "sell": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+        "name": "asdasd"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 40.5,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 8.681091713999999,
+      "median_curve_sol_input": 0.98765432,
+      "median_observed_prefix_drawdown_pct": -21.428048884929584,
+      "median_outside_net_sol_5slots": 0.9827160484999999,
+      "median_recent_unique_buyers": 2.5,
+      "immediately_previous_trade_side": {
+        "sell": 13,
+        "buy": 11
+      },
+      "recent_kol_2slots": 2,
+      "recent_kol_5slots": 2,
+      "observed_completed_cycles": 4332,
+      "median_observed_completed_hold_seconds": 6.0,
+      "subsequent_completed_cycles_same_mint": 1773,
+      "subsequent_cycle_share": 0.4092797783933518,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 8832,
+          "failed": 1168,
+          "unknown": 0
+        },
+        "payer_failed_count": 1166,
+        "min_block_time": 1791328675,
+        "max_block_time": 1791778205,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Pullback/sell-response scalps; frequent re-entries.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 205000.0,
+          "p95_nearest_rank": 1105000,
+          "max": 4005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 95,
+            "network_fee_lamports": {
+              "n": 95,
+              "min": 5000,
+              "median": 1005000,
+              "p95_nearest_rank": 1105000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 95,
+              "min": 0,
+              "median": 0,
+              "p95_nearest_rank": 1100000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 95,
+              "min": 5000,
+              "median": 1105000,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            }
+          },
+          "sell": {
+            "n": 105,
+            "network_fee_lamports": {
+              "n": 105,
+              "min": 25000,
+              "median": 105000,
+              "p95_nearest_rank": 105000,
+              "max": 1105000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 105,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 100000,
+              "max": 1100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 105,
+              "min": 25000,
+              "median": 205000,
+              "p95_nearest_rank": 205000,
+              "max": 1204000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "7ovu7sqYQGcHwUnLfVfwjCx5VGBCiJmBrsrBv2ab1Ltx",
+        "name": "bot"
+      },
+      "selected_entry_prefixes": 15,
+      "sample_sources": {
+        "succeeded_only_21day_history_supplement": 15
+      },
+      "median_age_seconds": 33,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 25.091621517,
+      "median_curve_sol_input": 4.444444443,
+      "median_observed_prefix_drawdown_pct": 0.0,
+      "median_outside_net_sol_5slots": 5.652701317,
+      "median_recent_unique_buyers": 6,
+      "immediately_previous_trade_side": {
+        "buy": 14,
+        "sell": 1
+      },
+      "recent_kol_2slots": 8,
+      "recent_kol_5slots": 8,
+      "observed_completed_cycles": 0,
+      "median_observed_completed_hold_seconds": null,
+      "subsequent_completed_cycles_same_mint": 0,
+      "subsequent_cycle_share": null,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 29,
+          "failed": 9971,
+          "unknown": 0
+        },
+        "payer_failed_count": 9971,
+        "min_block_time": 1791776581,
+        "max_block_time": 1791778286,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Strong wallet-following clue: named holder present in 15/15 buy receipts.",
+      "execution_cost_sample": {
+        "sample_n": 7,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 7,
+          "min": 85000,
+          "median": 85000,
+          "p95_nearest_rank": 4005700,
+          "max": 4005700
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 1,
+            "network_fee_lamports": {
+              "n": 1,
+              "min": 5700,
+              "median": 5700,
+              "p95_nearest_rank": 5700,
+              "max": 5700
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 1,
+              "min": 4000000,
+              "median": 4000000,
+              "p95_nearest_rank": 4000000,
+              "max": 4000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 1,
+              "min": 4005700,
+              "median": 4005700,
+              "p95_nearest_rank": 4005700,
+              "max": 4005700
+            }
+          },
+          "sell": {
+            "n": 6,
+            "network_fee_lamports": {
+              "n": 6,
+              "min": 35000,
+              "median": 35000.0,
+              "p95_nearest_rank": 35000,
+              "max": 35000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 6,
+              "min": 50000,
+              "median": 50000.0,
+              "p95_nearest_rank": 50000,
+              "max": 50000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 6,
+              "min": 85000,
+              "median": 85000.0,
+              "p95_nearest_rank": 85000,
+              "max": 85000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "BuekUk3YMmm7Agnb4ni1qMCmShVpeBTdQZYNyihyzr7u",
+        "name": "insane bot"
+      },
+      "selected_entry_prefixes": 2,
+      "sample_sources": {
+        "succeeded_only_21day_history_supplement": 2
+      },
+      "median_age_seconds": 92.5,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 14.192052518499999,
+      "median_curve_sol_input": 3.456790122,
+      "median_observed_prefix_drawdown_pct": -1.6973466651000357,
+      "median_outside_net_sol_5slots": 7.3726609100000005,
+      "median_recent_unique_buyers": 3.5,
+      "immediately_previous_trade_side": {
+        "buy": 2
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 0,
+      "observed_completed_cycles": 0,
+      "median_observed_completed_hold_seconds": null,
+      "subsequent_completed_cycles_same_mint": 0,
+      "subsequent_cycle_share": null,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 764,
+          "failed": 9236,
+          "unknown": 0
+        },
+        "payer_failed_count": 9182,
+        "min_block_time": 1791777112,
+        "max_block_time": 1791778324,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "KOL account references in custom program; only two successful buy prefixes.",
+      "execution_cost_sample": {
+        "sample_n": 0,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": null,
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          },
+          "sell": {
+            "n": 0,
+            "network_fee_lamports": null,
+            "adjusted_residual_outflow_lamports": null,
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": null
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "5DC3tMyFSXeujJn9KWnh1MkM8QCgXXm2tDEGpjhcwFck",
+        "name": "bot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 1.0,
+      "creation_slot_entries": 3,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 8.9860181735,
+      "median_curve_sol_input": 1.975308641,
+      "median_observed_prefix_drawdown_pct": 0.0,
+      "median_outside_net_sol_5slots": 3.313133744,
+      "median_recent_unique_buyers": 5.0,
+      "immediately_previous_trade_side": {
+        "buy": 24
+      },
+      "recent_kol_2slots": 1,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 1163,
+      "median_observed_completed_hold_seconds": 1,
+      "subsequent_completed_cycles_same_mint": 7,
+      "subsequent_cycle_share": 0.0060189165950128975,
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 9,
+        "transaction_count": 7009,
+        "status_counts": {
+          "success": 3884,
+          "failed": 3125,
+          "unknown": 0
+        },
+        "payer_failed_count": 3120,
+        "min_block_time": 1789972840,
+        "max_block_time": 1791778085,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Very early momentum scalp; one-second median completed hold.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 5000,
+          "median": 2005000.0,
+          "p95_nearest_rank": 10005000,
+          "max": 11105000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 99,
+            "network_fee_lamports": {
+              "n": 99,
+              "min": 5000,
+              "median": 5005000,
+              "p95_nearest_rank": 10005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 0,
+              "median": 0,
+              "p95_nearest_rank": 10000000,
+              "max": 10650240
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 99,
+              "min": 105000,
+              "median": 10005000,
+              "p95_nearest_rank": 10005000,
+              "max": 10655240
+            }
+          },
+          "sell": {
+            "n": 101,
+            "network_fee_lamports": {
+              "n": 101,
+              "min": 5000,
+              "median": 1005000,
+              "p95_nearest_rank": 1005000,
+              "max": 10005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 0,
+              "median": 100000,
+              "p95_nearest_rank": 1000000,
+              "max": 10000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 101,
+              "min": 5000,
+              "median": 1005000,
+              "p95_nearest_rank": 2005000,
+              "max": 11105000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "Fhbh1DTUDKt6qu9zVg8Q5VgnZa1WWWbxBxG6pCoJoggA",
+        "name": "boooooot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 2,
+        "succeeded_only_21day_history_supplement": 22
+      },
+      "median_age_seconds": 109.0,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 14.422393680999999,
+      "median_curve_sol_input": 3.950617283,
+      "median_observed_prefix_drawdown_pct": -14.934566169950475,
+      "median_outside_net_sol_5slots": 2.2866033555,
+      "median_recent_unique_buyers": 2.0,
+      "immediately_previous_trade_side": {
+        "sell": 2,
+        "buy": 22
+      },
+      "recent_kol_2slots": 12,
+      "recent_kol_5slots": 12,
+      "observed_completed_cycles": 17,
+      "median_observed_completed_hold_seconds": 14,
+      "subsequent_completed_cycles_same_mint": 3,
+      "subsequent_cycle_share": 0.17647058823529413,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 1663,
+          "failed": 8337,
+          "unknown": 0
+        },
+        "payer_failed_count": 8271,
+        "min_block_time": 1791748232,
+        "max_block_time": 1791778302,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "KOL-following candidate: recent KOL buy within two slots in 12/24.",
+      "execution_cost_sample": {
+        "sample_n": 104,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 104,
+          "min": 105000,
+          "median": 205000.0,
+          "p95_nearest_rank": 90005000,
+          "max": 400005000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 16,
+            "network_fee_lamports": {
+              "n": 16,
+              "min": 5000,
+              "median": 4005000.0,
+              "p95_nearest_rank": 40005000,
+              "max": 40005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 16,
+              "min": 0,
+              "median": 0.0,
+              "p95_nearest_rank": 400000000,
+              "max": 400000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 16,
+              "min": 4005000,
+              "median": 40005000.0,
+              "p95_nearest_rank": 400005000,
+              "max": 400005000
+            }
+          },
+          "sell": {
+            "n": 88,
+            "network_fee_lamports": {
+              "n": 88,
+              "min": 25000,
+              "median": 105000.0,
+              "p95_nearest_rank": 1105000,
+              "max": 5005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 88,
+              "min": 0,
+              "median": 100000.0,
+              "p95_nearest_rank": 1100000,
+              "max": 1100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 88,
+              "min": 105000,
+              "median": 205000.0,
+              "p95_nearest_rank": 2205000,
+              "max": 6105000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "9QbcuwBLEDXKgJLx6rJKMnYfeXmTovBPzUmkAu9s4a19",
+        "name": "cbot14"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 7.5,
+      "creation_slot_entries": 2,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 13.383674364,
+      "median_curve_sol_input": 0.9208893250000001,
+      "median_observed_prefix_drawdown_pct": -16.25860891413431,
+      "median_outside_net_sol_5slots": -0.9542863835,
+      "median_recent_unique_buyers": 4.5,
+      "immediately_previous_trade_side": {
+        "buy": 20,
+        "sell": 4
+      },
+      "recent_kol_2slots": 5,
+      "recent_kol_5slots": 6,
+      "observed_completed_cycles": 319,
+      "median_observed_completed_hold_seconds": 7,
+      "subsequent_completed_cycles_same_mint": 9,
+      "subsequent_cycle_share": 0.02821316614420063,
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 3,
+        "transaction_count": 1882,
+        "status_counts": {
+          "success": 1671,
+          "failed": 211,
+          "unknown": 0
+        },
+        "payer_failed_count": 211,
+        "min_block_time": 1789989473,
+        "max_block_time": 1791761142,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Early sell-pressure/recovery entries; some adds and partial exits.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 2049928,
+          "median": 20805000.0,
+          "p95_nearest_rank": 50055800,
+          "max": 79237080
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 86,
+            "network_fee_lamports": {
+              "n": 86,
+              "min": 0,
+              "median": 9005000.0,
+              "p95_nearest_rank": 9005000,
+              "max": 12205000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 2459354,
+              "median": 21000000.0,
+              "p95_nearest_rank": 52500000,
+              "max": 67032080
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 86,
+              "min": 3864354,
+              "median": 28911156.0,
+              "p95_nearest_rank": 64705000,
+              "max": 79237080
+            }
+          },
+          "sell": {
+            "n": 114,
+            "network_fee_lamports": {
+              "n": 114,
+              "min": 1005000,
+              "median": 1005000.0,
+              "p95_nearest_rank": 4005000,
+              "max": 4005000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 1044928,
+              "median": 14989575.5,
+              "p95_nearest_rank": 32069604,
+              "max": 55854783
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 114,
+              "min": 2049928,
+              "median": 17493566.5,
+              "p95_nearest_rank": 35953959,
+              "max": 59859783
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+        "name": "Botty"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 56.0,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 9.666353144,
+      "median_curve_sol_input": 0.8844895564999999,
+      "median_observed_prefix_drawdown_pct": -23.924258506955464,
+      "median_outside_net_sol_5slots": 0.8583132025,
+      "median_recent_unique_buyers": 2.5,
+      "immediately_previous_trade_side": {
+        "buy": 22,
+        "sell": 2
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 4246,
+      "median_observed_completed_hold_seconds": 8.0,
+      "subsequent_completed_cycles_same_mint": 1911,
+      "subsequent_cycle_share": 0.45007065473386715,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 8593,
+          "failed": 1407,
+          "unknown": 0
+        },
+        "payer_failed_count": 1407,
+        "min_block_time": 1791676006,
+        "max_block_time": 1791778282,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Recovery buyers at substantial observed drawdown; variable tickets and re-entries.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 123888,
+          "median": 215000.0,
+          "p95_nearest_rank": 1323888,
+          "max": 1323888
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 103,
+            "network_fee_lamports": {
+              "n": 103,
+              "min": 123888,
+              "median": 123888,
+              "p95_nearest_rank": 123888,
+              "max": 123888
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 0,
+              "median": 1200000,
+              "p95_nearest_rank": 1200000,
+              "max": 1200000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 103,
+              "min": 123888,
+              "median": 1323888,
+              "p95_nearest_rank": 1323888,
+              "max": 1323888
+            }
+          },
+          "sell": {
+            "n": 97,
+            "network_fee_lamports": {
+              "n": 97,
+              "min": 115000,
+              "median": 115000,
+              "p95_nearest_rank": 115000,
+              "max": 115000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 100000,
+              "median": 100000,
+              "p95_nearest_rank": 100000,
+              "max": 100000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 97,
+              "min": 215000,
+              "median": 215000,
+              "p95_nearest_rank": 215000,
+              "max": 215000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "72MUPELEkUU5riN8ZPdfVssXWC6L8EViZ9FybHEmqT6J",
+        "name": "1sol bot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 17.5,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 7.1298484255000005,
+      "median_curve_sol_input": 0.98765432,
+      "median_observed_prefix_drawdown_pct": -18.733699238683183,
+      "median_outside_net_sol_5slots": -0.799630171,
+      "median_recent_unique_buyers": 5.5,
+      "immediately_previous_trade_side": {
+        "buy": 9,
+        "sell": 15
+      },
+      "recent_kol_2slots": 3,
+      "recent_kol_5slots": 4,
+      "observed_completed_cycles": 1797,
+      "median_observed_completed_hold_seconds": 26,
+      "subsequent_completed_cycles_same_mint": 100,
+      "subsequent_cycle_share": 0.05564830272676683,
+      "coverage": {
+        "status": "complete",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 6,
+        "transaction_count": 4014,
+        "status_counts": {
+          "success": 3722,
+          "failed": 292,
+          "unknown": 0
+        },
+        "payer_failed_count": 290,
+        "min_block_time": 1791601598,
+        "max_block_time": 1791778272,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Sell-response pullbacks; near-constant gross one-SOL sizing.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 1090000,
+          "median": 1090000.0,
+          "p95_nearest_rank": 1090000,
+          "max": 1090000
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 109,
+            "network_fee_lamports": {
+              "n": 109,
+              "min": 90000,
+              "median": 90000,
+              "p95_nearest_rank": 90000,
+              "max": 90000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 109,
+              "min": 1000000,
+              "median": 1000000,
+              "p95_nearest_rank": 1000000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 109,
+              "min": 1090000,
+              "median": 1090000,
+              "p95_nearest_rank": 1090000,
+              "max": 1090000
+            }
+          },
+          "sell": {
+            "n": 91,
+            "network_fee_lamports": {
+              "n": 91,
+              "min": 90000,
+              "median": 90000,
+              "p95_nearest_rank": 90000,
+              "max": 90000
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 91,
+              "min": 1000000,
+              "median": 1000000,
+              "p95_nearest_rank": 1000000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 91,
+              "min": 1090000,
+              "median": 1090000,
+              "p95_nearest_rank": 1090000,
+              "max": 1090000
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "haqqiUUXB5gp7gDbSjpEkw3phAjQb25r86uXJsZQgWq",
+        "name": "bot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "frozen_latest_250_receipts": 24
+      },
+      "median_age_seconds": 7.0,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 3.1248187695,
+      "median_curve_sol_input": 0.740740739,
+      "median_observed_prefix_drawdown_pct": -13.014918240039197,
+      "median_outside_net_sol_5slots": -1.2246082165,
+      "median_recent_unique_buyers": 0.5,
+      "immediately_previous_trade_side": {
+        "sell": 14,
+        "buy": 8,
+        "none": 2
+      },
+      "recent_kol_2slots": 0,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 3875,
+      "median_observed_completed_hold_seconds": 25,
+      "subsequent_completed_cycles_same_mint": 898,
+      "subsequent_cycle_share": 0.23174193548387098,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 9279,
+          "failed": 721,
+          "unknown": 0
+        },
+        "payer_failed_count": 721,
+        "min_block_time": 1791674995,
+        "max_block_time": 1791778314,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Low-reserve sell-response; observed adds and staged sales.",
+      "execution_cost_sample": {
+        "sample_n": 200,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 200,
+          "min": 16969,
+          "median": 217022.0,
+          "p95_nearest_rank": 325029,
+          "max": 1016982
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 93,
+            "network_fee_lamports": {
+              "n": 93,
+              "min": 16967,
+              "median": 124976,
+              "p95_nearest_rank": 125031,
+              "max": 125038
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 93,
+              "min": 0,
+              "median": 200000,
+              "p95_nearest_rank": 200000,
+              "max": 200000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 93,
+              "min": 16969,
+              "median": 217025,
+              "p95_nearest_rank": 325030,
+              "max": 325038
+            }
+          },
+          "sell": {
+            "n": 107,
+            "network_fee_lamports": {
+              "n": 107,
+              "min": 16923,
+              "median": 17031,
+              "p95_nearest_rank": 125026,
+              "max": 125035
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 107,
+              "min": 0,
+              "median": 200000,
+              "p95_nearest_rank": 200000,
+              "max": 1000000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 107,
+              "min": 16971,
+              "median": 217022,
+              "p95_nearest_rank": 325024,
+              "max": 1016982
+            }
+          }
+        }
+      }
+    },
+    {
+      "wallet": {
+        "address": "94iQuYjVgTwGXxtM7ywfpzfLvx3gN4oQRuc9osRE2pEm",
+        "name": "Bot"
+      },
+      "selected_entry_prefixes": 24,
+      "sample_sources": {
+        "succeeded_only_21day_history_supplement": 24
+      },
+      "median_age_seconds": 6.0,
+      "creation_slot_entries": 0,
+      "creator_entry_count": 0,
+      "median_pre_real_sol": 23.1170596745,
+      "median_curve_sol_input": 0.98765432,
+      "median_observed_prefix_drawdown_pct": -14.536154363374916,
+      "median_outside_net_sol_5slots": -2.7833125895,
+      "median_recent_unique_buyers": 6.5,
+      "immediately_previous_trade_side": {
+        "buy": 9,
+        "sell": 13,
+        "none": 2
+      },
+      "recent_kol_2slots": 1,
+      "recent_kol_5slots": 1,
+      "observed_completed_cycles": 21,
+      "median_observed_completed_hold_seconds": 1,
+      "subsequent_completed_cycles_same_mint": 13,
+      "subsequent_cycle_share": 0.6190476190476191,
+      "coverage": {
+        "status": "truncated_page_cap",
+        "full_rows_verified": true,
+        "source_rows_status": "full_transaction_and_meta",
+        "page_count": 10,
+        "transaction_count": 10000,
+        "status_counts": {
+          "success": 95,
+          "failed": 9905,
+          "unknown": 0
+        },
+        "payer_failed_count": 9905,
+        "min_block_time": 1791754651,
+        "max_block_time": 1791777603,
+        "missing_block_time_count": 0,
+        "out_of_requested_window_count": 0
+      },
+      "clue": "Rapid sell-response/custom execution; sparse recovered full cycles.",
+      "execution_cost_sample": {
+        "sample_n": 24,
+        "observed_network_fee_plus_adjusted_residual_outflow_lamports": {
+          "n": 24,
+          "min": 11833,
+          "median": 2668095.0,
+          "p95_nearest_rank": 5984049,
+          "max": 7230444
+        },
+        "observed_overhead_by_trade_side": {
+          "buy": {
+            "n": 12,
+            "network_fee_lamports": {
+              "n": 12,
+              "min": 11636,
+              "median": 18605.5,
+              "p95_nearest_rank": 33011,
+              "max": 33011
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 0,
+              "median": 0.0,
+              "p95_nearest_rank": 4500000,
+              "max": 4500000
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 11833,
+              "median": 25339.5,
+              "p95_nearest_rank": 4518443,
+              "max": 4518443
+            }
+          },
+          "sell": {
+            "n": 12,
+            "network_fee_lamports": {
+              "n": 12,
+              "min": 7802,
+              "median": 21998.0,
+              "p95_nearest_rank": 38125,
+              "max": 38125
+            },
+            "adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 1389333,
+              "median": 2704504.5,
+              "p95_nearest_rank": 7206821,
+              "max": 7206821
+            },
+            "paired_network_fee_plus_adjusted_residual_outflow_lamports": {
+              "n": 12,
+              "min": 1415429,
+              "median": 2724900.0,
+              "p95_nearest_rank": 7230444,
+              "max": 7230444
+            }
+          }
+        }
+      }
+    }
+  ]
+}

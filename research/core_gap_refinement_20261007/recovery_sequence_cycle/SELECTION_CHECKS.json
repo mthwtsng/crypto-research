@@ -1,0 +1,24 @@
+[
+  {
+    "window": "earlier",
+    "baseline_dips": 19,
+    "selection": {
+      "first_buy": 10,
+      "second_event": 11,
+      "two_buy_groups": 8
+    },
+    "prefix_checks": 29,
+    "first_buy_parity": true
+  },
+  {
+    "window": "later",
+    "baseline_dips": 43,
+    "selection": {
+      "first_buy": 26,
+      "second_event": 29,
+      "two_buy_groups": 21
+    },
+    "prefix_checks": 76,
+    "first_buy_parity": true
+  }
+]

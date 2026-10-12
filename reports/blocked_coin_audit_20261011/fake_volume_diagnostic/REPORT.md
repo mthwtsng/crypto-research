@@ -1,0 +1,27 @@
+# Frozen fake-volume pattern diagnostic
+
+Cutoff: **2026-10-11 22:25:33.517 UTC**, VM ghost-v2-20261011T220021. Inputs are the frozen observations_slim.jsonl and candidate_rows.jsonl snapshots. This is descriptive receipt research only, with no strategy replay, PnL, classifier, or live-filter recommendation.
+
+## What was measured
+
+The universe view includes only mints whose creation was observed in this session. The first crossing is the first complete receipt whose **last event for that mint** leaves real curve SOL reserve at or above 16 SOL. Spot/reserve paths use only the last same-mint event in each complete receipt, so an intermediate trade in a bundled receipt cannot create a fictional executable peak or collapse. The prior 10-second volume features retain all supported native-SOL trade events in each complete receipt through the crossing. Gross buy/sell churn includes creator trades; buyer concentration and meaningful buyer count exclude the event creator. Candidate windows use the first creation-observed S2/S4 source candidate per mint-family and the same 10-second features.
+
+Labels are receive-order curve-tape descriptions over 120 seconds: a rise-then-collapse requires observed spot to reach 1.25x the anchor and later fall 80% from the running observed peak; the comparison proxy reaches 1.5x without that observed spot drawdown. The proxy does not mean stable or profitable. Graduation before 120 seconds, recent anchors, and no post-anchor receipt are kept censored/descriptive. A second independent outcome is a **90% drawdown in real curve SOL reserve from its running post-anchor peak**. That is state evidence, not executable exit liquidity or PnL. No post-migration AMM tape is present.
+
+## Results
+
+Among **77 first 16-SOL crossings** from 1,055 creation-observed mints: 4 showed the specified spot rise-then-collapse; 20 met the curve-tape comparison proxy; 35 were other observed paths; 3 graduated before the horizon; 7 lacked the full 120-second follow-up; and 8 had no post-cross receipt. Another 716 creation-observed mints never crossed 16 SOL; 233 had no trade event and 29 had no supported native-SOL trade after creation. The four spot-collapse windows were highly concentrated: median meaningful outside buyers was **1**, and median top-three and largest-second buy-volume shares were both **100%**. This is a descriptive signature for this tiny launch-collapse subset, not evidence that the wallets were bots.
+
+The entry-shaped view has **27 mint-family anchors** selected from 15 S2 and 47 S4 creation-observed candidate rows; after censoring two recent anchors, 25 have 120-second observation windows. Five reached 1.5x without an observed 80% spot drawdown, while 20 were other observed paths. There were no spot rise-then-collapse labels in this small candidate subset.
+
+The separate reserve-state outcome changes the picture: **6 of those 25** had an observed >=90% real-reserve drawdown, although all six had less than an 80% observed spot drawdown. Comparing those six with the 19 without such a reserve drain, the 10-second features did not cleanly separate the groups: meaningful-buyer medians were **8 vs 10**, top-three buyer-volume shares **63.8% vs 61.9%**, repeat-buyer volume-share median **0% in both**, and modal ticket-bin event shares **17.4% vs 20.0%**. Gross sell/buy churn was **8.7% vs 43.1%** (drain vs no drain), so a simple high-retention / low-sell rule would have pointed the wrong way for this observed subset. Largest one-second buy shares were **35.7% vs 64.7%**; receipt timing is not calibrated enough to treat that as a reliable structural feature. These small samples overlap substantially and do not support a tuned rule.
+
+A concrete false negative for concentration-only screening is S4 mint 2UCyAN8NgEdkYFEaegTTrBimny7QoxuDVBB9XPHXpump: its candidate window had **17 meaningful outside buyers** and top-three share **38.9%**, yet subsequent observed real curve reserve fell **99.45%** from its running peak while the maximum spot drawdown was only **66.8%**. S4 mint 9eMrj377cqRqr9nRddwWPsLPVmBJhUKxgp3aWhuapump likewise had a **99.95%** reserve drawdown with **10** meaningful buyers and a **73.9%** spot drawdown. Those paths show why spot-only collapse labels and simplistic wallet-concentration heuristics can miss severe curve-reserve depletion; they do not establish artificial volume.
+
+The same 5UC38iV4AJexEXMAH1VZZT9r9DXz1yxdqFfUcWbJWMVB appears in two family anchors: its earlier S2 10-second window had 3 meaningful buyers and 98.6% top-three share; the later S4 window had 15 buyers and 39.0% top-three share. A single static concentration cutoff would classify the same coin differently as its flow broadened, illustrating the false-positive risk of treating an early snapshot as a permanent identity.
+
+## Limits and artifacts
+
+All timings and path labels use provider receive/file order. The global receipt stream has 6,381 same-slot transaction-index inversions, all across different mints; the per-mint path audit found none. Fine receive-time spacing remains uncalibrated. Receipt-derived buyer addresses are not independent people; observed creator trade residuals omit transfers and seeded inventory. Sparse receipts do not prove a quiet or rug-free interval. These patterns cannot identify bot control, fake volume, common ownership, or organic participation.
+
+Artifacts: analyze.py, candidate_windows.py, crossings.csv, candidate_windows.csv, summary.json, and candidate_summary.json in this directory.

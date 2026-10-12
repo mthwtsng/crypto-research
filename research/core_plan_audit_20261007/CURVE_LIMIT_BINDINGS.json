@@ -1,0 +1,73 @@
+{
+  "audits": [
+    {
+      "mint": "1vVNUWXprqSjhEjhrg6C9moZLwp4efDaF86Gh4HHLs",
+      "bound_trades": 75
+    },
+    {
+      "mint": "2CCjUsxXyKMPHi29NQW5ihV1bnA5J1sAffHSt6fujE7z",
+      "bound_trades": 34
+    },
+    {
+      "mint": "4LuGz5HmKsZi5ryDU9LcTH71J6K4rHWa5igotsjLpump",
+      "bound_trades": 56
+    },
+    {
+      "mint": "4YWHQyDt8t2KqeBhaJT7Q8XcC8sGUqJV58wUQg7Qpump",
+      "bound_trades": 18
+    },
+    {
+      "mint": "5pX6x7SErdk7QyMsytDX85CXSeYBspuCpKTEy5wAcygR",
+      "bound_trades": 63
+    },
+    {
+      "mint": "7cKYt3z7htdDTJiUmrLcn9jC9ZqFBSymnVXRpdLopump",
+      "bound_trades": 87
+    },
+    {
+      "mint": "8ooCS78TjFYh2c2rzFi2tFfoZ4BEUXtsg1jQYEeFu4dN",
+      "bound_trades": 28
+    },
+    {
+      "mint": "AtPR2zYhKdmP3BuPACx8hqpkFmoQam8P9vimvmHupump",
+      "bound_trades": 117
+    },
+    {
+      "mint": "B2cHLXt6GtDKmqYeyi6gHnftjRbGUyC3DpvjpqGLbsaC",
+      "bound_trades": 22
+    },
+    {
+      "mint": "BqKtSwVLopuoQtug1QPZ8uwRqEwe18Yc55CGKRthpump",
+      "bound_trades": 109
+    },
+    {
+      "mint": "Cb8E7jxUsbmqQYHF9J51G5nc9tKj18whkrMXMLEVQ36K",
+      "bound_trades": 124
+    },
+    {
+      "mint": "CyN7pyBtNmenjLemDvZLsw4cQWXLpMcQZxXM73YvQhNL",
+      "bound_trades": 64
+    },
+    {
+      "mint": "EFkAYLwTvuxE5sWABko7Km9Kv1AouckVEMBXP4g7DxJg",
+      "bound_trades": 145
+    },
+    {
+      "mint": "EKEGnSgrEoX52dAB2xrbrtu4kKziTRzXyeNhfKZ9pump",
+      "bound_trades": 46
+    },
+    {
+      "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+      "bound_trades": 57
+    },
+    {
+      "mint": "HVvRsdUM1jbNNJDNbWZER53FPy3yPzRT7SVetUjxpump",
+      "bound_trades": 14
+    },
+    {
+      "mint": "HiU21Zwv2eT6m38EUig63KiDWLCZDB3EQqa1zF7xpump",
+      "bound_trades": 55
+    }
+  ],
+  "errors": []
+}

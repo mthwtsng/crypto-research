@@ -1,0 +1,23 @@
+{
+  "target": 2000,
+  "start": 1787011200,
+  "end_exclusive": 1790812800,
+  "thresholds": {
+    "successful_curve_trade_transactions": 50,
+    "peak_real_sol": 12,
+    "qualified_outside_buyers": 25,
+    "buy_min_sol": 0.05,
+    "max_creator_fraction_at_peak": 0.1
+  },
+  "required_post_migration_seconds": 3600,
+  "provider_order": [
+    "alchemy",
+    "shyft",
+    "solami"
+  ],
+  "source_adapters": {
+    "research/wallet_curve_entry_discovery_20261007/bind_curve_limits.py": "dc127eaa04e8944d5612151c117e0b96c8fc8622fb0f8bf70db4ea70021b4bdb",
+    "research/wallet_curve_entry_discovery_20261007/curve_adapter.py": "5599567c5f62b2459fc1039048634a5780dd7bc9186d96c58ec47e8419b40677"
+  },
+  "selection_bias": "retrospective activity/peak/breadth conditioned; not all-launch profitability validation"
+}

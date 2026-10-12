@@ -1,0 +1,8 @@
+{
+  "asof_utc": "2026-10-12T00:13:51.436904+00:00",
+  "selection": "two major seed wallets: nearest5+oldest5 successful pre-first-target signatures and firsttarget receipt; sixteen largest captured sell-event signatures",
+  "transactions_requested": 21,
+  "transactions_resolved": 21,
+  "funding_history_complete": false,
+  "sell_incident_complete": false
+}

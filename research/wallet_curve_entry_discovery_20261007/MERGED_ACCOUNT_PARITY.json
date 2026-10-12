@@ -1,0 +1,492 @@
+{
+  "audits": [
+    {
+      "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+      "successful_groups": 1361,
+      "failed_groups": 200,
+      "account_groups_checked": 1361,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 68
+    },
+    {
+      "mint": "2m2AWRgT3jVYTnAqkd45fsFh9aEuR9dzpvYga9u1FezL",
+      "successful_groups": 374,
+      "failed_groups": 20,
+      "account_groups_checked": 374,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 14
+    },
+    {
+      "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+      "successful_groups": 809,
+      "failed_groups": 11291,
+      "account_groups_checked": 809,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4503
+    },
+    {
+      "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+      "successful_groups": 383,
+      "failed_groups": 185,
+      "account_groups_checked": 383,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 83
+    },
+    {
+      "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+      "successful_groups": 356,
+      "failed_groups": 50,
+      "account_groups_checked": 356,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 40
+    },
+    {
+      "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+      "successful_groups": 1078,
+      "failed_groups": 81,
+      "account_groups_checked": 1078,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 31
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "successful_groups": 979,
+      "failed_groups": 369,
+      "account_groups_checked": 979,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 91
+    },
+    {
+      "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+      "successful_groups": 643,
+      "failed_groups": 4616,
+      "account_groups_checked": 643,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4337
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "successful_groups": 438,
+      "failed_groups": 30,
+      "account_groups_checked": 438,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 23
+    },
+    {
+      "mint": "5RwHdFaF4pBmzkbAQJFPEBcosbGLphUwaDfkHZXupump",
+      "successful_groups": 138,
+      "failed_groups": 462,
+      "account_groups_checked": 138,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 199
+    },
+    {
+      "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+      "successful_groups": 2774,
+      "failed_groups": 1758,
+      "account_groups_checked": 2774,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 825
+    },
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "successful_groups": 906,
+      "failed_groups": 16,
+      "account_groups_checked": 906,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 15
+    },
+    {
+      "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+      "successful_groups": 1264,
+      "failed_groups": 208,
+      "account_groups_checked": 1264,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 44
+    },
+    {
+      "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+      "successful_groups": 245,
+      "failed_groups": 465,
+      "account_groups_checked": 245,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 21
+    },
+    {
+      "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+      "successful_groups": 536,
+      "failed_groups": 9,
+      "account_groups_checked": 536,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 7
+    },
+    {
+      "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+      "successful_groups": 751,
+      "failed_groups": 158,
+      "account_groups_checked": 751,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 58
+    },
+    {
+      "mint": "7g5fkha95FDYFK1zFfYorwcNR6jUVP6oPZ3heYEZAErH",
+      "successful_groups": 815,
+      "failed_groups": 5512,
+      "account_groups_checked": 815,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4499
+    },
+    {
+      "mint": "7obZ1N9p59MnobGWwiXZc2FcgaabncDp4zqkxUn7pump",
+      "successful_groups": 307,
+      "failed_groups": 248,
+      "account_groups_checked": 307,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 165
+    },
+    {
+      "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+      "successful_groups": 3386,
+      "failed_groups": 1509,
+      "account_groups_checked": 3386,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 709
+    },
+    {
+      "mint": "8CkviU1qVZNiNHcUmmS6EHr9gurpYj9KMPqhWdRfu6jY",
+      "successful_groups": 389,
+      "failed_groups": 6482,
+      "account_groups_checked": 389,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4330
+    },
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "successful_groups": 159,
+      "failed_groups": 78,
+      "account_groups_checked": 159,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 30
+    },
+    {
+      "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+      "successful_groups": 829,
+      "failed_groups": 64,
+      "account_groups_checked": 829,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 12
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "successful_groups": 1410,
+      "failed_groups": 252,
+      "account_groups_checked": 1410,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 66
+    },
+    {
+      "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+      "successful_groups": 497,
+      "failed_groups": 1186,
+      "account_groups_checked": 497,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 449
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "successful_groups": 1073,
+      "failed_groups": 4794,
+      "account_groups_checked": 1073,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 3924
+    },
+    {
+      "mint": "9FB7CpWqbe3gxTPykrwP32WRbhFRRjCkJgpWaGwUpump",
+      "successful_groups": 145,
+      "failed_groups": 20,
+      "account_groups_checked": 145,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 8
+    },
+    {
+      "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+      "successful_groups": 172,
+      "failed_groups": 237,
+      "account_groups_checked": 172,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 17
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "successful_groups": 1965,
+      "failed_groups": 1024,
+      "account_groups_checked": 1965,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 104
+    },
+    {
+      "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+      "successful_groups": 877,
+      "failed_groups": 4718,
+      "account_groups_checked": 877,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4588
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "successful_groups": 2657,
+      "failed_groups": 2097,
+      "account_groups_checked": 2657,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 755
+    },
+    {
+      "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+      "successful_groups": 655,
+      "failed_groups": 917,
+      "account_groups_checked": 655,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 576
+    },
+    {
+      "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+      "successful_groups": 1585,
+      "failed_groups": 145,
+      "account_groups_checked": 1585,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 69
+    },
+    {
+      "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+      "successful_groups": 176,
+      "failed_groups": 640,
+      "account_groups_checked": 176,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 102
+    },
+    {
+      "mint": "BiuduAxFiTwYg1z3H7Yfmtwvjsx9WVF5FbR19RpZpump",
+      "successful_groups": 523,
+      "failed_groups": 1226,
+      "account_groups_checked": 523,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 43
+    },
+    {
+      "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+      "successful_groups": 341,
+      "failed_groups": 508,
+      "account_groups_checked": 341,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 14
+    },
+    {
+      "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+      "successful_groups": 283,
+      "failed_groups": 47,
+      "account_groups_checked": 283,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 10
+    },
+    {
+      "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+      "successful_groups": 356,
+      "failed_groups": 675,
+      "account_groups_checked": 356,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 46
+    },
+    {
+      "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+      "successful_groups": 120,
+      "failed_groups": 3477,
+      "account_groups_checked": 120,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 526
+    },
+    {
+      "mint": "EHQ6SqAugkusBtxYUEsr8ELbkK9Atg5LMm5rzGxjpump",
+      "successful_groups": 181,
+      "failed_groups": 525,
+      "account_groups_checked": 181,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 183
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "successful_groups": 1158,
+      "failed_groups": 669,
+      "account_groups_checked": 1158,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 216
+    },
+    {
+      "mint": "EfgwtKAaSYMyR3uzSUn7MnakahToKhGqgoTu4F9mJK39",
+      "successful_groups": 699,
+      "failed_groups": 41,
+      "account_groups_checked": 699,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 19
+    },
+    {
+      "mint": "F7ZUzbVFMcjCwSjhUVHouM8Ltuhua8MKkzTGHRDvHoqS",
+      "successful_groups": 214,
+      "failed_groups": 89,
+      "account_groups_checked": 214,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 8
+    },
+    {
+      "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+      "successful_groups": 129,
+      "failed_groups": 30,
+      "account_groups_checked": 129,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 119
+    },
+    {
+      "mint": "GYTcHczXUBrNP6YjcbrE1U5Be3rJZiRXr9W9tTJ9pump",
+      "successful_groups": 1283,
+      "failed_groups": 711,
+      "account_groups_checked": 1283,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 84
+    },
+    {
+      "mint": "GowW17EFGraNWh44KjEgCZ4yZtfuekvM7HB4WHdipump",
+      "successful_groups": 131,
+      "failed_groups": 14,
+      "account_groups_checked": 131,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 103
+    },
+    {
+      "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+      "successful_groups": 165,
+      "failed_groups": 15,
+      "account_groups_checked": 165,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 10
+    },
+    {
+      "mint": "HTWVwVHCnuwFz8ombhtkEZyaCXk2hUY9yqjLpXPGpump",
+      "successful_groups": 101,
+      "failed_groups": 158,
+      "account_groups_checked": 101,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 5
+    },
+    {
+      "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+      "successful_groups": 462,
+      "failed_groups": 1173,
+      "account_groups_checked": 462,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 38
+    },
+    {
+      "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+      "successful_groups": 664,
+      "failed_groups": 5915,
+      "account_groups_checked": 664,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4326
+    },
+    {
+      "mint": "RizuZSNVSv2zYvsTQu8sGPGGFBusiH9Hstio436ZjAi",
+      "successful_groups": 461,
+      "failed_groups": 541,
+      "account_groups_checked": 461,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 72
+    },
+    {
+      "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+      "successful_groups": 245,
+      "failed_groups": 217,
+      "account_groups_checked": 245,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 49
+    },
+    {
+      "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+      "successful_groups": 422,
+      "failed_groups": 185,
+      "account_groups_checked": 422,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 8
+    },
+    {
+      "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+      "successful_groups": 1886,
+      "failed_groups": 2368,
+      "account_groups_checked": 1886,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 918
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "successful_groups": 1388,
+      "failed_groups": 11545,
+      "account_groups_checked": 1388,
+      "error": null,
+      "account_parity_pass": true,
+      "intents": 4418
+    }
+  ],
+  "errors": [],
+  "scope": "canonical receipt merge and historical token-account source parity, not counterfactual failed-order or migration execution"
+}

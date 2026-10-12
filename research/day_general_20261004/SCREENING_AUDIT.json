@@ -1,0 +1,4808 @@
+{
+  "prepared": 600,
+  "supported_normal": 600,
+  "triggered_coins": 57,
+  "chosen_coins": 57,
+  "cases": [
+    {
+      "mint": "D1DumKYzxNYPhz2DqMxhDMmiiBDs8oqpMQj5sDgGQJnU",
+      "creator": "EniCHNs2dZhzQ59JtNvutmUZB8aDz4BcFZpPbYn2PP1r",
+      "creation_time": 1791011606,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2M3H1utN7AcZySYoV33XugwW8pFFoa1YuETEeriLBFX4",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791010841,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "APY1zVYMupMuJxfpDQ3a1LZSNmhibwqyuvvRCXV6pjDH",
+      "creator": "7GhWwhaMgbKiRWxF93Bud6HnHMci6NCLTJyTxG8zFH51",
+      "creation_time": 1791013148,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CongqsaPQC9R4go44k2RLy5ayAywpCmbEqxjBsjQpump",
+      "creator": "HKSXVMLXFe6vjNp9sxkiUDNtuSrWzjN4yDwFaRYn9FHj",
+      "creation_time": 1791014179,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HqSxNdx8n3ffgsMCgheDgt923eTUPmEv4dzHBSaopump",
+      "creator": "6obyWTZQ8yvJf9rnuX1FwLBHxVzLzxUNHvAmL4B1EZsh",
+      "creation_time": 1791012898,
+      "groups": 16,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EfgwtKAaSYMyR3uzSUn7MnakahToKhGqgoTu4F9mJK39",
+      "creator": "9wRuFPJZFviuHv9q4hsaxUUADDphX6oSjcMA3RuxTFRG",
+      "creation_time": 1791010814,
+      "groups": 698,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4h5zYkPmU6NVX3fPkqZ5e4ZuwzXdT8eMK1bgMY5DF8yG",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791011711,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7AbePT7xDuJAZhekyBiU7j9UtWCDxBvPrXsbsGHWpump",
+      "creator": "GaMPRt9yhnhRAB134imiwkmXAtVYkcTtZFzF1nBeqw6H",
+      "creation_time": 1791012555,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8u9JEWyhYHaHDKqwTvVg2a5XatrR24ykiHjv7bb1UF3x",
+      "creator": "CxzM41V8of9Ar2FLXPPrqmEVBtfxVgzqh4dNVFaRDdzk",
+      "creation_time": 1791012589,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7oPGc5h6ceEs2bbXU2hkzVJTyvpnAz3MvUvBPMfNpump",
+      "creator": "CZt2haHfrchCsgDvhJrKNhWdeRvemVcGiDRYwWFYdAeN",
+      "creation_time": 1791010893,
+      "groups": 38,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4HT1m4hATxsbDeR1NTzToUyQSBR3weZKgn1Jvhd1pump",
+      "creator": "4MaYqa6c7KR4LC5SRNSmkAMmxDCn8KchpjohEo63BHV8",
+      "creation_time": 1791010823,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "D6N13dkfWLMXpjLptp4t7vdjHhE7qT3jHAED6yP7pump",
+      "creator": "HKSXVMLXFe6vjNp9sxkiUDNtuSrWzjN4yDwFaRYn9FHj",
+      "creation_time": 1791013204,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CnJWnKiko6LE1Gdvg7ZFTsLGGRuELi1X3nGRq1UmuCb4",
+      "creator": "Epapft2E7RwaCgm877e9rEXPudFohMBQ3tGGyCgqxVyg",
+      "creation_time": 1791012583,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CqbejuZw9MUNY76ps7PcQTGpevSEPvy9BmoxkXGDL9F5",
+      "creator": "2SssDAZBovyY7bnTYH2wFLDL2tpAvQBpAcEywUfbE8GN",
+      "creation_time": 1791010841,
+      "groups": 80,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BVQDUw6XdxGnirkGWHLScZPp5PUfi7gRXhuQedDeEdPh",
+      "creator": "Epapft2E7RwaCgm877e9rEXPudFohMBQ3tGGyCgqxVyg",
+      "creation_time": 1791012580,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5A5diHeqzQkp3NMVNU9VHVYrUxSyHoHhckfi1oSxpump",
+      "creator": "EPa9rrA3V2QgD2gRqfTXozVY1MNZZsXgdRZjiq8it5qo",
+      "creation_time": 1791014227,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6RvDh3ekeFfnrVdmRYKqBQ8dZGr2hnb41ugCqubaavjX",
+      "creator": "DbG7RyLFBWXpEWgfKUA8qByvBZEZ3chqGh9TLkpjpF3b",
+      "creation_time": 1791011207,
+      "groups": 19,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8LY8gHVWmptwVEVkZUBQecmJsczhdvK6Dxe6UnZ1pump",
+      "creator": "5htGpHK2oV9g2BcDqLdRBqjCLdy8mc3fsESfR5DU73eM",
+      "creation_time": 1791012180,
+      "groups": 158,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GQoTgY4qLiTHugbVFgKWFC8PUyGgLRRQV1EgHCCFpump",
+      "creator": "D6RrFNC1ngkAuNrRoLkDGdoNSJy8FT7Xfrqts1tHwz1R",
+      "creation_time": 1791011764,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "PFfzJuPKcZX2HFQJr5x3ERPUkFMFGbWtxrwvzuWpump",
+      "creator": "2LH3udFpRTwvwUfMNR3MESWznWW57CbuQirhm3QmKJtE",
+      "creation_time": 1791013550,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C6rGaVeD3Mtm5wN2YD5gSAxbcP69d8bS51EvTkF5qidq",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791013208,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FYo8HXjheTtwLcsxqZrExhNkPEs4BKYEuowTGznRZV76",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791014074,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AyQstrA9isxAy4UzbZrEc5gg6DHcomJRmhxh679br2os",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791013457,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7e7xpw7xSXmggxoNo18oM7nyzvd5jdveDdcGS1wqpump",
+      "creator": "9dPG16rt7q12XTEVgt7DuDL8eJ7JepNRXiz1oHLssAxw",
+      "creation_time": 1791011767,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3nbi8RhyXGLA7wp3BradQCf759FXCvH3ovzzUxevs4qs",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791017259,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6CKbwJ1PFjWL11zRQAQXsTbbhoVvpoXs8YQ7jHWH55Ue",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791016144,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+      "creator": "3F8m5wT8umEvfjwwdKq1YEuR39U1U1tPUj4Kcq6YhBQs",
+      "creation_time": 1791010977,
+      "groups": 910,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4RtxAwomyZ4E4uMbYGqacePoCuunF76vHhLHGBiCpump",
+      "creator": "8zeWVAWQmxPSBYFkNb8M8N7BsP1azxx49sTJgX4xbBmr",
+      "creation_time": 1791015401,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "23XcyxqRCVRDPUgxzjWz1AhhWN1a4BankwHDd79co7bW",
+      "creator": "H9yzyerYXSJetuinK6Q3TyB8YV8dinDHfKdNksmr6Pc5",
+      "creation_time": 1791014628,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FTmgyLVCkD38r5U5h5hnQaatdMC21Dzz95Bn9B1hx7B2",
+      "creator": "BoEVpctnMRtB7XhaJ99gNRGhP88HojtPvJ76BwX1gUwQ",
+      "creation_time": 1791016918,
+      "groups": 49,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8rirstJ4gFXRczJkbtaQhVquy6Gkco8SP1hXT9L93FQh",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791016858,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2r8VtLXEZpV1mbvHimRse1ScrcFubbMA82rRMK46pump",
+      "creator": "4so5NhvAJCeSrwz1qYkWRPp4bdMkMgGDx3qb4WKTXsgB",
+      "creation_time": 1791016769,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C3mHypUNoEDcqknZPjNoHmayWrTSLxLzVMEmcxSKZjoV",
+      "creator": "2PHz3whH37w4LJfWH8f9FENNZpfZdqpoe4qBBqpEWCU9",
+      "creation_time": 1791016456,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3KcF5PJo7tBk95NV7QHcXV9BPbzGXt6RTZrZ9ownst4b",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791016620,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FHdgCUgtUxvFUWXRKkewMZouWLHU8jQxc47jynrUpump",
+      "creator": "t1E6yS3eywN7dBPYC7i2LF7Wp8sKLzTeQg2buVTAyzi",
+      "creation_time": 1791015590,
+      "groups": 56,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8ncZF87hJZVqCg5JuT42e3DfAK8ukJLP5CozSviqpump",
+      "creator": "7WQxBBhnokoCiMx4nQfGZaFjepWEFmnqzwn1KzqAUZjF",
+      "creation_time": 1791015188,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "41yFR8cbpmJMXMmkowXdGEEGafmoN3u7z3MiZw1iz3gW",
+      "creator": "oQpJh9R1w5hFjeQXaeAgrBNEQkTPEbTD2w6tF9TcE3G",
+      "creation_time": 1791017088,
+      "groups": 32,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CeygsBMv8WWBkeb8oiQkmxTeyCSmGHajtKUAB57Vvtpa",
+      "creator": "HJLRzVLxidiimGHiPNWQq9n6eWN4SoUnqjDdD3p9kmgH",
+      "creation_time": 1791017900,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BoV2smeya7x8FjjcxbAyGRfBUG4fnzEc7nb3E1jApump",
+      "creator": "DksFATcVda3KsqKGTPfRZQaLUVPKxACmaqFsPvx9DeWe",
+      "creation_time": 1791016479,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8xvhoTL64DcERDAnBqgf9JGNffZguA1LkvKUF8f1Zkub",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791016944,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7357n2iAo7CBvFmUk4LJ5RULaEqYpPrMo5s3SeHkpump",
+      "creator": "FpHRNNEhYPn1N9aVz89PXJSKcQXU1yi8gSMMcAJFsnnh",
+      "creation_time": 1791016721,
+      "groups": 745,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3pQHkXdL3SiyF87XDY5kwSwWNNtZtVHmC3yd21Fopump",
+      "creator": "6m3zFR6Cz276DQB1UwXscwzCd5QJpjznKk9JQUNLMWJz",
+      "creation_time": 1791017211,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5XWNFUwu8DQJaXycttY6J1G7dWVmhxVZ5EWdR3vApump",
+      "creator": "8SQJ9Pc8kryYKWmro7wGX5NRpDp3sxJXoShWy9WfMcto",
+      "creation_time": 1791015814,
+      "groups": 67,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4xqf4azFDVXLtw1XX7ehmhsLMFgSeee9bUaTNpYzpump",
+      "creator": "3wj1D3vMKkKASQxQie7nL9qzKCrQseaLNm2scfd73Rre",
+      "creation_time": 1791015024,
+      "groups": 439,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4uNuX2H3asPftryE2dAwE8x3LoQnPrnRydJikDYBpump",
+      "creator": "HVKBHToVxzBgFnJx7mpPeBNM8wF9pRvekS9EE8szCw5q",
+      "creation_time": 1791017583,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Di7vemupJARXP44PvVsTcdPsgTSWj7RcoGXSQAS9pump",
+      "creator": "H9s5ScGjLBCTWEeRwFXHuSNg8fvRCsDByFBaf2JFKToo",
+      "creation_time": 1791014984,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3SL3X1Y1qbWKnFDt6SD7ie3mC7Nc1eRf2VPJCwrmpump",
+      "creator": "2LH3udFpRTwvwUfMNR3MESWznWW57CbuQirhm3QmKJtE",
+      "creation_time": 1791016108,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5ptPxJwkJKhbDuRrBn77tMCsB4xhueN2mLfBjkHXpump",
+      "creator": "4vCe8Bm34FC59Qh2bAer1nXzESKA7iKMSxTpJxmvGwLB",
+      "creation_time": 1791014984,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3Pr5EhsXocAoUPoSTZdqKrdwGkxZVa1LNzAqMUWGpump",
+      "creator": "AV1ictNSS2SYZNA8prqVRvP2qz7aFHHE362ZNg75XLWj",
+      "creation_time": 1791016081,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AgQCNuuZ6jF2e5eEg9iwhCkyiLzGKfRGdP4JpCJXUrLc",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791015080,
+      "groups": 27,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "J1vY89Q4zdytuMhuz6BcNHjzzpUGKvCACxXxTytcpump",
+      "creator": "3r3sL9jb2gKhHwMV9QsJaeTRMgM3t2uPWfockLe2bQ7M",
+      "creation_time": 1791018329,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GR4uEgBLUjvCvHohdBcLcqGT5DhqX9VLuYcSnPR8pump",
+      "creator": "HdQyq8Yv5B9urzuLyy7tnSvpnSAmfoM7JFGJwoY3W4cB",
+      "creation_time": 1791021295,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BSz6qixkBwXycHbbVuYQjw5tvw2VLtJ1JhnxLBhrpump",
+      "creator": "AU2Egvic7MSy3AP7Zcwpog3KK6iqw62hWnVYd1ns7BLo",
+      "creation_time": 1791020995,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6sK6qVLryhJ5zRgK27tgxRiqf3bm7iP8PxZzmjWvpump",
+      "creator": "J68SYepZeNzGNCiqQiyaVfuE1qF1YVuBhWAWSvditpMq",
+      "creation_time": 1791020123,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CbZAmenPh9pRE1DZ3Rk4pXb87W65GLXQFMLgQDRKpump",
+      "creator": "9KqmheWje5PuYVQeudqFpdZSQGts8EtKfSeupiwUA6bo",
+      "creation_time": 1791018688,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "F5wg7HY38HkuLJ97Z6j6wJ6C4bQ6CsgEsNpLupGFpump",
+      "creator": "95imPWCzsdzRMHMRUbsNtmDL4bW6HpRwA9FqEkVXexNm",
+      "creation_time": 1791021486,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "F9du57swW2bFkWnYg5jkSvGC3pkX1GVzT3uJqMFqC8qk",
+      "creator": "BxMNDFijke418EDaHQLYJLpaEcPhTEFStHsBr3wBM2i1",
+      "creation_time": 1791021140,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EeJzCD934jcAjjDSQkZMhzgGJ7SaGBpuBmm9tzHBTdHE",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791018408,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DL7ppcQKFAD5rDpyfyB8goNZ6Y4Uk7mHH8vaZQdEpump",
+      "creator": "DTLBR6y5ekqXDFqaYah3uLMR6LBZmRMoLr7xuyF32tk9",
+      "creation_time": 1791019565,
+      "groups": 32,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GhPtYSMAn8jb3LhX1P471h5TiwTvUnRGDsrV6atYpump",
+      "creator": "5hi4hcPAEexLoB5dKyYB45jDEXWef2Sq4cQMzJYr9BDx",
+      "creation_time": 1791019324,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "A3D8hwYSL94gMkrWvaCeAT7njwHfQWk7JmtpfCGKpump",
+      "creator": "Htgs45QNULpfZMs3fMAELa9HUrwtiYRqv83fAw21JQkB",
+      "creation_time": 1791019522,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HZrqJYiGm5y6a6aWSwgVKdNzGPzZixC9KgZ6vqt8pump",
+      "creator": "G2kathz3ZPALjCNLxAwsp9YTMwmAThYuSfkocP7C8kBW",
+      "creation_time": 1791019867,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4u1oZ1e59piPPdADz7XSe6yoASj6GzKNFnw5rcWupump",
+      "creator": "CmjoRgK1nd5bYAfxAGQitngxcyzD3RDo5CYpng2qm4Qs",
+      "creation_time": 1791020806,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DGyQDXHzn4vLSrNR4o6Z8dgfEcGMP6iS8VkEMMBUpump",
+      "creator": "Htgs45QNULpfZMs3fMAELa9HUrwtiYRqv83fAw21JQkB",
+      "creation_time": 1791019694,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9FB7CpWqbe3gxTPykrwP32WRbhFRRjCkJgpWaGwUpump",
+      "creator": "8jZqFNAGo6hKGTargcLCeoDNnqFXixvF2hAzM5q3vDU3",
+      "creation_time": 1791020530,
+      "groups": 144,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "23m3i1hhepNZukFMXELcgLAMbDMTjWrmXa5yMrJPpump",
+      "creator": "2LH3udFpRTwvwUfMNR3MESWznWW57CbuQirhm3QmKJtE",
+      "creation_time": 1791018148,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4SAxztmJskHLPp9cFtF9F3RJX8nxct23D7mxaDtypump",
+      "creator": "DaKg7QZ6LJd6FdrMR8fGVBtp4zrzJ4hH9WBCAoRzfyrh",
+      "creation_time": 1791018870,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HN4VCrsLTP1N8EYRVWGbg44aoBxJ7Q6CDA1NYQBYpump",
+      "creator": "A1MxBMe979k7EnAsZanVUQpQXh4qaMDKYoYvW5kTp2tT",
+      "creation_time": 1791019519,
+      "groups": 131,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GDv1Jvwdp9rw5REtxXVXRPC69EVuSdCVLrHGr1Xepump",
+      "creator": "3UGyzGAE9GyUkCVGApHY1g8paTp9tSxvmYK9LGsGhK2u",
+      "creation_time": 1791020417,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9HM7Pno2rKwq4YLT4LzQhaU3eYVFP6ZN6HRavj78pump",
+      "creator": "7Xg1FFuYMypvm81Vh6AKoc4TLxMJkbeLYQN5Y7xN6zMC",
+      "creation_time": 1791019204,
+      "groups": 170,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "F7ZUzbVFMcjCwSjhUVHouM8Ltuhua8MKkzTGHRDvHoqS",
+      "creator": "8ND9n9h8dbvNSisFT4KDeWkSFXgRtcMqmanFY6qFCbu5",
+      "creation_time": 1791018850,
+      "groups": 214,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EvtHuPyi3A6ttkZF3NKwvCEFLnzayrEtqhcbKXuBpump",
+      "creator": "4rWJBXEH5fi8mGWN9o2sVKSB9uQLZjTRg32RCb4NoUFZ",
+      "creation_time": 1791018457,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FGuRkBsaYeCgzkCJatufF9JT86wdkPsdLz4bGQcspump",
+      "creator": "HwbWNXZLMLMWWvvU27budiEYTWY7SdtxJdzRjK6oACze",
+      "creation_time": 1791019192,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2ynNrZWsM27FhLF3NsTqSYvTmtsTWbKexJR4ofj7pump",
+      "creator": "5VBAurfb2owa8LVcmB26sUxtYrJ5bUECcZeEk4pdeWkU",
+      "creation_time": 1791018402,
+      "groups": 21,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4NDHAqTKrCHhuyuWn8aRbS75PtTTkVm1qtB4623apump",
+      "creator": "HdQyq8Yv5B9urzuLyy7tnSvpnSAmfoM7JFGJwoY3W4cB",
+      "creation_time": 1791020751,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "mswybgmpaZUXxxBK3Y6w5Ed9zVjzcMjw2oA9ReBpump",
+      "creator": "5EoRucX4BvzMxBkcajvAc8LcoN5HSyK1ihPHB396MeG2",
+      "creation_time": 1791023426,
+      "groups": 47,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CbrYKfZDnMC22BLUVKAi1mApAGFfYfccvNSYhyZwB1K3",
+      "creator": "46VTfNtJ5DWcDxvvwyk2hYX4Pv57HxqsuXA2D19iR17A",
+      "creation_time": 1791024677,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2xYXmUb7AemD1xDg27uwrZDWon5D839qgCx9E6wiNi2t",
+      "creator": "DwwPYYJdJi96UH68aCH89NSZhXWVhqKV4TQsRD1dk2KR",
+      "creation_time": 1791022367,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7MfhW2txrJiTy6w8jxvjLTRLWAcEU4hGngfT9c8gpump",
+      "creator": "8JzB38D4WKmAeHEKfePYgbJkUjqikzQuWVwYTzmVPasa",
+      "creation_time": 1791022357,
+      "groups": 20,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AdLEuRZwharJRaxBHvKk3JcdyEJQLmn57upd4GC8Zp9f",
+      "creator": "EsCzko6yRunnU9AEpjjPUMuLtHMQpXfPrtnTHLPbFGgS",
+      "creation_time": 1791023809,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AYn5mR5BUVw3PsfbTQX794a74UuxJjyrCWkQ1j7bpump",
+      "creator": "3w9qN6L7dRHomA9PuJWbc5TvuSPHKGmhcygNwWB3ZZjt",
+      "creation_time": 1791021891,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FGtkcPZAqhzxw3cvBAukbibfu3swyXUz3QZo92CTpump",
+      "creator": "HKSXVMLXFe6vjNp9sxkiUDNtuSrWzjN4yDwFaRYn9FHj",
+      "creation_time": 1791022082,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AHAgVix7XsXQ4HyDuTVzgtXvJiqmk5U9nR28mV5aVeAo",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791021791,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BdDkFKbmN2xuRKFEvJkGWw9LFAAyHahg5u8fEZA7qS7w",
+      "creator": "7ffPVDZDPbhBJNS2uU3YTYAy4QtcW1rYq1CoaA1wVwwa",
+      "creation_time": 1791025013,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "nB8jkNSBnNViAosfXRUs7YpTNhy9Pduq5MpTuCJpump",
+      "creator": "DavNPqbQeboP5cJrXaJTPaoYxFRs22v5ZW9UeKuAiTvi",
+      "creation_time": 1791024725,
+      "groups": 73,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3QPcbYNgSkVD54H43sLvMkR4SMXaAqmKrURiv7f6pump",
+      "creator": "7feTAe3kzP3UUgtGDZoH5cqC9i3x73gXSXzp4MCEjTbS",
+      "creation_time": 1791022097,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7aNXegyrMwPjb33wpzQyAumFwJ37x2V5sRs8XHTyyP9k",
+      "creator": "9LyqWhjSezGSLNwg2VWPXSB5ZtGwi58nuXP6bqNHVWw5",
+      "creation_time": 1791021847,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HHmdZHt3ATSGmipdPTKcyr8ym8uGCBBnrvJTCWjEpump",
+      "creator": "C73fgW3G6Li6eJRHPXyw9gaZY4bGLNNEeoMDufnZ6TzJ",
+      "creation_time": 1791022559,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AgZ3vhXmBrpuPdSfda8rkC4Zaht1p7s3n4Uxx5Bupump",
+      "creator": "3Sk8G8JcTQ4SuKBZJYti7JoRfG2E5EefgDttZegRZZcV",
+      "creation_time": 1791021906,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HcZbVd8nGi6VTJ7aBXZXP3Kiviasa2fgzKWYtQh5pump",
+      "creator": "7d9UJJvenhzRs5Lp46F7AsvwiPJPPAstjHRaRQTu6q6E",
+      "creation_time": 1791022383,
+      "groups": 462,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BifjcFB5EfAKM5UYdL1WjLNHvtiaEiDMbgDnVd9Zpump",
+      "creator": "CS18zbRSr38zbwUMi3UiRD4Ft5fsouNnvLSvoPH419a4",
+      "creation_time": 1791023923,
+      "groups": 15,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "47wQRdfGGTBiWJR9MivYXfT5185m5sxpdhbsTQGGFzYa",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791022636,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2xrunqch4JW6yCMRPGwXuKHPM6k883esWvYZVaC7pump",
+      "creator": "GaMPRt9yhnhRAB134imiwkmXAtVYkcTtZFzF1nBeqw6H",
+      "creation_time": 1791022177,
+      "groups": 83,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "D6vSvmdTU5iWYWtwjqSiLRM2QJwSTWp3X2Xwg317pump",
+      "creator": "YzymQsctnPmSW2ujDreBYngaWEuBb9AByL6ajzSvWtF",
+      "creation_time": 1791025096,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5pmWRAwhKttpozYesGM946vxoGKPAwLbajtBpGrpump",
+      "creator": "9XiX2W8WCtdCmweNdZmc45nB9whX3GZFx4Sxjy69hNk2",
+      "creation_time": 1791021895,
+      "groups": 19,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EoV64MM6mkK9WJ1XZ2FvjkJTztZbSRy3bMZkAhPhpump",
+      "creator": "82hReKPn1WFW82SmAnCDrwUazVJsxc4kaPYTmQXUf8WP",
+      "creation_time": 1791023883,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "69S4qe2MTpgsdLhErPGDnyLwcf1AiMkcWnNiqAocpump",
+      "creator": "3GnFYwNwoXMzz3BwrF2vjyBeviw3ihKA4vdSD7ntG4T9",
+      "creation_time": 1791024070,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "41LtybuB3sjoR3i2DJr4wn3AMi8FcruAjwLsJ74RymCE",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791022467,
+      "groups": 30,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BKqJfyQQbtYigV4uLFJouTEPWiaGciFUaEbqFqxvcmC3",
+      "creator": "DXGjbdkayUHr43PohYFZBrpyK5i78qDpohrKBgSmMreU",
+      "creation_time": 1791024548,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6jxBgf7kZEMoD8inJ4MVt4jKWHmRDeAZt73UeFHspump",
+      "creator": "4DpWxDFpxjHDCMVUr3ksmcPGdgTKhhp4C8V3pQ3PXmtq",
+      "creation_time": 1791022912,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8rP6AysJDbyPEPtjXXhqvHDZW3o5q3ey348HJRwepump",
+      "creator": "6FC9XFByifhgHYcbTDhy9tgGpgsKbnLVZs2kBTakoEPV",
+      "creation_time": 1791027924,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7BeYk7eQeXLGnQ3oT82YLfG3qH2o6s6D2Y1sw6cSpump",
+      "creator": "5otSffzyVeon7mjf3tHzYU2HzNTekhJm8F3yMMCcxWQB",
+      "creation_time": 1791028287,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7iwenCMYzLgWEs8W8PNc1haupNWbMdZZfYR7Tymypump",
+      "creator": "HdoijBrKcUhSxyPqrSDhberQCU885pZ9FgFtfACYxZPw",
+      "creation_time": 1791028500,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8R4cZiji145G69S52sSUWVGFiUqtwMhSuUWbKXKMpump",
+      "creator": "2cUo4GKowq1wHQntrJtFH81GMGcwegbYLX7Ktbwyx5H3",
+      "creation_time": 1791027883,
+      "groups": 823,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8mPiUvrXQFDVMApesGWStETG4nAgzz1YH3vcPV9Dpump",
+      "creator": "BsSvVDWPGDF2gPY67EhmbqisXCy7BjDiRNBqNHhMLZ7p",
+      "creation_time": 1791028381,
+      "groups": 84,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7iiGLkjuC9Js66sbcQ1BkjYLtXbN98CrLay1jXHZpump",
+      "creator": "F7dPMhzhnkT46eVpdj55xRPdRGvP5JtdJZf7hWityUpD",
+      "creation_time": 1791028679,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2LvESQg6yRHZwVgNSay8VyH1Jg3irbNBymzx31EDpump",
+      "creator": "CgErM2acnmFvDLWpL3CqDjdLacRFx4UR8BVwKhsanAM9",
+      "creation_time": 1791027230,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GbeQa3PpJMAixHtXQQefT6pjSRb2jeyA1f2msBeBpump",
+      "creator": "FQndBez64yFu1W2Wt1f7kaJjkpTuvreCyHnQuFDbZDd",
+      "creation_time": 1791026658,
+      "groups": 57,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2Am1eVwtWbuwFmZpTe2sXyXEUpphFHV9erVikvNp1cSE",
+      "creator": "EsCzko6yRunnU9AEpjjPUMuLtHMQpXfPrtnTHLPbFGgS",
+      "creation_time": 1791026874,
+      "groups": 41,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GFJjsejgmUrV9s73W1T5W5HLoafMCg7K3xCSrU6tTL4C",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791026666,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "31uriaRNiau3reZHSFD5fAB2uCFbcsLVnqcXsMS6pump",
+      "creator": "GaPx4G4dLv7HjEXZocm7JyJVBTqY4979jThvBxWjfEyA",
+      "creation_time": 1791028292,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "G8KygWo3bGFNdrovjKUjv3oSJP9UX9wjBhWEojMYpump",
+      "creator": "7xiskse4TUiWXdz6GFP2XcW2w46okPFKeYPBvDpZkyR9",
+      "creation_time": 1791028500,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8MdRQaJzZZb4GrLH1vYAcizKJ8XzAgaVQNp2J1Kv76vV",
+      "creator": "5iy5a28GioPih7ApdB9K2EvLHoFmXLDpqCtFd2Xcosqc",
+      "creation_time": 1791028546,
+      "groups": 61,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "D97dXWWa6PymkvdfiL4JMa9bAetTYHyfnwk2K6azpump",
+      "creator": "Ay6yhvpw13vkZon4GyNGacWQiAkKMoQx4wZtTKdfTvVU",
+      "creation_time": 1791027643,
+      "groups": 34,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CSA6HmjccTVW1onffBVzyxGg8yjmqNUsEVkhxrzXpump",
+      "creator": "Ff1CDsVN2NiiUDU1bcSx3gZYc2k9XAb2D7KvvPHUohJs",
+      "creation_time": 1791026828,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GHzK1gm9pQAf2Pj8xshRvHdPgsnaF3R9J75SRbnjUMbr",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791026957,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "At3G9iQfkoTGLsijj8RfqSSURKU3uX7XNxYGmnqDpump",
+      "creator": "5EnZkxh6cH4rPEd1yXa8xbM4nx6oZDpng4xYcRg11XPj",
+      "creation_time": 1791025588,
+      "groups": 25,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "26WCY8Wx4QvkiQ7Hm1DSBhcucohchoGe7LxdbTTjpump",
+      "creator": "HjxSpDP3y2mFMmwEfFAnSNQs97Q1vgRF1JEXFUvPePLq",
+      "creation_time": 1791025697,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5AN9Taza8r9pGTcee8YoP8pBjBumPfKJvf8fVyvvpump",
+      "creator": "8AqWcCM4CzNBLKK6kbVr5PUYWoP7yE6tS3Q7T3eyV3Yv",
+      "creation_time": 1791028183,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C6DzUGkHARFC1kMPHVHpfaAuZHUjsLkqNPJWQSUs95LF",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791025387,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CF8AaCK8mBqV18MypgoEgENJ8dBrD9Gdsz7CEtzDH91g",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791025282,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BspV45VzaPtxTZsbNo5PQE31vdsBEm1TKuuZjMNNpump",
+      "creator": "Fwcn8QjugGVxXuHdvoQQvVmTJMcCPrC1TaQiSHUeqbo7",
+      "creation_time": 1791027003,
+      "groups": 327,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FEPXjxYNkW1q9N2N9mDH3JybkWeQKVBzdmvoPURvvPEg",
+      "creator": "8RiGLCDDWLH7pLkZ6zUG2QKTbM2dxA7QcW4rfdL688BF",
+      "creation_time": 1791028489,
+      "groups": 73,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H2A1SWjexF3Vd6t1Tv46rBQbND1HwugzVcJjY8jtjgPA",
+      "creator": "dSmuVXJG5FAnGZd3jyR5u7wSWtGoPajyPYV1rF6qg9m",
+      "creation_time": 1791028411,
+      "groups": 75,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8ZacQsz4tLBMTmx7kdBP7w85VaveJqo8u9mS7BDLj9Wj",
+      "creator": "6xnCFGvMvhytae59dsQ547mN3Z1Mngh8ARcGJD768sq",
+      "creation_time": 1791030469,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2tMr3kejKXERvcGbXqPV3ASERNE6Gp9FSt4Z8kVQpump",
+      "creator": "D7wRQbDbh8fZUTJpjaHRxCWgfrsg28nPsiQF4XyDMdbi",
+      "creation_time": 1791028821,
+      "groups": 382,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CciUCPHvbQkA7Yu3qMpnrpqJ5TdvEepPQ5aBt5JBpump",
+      "creator": "fdViww58cur2eoyPub5dqnPmbzzZyLEbCnrfLnM1SA4",
+      "creation_time": 1791028746,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+      "creator": "AetT4siChFz3hJxwpxYxMh7hKwsHiAk5DcqNP9s46jLS",
+      "creation_time": 1791025824,
+      "groups": 1966,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BWhbPUQQ45b5fwR97hC12Akx28B5K8CFYpEjhHfhpump",
+      "creator": "DXatZCLiwrHKsREZ4z3ej8rCdFCuwRTUD24VWtBPFvVX",
+      "creation_time": 1791031575,
+      "groups": 125,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FfWSe2EqPFpy19H13dniDUh1BWz2XZPbDKX37XWwfans",
+      "creator": "AzzmvVzSrGxhUBGpWmGPXZ6XwwPo6KfJAcA931FEy2ff",
+      "creation_time": 1791029088,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CjfRvg9b1stkVNKhBwnVFmpBnD7tkoYtrLvQHFbCoh2a",
+      "creator": "DvwjKF39WUibpPgn71Thz9LAgRKCTiZv2gufZvGDYpcT",
+      "creation_time": 1791031947,
+      "groups": 60,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "mnFS3t2QfLuCjcHWTM8zCiBZhDknHEtPQizomTZpump",
+      "creator": "7PXG7yPKttP9prFweQ1Wshyc7JrTxjWyn1zCqDENBFP3",
+      "creation_time": 1791030035,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7cKYt3z7htdDTJiUmrLcn9jC9ZqFBSymnVXRpdLopump",
+      "creator": "71KbB5JQ87zbmnLPBycdpXC1F8Pa6HeeyD2F5EqDpgsH",
+      "creation_time": 1791030657,
+      "groups": 87,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GQ3MHyFzCaD7ouJcvYStue2b1pJ6pZwk8b2yUBZ8pump",
+      "creator": "2Lt12W2ZUU6fcqkvbZTLBR6EHTRd16jhLBqBKqBZm5xo",
+      "creation_time": 1791028944,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8xZLTw8YwXAzusmyLorgfvKsPx1Si5zLub2ovYNmxsdh",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791032338,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7x2imvTCNpugLhqNHoHZX89tqR5vZvEZEA297HX3pump",
+      "creator": "57S5VkhRHZRrEjGFuH2kGgh1k7K679wMMi4rpZoaKUue",
+      "creation_time": 1791030071,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "714zPuKKFDhtaQono5Huoyz3Bd2n9WB2fgkqvgiGpump",
+      "creator": "E694ViTtu8Sb1gqRZ7eGxvrozNmhH4uB1e66wP9SUtWt",
+      "creation_time": 1791030232,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CydeCkbvCngUr2pxNwFicmxZ3eoUdhs6w8gMidctpump",
+      "creator": "9FYaBT3RSJLnkUFVqhzUVdj3epQB5TwDBDer2TqCdbGN",
+      "creation_time": 1791029920,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8jCPx9RWP9PirXHD1GLbG6s37LSg5VBbWAsVEdDXTret",
+      "creator": "7VaAFPNyb3xYMGCguqh4nVce91NiF8YtH3SnL172nUsp",
+      "creation_time": 1791030129,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3Tw5P6odx7icjykPkygNzbwVsBvHV3CR1zh4yTuhpump",
+      "creator": "Fwcn8QjugGVxXuHdvoQQvVmTJMcCPrC1TaQiSHUeqbo7",
+      "creation_time": 1791029783,
+      "groups": 26,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AmQcdhLF8yiDzP3Nsv8VDNfHuXzD2tj5BZKySPhopump",
+      "creator": "EKxZZqJxhiA7Dhz5qCgMpBvBGnf97EeJTxKaeYV32CZd",
+      "creation_time": 1791030966,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5bjW6GAH4GrcjFMm5SdBCpeshufmnBupCtySxJtajRHr",
+      "creator": "2NtQpitv2DwbPsRU3QKxh6Q5pMUH4vvu2RH4J5kpYWQE",
+      "creation_time": 1791030306,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3YfJMJdYvQhbsWaBFDe3FSHsGt7K16AgXXaDVXoupump",
+      "creator": "WkxgpccQsL9VyxDt4SJ7o2SP1F6iotFdxydf8ACYpa6",
+      "creation_time": 1791029167,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "82zWsYig2rz3UF8UJJtAt8mRHQoQDUMz6Mff9WQTpump",
+      "creator": "2yDpnyVALfhae24PDYiHFxHYu2Ef85WPPv7hQjAVowU3",
+      "creation_time": 1791031015,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FSdu8QvTJneu1kL2xae5TzpkGS8BWo85JPNd9RNDpump",
+      "creator": "2VC6SRn5kBBZKpvyu5cHghjtiCKPvgGYnpSRR8V5hi1x",
+      "creation_time": 1791030684,
+      "groups": 21,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8CkviU1qVZNiNHcUmmS6EHr9gurpYj9KMPqhWdRfu6jY",
+      "creator": "5dqAhNjqPQ9d2A2u2v5yNbTzR53g3xXvYFe5wFkC7sjs",
+      "creation_time": 1791028790,
+      "groups": 384,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5Ca5xd3RKAGPPLwfvSAtqP8eZqyXnzWsWefq8KjzWn6U",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791032171,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BKmxuXZng5n22QXtvsxDdyCujWYEXiBWPgVQm7s7pump",
+      "creator": "BeqfwsEHQ16dBjwS1paiPYYWdwdeE2YMv6KdKeNp7RW3",
+      "creation_time": 1791029138,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BpM6Kkovh2wjE5YQyAfcu7VWTRRWGuf23uHcenTVY9CS",
+      "creator": "9JzfqGWQpbKWvmvzy419qYY9XwGDHWZDWAds1tQM2jEW",
+      "creation_time": 1791030624,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GgrE7wyU5rrMwsTgSRG8WF3uodnBKXtdSVX8ndcGfvjs",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791035536,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2TY2NeAZZNb2YWGLDjBvakTXeCMpGUSM8DgXkrkfLMQu",
+      "creator": "3xh5uHaSiV4Q1rEdxE3smwdY4fpgfBK2R2iYNKjWB5tm",
+      "creation_time": 1791032702,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "E8ga8PeL9W318qfLkBt9xHiqLWdo6MmwLCUd1qHRvc5L",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791033416,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4758yoGoZ6XeaUedvhF769XreSrtmezzupovFaNYDB5Q",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791035485,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5uPaFSfVw7sdNq35QaGdVqzH7CArdJyA1BQzzEKWpump",
+      "creator": "GaMPRt9yhnhRAB134imiwkmXAtVYkcTtZFzF1nBeqw6H",
+      "creation_time": 1791031916,
+      "groups": 2540,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "W9segRMzaqadQG1SwXa6Dh6ZW7RVKj6P9GWgVURpump",
+      "creator": "DbrC21ZzyqsCcfzBem2vPi2cFaGZDmNo2Pet9YBcsngZ",
+      "creation_time": 1791034103,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EzepkjfshfZij8cZSN2nn4rY1DmRXjEPaXdAYBm5iGCQ",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791035158,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4TgkjykD36q6AGzndYHWZeEkc6DEs9eSTzzXq7PosMqu",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791035356,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4mtjNZVMu1i6CPoHsbJSgGUvvu9dSY5aypQdxsQSpump",
+      "creator": "7D12wCUf8pechMWcGXqKrvbrPsvAW39WxT4pCnzUzQ4Y",
+      "creation_time": 1791034560,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6GdkcdLVDjM95arp46qoYvwDaV8qHKob5EVQ2gzHFs7q",
+      "creator": "3ZTVR7pmzH7HC2CNwNTbHzedzCtxipdyFeDnoR7GWkos",
+      "creation_time": 1791034306,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "78c9oThGM4sf1HgodXaDk6qNiFpzCWY9qVsee1ZPpump",
+      "creator": "2J2rtMBRLxAbFkSLgrsuSNN8N5KMTJVaRTdnGfbZ5Vjw",
+      "creation_time": 1791033889,
+      "groups": 1863,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FtWDfD6sdfRVARhPuptzcyZrHuuPpPkwUgihpWQ8D5oA",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791033202,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "942AZcbZvu2sSxH1j2LLs7vUJFzi4Wy6tBAXZ5udpump",
+      "creator": "6qsEt52L1jvmC3g6T3np7YYsJaMjpDmvp5mqLQbqTe5t",
+      "creation_time": 1791034333,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JnnYydNbsw7k5rLUrdbdC5Y2LHbPBHFKYP4uJwLoEDU",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791035406,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DDjcytXZdZGaSVMG5n2dpNHCdgGvWReQZW6VhQrrjNdS",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791033315,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7ybMFXRhJho6Ly9Mc1NJSowDyJSagxhUPxmvZ9CaFz8S",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791032930,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5RwHdFaF4pBmzkbAQJFPEBcosbGLphUwaDfkHZXupump",
+      "creator": "ERyZJAHj6XA3Dwyk9Fpnkk7NQX62sY3pNPbLEHGSqhV7",
+      "creation_time": 1791033279,
+      "groups": 138,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3eavv1v3G9NyV19sKFaLwKy7aFAeCjWjpdqQc6Tupump",
+      "creator": "FRqunuJMrD2fbZa6oFL8WDFZ6orRoszJB8ETCqLXKbwi",
+      "creation_time": 1791035710,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "87pz9B4RxtjEjFJo5pxKbdP8Wkcs14gHQc2YN3cKpump",
+      "creator": "9tULe9UofXwB68Rben91vD7vCWBmqCgSAQbSefvStGFw",
+      "creation_time": 1791035168,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FTUDqwaKztPsgcsorXNthpsXos9d41LcaoV7f1YZX3xV",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791035938,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "31ZMHqYViLr5u2VctR7CW4XsN2Bq6NekNHxcRZfUfFhu",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791035137,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "B9Ye9GdtCHjXr98ZF3Xr41tjTDMkmYH3R5iDmpzVpump",
+      "creator": "afi5hXSGwApRhUw81GZJCiwSnvs2r56fY7mGGCtqvV3",
+      "creation_time": 1791034292,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FqrgboiJyqNaCbSGP5Zqn4DmWULnZvVZp93jTrzdhSoL",
+      "creator": "BFWBoQPBZrMTmJFk2qUbwbp4EHNoafbNXAaMZvCzUts6",
+      "creation_time": 1791035049,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9iL9DG1qTGJF3qdzs4DvQ7dZNEPaNEC8kAqTmCrxpump",
+      "creator": "5uJS46PRz9t4adB3TJaWMaLyS2YawAKqFGctaESoNVx",
+      "creation_time": 1791033755,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "YfzBewHHiZBTx8mMQccEz3hiUSv6HNVFFDN6cxXvTMj",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791035436,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EHQ6SqAugkusBtxYUEsr8ELbkK9Atg5LMm5rzGxjpump",
+      "creator": "7mV45GAGdDJD8BxeAwsV1fz29H4HJ4qaUfLtw5xrEVm3",
+      "creation_time": 1791033098,
+      "groups": 181,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AfdKkG8fzcc3LbpeuUfvBJo19wJVB3SFkFmt1Fm527iW",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791038218,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Bhe7ksaXC89wGfoWHZwo1Mh2t5jcENgQkPeL2LkM4HGa",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791036128,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ATrPb5SiiPYnePMCwzG67F28k5utyjEhBaUcDne8aR6F",
+      "creator": "DvwjKF39WUibpPgn71Thz9LAgRKCTiZv2gufZvGDYpcT",
+      "creation_time": 1791037998,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2vdFf223zPyxFBN7Nw8LTiT8qMbyehTMgLrM5SDSe1L1",
+      "creator": "HXfnCE7iKZB4jFa9KRpBpzLVk5WLuF4SwFcNXkLteZXf",
+      "creation_time": 1791038657,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Guw5Z5Uy6iNf1CUETgz6yAX2U5oQBb2MArjTo39Npump",
+      "creator": "EtH3bgTn49zYUAu2yVTB1AqkmFhugoXQWMavnbmLCsYR",
+      "creation_time": 1791037272,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "55csckM8meEVKEwX1uttc2MUJ3c7w6tuyunTEr5kpump",
+      "creator": "76FtJ1Khi7FJNhtHhETVHr2M2F4U4hYRXEvWSwUNTGMw",
+      "creation_time": 1791036739,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6cvH5jaj7iUj8QGiSh8jPnLpmAcwNhKHCLe5AWpLpump",
+      "creator": "7fy3XV3BAEFGcFHUU2JDUNPazJT8Gy9H6S6RZE2oaMVp",
+      "creation_time": 1791036002,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5wzMMzTRa3qurJoPkP23Fn7rSkT7344hw86Mr74ev35j",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791036276,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DtMy7K1RJbY4LLAie6mXxVbfbRNsjG7DLuNxvywgZMVr",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791037798,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Co8Gqw25NAojbj3ZcZ96KLRPVmK9LpbLMpdBymQ8pump",
+      "creator": "56UxnMR9bigVAdaV668mTT61WMPL7WsaaG87fSV6ZKpC",
+      "creation_time": 1791037607,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8poWAa3vgvpDkvWJhxswv8nKm9HBR9U72swqnJzHpump",
+      "creator": "4nWnoLfW14JYwqnupa1AwfoxVAxUobW29EBVVkDFDcoE",
+      "creation_time": 1791036996,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "J1vUwD9H1u7Mx4cLopJuMPK8S5kaT1mtmfo1XDzypump",
+      "creator": "HWErGCQNAkxBC8ZSfXt9sKmrK3cjc7eYJnUz7HeJSGvY",
+      "creation_time": 1791037673,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FWpbHZtPtwbSDjkbvL4RQhKmtErZ9DKNNnYyHuQVVy3T",
+      "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+      "creation_time": 1791037603,
+      "groups": 20,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "26Wd3N6rhukUzB5WZB4Yhyc4XRs2S8xM8wCGDGdMpump",
+      "creator": "GtaJoYuRa9h1T4miw8zD6rdtiqo9QzjSr7jTuRMcL5vE",
+      "creation_time": 1791036797,
+      "groups": 130,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "B1b68qC28bhno7UqaJqTbKZXkyFTCdSD5gzDeTXAaewW",
+      "creator": "DXGjbdkayUHr43PohYFZBrpyK5i78qDpohrKBgSmMreU",
+      "creation_time": 1791036890,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9mgjvkyJhWYMDw166DxPGb1aGpvr7ciD3YGqgZeNbP5T",
+      "creator": "2EFifKVZsupFktDiwWUDXqK8GxNoiTz8iqwQfUYJFpbw",
+      "creation_time": 1791036584,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CYXLZ3q1qX8fW6wHUoXhNqfoMpLZJVnwtFYT24ogrvMZ",
+      "creator": "DXGjbdkayUHr43PohYFZBrpyK5i78qDpohrKBgSmMreU",
+      "creation_time": 1791036921,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "55RpFyS22rwGvaawiBkp9vSwBWdQMpUcL86QnmJ5pump",
+      "creator": "Dm3V4yitEDUDagQsvRid7A7RHnpyDDsEDS7TzDFDiBUy",
+      "creation_time": 1791038524,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6cgf5ktbf7iiRt4WzUsnhrEVGVFJyWNqju4Hn6WbanCe",
+      "creator": "4AyNP3RtZ7C3whZ5GCJyxLfhM6yx8cKM42eoHiyRt9Vq",
+      "creation_time": 1791036700,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "941iYHpSiu6ni1Gh969KH2hbNsz4FFLF3VS8u3RZ9yjH",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791035986,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H8RLxKJCLk23Batxif61QTCBEYqTotUx9L4MMmRnZwEM",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791038227,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6pjDB4uAYUHrKvT7CBkE9f4Uy54eJRdYCcMMkWsJpump",
+      "creator": "EtH3bgTn49zYUAu2yVTB1AqkmFhugoXQWMavnbmLCsYR",
+      "creation_time": 1791036569,
+      "groups": 16,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3RS5vNdMXPe37V4YAkDmZgibzMcJCUKqd8tZy3Zzpump",
+      "creator": "DYpHNFYdiAn9MuN7v1akagMCBM7QPzR5zJDg2wqCVsJ7",
+      "creation_time": 1791038550,
+      "groups": 1057,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ErgJJBbNG2W6THN3NtUkmHREC7PNXGgnJVD9xPF9TfAC",
+      "creator": "nicom4SDQP5PpqdMzJHGA5ZtLi3A8hCZxNjC4vQTBF5",
+      "creation_time": 1791039513,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H5bEnpb4b6EpJFL6tAvmKPETdAbWMTBnNwMfstxHg4Cc",
+      "creator": "9YKT3y6i5RhCiSodMRPHscjg9xUgUoz3Jydkr8PfWoZs",
+      "creation_time": 1791036096,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H71AFP8X7HUYM8J6RD3JSj5EUwbrWbVsZLo3jnHjpump",
+      "creator": "DqqGAycwnTcExG87yMwmJ11Urh6dQuW9BsA3qWq5PYiy",
+      "creation_time": 1791040498,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BS1fKeDqJzPVvP6yCAg5LFuKvQVXU4bUjSHeGX1Dpump",
+      "creator": "5ms8Nf1w16FUCShtn9c2LKkkaJcif5z889a1SBox2qPz",
+      "creation_time": 1791042967,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2bwQsuh3oWSr2goyvij2psAgpj13HFF2V7XEMwcrdBvM",
+      "creator": "D6n72pkjfWxPhAYuCqoMqQG7ihGrjLkhGzecDt12rwKe",
+      "creation_time": 1791041213,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EKEGnSgrEoX52dAB2xrbrtu4kKziTRzXyeNhfKZ9pump",
+      "creator": "E4FPggw9yDp9PNJDuRoLYDr6a5HKCsAterw3fygLpZEA",
+      "creation_time": 1791040071,
+      "groups": 46,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3FKiFxZ23oU6FQv3o8c2NyBTEJiKw2FafJvPGhKhYf6j",
+      "creator": "7PkYVdKB5EdFDon6dqXAjEoXJqi1ZEAHqmD6S3gEpXut",
+      "creation_time": 1791040684,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EFkAYLwTvuxE5sWABko7Km9Kv1AouckVEMBXP4g7DxJg",
+      "creator": "8YcbyX92UHTU23HZv3ccP9o13qibErQkKaUjoxqxd7SJ",
+      "creation_time": 1791042356,
+      "groups": 144,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5pX6x7SErdk7QyMsytDX85CXSeYBspuCpKTEy5wAcygR",
+      "creator": "AV7PjXHL5JXZ1YoYRoN9Dsstg1x2UciBupMCXcJP8gUz",
+      "creation_time": 1791042594,
+      "groups": 63,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "He3jrv19YTVWLt2qYmc11tH1KxHBtmzs8akJdaWPpump",
+      "creator": "AeF1DTZX93Q5CB7KCRxbajSmA2DrKb1vVBU8oXD7p1ke",
+      "creation_time": 1791040209,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+      "creator": "2jbsuu11hDQWrsFFv96i85YpJjMWN9Qqr8Xd3GXXw7LY",
+      "creation_time": 1791040948,
+      "groups": 1159,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "84F3b796jLLrKjxA5mpv39TyP2ARTP65B955PiPwpump",
+      "creator": "3q4wCtSwcaZSV8C69XmyDDceM1uNKDv6LQ8w4VZor3yc",
+      "creation_time": 1791042091,
+      "groups": 290,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5VXaBJE1FtSF4yJMipzzCfRSwKneDqMr18oNMVhfpump",
+      "creator": "Dw5QS98Zbji9eybfuWuhGX7wQohPag22Q8nDJWofKoqh",
+      "creation_time": 1791042000,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CYem3UXvb2W1JozQ57VdJWbqHce99Gi8C3FTmZBv5boQ",
+      "creator": "4RG8aHfG17uhMyFEGFT2Z4k2Q77BgAf5AedqAeNquUGW",
+      "creation_time": 1791041091,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BzqpHJ5idJg8CdJ3t7Et467oe4a6tU3oRWzGHy5Fpump",
+      "creator": "Fwcn8QjugGVxXuHdvoQQvVmTJMcCPrC1TaQiSHUeqbo7",
+      "creation_time": 1791042351,
+      "groups": 240,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3pC6YACaVVwzog8BHot3Gt9UcQED675X69zRxazzpump",
+      "creator": "7AkdCemHZniGFv45Z5dB8gFdar3KXdwfRVmwBeb9QEDS",
+      "creation_time": 1791042838,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "63hViS1Mi1RsVVNNMCndQfvbzc5QTiJi3xv6wKmV8Fuv",
+      "creator": "7xGuNdHPWtUpb7wF7EZA8QARrq8T61ZN31J5yTZ9jXVD",
+      "creation_time": 1791039677,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6rzVtZWHp9snAUuUF6kfwXAqiAa6tyJBLe3zrLjd3yDM",
+      "creator": "8yXHLBjcBYMkdb6TbWk8PV7ZLNiwuAjJiEW4drbXttbV",
+      "creation_time": 1791040656,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2FL4YYz85NbpYkmb8Pm4zWRxX9v1iCZWX74puPBXpump",
+      "creator": "3X5Kk5yYPVcuskqwhQiZ7CZkvV1QBoCXYCqayqz8ZFNE",
+      "creation_time": 1791040881,
+      "groups": 24,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7jJvuiM5AhGTkfGW9u88bZYetmgTTcSMc4oet93Epump",
+      "creator": "6DoqYYCCzcyysGAfWhPvFpMmBACRpu8YBM2aN24DDmEf",
+      "creation_time": 1791043065,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AW7xdc8qXMzq3uZaAHDEd29MpHJTbNG1N3XJzBkYpump",
+      "creator": "7xpY9v8RxMTTDNS63fLP8SBH6uLhqMvzbPPY5ByD33NW",
+      "creation_time": 1791040582,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EcqgvrBBee8v4h7C5je4vf7myff5VessSbrY5bQnpump",
+      "creator": "xJduBjoBtQRG5x7xS7dACff57b7c7uFQPij3QKGJV4Z",
+      "creation_time": 1791042339,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8vj1Z2P6JEdE9wvtmWaF32TpMYyxJVCQksqwurRNncDm",
+      "creator": "9nincEnzN2jVw3g3zoYX3jB3qwjDSJHKyV3QrRTzjjaF",
+      "creation_time": 1791039912,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4HZAP134ipBHQn4c8ZRKKW4kC8RZk2zE25fPLPxupump",
+      "creator": "2LH3udFpRTwvwUfMNR3MESWznWW57CbuQirhm3QmKJtE",
+      "creation_time": 1791040444,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7bmpQERZ6pSuwSrCUVx2GaLnzXfG8i8Q5SBKrGQypump",
+      "creator": "8AHBVaqVhWF34DbPoJKoMWhcr7qJDZUez4zuHjVeHdJS",
+      "creation_time": 1791041141,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3AbEPZFN1odRkEpzPxb2Fq3gk68oZfpLeGHuuWXBpump",
+      "creator": "CqG1Ei79uqsAYWGgX5G7mn5TCvXKYFXU5RwRPXP52h5r",
+      "creation_time": 1791041367,
+      "groups": 23,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C9ctd76SpGL557fJR3XpNNEHJGYpW4TVDiPbAh8sDZnG",
+      "creator": "DsJk5E8rxGy3tNZsF6SFYunfKHS9wkwCremwbARiZ34m",
+      "creation_time": 1791041131,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Cf5MZC4pio5WNq97eusxqApp4756zp7AuxeeRRa4mi5G",
+      "creator": "5FqUo9aBjsp7QeeyN6Vi2ZmF2fjS4H5EU7wnAQwPy17z",
+      "creation_time": 1791044681,
+      "groups": 21,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4LuGz5HmKsZi5ryDU9LcTH71J6K4rHWa5igotsjLpump",
+      "creator": "3LKDtvEW8bSanRxoRyBzDHRaWUGU4jL81dv1aPXERZrR",
+      "creation_time": 1791044770,
+      "groups": 21,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2m2AWRgT3jVYTnAqkd45fsFh9aEuR9dzpvYga9u1FezL",
+      "creator": "42Q2yg2WKncCQribdaTXC8sKisBnfa1bNyqkJqkhHADd",
+      "creation_time": 1791043665,
+      "groups": 367,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3iZsJpSedjzzbK2CX1oFcGPwh9XzePWo87BV5SXPpump",
+      "creator": "4BTDG4qqApccpBM6tWimHKtmj6xLKeZ3Vj3HyB8Gkf4K",
+      "creation_time": 1791046694,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4M6qbFUwBhyrJzQPWZxTUeWKBoT58xLxyjA8Gepb4d5B",
+      "creator": "8NsCU2i3yHrArZHCq4mKmMSv2ns9gpWmkN58pAcKiCdX",
+      "creation_time": 1791043463,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "uwauDZQ5KwyZ7naLjssccKpQxompea9xryZ7jZzpump",
+      "creator": "CTNHFQMWVEidS17evQ72RHeo7bYitFrPZSPTUsfv3Y2D",
+      "creation_time": 1791045346,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "E6VZq5yeHLmXwUD46vHxuHfVA1EhSpChm9NbVSpVpump",
+      "creator": "DTATqfqZvLbzH2X8pWZ3UNbj4Yr1gascCEJwHEpvzyC1",
+      "creation_time": 1791043251,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7NjqTS96nd9YJWGsHtjPPQNjdeNvWybbxCypKMb9pump",
+      "creator": "3iHzys2KtAy3Ro2PA9mMb4vd79qB41F8ASm1NdnEobHY",
+      "creation_time": 1791043223,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "1UU711sY2ep7NBQyDVLuGUwfytCNiKzbXzFbYs1pump",
+      "creator": "Bc2cYjyL8bcsbq6vpk3Y5byjpwVscqVYwfXJ6yz3yWJL",
+      "creation_time": 1791045120,
+      "groups": 1327,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ACFHvGN1VmCyAX19SU9UJkfMnoMzk3XpgSbm3LXgpump",
+      "creator": "EMDpiP3pEcEoit8MEqsSXPECWGM6gRd56PyosfwLgTBT",
+      "creation_time": 1791046218,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AqUsqVuJWv9V1GfDy9GoYMF3qxTmadC5kNq7tizSPkoj",
+      "creator": "Cu1HKpLLCDNmW3vdKC814Pwz8RLHSxuyuSzjxAq2doZe",
+      "creation_time": 1791045215,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4Z21B52Egy2WMkBYbPFxT6DhuskZwkbfC8PKBctBpump",
+      "creator": "Edb6y5gMuFkrKsm5RwqMSGBW7BNwZsq7kweiGJwjHC2p",
+      "creation_time": 1791045888,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AtPR2zYhKdmP3BuPACx8hqpkFmoQam8P9vimvmHupump",
+      "creator": "4pqyHrX9ivUcREDkn9yUixu8YzoDBcaEZ4Qh3WfCMcBV",
+      "creation_time": 1791045065,
+      "groups": 56,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8Pi1iAJ8SBu8xhRiusvFHJGPUejxFrvaLbN7woL2pump",
+      "creator": "CeusjVQW4LtdonehzUeFrENxxmAn1oYUEW5iMDQPJ4rC",
+      "creation_time": 1791044244,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "428XoeATaMDyRfwJjysrkBUPWscZg3g4CPTxF8dHpump",
+      "creator": "AcWKmC3matwpqDLEwMMkQSPn94TQJ48N2gQpkHZXjjqv",
+      "creation_time": 1791044604,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EYWFWcSEh58fNRPGhHtfnZN5oa1VbLswGxJbnRAZPTME",
+      "creator": "AEfWNkeN9PY8yK8PMfn2PG1itPrQXWYQVbLGFLqxenD2",
+      "creation_time": 1791044891,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6pWE9m8Da58MzDDhndLdw1jA3kjNC91EHDJAPhNJpump",
+      "creator": "7ttyTk7DyFX3rE2HN8kPe5REV8FtrkPjq9hHRKoxv1D8",
+      "creation_time": 1791043816,
+      "groups": 32,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GRwR1RnVyZgdpc25E9D2WJwfahktEpbDPYGCH37Qpump",
+      "creator": "68RykMaqVcYoDL7Lp5jHurmvVH8ctpRdRQEK55m8KQr7",
+      "creation_time": 1791043882,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "A41iUV5vRUip3tVDt3oLMGF8irpyr2iQnKHpFL6Upump",
+      "creator": "9pWAQxWXebxv5zifLXyh7BGAF7qKH7bmMs42pSNYeZuu",
+      "creation_time": 1791046176,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ha2yH65FpL5ohrHQkp2w8WLfmhfsoEiBybrtWMsppump",
+      "creator": "FMBwH4LHDKCPv1fE5odf5F4bNvNtHDwGui7FKB15gPfi",
+      "creation_time": 1791045535,
+      "groups": 52,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6mCFMSPPCEt6VhdhEPKAoucqLsZS2Gddwu8b3y7kAiKo",
+      "creator": "74wEorZpAGXKvkzyJnkq41hNv83ygvAkczkdoKpk6UZ9",
+      "creation_time": 1791045603,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3maVzDgSmWpFaDEkPfZhURxnH3br1wWRdowivUuaRjZF",
+      "creator": "9GaTprRi5PqZYiuBAaYujfp5Z9cagYCKrvEPREsv2ti2",
+      "creation_time": 1791046249,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "dmZPaq7nJ1SWhzEY1NYoDwoAK6xoF7KXsA9hrmApump",
+      "creator": "uFMSy1ZMvmNeMQRTijreXv2VAtoTeerHWzXxfqrLRWR",
+      "creation_time": 1791043970,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "KqfhCS9V9f4gGvGyEMKyQb81FiFsr2u5cxzVFZXpump",
+      "creator": "7aTi6f5KRX9x6QLGcxZkRpd3bDx2Nw2ERmScwuuwssDx",
+      "creation_time": 1791043516,
+      "groups": 58,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7LWFPKYtPzAPCcCvEbjyobZxnmwfi7GEnRZkBvacdXUJ",
+      "creator": "BaH4BQTGJ4s7xpbpj7Dz19W5CsNRj8fmQLX26aBAPJPn",
+      "creation_time": 1791046462,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6tYWEFGcRmA7pvqUVauqctggGnq2YsMwJej5Pec9pump",
+      "creator": "ByjBJFxKh1iQG177NdEx6Xv9Yx7BZnG9Ctp2Eg3rjuAy",
+      "creation_time": 1791048527,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GBceXsfAUNNezw8HGBU6cWzLoBdYP34kCruXTqDBpump",
+      "creator": "BXhFAsw7RDxbBNNyeB3LZCE6Nx3vkjcjkMZEo2TtF4Bk",
+      "creation_time": 1791049570,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3SM1WA5h7z2z1mhfLSctVrSBFCbQ96a81kV4wirzhQCF",
+      "creator": "DQ7nv9jHovErDCBh9UuYJ3nfz8WNUFrCzjTDt7ZXqFCB",
+      "creation_time": 1791047532,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CvNB4wKEYQDW2JJGh8BMqybdeEodk9HhSYXybhnCpump",
+      "creator": "7XcnfTtvoF9XoviAprsLeFuNA3NMwvH8qdTXUyE4Dhoz",
+      "creation_time": 1791048825,
+      "groups": 58,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6tVLpEmSTFns6EJ1459uSbm9PDktAc4WCVrmEeheStoK",
+      "creator": "9bDoBvuqg3C9G2EuiQY5Lwb1PNC63xjs6wyd9SkdVxAf",
+      "creation_time": 1791049837,
+      "groups": 18,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2axo7t258412SX7YAmC3XnnDsQ8YALnckScdKh2rwnnd",
+      "creator": "649zbtTTsS9j7pqujaGAgknNUSrBQUcQsqDKs3jA9dYT",
+      "creation_time": 1791046966,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5fdoPFZJAM2EBeK8w9oGQK2gCJkFwrmHXZumeW9mHb8R",
+      "creator": "7pXFG6kdZ8mWxtu8rsBvcP5cenpNJz7w4bGieV8c5W8r",
+      "creation_time": 1791049930,
+      "groups": 38,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8bSyLJihhDoGBWeCDdNg6nDaLZzqbd9np9ZepAqKpump",
+      "creator": "9eZU9vEvMEvYjV6NC7xAuwSFSsQ7vuvZGczbJ2Niqhze",
+      "creation_time": 1791047863,
+      "groups": 46,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H2Ph86NfoQ9mPBZyHiDmCgKMwP6t1K7ZDCpfBu3Hpump",
+      "creator": "H2kANM1zFKvTKWNSy4UZcPo7oWxJAKXuFVcb8kDtm91f",
+      "creation_time": 1791047709,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "TVQNApjqbpK1pdtBwkfJ1cWaSCDiiVYNbHk9g1UQ6XA",
+      "creator": "5ELK9hdSdEWdYD8ERV9w4xuV5mF5zZ5EY8HdXzwQ2r2E",
+      "creation_time": 1791049588,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9o6wcSFiXX6kPekLadUXHu44W5o64ZTAYAY5mdZXGmo1",
+      "creator": "3hMTk3quEGHuYzV2C1zjWchyUtkFRYLPv4xNSNZAjrLj",
+      "creation_time": 1791048226,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HdE9mkpbLUeeHkhy4zpdANP29m9DWLTkseVTPn5Vumij",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791048968,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8RjHh6UaYrYDaPh7FS6V2EpBaTKYaP7EJhZwJZJLzQxg",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791048864,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FvBkrfX4y8pCK9Typdcj1j3FRo4byrJsYYb8qwJPpump",
+      "creator": "9V216UKy2PPJY3sh5utDBks5X7e3HuPbUD7zGUCZmPg7",
+      "creation_time": 1791048192,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5jDpvs6KDRBaHfLsRq63v8WHgXSe5BvEek7ojq4fjdeM",
+      "creator": "897GsVaFTWsSqHsT8Uiwsfc7XXqDBCEGcofmq7nRmEPA",
+      "creation_time": 1791047199,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7t3Ao7m9AbNz3KJSN7o674wAuK38fJ28H56VKWTMJA5b",
+      "creator": "5ZzbtzTERf15DvMUEhTsVJmMoByP5Tz2CYbUkWjisvt3",
+      "creation_time": 1791049666,
+      "groups": 56,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8GJF3Be8S5sysSJBxmn4HpBJe4oUDxHmKdihKic4fjJE",
+      "creator": "5FhzMbvctKpPD2scFHBxaGPGphsu9Vq3TtA3NWRpayUJ",
+      "creation_time": 1791046868,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CntGu5oHhs3iRLb2GybyBwrfL1mU3xyYf7HNpaiBieY4",
+      "creator": "5p1TTxRano5HCLseXTyVvTNiN1qbXjCmv8YwbUTPvbVB",
+      "creation_time": 1791047315,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HHaiMHAFmY51fLiiPYjLsSUFSRspMKSjVmjtJTPrpump",
+      "creator": "74i5T21JqxKvQpjc1xHgoFPRgTAYVdvoYHbgf272fdaJ",
+      "creation_time": 1791050220,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "49E6mnZCY395WqohQcuQN1BmARYQZGy338ewexYLJ56T",
+      "creator": "6ZETh5NvqyQoDip4vwvZKqkTkKb9QUdyT21y3QSgbEyk",
+      "creation_time": 1791047084,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HRZ92wX8xgPJ1YuZmrFmE3XTfvEd34f58JJ6nkVJpump",
+      "creator": "9SmxBVcqPppPkkEp9mFXi2WxLs9GFLn7sT5rmVcinb2E",
+      "creation_time": 1791049568,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BTZ6DP2FH5X1uZPMwSNSn5QqP8hKeb6GF5mzxrVzpump",
+      "creator": "2wrRKTzGNVH2JHKhgCR84R2YY6ECDaowBRaiLYchPqNs",
+      "creation_time": 1791049466,
+      "groups": 176,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6PnnKf9Bt7EoWU1Gy1utGCJGBwcCW5aA8uKWXXYyr5Q3",
+      "creator": "EuR6qs3FE6JhPjCnhkhbBGXV21yg6244XmtsVEUJjg4q",
+      "creation_time": 1791046907,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DLW15ucwKpi2W6UwnJso8Q6nWcxRwPyR6ktQZ3vjS244",
+      "creator": "DXdhypLpwzkUUxaU4ndgjRJH6oxGZTCmR5KhTMyvUxQq",
+      "creation_time": 1791048792,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8yUaudivFi7VdBT9FimNn1ehact2Rz31VP5kHfzB27Lf",
+      "creator": "Ccbn1dq95sEkQHajfnhu334fdjU1gibsfqySbzZgPa1T",
+      "creation_time": 1791049580,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ge78YALbCukCqvGxuBBvqcfeWHH2jhJXBBVD3cTfpump",
+      "creator": "8iiCjLZi9sXrHjA5bjGYrJkXbFVz19Jw2TQkYX5ggfKH",
+      "creation_time": 1791051387,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HpEgcBvy5nKyKjwdHV6h9ZEWXyag5AmV3Eei2d7fpump",
+      "creator": "DsZbQkTkJTWZF5EvadA24NJsa2GVhu4asmNPCPUtzen7",
+      "creation_time": 1791052099,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "91mEk21DhgCMn7zhaU6aAkMPvu5ZzHuoho3F4PEDpump",
+      "creator": "HVXNC3aZNUPM8r4UohVe3ChLUpprF4c6CoufpnyRz7E2",
+      "creation_time": 1791053027,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6mZVXYevD2mHb9xsQFnmjB9SjzDRLTSDFid47T3fpump",
+      "creator": "hbv7Vqft7AuJE9UD8MAtkjdSe2gstytdaGnSecCiqen",
+      "creation_time": 1791052098,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5mH3r1ms1mv7TVNgLQX2GPb9s7x2Bjka8ubrEx3yxBxj",
+      "creator": "2bRoascfGCKkRnyZLmzJh7cKpiD45zyEzUmg9XPZzueC",
+      "creation_time": 1791050356,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3Fhk2dsX3JSegwhSV8xaR6Yx8qCwvBUCRfUiWj3tpump",
+      "creator": "AG3bDyo7VngFpLWXo2w1yE6hhUVkZS1B3qvvK6dvkcJz",
+      "creation_time": 1791053506,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AutgnzkQsZDPF4UQTk5eGQ4afDvwi3vX3HF8h7maCA1i",
+      "creator": "48XxXw74LCPRaKGPS5vD6XnL4PKs4g2mW5iW1zLC4uUE",
+      "creation_time": 1791053418,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GowW17EFGraNWh44KjEgCZ4yZtfuekvM7HB4WHdipump",
+      "creator": "gz6UHA7U7TMYC3eHQ7aDfTiCn9mtExcd1Z12HdFYF1f",
+      "creation_time": 1791053913,
+      "groups": 131,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CLN64uNnP5AQtJwLn7m1HC4aHS4gAYWATPxhKBnsUN4s",
+      "creator": "HJPnM9hsFB65pYCAbZezffstL5VjT2fdMaW4UCN355XU",
+      "creation_time": 1791050829,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FzcUfP22ttXvXsrg32FnbGtmUsybnayCVvBW8MUXmEcC",
+      "creator": "2wCLrozJYQFKjiiG5E1BvWPLkCLANPrRLAFD8ath8Le7",
+      "creation_time": 1791052261,
+      "groups": 255,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2hcPKT2h46AypRTx5UfFAB4RSUUrdumc5tJoGtqUpump",
+      "creator": "37b9Vi1AeAE5HcU89wLrTmb3ymvYthUrY5SgHYzAQwTK",
+      "creation_time": 1791051143,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DqAahx7VQJ1fNPKbpttj8nvuahX9NyuVAUyKT5a5tvoF",
+      "creator": "FiKUjEaoPhhpz4h9AcpZfEKHEUvkMbPFdmKf7mitmvYS",
+      "creation_time": 1791052551,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EjWJxdT3X5r42ZR8994MotDTmFPXDHFpEgWcUudXpump",
+      "creator": "E4cAPsiMjgxTt4HUhmffV3j5PAYVcGSQfm26acyP7SEP",
+      "creation_time": 1791053299,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4L8ckhBmUFgDjFuXBzM5rzqnDQT6DK5v7Mh9S5qz12vV",
+      "creator": "4LvCXbGgUQ6oMJiomY5LHrXV6brTtgwgmmFgtKmoN5Ze",
+      "creation_time": 1791051460,
+      "groups": 880,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HTWVwVHCnuwFz8ombhtkEZyaCXk2hUY9yqjLpXPGpump",
+      "creator": "8iiCjLZi9sXrHjA5bjGYrJkXbFVz19Jw2TQkYX5ggfKH",
+      "creation_time": 1791051062,
+      "groups": 101,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8NMpve7xVKvB94D2EVKkBm4nbbvSMJs2cPw7Avhypump",
+      "creator": "4Y6CVwLYXNB6fXWk8QrLbAdaVhxZhoC76ZBhxwFKvuZa",
+      "creation_time": 1791053043,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HawVx6H3ws7V2KY1xpTH3YwQqAAGAYwMG5qcqn2si5BF",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791052830,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7rimrHLNmC6h2UcEmADtrgw3oFfZVapNoM4x1rqbXGu",
+      "creator": "4aPJt41qE3MJjwwN9fJzWJFwsYi5j1V3EG2Ex9Xi2WZg",
+      "creation_time": 1791052753,
+      "groups": 24,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ew28bgEeeUr9N6zxDxxwjf69uTpuV12e26npEH9AZ3Jh",
+      "creator": "CLbwsTWkX8CcwYRLSvPXTbSo1684L9MFYNr2Mdd4x2sG",
+      "creation_time": 1791051339,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JBGWyndmbqzr88MKHnWBZQkd5dF4QkUNZxtbAVNC3opi",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791051235,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6cW8Bcy3DddpJLh9e4ZTUDXhZsnkhs3L2Zetg7aTQnDz",
+      "creator": "1Qb1oqHs2qKW8BR4UmKPLTc6Bk2kqfRZGNZF6N9jg62",
+      "creation_time": 1791052148,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5JJU4QUQNwE1X613iY7g8PeDFURQdrzERQJZbxgepump",
+      "creator": "7yX8NCKzgZkEcWdP4nLDWiN5VyqBYLh3qSemFJHhftGj",
+      "creation_time": 1791053676,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7JUKgZSb2GgKeLxFHHzYHtx8a5UGKP6foVTPVs1Upump",
+      "creator": "8w4361E8zWpjmM1yrQSWZLrpAw6YSiQroHGndcbS2cdX",
+      "creation_time": 1791051987,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "zRdit1dciAC5EbKdE4K2xM8LWMa8pro8YbvMECV9o9v",
+      "creator": "9jasxUBn1a22sMdBtUD9dAJoE5siw2YPPb89hmEna4AS",
+      "creation_time": 1791051526,
+      "groups": 421,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9Pp2twWASm371xYS7XvCfMz8ctwfnpb3b8VX8hAgpump",
+      "creator": "3ucyz4VkkRTmj1TWUYvVPMqcsrtzSS4iTNsBJdh6wHjM",
+      "creation_time": 1791055323,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HhSEVPicpeUowR9ottqSVQMaqJY2bMXKaHcbTSGapump",
+      "creator": "GKpmrxAEcRibrmHMzhq6jtZ48Jrr7X7Y5zmwLpH9DCBM",
+      "creation_time": 1791057148,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9BenaMeegjDL87qjc8sJiYBCW9FYLx53t5FwJuZsvRKX",
+      "creator": "98UE4at5o1dctijxeCFVt4CfuadpEsxBhbpB5BAGxBmr",
+      "creation_time": 1791050746,
+      "groups": 1074,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Fywqd8M5auzyvPfvmdwjKzQfeBpN7wQaU6bjTdLcpump",
+      "creator": "ChCAhvJPKzpVSoKf7rVcDNhSb46CDNmUoUd493xUGk4K",
+      "creation_time": 1791055744,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5YympTkDLnNWigUuZo7jnNo2M2HFqfRi7B7EAtipump",
+      "creator": "3ucyz4VkkRTmj1TWUYvVPMqcsrtzSS4iTNsBJdh6wHjM",
+      "creation_time": 1791055655,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CYpK7XEWCMo511LM6AKnH7WXZYpo1q12oF6q5NYtpump",
+      "creator": "2QHRfAxwmkoFYFyXgTty3hxvq87XAkfL5ZwckZ9hWwEZ",
+      "creation_time": 1791057337,
+      "groups": 20,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GgF83DXFk5owN8B1M8o2khbLVWAGV1XBwWMKQyd8pump",
+      "creator": "Yq5UN4DKKdsjUFsps3eqprVK8snbEtPVatcMxHQs7uD",
+      "creation_time": 1791053948,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GJ1P249nTgokbwP5DjQY4negXsnnvBYkWmBxT4cxpump",
+      "creator": "5MHULRgxLVzmmGKwPy8nNBy3w3dvid3iLmKYeHKdLLT",
+      "creation_time": 1791054046,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4p1ixw99B1WqxzE8cNebBj5RwkskeTqf2XPzo73jpump",
+      "creator": "AGA4VQEjbExY6osGZruSTjMP5xQh2GNEsb4YTxDqLyFW",
+      "creation_time": 1791054888,
+      "groups": 26,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HCLiU4iuDmryk26tAXnEhWs7GmAZKU39W5BKqdHApump",
+      "creator": "A5ZFLvSTfToRFCkKXxjc7TdaG5isVtAJTVwkJg59TsFu",
+      "creation_time": 1791054279,
+      "groups": 165,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FePb3tvpRMao8KbTFpL4ZFm9TuPNzWgYCbjSXyBMpjTV",
+      "creator": "1Qb1oqHs2qKW8BR4UmKPLTc6Bk2kqfRZGNZF6N9jg62",
+      "creation_time": 1791054233,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FGrZ52vHRu3tSz1NAVmpbM96LkdYsjHpyJWgtXyc4Sxh",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791055045,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6mn3CrBR8Gg44uvuvLNS8iESHnxNHLLMxzDobiY9pump",
+      "creator": "2uj1qqVJ1P5C1vp42t6seBQF2iw3S7tWcoWZfXPRjXGN",
+      "creation_time": 1791056326,
+      "groups": 536,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9bhZ24A7XCnNhbKazfBy1mPpuzpTd7aU1pqsETiqwdjk",
+      "creator": "6qYwbJ6qApSvBgXSPgxb4EZPsHv5aLJ7Qj9hhUvmKQR7",
+      "creation_time": 1791056712,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5t5UXxhdL2M8Y4kJcquheXuZEdKWYGrfMfNz1t29M3nL",
+      "creator": "5cUKotwPcfFkoKkhrRHqo1kBrzq2o8cxfs5o5WtFxoMy",
+      "creation_time": 1791054755,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Gy9ApH8StTxPmfhqvjnzZeFVsft5n3oJTcJPoXW8BjUV",
+      "creator": "GEKZWL474tFAyYDUoTgKEgYuMxT3Se7HzKDDptrnXnvS",
+      "creation_time": 1791057067,
+      "groups": 33,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8uBc9omy8FDtXwnbrYfLrYTekW77mDnBHWSMSabcpump",
+      "creator": "HBwyMwKZCk11m3Eo5vinDr3XMEKLuSTwhyuyuPt5hN3L",
+      "creation_time": 1791057266,
+      "groups": 496,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3PAorvHVFgCyRYEzVRibv6uqDcFGSmDqoFBuHKy5pump",
+      "creator": "7RJBDs5Se7Eesgaj7s1SH2vmTm26LWEtt5gFaFERiYEf",
+      "creation_time": 1791056889,
+      "groups": 16,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DqvWj2EVUeSouoos5Gw99VUbnJ41U8hVYxRgcyuhYr9W",
+      "creator": "4YExARMkaeCQAr9gSM3EvwNA9mimrr3AKsT2ZPnPzVHF",
+      "creation_time": 1791057331,
+      "groups": 24,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FSTLFX8gybEGkp5wbp6ZDKvDY1oAqwEzsTbb48JTmmDV",
+      "creator": "FHB4T1PNiLTkQZed25kHebRDmPiEw2pDYMitA66upFkW",
+      "creation_time": 1791054499,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GRkB3hGgQpSaSrxFKa8V6ZYZrVq3Dvezj7XhwnQsAwLx",
+      "creator": "dLo2VW12MPhPAH83AUmSDLCakjpUXBbybH5gvsYGJtP",
+      "creation_time": 1791054086,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DWXc5Pr2VVFLdq7ZkRmYcVEbammqWjU3AY4TU3hgcm53",
+      "creator": "dLo2VW12MPhPAH83AUmSDLCakjpUXBbybH5gvsYGJtP",
+      "creation_time": 1791054083,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8xMKEkLrMxLwSkwzeTqvvhUHYf4QQMbk6vx5ee8zpump",
+      "creator": "A7z7qQax1UW1squsyV3AkB7WTcXWzKYCBVjfR4uhNc9N",
+      "creation_time": 1791055880,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "59iAfLd7TyVwekN3efiA81Zj7BuTDSc59JcfEh4Ppump",
+      "creator": "5ZJ3UVfeJyGQ2un3ZymYfJVhb4eVpXtstz2kufgLFLQy",
+      "creation_time": 1791057535,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CyN7pyBtNmenjLemDvZLsw4cQWXLpMcQZxXM73YvQhNL",
+      "creator": "7ZMNATMEgTRLFtQpDL8LmVxhvDErCZqaee3L6fGYYKA1",
+      "creation_time": 1791055095,
+      "groups": 64,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7bGrV6cyryuSBH45ry1A126RweLNdXsJE6f7gqUFpump",
+      "creator": "FboZtKUvbNo5hoLXeboMRhY6JFJW9jhFdq6AsjQyv8Dz",
+      "creation_time": 1791056908,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3ZD3uPF5HT5EFZr5KmjQp4XohS7p8zbQPEzzsCyXwFzE",
+      "creator": "59Hz4MKAcpPY31nnNUFz1dwaqw9Z6nhkTgEBPf91kv2X",
+      "creation_time": 1791058752,
+      "groups": 19,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HRfKgsvBAfD5T3KAJm1fwh1TtinthXMgtqBXVJAWpump",
+      "creator": "3KV5cjqTsehQoawMdZu48C22kGp3FtijoNGuKBY46SAP",
+      "creation_time": 1791059499,
+      "groups": 18,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7mHEU5JkhZe2mffra9SyTHtkNQXtSMZougkJDrhypump",
+      "creator": "J2UZu2syH5jfQ1io2dSgi9vWfTdeWv3X5NzQnXyX5Tkk",
+      "creation_time": 1791060765,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "88M4yADu1yXRndeqDEVjDsXSKfbTRoUGtzkpaDpzpump",
+      "creator": "J1ekq6b1STN628fGra4mzHWqhdGrjBDSqhbm2Q1FkJkF",
+      "creation_time": 1791059649,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9EvYikq26LG5W4wQHcR2PgUN1EKd9YQPx6Np2dgkpump",
+      "creator": "FkLjrPEMVX7vD8QRJ7VHQ6LhCgVjg5xUVnwC8uXr3xvh",
+      "creation_time": 1791059018,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6aQAn5X5NwcSAMw7tpZP4wubNxCxyG9YmSD4mJiLpump",
+      "creator": "9T9SLkqqWYLABNnsKK8oz1p6LUTk1WkZxRBi3GQtPRAN",
+      "creation_time": 1791058468,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HbRgq8n9g9pwVZ7wWAnB91CCgkRn2D8u6qiU9MhQgMZm",
+      "creator": "6qYwbJ6qApSvBgXSPgxb4EZPsHv5aLJ7Qj9hhUvmKQR7",
+      "creation_time": 1791060082,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5F9sgzgR1gZbP4SXUXtyC9NJXrdrG75vMmLL4q7Jpump",
+      "creator": "HdxBWGY9TkpEfNGMstbXXNcnCjDRvRqUU8S5ngCyM7F5",
+      "creation_time": 1791057742,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ECrPdMAtgm2JeyLksqqeiJiaNuH4va3upsPAw7WNrhJf",
+      "creator": "6qYwbJ6qApSvBgXSPgxb4EZPsHv5aLJ7Qj9hhUvmKQR7",
+      "creation_time": 1791059672,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AYZBnUsgzjHKfn2gBnUGKKCvbervzsfkzGwG2wso5BdD",
+      "creator": "6T6pCQHRJD6semwC6czHptNhgyW51fAby7KCFhUxoxQt",
+      "creation_time": 1791060264,
+      "groups": 877,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3NoxxgHkz5hs5zFLXgwe79FRBiK4TYM5LPtJpFKJoDEV",
+      "creator": "7jW7o9Vso7RMVXrYN6FqbALLBbDcTbZ5GQdn3rCpeTyu",
+      "creation_time": 1791059949,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Fz8DrU4U1CeRiH8spmqnf8k4CnutaErjNUXUTQpipump",
+      "creator": "CGJWQssEpGuczSfXLThhBJscVRkKaSxR4gzBJNTDdAUv",
+      "creation_time": 1791060791,
+      "groups": 128,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5rMmqxqNeZfwwAJwVCfaqANGmxcd3wJFAaTmAK8Wpump",
+      "creator": "5J8VgNznm8J4KRD2bURUEDTaTnzJShYKZUdimkecUePj",
+      "creation_time": 1791059862,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EbkH1Ag8DdAMvar5CgrjHEgqr56REm1T1gQA6pZ1pump",
+      "creator": "4S2UJ8WZ5gNrHaH7ZrvEdT8bTCAPHUpxv53bzWGnHf4r",
+      "creation_time": 1791061026,
+      "groups": 24,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3RVqSAcThgWvJsK6phgdPq92k1fXBgHV9bMjSGkYpump",
+      "creator": "juUJiLGsf6oh3xPjkTGDwvFiegGubtRr21j2fhWBea5",
+      "creation_time": 1791058538,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8MmuWaoYjinyPrxp3Py9qWWstj9yZegaFZ2watu3pump",
+      "creator": "6mh7AivxT6Kxri91MAXt3AfaAni2pfrRsuuaX6hxXMdC",
+      "creation_time": 1791058218,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2y8hbnFydgcmFkedTktxJaMS7MWeoeWf8pK8X1YbznRf",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791059084,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2CCjUsxXyKMPHi29NQW5ihV1bnA5J1sAffHSt6fujE7z",
+      "creator": "7EvuC7mQ65DyKqpn42TPSCNNMFUtKYAXFSV9euyhb8a",
+      "creation_time": 1791059566,
+      "groups": 34,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HLZdiY7mv7iThgyzFMnyqdCbahVDiYo3MkWPWrTjpump",
+      "creator": "HdxBWGY9TkpEfNGMstbXXNcnCjDRvRqUU8S5ngCyM7F5",
+      "creation_time": 1791060165,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7obZ1N9p59MnobGWwiXZc2FcgaabncDp4zqkxUn7pump",
+      "creator": "8NxM2aFx3wSgQJyiXCfauGRom3B53QeTNoRdbiqKTHbQ",
+      "creation_time": 1791057573,
+      "groups": 307,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DH9xXZ8UHfAB7eggKumuCa9dw4eA8BFyowA3VDCGDUaV",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791060310,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C8GemFi1XmhWRHCKArYM4YKCfq2y3kv8maY3VCFaPXRd",
+      "creator": "3qNVLWqz3w6fU268VKGwg7fcXZgqhcVc7MMApMTax5ap",
+      "creation_time": 1791060611,
+      "groups": 265,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HiU21Zwv2eT6m38EUig63KiDWLCZDB3EQqa1zF7xpump",
+      "creator": "E6rJJjDsczAzAdnCXc6MkprrW2qyi5xbjemmSH2qX9ra",
+      "creation_time": 1791058236,
+      "groups": 57,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4vW4mrtKSDC8vxeWhBkTnzs9xdSaS2KFnHxCe6T2pump",
+      "creator": "EWw7w4YznVc1SEbpFCeSV1Fzt7hSKNZvFp66M9Wokpmn",
+      "creation_time": 1791061110,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6VK6jzv3RZtLyA5ZQwnKEXXAzgXixj8D1QuB8gKZpump",
+      "creator": "ETLcwHbbNNtPBv7VZDQgF68PLturuX8Kh7yKXa37qV6D",
+      "creation_time": 1791064153,
+      "groups": 31,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9eGF4YbTxykVNSmp2gjrjhwi6wunzUJVnZVpNTNVzBN5",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791061512,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "B2JcDg4PGggCUsmezM5UBVHfMdestYKHUTfM9reLpump",
+      "creator": "9pkJqJLtefuna3GLtKZyF5DBWwEGUdxZUSGCmf5jZhA9",
+      "creation_time": 1791061572,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7xjimvRfZSWMWEJfTLgzxj16wSPVf55rdnBrGx5Spump",
+      "creator": "EmRq1pSt9gjAVCaT6pzX5TwQW4HhAwmhWbEXuigxYSZ9",
+      "creation_time": 1791062940,
+      "groups": 31,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HVvRsdUM1jbNNJDNbWZER53FPy3yPzRT7SVetUjxpump",
+      "creator": "AruZYiU9ZvdeNfDL2FjFsLdHkGYpnnnHfTBwKdr4SydP",
+      "creation_time": 1791063724,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8dgwBjVfNnKfAw28TmiJKZeFXsqyTmMv6NBJaFqZpump",
+      "creator": "8APTLiBWLz6FM9Z8QCzycjxbAVpJTKPTq4fLnAmwseuq",
+      "creation_time": 1791063105,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4cVBddB6VCuT2DCCbXFJ82npci6t6sGJYNUcZH1XTDT6",
+      "creator": "AeRqjG8WL8uGZb8hmmrCByADo4HzBeZXtGHakzBBtsXd",
+      "creation_time": 1791061829,
+      "groups": 643,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "B3PLws7B5sWZ2FAAzQoBTV1DWuAmFKtudhZvmEnzibbf",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791063126,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ES4abNaroZXmvH9EeogQm9tw2yvgcETmhpHnSC4XfNZu",
+      "creator": "7YjGdNm5QRm95AJN31rCY8Ndc2Zofw52wSUhVCzs4PXp",
+      "creation_time": 1791062904,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DsBqVXRtKeWjZ6CMx5kdfkrub7isQErtrFBuBPtipump",
+      "creator": "BKKdd7kRYCzMFbGLWTsfKLGvDM621AkQpLhLGiuYmrgS",
+      "creation_time": 1791064463,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GoVqNQSAVJs5bmPy2egoKuN7va57CBrj1xLFzsR2pump",
+      "creator": "2iQ11XnNUzncqmQ11sY66MkPSzVovrPnBTAmEQJHn4Rx",
+      "creation_time": 1791063150,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EgA2WGL9Ydk6ma6e5BaC4Wg38Xa72X9qCLLLz551pump",
+      "creator": "4dVFtSfcHV7nHcLEQC42XpzUgXW85M3eRJweoF32WpJT",
+      "creation_time": 1791063829,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+      "creator": "H1NNcTBHhoQixmddnHNaNUcqqCpvhNAW4pbAChfTV3Na",
+      "creation_time": 1791058805,
+      "groups": 2658,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6hhMXJG8qFQKwrBJL8hSjXJ59526fAx7MJsAWAuQ7Ss8",
+      "creator": "41k59cQqxuipGh2ZsvyyngQRjxmBPHo9phX8mtx15GCu",
+      "creation_time": 1791064167,
+      "groups": 245,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EjWuLhZPygMmX3JXMH88gcS3yeq1YACh2QCqBx3ogvkm",
+      "creator": "Gw2EJ1rbesR3r7i6UtfoikQustGrobiznagQYYZ546Xa",
+      "creation_time": 1791063616,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CRZ28qh1GuP4vdDTS2vo4eaXfoKUTdrvJfEjjrTpFTHp",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791062977,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6hfdQikqysY3mYFvphuBVG5ETyP6FohS4WtS37uSLpp",
+      "creator": "9JjHq42dsURkmq6H9YJmX1JePzH1f3UbD7ARookZ2tqK",
+      "creation_time": 1791061374,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AqAsanUug8X9eVkWqvWkwhXpL9UV91Cqr2nkHTpveP3S",
+      "creator": "5AgcfqtVic4k44NWKZcXGfbN2BETSjfHkuyFDv8pJE1j",
+      "creation_time": 1791064035,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5CxbCf8tWXsS9ea1kV2N9zthGRnWaRykhxho8tsRuGgt",
+      "creator": "2b12xoNnU81uwgX26NA3ZzfYyqjciNJRdB9M2nuSxyYx",
+      "creation_time": 1791064215,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "aAJPjr7cYfNvo6G3PQC9eabkceTVkgE2t8csJKuTqh2",
+      "creator": "7YjGdNm5QRm95AJN31rCY8Ndc2Zofw52wSUhVCzs4PXp",
+      "creation_time": 1791063086,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DwhAvEHe6CZRxbAXhdTbNQrdsczW9fehW8RxsmxWpump",
+      "creator": "5VduzJd9NYdZhZp8k6h8cLmf2rneZ43uBJm23QgyMHMr",
+      "creation_time": 1791062676,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CPr8HnRaj5229CYwiSpobSvgG3dMrq3L8m4ffNTum3hD",
+      "creator": "4pjMdhNJTdd1ayM6XHWrydxZjR8TKiLjSEBLYxsfSTJ7",
+      "creation_time": 1791064571,
+      "groups": 43,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9eD7vnuUmfUQHJivYQbhXi2wLNaC9z6TJvFnY5xA5ec1",
+      "creator": "H3kPwJTDjbdNXx1NRuuNqGM6SMyg91yD61roRBTGqwSS",
+      "creation_time": 1791063919,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GG67SbWXZ1NE1pMq1zsHmtJEgjuzKPYNaeduaLopump",
+      "creator": "BVbWL5mRfJP6nP7ECrGvYhNZZzv51T2bFVbKFnrkAX7G",
+      "creation_time": 1791064255,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GmXA1NgUfMHZMDrEr2FKTkAEDszcKZva4FjA5HU9pump",
+      "creator": "2j7XqgfQQgMuWNaCvhqAkydKB4YA76mCJrxfXk1z4TvZ",
+      "creation_time": 1791063846,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ArQ3iLzs2sbSPjuTLeA8e3TaSuEGfFYcxU3mLks9pump",
+      "creator": "3mTQ2p3M7bVYJhi5uE17pEnib9j8PHymbkrMKv8giDG2",
+      "creation_time": 1791061785,
+      "groups": 19,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ew6yoxHFTbq7Xt58rcJpu8bLZq2rxjyHTsJeJ1Bspump",
+      "creator": "EWaqBJ7jqKAR6yyqzS4ypSu7C99FrDqhestXvnbukggV",
+      "creation_time": 1791065584,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "41tgW7i1of8Z1Fpa1T4KqAzXxrbJXUpnAgJMpskxpump",
+      "creator": "A7fpPBMKArS9N1ubF93p4HsgsSDbdVwTZUKQ6FWrwf4X",
+      "creation_time": 1791067408,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DDGS5GTeP1UrgL6wweZNQXE92ZX88AFmk1Q6NUScpump",
+      "creator": "B4dmKVian6MaS7RghkqSTPTEgRcJASWkWeaS1W64utc2",
+      "creation_time": 1791066441,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "J2X2PffS2UYY6FQY2v7tmuyGp7WXnnnVcfD2vh9opump",
+      "creator": "sy1RcHw1AaiEEdmT1hQmJVBFb59XCcWqR1pfrkyEuqd",
+      "creation_time": 1791067678,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5aDjbUDd925VMaic7MxKqGfDkQBx6VQX1dbrpwDUworm",
+      "creator": "24F2B99uGKcoaebnntFyimEwfv3YyPjy3bc3VCNK9Uee",
+      "creation_time": 1791067860,
+      "groups": 204,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8nTcbJKKd3ECrWWzdmHRK7KW4XqtKEGH37JeXAYkpump",
+      "creator": "J6Khziviq9LEJCkkQLtNsRigMMLXAn8uAg66yBfm6Pyr",
+      "creation_time": 1791064842,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9YCp4jfMaCuCYQZuwpKKCHEmVfeHRuNSfpeQVqqjpump",
+      "creator": "Fa7W3vDkFDsd9dqxtUDbTaTndGNqC6YiVvDR7ekpQ3rr",
+      "creation_time": 1791068218,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HQDbeBRRCs9iCtU2BBZvYF7Ls1s98eSe11hEynMPpump",
+      "creator": "2NHL7fm3gjFWbKkf7Tfz3rsMdwvqUacoh5rYnQWQ5f5t",
+      "creation_time": 1791067950,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "22VxosrsxVCMw6fgsV2y2Pn5VgAdtzxRXLC9wVfCpump",
+      "creator": "HoucKwP5k9NsnMhrFwtkwj7fec41WRyhDjXoXx3hj4qD",
+      "creation_time": 1791067715,
+      "groups": 52,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9eFNkCEespZyBviFgzV7rnTiYHK7sujGZgh89XHVpump",
+      "creator": "FrWff8zc2VftVPn1oHKrWbLoUGgoGx1svFMkKERHJvry",
+      "creation_time": 1791066481,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BNe6kBsouidk6Mf3AXenYu2RsYQC7EmmJtxLrXP22Vdq",
+      "creator": "6pv8qAApggpxvbjWCBt3H3rTxmNpuggkNPJpCoquWR1x",
+      "creation_time": 1791067805,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DNU8aNrSYyKfCdqqvd9Qj1MfsonPgfYsbCuJxxjapump",
+      "creator": "5Tkqfvi578pq5MuJciuHHzBVHCeuWMJJDyCRY99rxtK",
+      "creation_time": 1791064840,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Eit2bXKwPqEkLDZL9apghp9CSdXmoqXgAhC9PCxepump",
+      "creator": "5ZdusGZMC14SP6eh2XWdoeZDm3612psfxUsKS11DCqkG",
+      "creation_time": 1791067064,
+      "groups": 169,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CuQCrvRtxSLhmpbkRWbEUdzhfTrKp3kyxVRYJUhapump",
+      "creator": "9T9SLkqqWYLABNnsKK8oz1p6LUTk1WkZxRBi3GQtPRAN",
+      "creation_time": 1791068319,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8ooCS78TjFYh2c2rzFi2tFfoZ4BEUXtsg1jQYEeFu4dN",
+      "creator": "whamNNP9tHoxLg92yHvJPdYhghEoCg1qYTsh5a2oLbx",
+      "creation_time": 1791066958,
+      "groups": 28,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JB3MWKXzmN591Yc6YojSVQXHFB5Gk7QA3VgvdNGCpump",
+      "creator": "8AqWcCM4CzNBLKK6kbVr5PUYWoP7yE6tS3Q7T3eyV3Yv",
+      "creation_time": 1791066389,
+      "groups": 29,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "D9j5aoAZwSsXVNFe3dTH33WcygeEMe4hXRnGyyJKpump",
+      "creator": "D8onQZqF1vLqdbrkGxhMn4MotkeQJdBddkTTWCUoPCM9",
+      "creation_time": 1791066127,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7G5zt2pVRkFNcjvJ3dTff9Q98fAcNnzV1bSDrStMTaEy",
+      "creator": "82YNMApxXSVE9x4ikPJNh7PEPmEbPkGkbq419iCkUDnR",
+      "creation_time": 1791067291,
+      "groups": 22,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EJXZXpTZwE9wZrBxQbysegmn9pD1rhxPxKSHQM2pSoAx",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791065677,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DH7DAaDRzeZiYY5coed7xh8UG1DN6DQiAxcBobiopump",
+      "creator": "2EEBrdLrvHykgVtKtX5wY8iXQ1jrAT44FT1rg5HnmMsq",
+      "creation_time": 1791066908,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Goc2TksxgF3dG9htp6WGRG84QqFhmTvS1aUVLGk5pump",
+      "creator": "3V6pbVd6ehGHJHEaJV9q2iuRDLNDTGAbfa8zBAsViV7A",
+      "creation_time": 1791067026,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Fy3dwHS9ctpxZ8RnMfusYwxK53Lr2TUDMFPmdYABYfPw",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791065276,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3jXCfNGLgcyYsKMfezAVMjGbxL9gNPU2EDrRk2pTiGwF",
+      "creator": "6qYwbJ6qApSvBgXSPgxb4EZPsHv5aLJ7Qj9hhUvmKQR7",
+      "creation_time": 1791065036,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9i5TGmmr5wtRHsyGJc4CMEu3EqJXKMqWrG5H9boPvJiV",
+      "creator": "2JxPmU9UU5KhSQ7h5v8PfhgbxPQhHNyBqNrhPAjPiWCu",
+      "creation_time": 1791066105,
+      "groups": 59,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5zdKuAoQ3Zgkd1yrBUWyF3ki3EKW1gB4KTMLAZ9kejjJ",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791067788,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6YFWmzdDj7YyAdvfd8c691Ykv61nFQnxVNKrVDCepump",
+      "creator": "4eQZYDfHiKRpiVidcUGvMny1cLRC6ogt1xsALkeGGn5w",
+      "creation_time": 1791068679,
+      "groups": 54,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9VrQZhE3tH7ZuwZuQ9HVYJPDZoyReeyMThvVBLrrVZ2E",
+      "creator": "DHfaTaL4wb7EdtEMbqTnhVUtC5LmUhSGWzaWRnc5yrS3",
+      "creation_time": 1791071914,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ABroCRaQYUn5WmWFjFuvddwE7eNJkBfYCq2qAJ7CGmhq",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791069599,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5sctvZq8zWuSobWXrpM9eRK1QN9hu7QuGeurZiugpump",
+      "creator": "7Crcga3pbB9ycTbk9sENwuedG6mcbqEEwMmo6qvK4GEd",
+      "creation_time": 1791071250,
+      "groups": 31,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6wtqeL7PvSfHMvG5iMCwtK8CB6czzwqsPsqhd5bies1E",
+      "creator": "Cir8YNwy9N5LzREMpyDxWSrRmRZFKKPnykRLrAo6nvK2",
+      "creation_time": 1791068775,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FsaqmqMKZ131tHZzogjAgbH4dp9Ys6JuhpDX7ALPdPQs",
+      "creator": "KB1wcq1ZygR7w9VdstLmBDbrobwUxy5fnEtXpqpDAFN",
+      "creation_time": 1791071552,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3UcQ1KZAJYK8iEtRPcCf8UpymoyzRSMtiapB11ZeuXEg",
+      "creator": "4u8PvqwjTDBfmaroYAzFqVSBU7DGWAzpPVEWQJ5m8n1E",
+      "creation_time": 1791069640,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "26XWPd4vEWgfQmPhQ5NprMe2zHrgyUAgRLYuQHdEpump",
+      "creator": "Hvo3iXBF6xnGfwT5yJPJBKENjbepFso2FkVjH4c2Nfjj",
+      "creation_time": 1791070055,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7g5fkha95FDYFK1zFfYorwcNR6jUVP6oPZ3heYEZAErH",
+      "creator": "BMigzKe5f8HV5nSaB68DXUJARmUJ2Ngc7o9PS3QMDLbn",
+      "creation_time": 1791070183,
+      "groups": 813,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5ska65FAMkvZEkVPi4rurAFHkxnf356Ny3AS4VgTpump",
+      "creator": "Fwcn8QjugGVxXuHdvoQQvVmTJMcCPrC1TaQiSHUeqbo7",
+      "creation_time": 1791070058,
+      "groups": 45,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "G37cTxe5X1BjR1dHcgFzCsgr7UNVX2MKDjAx7L9Zpump",
+      "creator": "3ajZQB8K3XvDpYQ8gqnjJPxDWMRo3XSRKk6rJkKFnokv",
+      "creation_time": 1791069176,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7mHYtrzeptRY9yy9HbCRUSPApKQGcjcUbPQzNJ6upump",
+      "creator": "GV5vW9i4LGtZndvxkygxEYRHvQnkcDrZ89PoWGT2sXsQ",
+      "creation_time": 1791071514,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "35dzKxoRSWJR2NqVUfLqrKydW7XmXetXLD557qQcpump",
+      "creator": "DT5gujjsFWN3jFJVXBsVMEE6JGSPXUAodpMrcc9cd6Gg",
+      "creation_time": 1791069182,
+      "groups": 16,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4Jdgxr1qpyfCiktgnPbrRTVdJgGrRzkqzLZY2JiPpump",
+      "creator": "D8xiVy7yuiVPGT4zuZhMsFXmuXKJXFNJMt5xnmKXoqPt",
+      "creation_time": 1791068597,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JDz3eqXFayvMduXMRTnFypstea82epJcpJDkCcQMz4C4",
+      "creator": "9f1sGniHDFG3TzUGWUffmqgWDZs3XLeGQuVgzrrL2i3w",
+      "creation_time": 1791070466,
+      "groups": 663,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8oj3h9yzz2sdnDu15xYMWpG8iq2yyToAFcaWnT5cpump",
+      "creator": "GYn4yy1SvHmPnLeM4zjTuXqCTiR5nnWVDMndf3sarFXi",
+      "creation_time": 1791071225,
+      "groups": 37,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6VXn1r6RGSEEeQ9huwgFpMcghkfdwUZWU9nDKJ3tpump",
+      "creator": "96u9AE9yh768SM4Q4v6JDGbJJGHTE2pthhhhXGAAJ3Ur",
+      "creation_time": 1791071437,
+      "groups": 19,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "46aJ3kD7EYHcFY5P7NWDGn7xsBUk3qbhCT56udqapump",
+      "creator": "AKngQbZi3wq9PTUbk9iRMN8VwGkoVkswihofAoK1wniU",
+      "creation_time": 1791070475,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "B2cHLXt6GtDKmqYeyi6gHnftjRbGUyC3DpvjpqGLbsaC",
+      "creator": "6DjUJBBgkp3mp1d6D8b8bwgmkEnmoP5Yx8DpQQHaFkVD",
+      "creation_time": 1791068754,
+      "groups": 21,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "28tDaM1KT88hfxWvtfsViTCwZE7oNHZeza4mUxDapump",
+      "creator": "J5p2cxfbR9w9YAvkgPMAz7N47nbpw8dFHj8K1PSPheAN",
+      "creation_time": 1791070229,
+      "groups": 14,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EXGTAYPmtTaZ3aJ9aSPErfpp1ivuTQdr1k1ZiCNEpump",
+      "creator": "seFVkafYQGsbakq5xdDMVctNmVVuNoiSR8RGmobWoyL",
+      "creation_time": 1791068551,
+      "groups": 36,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9j1sDJTqYfq9Zi9M4g4BTjBgwQ9piHrXz6zE8oLPpump",
+      "creator": "A62G6hPp3ifiYDQrLLDpUMimhapfZGfSPPU7Msi6ommh",
+      "creation_time": 1791071553,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6sg76qza7EUrunuPyN6VNqk6LRxvHwbfaqqgp9Djpump",
+      "creator": "94SwFp9PjmivNMzKEF6pr7VigVAyBwpZf1tYjuRnNgT3",
+      "creation_time": 1791068675,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C2RsnP5qb3wNMor1Q5Tc284FLfRxZk1e9c43kE3kdsmn",
+      "creator": "948xSaVqt1bVUFQFb3RFGVhASYRZqzKKzfxciaX4JakY",
+      "creation_time": 1791071732,
+      "groups": 15,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2j53HopZx9k8LoShP1s1Goch4xyDcykbK4vT8XzFXskG",
+      "creator": "DwVjLtesZazk4hS6V4JoTkPB54k85A5A9KH18Apg4Fwg",
+      "creation_time": 1791068574,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2t4HnpWgjaxvinh7NasRJg3KM8u6Q3aLUF7U5zrzjsht",
+      "creator": "5V2wp8nE5jiXKyYrPFLoeLWtQF4fV146gHH9bAepVc84",
+      "creation_time": 1791075487,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "86dq7DJKFvKeXv9r8ozvUWgw6vNTwnbSV3DLf8QtYfjj",
+      "creator": "CmZcNPhM4odV64ZwMWdF5WthV8FZ51EqQF13vY1aGBTK",
+      "creation_time": 1791075452,
+      "groups": 29,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GijA3CH8DPrDGCshnrm3bWQfYHcP7R1YNRfSVMx9Kcji",
+      "creator": "5zPsHePMdYAtfHcCCHxS1z6599zqYaDouQCnRvuygw7s",
+      "creation_time": 1791075108,
+      "groups": 145,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Dvo1QMDdKSeyuyKBGqaR8AKMTYi4xKsLMwsU8wEWpump",
+      "creator": "28XxZg1twiVjn3JRukNcyy2sDfa1wjc2sTRdq1McPeae",
+      "creation_time": 1791074472,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Bqfnjs9U6XKKF67C7frw9KggS78v1tfesiVwT9SaQoc5",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791073673,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GwMnC5Q3rxcZMSVjLnVQRKy8pzDhNV3FrT5T4dvepump",
+      "creator": "5ZdusGZMC14SP6eh2XWdoeZDm3612psfxUsKS11DCqkG",
+      "creation_time": 1791072412,
+      "groups": 130,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "PLNBuPDXjS51FVUr8GZx2aQHgadJYYVivMrfCFEM21X",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791073477,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "D5p7w9L4TTWJtreEzhvFaopkmBqTU9bjZMF9DrC8kQei",
+      "creator": "4usH74Uk4xeZycJginpRvNo87pdCFo9apnDJZQos42of",
+      "creation_time": 1791074492,
+      "groups": 40,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BkVfGESM72aAwM9hsoUgN5qtHAnz6ovAaMK2UxMcpump",
+      "creator": "C6uRaHHivobyBJoHmTpR2aeewv62xnC6i31bNA27biAn",
+      "creation_time": 1791074654,
+      "groups": 15,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "99nv4oYTyZoHER86XtvY4Dtj7YKWqWd72mr7r4Chpump",
+      "creator": "9jFKbK1pHgPTeFgLVQ4WAE58mEH8oyT6G3tR2DkHMGEU",
+      "creation_time": 1791073958,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AuhtVJs2m3ZHPgDarDCCBf1jBAY222Fw9skt26Fm7Xm3",
+      "creator": "rp37qDhsUhQhNSGvHqPwSWxaz4F9KM1K1USrjs4MP9G",
+      "creation_time": 1791073576,
+      "groups": 20,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GYTcHczXUBrNP6YjcbrE1U5Be3rJZiRXr9W9tTJ9pump",
+      "creator": "2LGRHjLkHXtAhvBmC6N3forifwJtUREiST6R9RYywkNk",
+      "creation_time": 1791072040,
+      "groups": 1257,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "E98wHerEf1hpT86z3BPkitooY7znCRWtDqaAuziNzi8f",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791072601,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2swjy1q1Fqw6wZqrKEVuNu89UatDBejc5xkQ5nMTHcwm",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791072814,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AzebDBNxh237BpgeRMpYkhYn9FKnRdWeudfj9fdNpump",
+      "creator": "5CCSJCbdzwBRdA8RA8xcPhyX14y97HoxNuu3V5bQgqQY",
+      "creation_time": 1791074380,
+      "groups": 1540,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "F6qaXtAPNtT6C2RfdVC9dTA37Wx9MqX78TvqiAzbpump",
+      "creator": "Amv1UJXBGUb34c1MnXtqnNZWtETnC5T3DNrhhVK3fwVQ",
+      "creation_time": 1791074052,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DyVwKNP9E1296WiRbuhVw4ZQ1hWZWYsA2swDEe69pump",
+      "creator": "57jM12bqzSsmPnUwm9roM8xPpMbuFPUoRv7SMAjWQEZG",
+      "creation_time": 1791075032,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2Gb2BeympgrCkcyVvHsCaa1CDyUTt7LeGrsT5LXQpump",
+      "creator": "BLdV8vxVfBh8AxQyQit5icBkAsWvz4MF5oYYW9hCqNAc",
+      "creation_time": 1791074114,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H1Dv1CSW9ZnMi5NUrEmMaPdeNvKYTqAd4pobaQeUWWNz",
+      "creator": "wS9rKxirKaKLp5HkkxzjvSNTL7tg3MVrRSsZxhmRWPo",
+      "creation_time": 1791075462,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4YWHQyDt8t2KqeBhaJT7Q8XcC8sGUqJV58wUQg7Qpump",
+      "creator": "8mjRj2GHBTKvr8ik2mdB8NBLiDqMzeXEGJc7gR7oQ6mi",
+      "creation_time": 1791075288,
+      "groups": 18,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DPfNoiwRHBSBxnMLovNhH7EK72YhCF4r6T5uvyANpump",
+      "creator": "HKSXVMLXFe6vjNp9sxkiUDNtuSrWzjN4yDwFaRYn9FHj",
+      "creation_time": 1791073771,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Dor11nagAAtp95AxhxbXRQsfTRsN2U3wS5prd76hpump",
+      "creator": "ERqfgxpkokNtU7v6CGW9dFHYzZ6BWgwzzBo1yaqRTR3d",
+      "creation_time": 1791074978,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CGF4H9aNBgmTHpZUSJDJHBb756yt791UFJCZNAtKpump",
+      "creator": "DUV7uMhiJrSQx6mCuybH6U9bkUXMh1HBAL1wM7ck8iut",
+      "creation_time": 1791071942,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "keFQC6HyztsmViFw6MVYoZPdgBJUoUZr6D7jVRipump",
+      "creator": "6gCBEEpzaqnHdEWoFD8dKQkCrwr9B9dPWvLV4afJFzDJ",
+      "creation_time": 1791077123,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5a2dLi8c3BftJ1ZAKEtuvjuKCC4CfS7MUEeE2AUWpump",
+      "creator": "5kTE1dQvA3QVmryrHzRrA54j2kiGRGSgBrY1DUVkSzCt",
+      "creation_time": 1791075817,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2oWc2MH65AjXqUHTGcn59PJugSUv3qE8HRiNwRFyi2fs",
+      "creator": "6MAmqJ7aGtTReML2DezAzmRckQyFoGfKKf6gWVak7P2d",
+      "creation_time": 1791072110,
+      "groups": 806,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9PeoCTeu8QRW4EiSebFXcGrv4D1e47sudDj6UizeTqDc",
+      "creator": "FdH2jQbZoiXLeJwMU3yVzHuictrADFiFpaGL9Yi6CXzf",
+      "creation_time": 1791075965,
+      "groups": 147,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DHXJz5yn9cWvGAARqgSkHZaGtQf32fMN7EdpKdQSPFNX",
+      "creator": "FVDLAcruW3PYsoJ1t7hLxS8MTuHwB8Azt5ABQ6GwkvQg",
+      "creation_time": 1791076528,
+      "groups": 46,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AgWxoQToAfftY4nv67RFM8z4cwtrcroctzNHB1GjL9FT",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791076958,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7Fqhx3yZve5aGidnsHJSD8tiD55xaVAEbg8i3faRpump",
+      "creator": "CpxbFNxV5zAVBdtLjmRGquGEThyJizUJmyrQkS9G2LKW",
+      "creation_time": 1791077316,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BCWNgbCTsaRTa2mtAAqHKYj5583kj7LzrZ8ezSkBpump",
+      "creator": "4QYpAZDPcjXEu7hLvQY7dZRkzBbwmAkZ6hiQBDaGcUaa",
+      "creation_time": 1791075817,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GLshsLV1c8gYVA8nuwT8CyMSnJwAQaH2XDURyCcEpump",
+      "creator": "4Lwp81dZeELRRfBvY27EtyBwrouXSQYweo5ExZxmMH2V",
+      "creation_time": 1791075661,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+      "creator": "ErPheUiFKXWhpx8LoJuTxmtoProBcqZPK1zTqaHQ1njb",
+      "creation_time": 1791076339,
+      "groups": 1411,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "whBGaBMnDrGMZ5JuRRKkN335gnzRk28Vfu33VLcoCoy",
+      "creator": "9swmQbCzRT7doBRn9K73JSSuKhaKyDQkgcxuNwzknrz6",
+      "creation_time": 1791075878,
+      "groups": 244,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6LY2wAnKqYZiEHFr3cj7sRJJS7To2M6z68uNsefRpump",
+      "creator": "278SUYbgt6fxX8AA1bgbkMB3pKXAdRyRsUUoC77LXCLn",
+      "creation_time": 1791077197,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2Zh2BMsyNqVWHii32QaDFq33whPq96nYDjuEzHiypump",
+      "creator": "BNFuE3ZWmVwSNH736g13Nuu5LaDHRLF5p7QnoXvf3FPG",
+      "creation_time": 1791079009,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7szk2a2oCNpde9ztNfS5ef2bG6GPVuRymtBqzditpump",
+      "creator": "GCe6iBd5MhN9WehjfifEkLMtgwHUWqYQP4aUeixkrHd1",
+      "creation_time": 1791075370,
+      "groups": 2755,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6EuS8vcZ4LRKe9YH6sR93mnERifyrNADbZrjHkUHpump",
+      "creator": "HGiZzbD93eYnBnbJ2xvYr18XascHpFs31LXFN3xpJWcB",
+      "creation_time": 1791078463,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "21YuEUHLfKtd89RrnKL8tZWQzNiV7FB6yLWWPEN83KL4",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791077179,
+      "groups": 34,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2ZLFYRbsnYCQGhR3QMo8Rju79txA4WMwVTzwbGU9pump",
+      "creator": "HKSXVMLXFe6vjNp9sxkiUDNtuSrWzjN4yDwFaRYn9FHj",
+      "creation_time": 1791075766,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HM4jbzQzGBFLXgGNUqecHBZW7gJGg1rtHLEx2Fy1WKW6",
+      "creator": "GrbfiEzZPguqQ6U46u139uH1ZhjqnvtPPPjqBG8QVABu",
+      "creation_time": 1791076180,
+      "groups": 24,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "dCRn5YKuqR2mLHoZSTPJNMsGA3K2jTvkyRPWq33Pn1Q",
+      "creator": "BMigzKe5f8HV5nSaB68DXUJARmUJ2Ngc7o9PS3QMDLbn",
+      "creation_time": 1791077416,
+      "groups": 49,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2tvqbgt1zdRwtne9KVCy5vGkSJLJU9fKXbouPES3pb5Y",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791077509,
+      "groups": 59,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "J3DSM3r7YgfkSFc6usdLWouYqKPcRKVr1Pc8DB2npump",
+      "creator": "9rhdRf6q76wpFdhFBvvrzqPzSDvhLk7eDePCbivmUqTm",
+      "creation_time": 1791077048,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "F9ch8kqVFioBCZnnUv4uRAv4UTTs2eThYkCJWZYCVnV8",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791075627,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3ZNmJqmdseDZAwnMHYWCAD5XWEKSq9vfYWhbwyfMpump",
+      "creator": "2cjoL1frrCSa1miYN7r3qvS26Xtz8oJ326d9kfYFW3Eu",
+      "creation_time": 1791078776,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7Doa6mdApBNU3QyNt7JWqzdNp7c2rCoh4JxpX8dhpump",
+      "creator": "BnJ571hZ9ADiVeR5D4qFN9PsnvuuvvZQLXCvdRP6Acmo",
+      "creation_time": 1791078640,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EUVZddZGY1sDyfbhGUf9j5k4gAjJST6Fv231xjEZVSGZ",
+      "creator": "DJR5ECWa34pgKDmB6xjsWYfq9b9rt15P9qsMj8hv1T9a",
+      "creation_time": 1791077750,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3tYtfwiE6Leb36ig9PKmcFUiTsfLjE9oycjJFfNypump",
+      "creator": "35DsorTuoXzhKpN4sk5k5gLXSs8G9ms4QBaQrjmd7jz5",
+      "creation_time": 1791077663,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "67c9k4s6MMAmqTiAkNuBS5tDEVzz5an6tHGr5S6Cpump",
+      "creator": "6NoQfJmQWWuXZFbgXLQA4HmocTKExShZUGdAQMTfVSUo",
+      "creation_time": 1791079581,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "88qaCW2UooDr51Kdycbv1K96eq3ytcbtZeRDyiqipump",
+      "creator": "BLDRAPCoHfdYcAveE5LhmuabNt7MLJJHAh5jgQSAUZu4",
+      "creation_time": 1791081265,
+      "groups": 25,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6Z57jHM4EUWSVJSUQk97Q473HWnAsndwif1UZK4Hih71",
+      "creator": "5FQKEQGZRpD9LwRyuCwkD9r7KNHRVWVUJqtBynAr54V7",
+      "creation_time": 1791076841,
+      "groups": 1245,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HTVZG3ktYhawzT4YdWR8sAMAoxnZyYuJuq3y97M2tF7",
+      "creator": "7AxAwdDa3xVTeFhQeLxTc5xBJeJvtKS7Dm5MRTGUri9S",
+      "creation_time": 1791082644,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BiuduAxFiTwYg1z3H7Yfmtwvjsx9WVF5FbR19RpZpump",
+      "creator": "4Q3LAWkiZqRWoqCT5pFgjNPntqk2Dg7jhFAcj45cDS4a",
+      "creation_time": 1791079639,
+      "groups": 521,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DDJojt9pHxrq2Ct1vciDoS8PKyvPkHhDg26Y92X5pump",
+      "creator": "14onpqnhGahiwPK3PDyr1vrVNNvk6Bdasps15DQxvYuC",
+      "creation_time": 1791082372,
+      "groups": 119,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EAwcBhb5Q8FmzgPiF5MssdP4guny2Ky8t1MjiziUTsbZ",
+      "creator": "7zN6PtM4VuFiVjYnsfH6mHXrRDZv7uoAsFV4j58RMRUa",
+      "creation_time": 1791081475,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "MBqyTaUMCcb1dMDfUGMoM4GCK4FLLEx8GWZuG98WVWj",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791081094,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "1vVNUWXprqSjhEjhrg6C9moZLwp4efDaF86Gh4HHLs",
+      "creator": "7Ua7QXx8QZGUgHyj5xKiUT9ecrmHhoPQxVNXnDPDQexe",
+      "creation_time": 1791080516,
+      "groups": 73,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "84msaympbsaCcyZ5mX8hywCiYDn5qRLDc7e2mzj1pump",
+      "creator": "Ft5byoHEpTXqbPHauzERyWQmbJkHpNcY6Qh94akeTRrp",
+      "creation_time": 1791080853,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3DraBATtDeMZNMVWsGJ76DaSwgjbMxV3gpmhSKXDpump",
+      "creator": "3ttrdUXDjWuMpr7JFHL8A3qAf2Vxk6P25k8ANYaHBoin",
+      "creation_time": 1791082015,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6QtV1UcqLVcot2gGQcPhvEmeD83vgRt6Ege2CMe2MWYj",
+      "creator": "9HbyDso4m1fjxRs8UAvrP81Gx1HLGQV8YfSwWPoRYqmr",
+      "creation_time": 1791080702,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5nwV14CnzBFKmCdb4hTdxDLUv9KPPKvEXXYdRktfpump",
+      "creator": "ALf2aMeSymsRuqeVuLoUfnkMQNhXRRh5Nkun4QBT4a9M",
+      "creation_time": 1791080421,
+      "groups": 46,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9DwAP13hUfNsFAMRzUaYJeagWKay4nm5DyAnTMA3pump",
+      "creator": "D3AHL9kdcnnwajkKAgEoAkdP783oqNcaN9KsT56BjyeL",
+      "creation_time": 1791081580,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JBceQEBceiCTmba453zwThRQAWvYoZFZ5Y4XVpbDpump",
+      "creator": "QSSe7JvehvPVHpXM5qcCoRAKKLFXXzYDoWYBfX2XDwe",
+      "creation_time": 1791082051,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ChXkHBF9UCiKbjYGUMS2ZiGYVV71yDTspNJLpY85EUua",
+      "creator": "HZ1U6vPYi4TqnRNs7K8qKU2t5dD1McYHDPg2zT6oBwk6",
+      "creation_time": 1791081962,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EuvyGrzPBeyjAZhdhfW1tr5XVpmUGGMobpWoUwwspump",
+      "creator": "4S8YBCt6hhi7Nr1NnKF6jF856LLN8JJFzD1a8nF5UuHA",
+      "creation_time": 1791081402,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EBErBE79sgmMBus3F1AkwXq8b2K8Xu6fuH68eHiupump",
+      "creator": "AEu2EckSfkCuWnM8wwHsxqDj6MPQRXNBnM98EZFUgiCW",
+      "creation_time": 1791081912,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7L63JDVc72j3TFKmpiejXBJyTTD9TFVmiXFXxEFXpump",
+      "creator": "5hdV1Wdf5aHYPLbn8p7Xcv8GbWN7iHxKnEjzVyVkXVHp",
+      "creation_time": 1791080717,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "C68VyNFoPEWRbYR7FoaA1KSsfPSSWqKXy1tCE9X2pump",
+      "creator": "GZTovZaceNDESb8La6Kg4RPyJFesCsVA7Jnny4uB1bRf",
+      "creation_time": 1791081947,
+      "groups": 163,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3KaiwpwEBcKXeM7QrFArGt9xdtvZNVvxuYqvPL7KnvgR",
+      "creator": "Ens1pRQHvKKRRqGha3QuNbbpcFJygeF3e29x1WSUC4dL",
+      "creation_time": 1791080045,
+      "groups": 356,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EuaqSL7oQCwvue2MiqKpd4jwBbmFLdThBTJhdFjEpump",
+      "creator": "B9wpYjDs6uPfyxTkj8ZZWTfehcHFjZjFEVs6NBaL4pJf",
+      "creation_time": 1791082294,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CtYeDZha6qbmCorfgmLyzw3TFWo9DMY9fuyQ8nxpump",
+      "creator": "31xn6jPHHyiGjPuDwDnZNEkt1qris4opqjNFwEP1UpSm",
+      "creation_time": 1791080818,
+      "groups": 12,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BqKtSwVLopuoQtug1QPZ8uwRqEwe18Yc55CGKRthpump",
+      "creator": "4S8YBCt6hhi7Nr1NnKF6jF856LLN8JJFzD1a8nF5UuHA",
+      "creation_time": 1791080545,
+      "groups": 109,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5SeB9mo63kxfFvn5LrsRnsiUe2afiR3Egt5VNy4TWuYS",
+      "creator": "7tVD3ktYH8GofDnTvi25FbeBbU6TWDfyjA2ERPxf3gN8",
+      "creation_time": 1791082397,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DXCQzRkeAHSuwg55TieRmcHreL1iqKKfz1zB5jhwUK9z",
+      "creator": "GvshwRy4xEKefABFg9jc3hR712MkBoSSd9SuwJSytAmh",
+      "creation_time": 1791082122,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2p6MkSJiwsuZDUJ1A73JMraRYbWmzLRPyBpNDd5Ppump",
+      "creator": "Dj3crFaaub8TP3RM1SvZHMEXSSbwvrSNeGysb9tqoFY8",
+      "creation_time": 1791084238,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2TJ8iWjkAyQfQcZUT5g7YYPGasXvB5RYnPonLyvQpump",
+      "creator": "KsTK3emAoi7KRLZ46yFzCRaHtMWwKEc3cP26ZfUdQ7u",
+      "creation_time": 1791084149,
+      "groups": 88,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6TEcaZD9CsodtX8sjZnmDEx2QQKXZe4vyiH9z7DBpump",
+      "creator": "6zvU5KVPceHYY8UYwD9ahyAma6euFoU531mmu7kSRBCQ",
+      "creation_time": 1791084532,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "F6qfGTBNTCEWu3esiBtxaTYQHcfaQdSeNbBLuk8rG3Mf",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791083001,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FbYe2FvGorALL356Kqt6jKh3mA161xy3xLWmoesr4N2U",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791083867,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5k6vWvMwghRJbF6gxDgescyDiiJayXhZZ8M2auPoRkq",
+      "creator": "Anu8zPkXiU4ZGfkxWSJCn6oLghVbgMfnxvRqWwrMwaMv",
+      "creation_time": 1791084218,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "G8oApiJrENfzNCVvhV9rRREXAkoVFtBN2ZSEFF4Qpump",
+      "creator": "7eFeUbNtZaEb3eVjgt1AkoC25ST2pCGjGr7aWV6iHmcF",
+      "creation_time": 1791082837,
+      "groups": 20,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AgZRMGiawTiq1oM2bcx9odaCQjXBkcbGUU7bayLVqDwA",
+      "creator": "4C6CB5pvrgnwqLvFpknLF7cfu3WKBrbDF1UMLzGpSmpL",
+      "creation_time": 1791082915,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AjztZy7ETaXwPWNUe8oUPMua9FJhM7dzNVr5tcgQEBfT",
+      "creator": "BMigzKe5f8HV5nSaB68DXUJARmUJ2Ngc7o9PS3QMDLbn",
+      "creation_time": 1791082765,
+      "groups": 32,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6B4ibrhQDYwDYvTKC7Bw5EHCKupa5Y5yiiXfgMCfpump",
+      "creator": "7v4y78rVLe1D9rgUZLTvBfuGCs9NasEV1pjjMaXRxHt2",
+      "creation_time": 1791084925,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CkasvUXGm77ihXKCGsXeF8zc8Wt1qFzUfHyaEa1HfmKS",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791085454,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ge2dtDGcDi5JgNxT1qUWzAC5M9vygsmJRe2EsqjrkYF",
+      "creator": "AZUnkbPdotwv6vdCbBGYExqVw3WJvNUdHoWU78eRfg41",
+      "creation_time": 1791085448,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Zccz1TzfeGurCjn1DCKyLy3kUSFe29NPKywCcN1pump",
+      "creator": "7rXJ4NxY69faHetu6kGaPmGPHE3x9vuWj3mbeqq2zFRF",
+      "creation_time": 1791082750,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3NEr89bEzQpduEVfNRBeoKhZyQkHmgKYzEmCDQaQpump",
+      "creator": "8KTi5yKCrzMdgG5X4oe97kySyQNgaNsH5SQ4yGvTrCT2",
+      "creation_time": 1791083055,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3saqhoBfEmFXHj3HtPs5CHuwEgo5RKXWcJXbpDqbpump",
+      "creator": "JDtyTcaYXmCwwfPk7PLzgVSdbujLPmCvwQAuNpUbvoQ2",
+      "creation_time": 1791083986,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DSYk8gskp1UXgHg8wQYeFNKCvsa6Vvxqu6szeG4PDU4y",
+      "creator": "812an6r2CgJi2RqkxE3yKeeSjiX5Waopi7qhDm9sRuLp",
+      "creation_time": 1791086155,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FvKdkWkdvLeGwnczntoRVNYoYBnoCXej1t7GGy9VrFFy",
+      "creator": "DPp66XUZyykMJKaQ5cv48whYWnyrVVK2gxWoZX4RxExK",
+      "creation_time": 1791083121,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "G51bwbenSibRDeiH9jLJ8pyenTsKdjc5Zqf5TPZ6pump",
+      "creator": "BDEeMM1omYQghUNKDSB8ekt26xPjbUYU2Y1YKBeBpgCh",
+      "creation_time": 1791084542,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2SA9T6pcpuqnh5ovkas4ZtbUoQxtR6zPVqQYga6zS39i",
+      "creator": "EKYMcaWH1RkyE2HCrxxr59Mehy6sz6JYLTsCoHHBzqCw",
+      "creation_time": 1791082989,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9FbrHn7rGLb9Gv685acxWsCLfRKAaZsrdeEvxX47pump",
+      "creator": "2mdbeoZC5zJLhm5gx31tJfasifZZd4TYDWPZ7JshPF3H",
+      "creation_time": 1791082893,
+      "groups": 36,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "27PDmMUQdDQi3yNJCmhkGiZeWCrEi4CEvGh5quVRpump",
+      "creator": "7Y3RQSFBucs5KdKYwX2yzBgXYU7j81RNZwJ5zwAPa16A",
+      "creation_time": 1791086089,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9TSUp9b7xoycNkj4ZKBgo5t2P9C8FKPPuFKUihS5pump",
+      "creator": "872xztamSwVckxYM1NQUooNCfStAnSxYjX9iMj1zQKYc",
+      "creation_time": 1791083403,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BBJ8vdhqXM4V5YxdsN5ntas5oPhkLqMNJrKJ17z7MojB",
+      "creator": "34h5zKo2iiYbts1hdiuLKpYpcxvVqVH54ZxNp32wh4YZ",
+      "creation_time": 1791085718,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Cb8E7jxUsbmqQYHF9J51G5nc9tKj18whkrMXMLEVQ36K",
+      "creator": "D27rpRMzHaLdoJAwbP6jgKbqhYu3p1M1s5GAup6zPBM5",
+      "creation_time": 1791084415,
+      "groups": 122,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "vgdEzkrfBb8E9fq3nqB651r1gWXxDixy4mGpao1pump",
+      "creator": "5zrQwJugYV1mwdvqEhsRmZ9BFwz16YZs2BnREUysH3yj",
+      "creation_time": 1791084037,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "9agenW9RPGBLpSxWEF6jsqjAoDgavDUzwFUnCWbutgDt",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791089251,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3BZApkHNS7sYrYHPJ2YaQt7P2gyiwqez4dRgMsijqsne",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791089004,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "AcXP7NT9YFMAcA5tswnEaPfSzJYzNnit3Dr4eUUfpump",
+      "creator": "5wqznfx5v1coWG8LBiTYLkrZT695TSNRy4XhNBZRgPFU",
+      "creation_time": 1791089654,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8kWBVSGnn99GGB6puCrRF4HL7g2sS1QpjKbt5AYdpump",
+      "creator": "4QVZcVzT6VhTHxXb98YwswnX1GQZhQSFsTqomCKYN48G",
+      "creation_time": 1791089109,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6UeSkRhPfkL5iAFm2XsDbAgcszFyNFXstTX4PxU7pump",
+      "creator": "BNB9PfmmmYw1KA6duBpigyay59pvt72zmMrhBMmQGVVs",
+      "creation_time": 1791086900,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "G269N64SzNq8Sch5axQUg88cbtdkqy1ErQ9cf2Cg7WfN",
+      "creator": "9UJDWEedNCM5T5APL1opjAaabXicFrz8oLN9SJiwzhLY",
+      "creation_time": 1791086807,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7gTzwV5S2fYZnkjSDTg1a9bSUrSQHkGNAmKd6PRVEi9o",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791087211,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CUYhSqNa6QA8Er49pUcXfFt28FJLy8g2cP1SMz27nL8D",
+      "creator": "CLbwsTWkX8CcwYRLSvPXTbSo1684L9MFYNr2Mdd4x2sG",
+      "creation_time": 1791088687,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3wZgkHgjPPhMMfMGMRqDMvKM2qB8ZanPoRJMDH1bMvjF",
+      "creator": "4B2hbnUB6ZAJPdKzFridSvA5Da4NUid74RTUaagJp5vR",
+      "creation_time": 1791087621,
+      "groups": 16,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "J53YMZgBqo1kqQAo4M3PFfk1HmtFCvktZmVbfVuyFQgd",
+      "creator": "5qrA4VXcoSLdU9AeYm8ZAppuneUrVvCE3U4GMEDKFduK",
+      "creation_time": 1791087442,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GiJL8U7D2NdgDrJzm8TX6bwF1hpkB6iKW6ocQByDpump",
+      "creator": "BLdV8vxVfBh8AxQyQit5icBkAsWvz4MF5oYYW9hCqNAc",
+      "creation_time": 1791089356,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Gutqhiw3WzrE8LVi6kaLQwV5buYdZzoptN8eAbibpump",
+      "creator": "9LcBW6rVfifWocdihKhAxn6MqDfHNhAV6UFweHCKABDX",
+      "creation_time": 1791087377,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ch5PYVFWdvoUVjyyhn5CQKTnBdr4n6gSPubo6Y3ppump",
+      "creator": "9xvVTkNWZ4jnhaU8nndGaKMmJcpizVLzzE2rHYBoDUxF",
+      "creation_time": 1791086898,
+      "groups": 21,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8gVFi4wtcUa4iSwgkoNEmSKGN2CTfrZLx83iyuhsvuLm",
+      "creator": "9v36JV9fGfibHCqC3gAWzSzX6jNK4jkcztMep5QBjCf4",
+      "creation_time": 1791089151,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8NK2BXpF2g66CPSnxHcgXLqkfzmK7SWUaEZRCqxdpump",
+      "creator": "GcbvJSqn8R9JJxpRhQAqcNBkHmTChCDoJk2kerLDwSk6",
+      "creation_time": 1791087127,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2CKSaq8ERHrRujfZvoYggpKwGNWYV8vJKzQsDBrbxCfH",
+      "creator": "CLbwsTWkX8CcwYRLSvPXTbSo1684L9MFYNr2Mdd4x2sG",
+      "creation_time": 1791087209,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BRLYv1yXuyUdTQhcxcqANtWb9HVTvCWSHT5xbmR9MsC9",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791088741,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GzpHPUqQ3QDFguJbEdUAfYm2MnEE8GBzHx8HmzkbCFqs",
+      "creator": "B5vKQ1afwerWah6C7uCUGGY4DFMM3R1AfxAzS6tkoSse",
+      "creation_time": 1791087232,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CzhFQzpwNvDj4z7D7YdUZsmSmzcak6dWTcZCrEpaGpbs",
+      "creator": "BQ35ZV87zPdcH4ijkEQbRfsF3Q6XNnVUUwmVminAr7e6",
+      "creation_time": 1791089125,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4XjeK1L3j4gneHAn1ttefARU9zBaowDz74cujFa5zZPw",
+      "creator": "EJGxDeViCTAwCv8pdLoFMonadftH79a96gbtruoF6xgu",
+      "creation_time": 1791086962,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5aYM3X1PQXsFW6R1WDmZJUBkynhT8AQKVDvQQsywpump",
+      "creator": "8Yz8Coc15Z1yP8Kjbee8tkDthd6i6v1Q3EgKLYZFCS5A",
+      "creation_time": 1791089136,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DYtvSdsgNLTnKxAH73nKcxhSwDNMh48QejYH2j76pump",
+      "creator": "Ao9D9xuKxhHfTGCd3ZeBPJ3aBRUAicKKnXZ3feH6uuGC",
+      "creation_time": 1791089509,
+      "groups": 39,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5rfSBzySAAq6GXVHh7i5SFvVcTVYDtxZaeAYX8FmjGrL",
+      "creator": "MASSx8nA46rfHeTtodgbRLKaXqRrwX12CFyuB8uUPd9",
+      "creation_time": 1791087707,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "5HrNyaJZvRiLnQoVqCzQ77EsHwe9XkXBwZm3UPrEpump",
+      "creator": "Dde9n8s2NPiL9Wd99NftqDtbwRrsPkyxxKDAJeRhCXoJ",
+      "creation_time": 1791089383,
+      "groups": 4,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GHt9c5RkYbh5x63vexr2aQzfsvaNYSoDVSXaaQkupump",
+      "creator": "Dv4JPSVi82xatiYGBSdQioWXsnpC3pcxingxk7Kj5V6p",
+      "creation_time": 1791089910,
+      "groups": 62,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "4tFHCsn2WFkTj6AWGYFbdQZHD8mBkaueVrmSX8cbWPq4",
+      "creator": "Gqxt8HMFriF4PyA7Dfc7o4SKdX2Zwvh3ngfjRYgQVsD2",
+      "creation_time": 1791091420,
+      "groups": 11,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DoKSGZocTu3xF5pLfBCBpAtvQUZuJME9zbdpvAEVpycv",
+      "creator": "3oU6rVVQmmxm5ynrjxQkTAPzrM97xBpv2fVk1hj5Zdz2",
+      "creation_time": 1791090888,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DXXsV6MtTK5Z2TQpztQ7AQnj9bVopTbDcQ9qLu7Upump",
+      "creator": "CoqdGz3N67aRBKAyfHckqEL5F3NkCcQQzJ3BiNRnizeS",
+      "creation_time": 1791092673,
+      "groups": 35,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ntM9wbHbgLL6u3ZP8Prksc1MQyzhUpX3WwPVQmypump",
+      "creator": "4aCgU3LNr9ZAGAu9WtsS2SZBXYXfR7Ue483BGmMo9Jig",
+      "creation_time": 1791093532,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EC5Jt5jxC3ykzGtgdWzF1vUtEMJyvKBocEiTyvLVpump",
+      "creator": "b7UmNuBd9Rkapd4Sy29A4xAyRpwjd36YxtfquEdzJCY",
+      "creation_time": 1791092065,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Ao3FujeADwMN25HtEsv6NTxRxj3WhcmTBCczsmZZpump",
+      "creator": "5Xr6zLcjHrHBeVrB1RvLd7RqvebnQKtsNP7YiTWuDYjC",
+      "creation_time": 1791090785,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GpvYtn1sHkWQNPc7EBq23BQg8oTcApuPsZo3LUi5pump",
+      "creator": "AYCYN8nst2Q2g6rTaPxcL3MGYo5vVsvyufmQHhG8agAY",
+      "creation_time": 1791091781,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HnVCY79tH24iTX6ZvDZW8r7bquHz6Gzj9pAsfNYxXH1d",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791093100,
+      "groups": 119,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EkTq3FJz2cmzPTmE5xMqnDKxCTR4HFucrdEY7x8CQaE",
+      "creator": "EhK44QpHhnkmc2USsDotacssjVHYXvDBCmcnRHTGtv1X",
+      "creation_time": 1791091564,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8b3vR7N2a7jTwK4fHxx6WsDpYZ4RrRg1mFcH2wTLpump",
+      "creator": "7v8apor2SPwyux3iuL43d1SZ6qf41Jff7RQpUJkRsvyb",
+      "creation_time": 1791090426,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GjHsUcnZYcjKpE4eXhqxLpebz5yEP4pNypfo3ipVpump",
+      "creator": "68DUTi4Nd1fCK9MUZKN7T3CTGAe7J4kAVHxaU7GJP6Er",
+      "creation_time": 1791090731,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JDKuNBUyBsBGskbr81Eu22fnZiRUbgKvqaWrc18wV7nk",
+      "creator": "EqgtckD1c4AiWuaURz49bCCQDpS2pjFoNeUo4CMjXxvx",
+      "creation_time": 1791092480,
+      "groups": 13,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "EnKuNoZn1EZU5AXAWt1JAydkkKMPn54Ks6YTKMv6pump",
+      "creator": "3ZJG2Pr87aN5wdZhtE4WJ33tTDvsuyxW6RVF21zmXo1X",
+      "creation_time": 1791091820,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6GaQVem6CQvQheBvYtkH2ahNBR1Fwhp2tdE5p6NNhfdo",
+      "creator": "AxPP9v4cbFxbC4BBSAH3Bjw4GWJaVp7pST6VRJitdXBv",
+      "creation_time": 1791090128,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "SyLwWak9sBDHTAW2MjMz1ohU5qYpjyXtHPeSdAapump",
+      "creator": "8rwjiYUNcHEYy1hLnbyq2QgkVEivkvupHewZcdsBkB8R",
+      "creation_time": 1791092727,
+      "groups": 15,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8pp2vrXUx7W8xEazmPde6CqxBz8N1DjMANtoYsbFpump",
+      "creator": "9g9Em8j3sipzLKDqsukeNM1ng7hfTNfPdofiPkXjLAco",
+      "creation_time": 1791092890,
+      "groups": 7,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "622BMnYtn9sdVp5YAYkaC3fKAVnsUYtPRFTvNinLpump",
+      "creator": "BAoJmpEfo7MQcUeeeH5rHm4ktLBubT5jLeUNhLYKVAak",
+      "creation_time": 1791093248,
+      "groups": 25,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DZj4LW3tonEKwapiJ3z1AvSfwRoY6e5TpumeXRiSDrRq",
+      "creator": "Es2jarpdbykTRmoyM3rEfPbKiwSvJTQyv5sCVQVk351F",
+      "creation_time": 1791090724,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "G9X39UZzXfo2JT2D7oqanafpH1rEJzajLSremj7Ppump",
+      "creator": "E4LN7L37mmBmejpB94WMoiq5ioPz1qvVHxNJRrtaQHeo",
+      "creation_time": 1791090731,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HRAPwbhJGvKVHk2L2jKGAPmCdKgbn7mdJi2FFgAJtF2f",
+      "creator": "3itNkXrG6rVb6wHxxbw7oWWZ8uuf4kRNyfM9XbThHpMb",
+      "creation_time": 1791091610,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Af4hw36ZddAUeFh4p9wUwpvw3ee4uz8QSUNR22GDpump",
+      "creator": "DHF8dBVKP9vRgFfm89nsxsmpWp9wt6WgxTeqFMZiheiW",
+      "creation_time": 1791091475,
+      "groups": 652,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "3E92Vm3KLrsNQy2tS4foFsNY7R7zVGTuTFWME9PSDQjG",
+      "creator": "9NnVhDfmC2zAtSJbQ5hYXZz61bh5vGeNBHgo5EUJ4Msa",
+      "creation_time": 1791090372,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "DV5yvidWfeUWYG7jjP1oTD6KEAmUWv7exJYZsUUuWwTE",
+      "creator": "CJzzjwWkbFCbZYzAQQ3ReMSUmk8CjivsVLunUZy9vKkD",
+      "creation_time": 1791090840,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "13AUN8rcAKoyC1o5VYULeA5y36VFHPymWmXuFVK3pump",
+      "creator": "AyKEGiNSyD94w32HbofDUJFX8LVHoBnn6v7VnGQWQW8q",
+      "creation_time": 1791092053,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "HLwH1TD1PtMb7rGArR2ya8u2KmuztUJkrRg5aL14L4BT",
+      "creator": "5TBr7dy6mmueCbtrq9bq2s1oCT2rfpx8WQJNZynBnG77",
+      "creation_time": 1791097085,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "CGvSSqJK2zu9VwBdkHENnCWCZCDbVjqHV12WrwCg6wrJ",
+      "creator": "HniMhDSs4ibDTEMsfgGukSK3yTX4oLfFSAg9qHR71jNg",
+      "creation_time": 1791091101,
+      "groups": 355,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BvKpYFfGZQ5p4PQdhwhzwnv3uxCNAfgoP1iVvF79vMZE",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791096412,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "JAY5M77AFGKnU3umnx6hb9rusuFzdGoZeCz2Hz59CoC1",
+      "creator": "AS2zduoFWXnDwb6cUjeo32xsdpE5a4nUQDoxf6Xm9MxH",
+      "creation_time": 1791093631,
+      "groups": 9,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "GEkbrHtDWectyVSwuCvYwTsLtCZAy2VM6Uvw2fKVcKeg",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791096857,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "96cJpKhpn9iSYcf5ukeZRsPn9Lbdw1rX7qXysdUQ1x1g",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791096757,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7P6zNERoTZW56A7XLajNuSxnZss9CDEhCGSQNU2Wpump",
+      "creator": "BeqfwsEHQ16dBjwS1paiPYYWdwdeE2YMv6KdKeNp7RW3",
+      "creation_time": 1791095169,
+      "groups": 10,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8PXh3v7yhrK5WMJoD3KnKopRCB2cefJzAE1UkEJyTrDc",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791093824,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "7nWM1BBtQ4tEJr7ukJRgyFJ7yHyQzwqAaHQe2a9NQXNk",
+      "creator": "HfLpidy8DVQYFMk845WfiUAWARfwqcMFGGeEb2wxqUff",
+      "creation_time": 1791095505,
+      "groups": 8,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8PWPLYHukP3e2jVbTxDTKJrdVjEhWmj6iSc2KrmKpump",
+      "creator": "CtN6S2PM7BvPQAppAKubSbi7bn7nDWrRuJH1o2bLpZ1o",
+      "creation_time": 1791094273,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "opWKEib2ZfrPRHUtDpY5h867fefd9ku8KjtcC15n3k2",
+      "creator": "EiLmP11fjnXz7wy9y27P6wssyrGnMNyG3wyNheEHtaaq",
+      "creation_time": 1791094092,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "32nAqPndTV4WnqkkdNearT8HSts4JV696unPhfbwtmEt",
+      "creator": "AK1GaxSRWzr22H1taFkJSC5cYf3iyfSbX2aefZJguKgJ",
+      "creation_time": 1791094541,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "6TKCJ87FhvmKZBjZD7ygKnqmKfiquRgJCdgyC2JcUtC",
+      "creator": "DXGjbdkayUHr43PohYFZBrpyK5i78qDpohrKBgSmMreU",
+      "creation_time": 1791095107,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "8eDYqWoqmroTJsRZKTtteowrhxLGzb9CK4ezETh2pump",
+      "creator": "4UtQFxREBny7kATpfmwnY2DXDmQ9hsuVtexNTgD4NXB3",
+      "creation_time": 1791096298,
+      "groups": 5,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "78kVGxKH5JcZXXpkpCT2Ef5F7C5gfVhbejscWEPQEupK",
+      "creator": "8FsW7siwgGcN9kizscecYrSdijg62aMBVfafBqiAopGC",
+      "creation_time": 1791095559,
+      "groups": 3,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "2e9AcX8rr7cnsEes2KNeXAXqQ4r5B2RPZvNwYKmBLhEq",
+      "creator": "G7tTpoiERMtHa2LkgEttKi81XS7k4qwDCY6UUKAcaW1D",
+      "creation_time": 1791095653,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "BtpUk4oCL372vqYdrLf92fQPMaassaMdLNcQ8bN462jt",
+      "creator": "7jUSFSohzmAmXZewsnqJfmFWF4F5uowTZPacNv147K5W",
+      "creation_time": 1791096104,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "FfvJtxk9jkRjwtfKQSojr1xkNLZZW6CG1Eu3wvFwwssV",
+      "creator": "4ex4BMeTVxup9oHpeeT45e2oqDaSc6NZ1yCt5JNBu7Zt",
+      "creation_time": 1791096341,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "Agn1jW6pAjhgt64nBqP7E7QqobdGFEZ6oWKVuUpQpump",
+      "creator": "2EYyPyyo7ybD59bqVMTmnbwLwgGissWyYmKYREjkQT41",
+      "creation_time": 1791096118,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "RizuZSNVSv2zYvsTQu8sGPGGFBusiH9Hstio436ZjAi",
+      "creator": "ELc28q3QNa5Job46LfsHcJTGaRmMmXqa8JNiKScjKbKY",
+      "creation_time": 1791096511,
+      "groups": 437,
+      "signalled": true,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "83i7b9AnUxvxSUyUMBvqSAUK153gF5ZzJRN8wrcSR6JL",
+      "creator": "C2uEhkwyRxsBqya7K55HhMgBZMYLYhQmu7Hbzya5nu43",
+      "creation_time": 1791096231,
+      "groups": 6,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "26XcJYFE37UyewCUSv3AVsbmvaUhE9J8pph9bwcCpump",
+      "creator": "5vnMLQ7J6BWRtXncC9bwJLoBqXSZ5rYKjVHask6vuR2p",
+      "creation_time": 1791093933,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "H5mBRtgRA2jkAx4ALbF3cEbhYJJVHYcdYDSjE4wUpump",
+      "creator": "ACanNBZZTRMwSx4sPRJG2vUCRFYYj4LLcrzmUu2Ei8ZW",
+      "creation_time": 1791097097,
+      "groups": 555,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "D1mP1evgdFcCAYTVLzyY6WwqWxtyTLgwHtAoyb1Epump",
+      "creator": "5B1ub8Ge977zYfKDe3aapJMu2BeMk35NuzGFoNDnLHDn",
+      "creation_time": 1791095016,
+      "groups": 97,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "ACNC12CaSWXV9wjz78eyuBH7gN6Uoc8yCpNTEa46pump",
+      "creator": "CtN6S2PM7BvPQAppAKubSbi7bn7nDWrRuJH1o2bLpZ1o",
+      "creation_time": 1791093732,
+      "groups": 2,
+      "signalled": false,
+      "custody_issue_groups": 0
+    },
+    {
+      "mint": "46QeQM7HzGPoZbjCY5zQJLSvdn1LvMCJaUen9FYJYWb5",
+      "creator": "BafUYxtwx8aS91drGhfqtjLvHtShFikovLeR7SCEoZzW",
+      "creation_time": 1791093685,
+      "groups": 1,
+      "signalled": false,
+      "custody_issue_groups": 0
+    }
+  ]
+}

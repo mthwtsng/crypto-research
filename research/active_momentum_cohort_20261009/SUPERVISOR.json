@@ -1,0 +1,9 @@
+{
+  "state": "running",
+  "mode": "parallel",
+  "workers": 16,
+  "attempt": 1,
+  "rpc_source_sha256": "78dc682be4a7d961386e53d8e3004c055d766e26e6c5242558fe868047541a3e",
+  "alchemy_local_cu_per_second": 400.0,
+  "started_utc": "2026-10-09T22:12:51.237793+00:00"
+}

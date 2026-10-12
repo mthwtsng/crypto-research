@@ -1,0 +1,234 @@
+{
+  "summary": [
+    {
+      "rule": "broad_recovery",
+      "scenario": "fast",
+      "attempts": 40,
+      "statuses": {
+        "filled": 40
+      },
+      "eligibility": {
+        "no_recorded_completion": 34,
+        "recorded_completion_displaced": 5,
+        "counterfactual_complete_within_curve_history": 1
+      },
+      "errors": 0
+    },
+    {
+      "rule": "fresh_expansion",
+      "scenario": "fast",
+      "attempts": 46,
+      "statuses": {
+        "filled": 46
+      },
+      "eligibility": {
+        "no_recorded_completion": 38,
+        "recorded_completion_displaced": 8
+      },
+      "errors": 0
+    },
+    {
+      "rule": "quiet_absorption",
+      "scenario": "fast",
+      "attempts": 27,
+      "statuses": {
+        "filled": 27
+      },
+      "eligibility": {
+        "no_recorded_completion": 23,
+        "recorded_completion_displaced": 4
+      },
+      "errors": 0
+    },
+    {
+      "rule": "late_continuation",
+      "scenario": "fast",
+      "attempts": 7,
+      "statuses": {
+        "filled": 7
+      },
+      "eligibility": {
+        "recorded_completion_displaced": 6,
+        "counterfactual_complete_within_curve_history": 1
+      },
+      "errors": 0
+    },
+    {
+      "rule": "broad_recovery",
+      "scenario": "central80",
+      "attempts": 40,
+      "statuses": {
+        "filled": 33,
+        "failed": 7
+      },
+      "eligibility": {
+        "no_recorded_completion": 29,
+        "null": 7,
+        "counterfactual_complete_within_curve_history": 1,
+        "recorded_completion_displaced": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "fresh_expansion",
+      "scenario": "central80",
+      "attempts": 46,
+      "statuses": {
+        "filled": 43,
+        "failed": 3
+      },
+      "eligibility": {
+        "no_recorded_completion": 36,
+        "recorded_completion_displaced": 7,
+        "null": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "quiet_absorption",
+      "scenario": "central80",
+      "attempts": 27,
+      "statuses": {
+        "failed": 5,
+        "filled": 22
+      },
+      "eligibility": {
+        "null": 5,
+        "no_recorded_completion": 19,
+        "recorded_completion_displaced": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "late_continuation",
+      "scenario": "central80",
+      "attempts": 7,
+      "statuses": {
+        "filled": 7
+      },
+      "eligibility": {
+        "recorded_completion_displaced": 6,
+        "counterfactual_complete_within_curve_history": 1
+      },
+      "errors": 0
+    },
+    {
+      "rule": "broad_recovery",
+      "scenario": "central85",
+      "attempts": 40,
+      "statuses": {
+        "filled": 33,
+        "failed": 7
+      },
+      "eligibility": {
+        "no_recorded_completion": 29,
+        "null": 7,
+        "counterfactual_complete_within_curve_history": 1,
+        "recorded_completion_displaced": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "fresh_expansion",
+      "scenario": "central85",
+      "attempts": 46,
+      "statuses": {
+        "filled": 43,
+        "failed": 3
+      },
+      "eligibility": {
+        "no_recorded_completion": 36,
+        "recorded_completion_displaced": 7,
+        "null": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "quiet_absorption",
+      "scenario": "central85",
+      "attempts": 27,
+      "statuses": {
+        "failed": 5,
+        "filled": 22
+      },
+      "eligibility": {
+        "null": 5,
+        "no_recorded_completion": 19,
+        "recorded_completion_displaced": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "late_continuation",
+      "scenario": "central85",
+      "attempts": 7,
+      "statuses": {
+        "filled": 7
+      },
+      "eligibility": {
+        "recorded_completion_displaced": 6,
+        "counterfactual_complete_within_curve_history": 1
+      },
+      "errors": 0
+    },
+    {
+      "rule": "broad_recovery",
+      "scenario": "slow",
+      "attempts": 40,
+      "statuses": {
+        "filled": 26,
+        "failed": 14
+      },
+      "eligibility": {
+        "no_recorded_completion": 23,
+        "null": 14,
+        "recorded_completion_displaced": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "fresh_expansion",
+      "scenario": "slow",
+      "attempts": 46,
+      "statuses": {
+        "filled": 37,
+        "failed": 9
+      },
+      "eligibility": {
+        "no_recorded_completion": 30,
+        "recorded_completion_displaced": 7,
+        "null": 9
+      },
+      "errors": 0
+    },
+    {
+      "rule": "quiet_absorption",
+      "scenario": "slow",
+      "attempts": 27,
+      "statuses": {
+        "failed": 7,
+        "filled": 20
+      },
+      "eligibility": {
+        "null": 7,
+        "no_recorded_completion": 17,
+        "recorded_completion_displaced": 3
+      },
+      "errors": 0
+    },
+    {
+      "rule": "late_continuation",
+      "scenario": "slow",
+      "attempts": 7,
+      "statuses": {
+        "filled": 7
+      },
+      "eligibility": {
+        "recorded_completion_displaced": 6,
+        "counterfactual_complete_within_curve_history": 1
+      },
+      "errors": 0
+    }
+  ],
+  "errors": []
+}

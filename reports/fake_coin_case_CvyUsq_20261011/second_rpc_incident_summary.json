@@ -1,0 +1,62 @@
+{
+  "sampled_reserve_changes": 199,
+  "sells": 159,
+  "buys": 40,
+  "unique_seller_owners": 137,
+  "gross_quote_outflow_sol": 30.099050976,
+  "largest_quote_outflow_sol": 0.988398267,
+  "top_sellers": [
+    {
+      "wallet": "4FaYPjE2kVH71gLG3EufyiAsJMsPtjPZAGZNVhQzpnfy",
+      "sells": 1,
+      "quote_outflow_sol": 0.988398267
+    },
+    {
+      "wallet": "2npiwsPoymCm5Qnh25BPtmc5enngp5M8r8GDqNMeDdXz",
+      "sells": 2,
+      "quote_outflow_sol": 0.858626305
+    },
+    {
+      "wallet": "Gs5FBMHN645pYYj4aYZk7PrdEn7RKED6MSbDQLTSMoon",
+      "sells": 7,
+      "quote_outflow_sol": 0.6796670149999999
+    },
+    {
+      "wallet": "3MDNUXhhD1i95dDcSpPTwkD667oJGGChDU6hnsTrqFbR",
+      "sells": 1,
+      "quote_outflow_sol": 0.545277999
+    },
+    {
+      "wallet": "FBjT2apnGWzb2nP4cc6uUs7VxVKANK9iDhyAowdt7jzF",
+      "sells": 1,
+      "quote_outflow_sol": 0.539413713
+    },
+    {
+      "wallet": "DMPLHWASfSXZQCcEfnST11FExsC1LfAmx1xSHk5woGr6",
+      "sells": 1,
+      "quote_outflow_sol": 0.532241585
+    },
+    {
+      "wallet": "Gpv8pWPATTSmm4n9KkuEb3mcLeNs3snDCkYYYFcZEzHg",
+      "sells": 1,
+      "quote_outflow_sol": 0.512376944
+    },
+    {
+      "wallet": "ErabFLPBf42F43mznPFSiKw2jXXdgwVwxXBG4rCQ5PTX",
+      "sells": 1,
+      "quote_outflow_sol": 0.511431454
+    },
+    {
+      "wallet": "42pAHoNqWq5qKYLTy8XmJdcvBMDweDd1ejdLXwZVWwob",
+      "sells": 1,
+      "quote_outflow_sol": 0.50837437
+    },
+    {
+      "wallet": "5cBWE7XwR85axxdvymCNpRrUjuh5P6RbAACn8svmVGhn",
+      "sells": 1,
+      "quote_outflow_sol": 0.506736717
+    }
+  ],
+  "bounded_latest_sample": true,
+  "complete_pool_history": false
+}

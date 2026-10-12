@@ -1,0 +1,7 @@
+{
+  "stage": "curve_receipts_complete",
+  "selected": 10080,
+  "collected": 10080,
+  "errors": [],
+  "next": "custody repair, instruction binding, signal detection, migration continuation, then approved replay"
+}

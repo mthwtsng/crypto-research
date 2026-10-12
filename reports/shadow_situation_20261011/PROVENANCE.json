@@ -1,0 +1,17 @@
+{
+  "git_revision": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+  "source_hashes": {
+    "src/bot/curve_detector.rs": "a43d5cb7b90929dae325a5356aec6e5e7585ad6e5e379371e4bcf0e7d32e794c",
+    "src/bin/curve_detector.rs": "c0d0e551fc3ebeae65ec45c35999621d564d52fee0f37e176766aa3b3bdfa160",
+    "src/bot/holder_screen.rs": "0faa4ee4d01c5461dfb2e2140af01620db9bfd593faa23d743734d7561996248",
+    "src/bot/migration_amm.rs": "bc5269d7fe3f018f12827b383652e7fa3f5850ab3d2e038d18105a51e2b4dbd8",
+    "scripts/run_shadow_detector.sh": "118c503d1317b2f2782f12567942282cad03fbd48bfca8efd74535df64e850d0"
+  },
+  "frozen_hashes": {
+    "position_snapshot.json": "430f61a7a8dddbd52c32bdf57ec3d5586df6cf5cdab12fc0560edf0c117c9d41",
+    "ghost_trades.jsonl": "583e70558436046027f5ca7879d71e4139d259f414656721df1486bc2d3b943b",
+    "ghost_summary.json": "544716bd316584b8f81fbb272a74fbc7b13257b7f4a0d258b9ed3418330cb407",
+    "ghost_variant_signals.jsonl": "1ae2338c690fa398b8bb9849979cd188699fdbfe4258dc931dbf365faae5e5a7"
+  },
+  "scope": "read-only observational audit; snapshot files copied separately; no strategy/runtime change or replay"
+}

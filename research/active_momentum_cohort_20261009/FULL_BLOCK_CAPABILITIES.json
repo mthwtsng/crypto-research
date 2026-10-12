@@ -1,0 +1,23 @@
+{
+  "scope": "two signatures-vs-full mode parity probes, no routing enabled",
+  "samples": [
+    {
+      "slot": 441666345,
+      "full_transaction_count": 1175,
+      "alchemy_signature_count": 1869,
+      "exact_order_match": false,
+      "same_blockhash": true,
+      "same_block_time": true,
+      "elapsed_seconds": 6.553147496000065
+    },
+    {
+      "slot": 447527916,
+      "full_transaction_count": 975,
+      "alchemy_signature_count": 1643,
+      "exact_order_match": false,
+      "same_blockhash": true,
+      "same_block_time": true,
+      "elapsed_seconds": 3.2966059660000155
+    }
+  ]
+}

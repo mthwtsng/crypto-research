@@ -1,0 +1,4377 @@
+[
+  {
+    "settled_net_SOL": -0.852891601,
+    "unresolved_cashflow_SOL": 0.0,
+    "unresolved_marked_pnl_SOL": 0.0,
+    "unresolved_mark_value_SOL": 0.0,
+    "zero_recovery_bound_SOL": -0.852891601,
+    "last_valid_marked_net_SOL": -0.852891601,
+    "unresolved_excluded_from_win_loss": true,
+    "scope": "portfolio",
+    "breakers": true,
+    "attempts": 19,
+    "closed": 19,
+    "failed": 0,
+    "unresolved": 0,
+    "net_zero_SOL": -0.852891601,
+    "net_marked_SOL": -0.852891601,
+    "mark_SOL": 0.0,
+    "ending_cash_SOL": 14.147108399,
+    "closed_net_SOL": -0.852891601,
+    "win_rate": 0.10526315789473684,
+    "profit_factor": 0.1622970854157529,
+    "max_settled_drawdown_SOL": 0.952702558,
+    "max_cash_drawdown_SOL": 1.456246838,
+    "largest_winner_SOL": 0.099810957,
+    "net_without_largest_SOL": -0.952702558,
+    "skipped": {
+      "mint_previously_closed": 2,
+      "strategy_pause": 3
+    },
+    "trips": [
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791668215,
+        "reason": "streak",
+        "rolling": -180187555
+      },
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791685960,
+        "reason": "probe_nonwin"
+      }
+    ],
+    "max_open": 1,
+    "daily_net_SOL": {
+      "2026-10-10": -0.779418199,
+      "2026-10-11": -0.073473402
+    },
+    "status_by_strategy": {
+      "s1_dev_absorption": {
+        "closed": 8
+      },
+      "s2_survival_shelf": {
+        "closed": 4
+      },
+      "s3_deadman": {
+        "closed": 1
+      },
+      "s4_upper_ath": {
+        "closed": 5
+      },
+      "s5_carryover": {
+        "closed": 1
+      }
+    },
+    "unresolved_reasons": {},
+    "admitted": [
+      {
+        "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.050638241,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5743785511288,
+            "proceeds": 452371759,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455154438,
+            "landing_slot": 455154438,
+            "position": [
+              455154438,
+              136,
+              1
+            ],
+            "time": 1791613291,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50898361282,
+              "vtokens_raw": 632436866097618,
+              "rsol_raw": 20898361282,
+              "rtokens_raw": 352536866097618,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "G5U4HXzFDsgC2hzY41tw53hmQw2go2HCyLZfWSknpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.050843681,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 15481780105702,
+            "proceeds": 452166319,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455164065,
+            "landing_slot": 455164065,
+            "position": [
+              455164065,
+              388,
+              1
+            ],
+            "time": 1791615389,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31085152677,
+              "vtokens_raw": 1035542607715805,
+              "rsol_raw": 1085152677,
+              "rtokens_raw": 755642607715805,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.047653842,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7158763191048,
+            "proceeds": 455356158,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455165766,
+            "landing_slot": 455165766,
+            "position": [
+              455165766,
+              53,
+              1
+            ],
+            "time": 1791615764,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 45766479835,
+              "vtokens_raw": 703353200613411,
+              "rsol_raw": 15766479835,
+              "rtokens_raw": 423453200613411,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "ThqWUcqZQX7BFr1uf9zpnw3gBSW3RHHwPKr4VxUpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": 0.065428794,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 6065884583828,
+            "proceeds": 256663500,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455214818,
+            "landing_slot": 455214818,
+            "position": [
+              455214818,
+              572,
+              1
+            ],
+            "time": 1791626432,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 37268902895,
+              "vtokens_raw": 863722773080868,
+              "rsol_raw": 7268902895,
+              "rtokens_raw": 583822773080868,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          },
+          {
+            "tokens": 9098826875743,
+            "proceeds": 313280294,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455214886,
+            "landing_slot": 455214886,
+            "position": [
+              455214886,
+              189,
+              1
+            ],
+            "time": 1791626447,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33660615958,
+              "vtokens_raw": 956310490833356,
+              "rsol_raw": 3660615958,
+              "rtokens_raw": 676410490833356,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "rule": "s5_carryover",
+        "status": "closed",
+        "net_SOL": -0.137513854,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 1491236099265,
+            "proceeds": 365496146,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "carryover_invalidation",
+            "trigger_slot": 455233806,
+            "landing_slot": 455233806,
+            "position": [
+              455233806,
+              756,
+              1
+            ],
+            "time": 1791630571,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 89569324906,
+              "vtokens_raw": 359386432964197,
+              "rsol_raw": 59569324906,
+              "rtokens_raw": 79486432964197,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 3
+            }
+          }
+        ]
+      },
+      {
+        "mint": "CzNLpFWka7A9kXErfzCZZinuUuCSmFyD8BcYNVG9pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.047797999,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 6001848387876,
+            "proceeds": 455212001,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455241378,
+            "landing_slot": 455241378,
+            "position": [
+              455241378,
+              243,
+              1
+            ],
+            "time": 1791632215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49953901661,
+              "vtokens_raw": 644394112516404,
+              "rsol_raw": 19953901661,
+              "rtokens_raw": 364494112516404,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 4
+            }
+          }
+        ]
+      },
+      {
+        "mint": "C6kQ2hUsfLmiqnMbGexmqRqGymxkKDq4KghCDCZYpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.049245303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14687381182520,
+            "proceeds": 453764697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455304337,
+            "landing_slot": 455304337,
+            "position": [
+              455304337,
+              708,
+              1
+            ],
+            "time": 1791645968,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31965337803,
+              "vtokens_raw": 1007028309364821,
+              "rsol_raw": 1965337803,
+              "rtokens_raw": 727128309364821,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "EB6BRSubfHEqMPFXjRdgzaF84oAUY34yeKhVp3Mgpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.042346039,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 12981282787682,
+            "proceeds": 460663961,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455310140,
+            "landing_slot": 455310140,
+            "position": [
+              455310140,
+              574,
+              1
+            ],
+            "time": 1791647239,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 34245505460,
+              "vtokens_raw": 939977368648620,
+              "rsol_raw": 4245505460,
+              "rtokens_raw": 660077368648620,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "GNBnKTaUV25PdngtMTajGNM8zzbTab3vFUqkY5Wepump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.062473251,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9273457870583,
+            "proceeds": 440536749,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455319700,
+            "landing_slot": 455319700,
+            "position": [
+              455319700,
+              100,
+              1
+            ],
+            "time": 1791649342,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39575267170,
+              "vtokens_raw": 813386803202826,
+              "rsol_raw": 9575267170,
+              "rtokens_raw": 533486803202826,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7UdUpiSELnPhPbKdf5mM6LpnbFahUiRDZ95qNQE3pump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.044582367,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 16163581976566,
+            "proceeds": 458427633,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455332326,
+            "landing_slot": 455332326,
+            "position": [
+              455332326,
+              208,
+              1
+            ],
+            "time": 1791652102,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30638947637,
+              "vtokens_raw": 1050623552881456,
+              "rsol_raw": 638947637,
+              "rtokens_raw": 770723552881456,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AaCF2NpeGGFewT5gEWsXY2cnyGcznKYEgRz1pQLZpump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.054570814,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5856859848114,
+            "proceeds": 448439186,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455379849,
+            "landing_slot": 455379849,
+            "position": [
+              455379849,
+              773,
+              1
+            ],
+            "time": 1791662522,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50186293383,
+              "vtokens_raw": 641410191407732,
+              "rsol_raw": 20186293383,
+              "rtokens_raw": 361510191407732,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7dnFGR6FNZ2h6aUqeuXBqyF7NWK9xcHxH7hjvVYopump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.060261478,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 6689692461749,
+            "proceeds": 442748522,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455396673,
+            "landing_slot": 455396673,
+            "position": [
+              455396673,
+              825,
+              1
+            ],
+            "time": 1791666196,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46672760440,
+              "vtokens_raw": 689695654103268,
+              "rsol_raw": 16672760440,
+              "rtokens_raw": 409795654103268,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.043077772,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 13228715721312,
+            "proceeds": 459932228,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455400573,
+            "landing_slot": 455400573,
+            "position": [
+              455400573,
+              268,
+              1
+            ],
+            "time": 1791667049,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33898790858,
+              "vtokens_raw": 949591393171340,
+              "rsol_raw": 3898790858,
+              "rtokens_raw": 669691393171340,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AD9wkpzRTWHBaRMuK1paojxxLBvLNjpJ5c9yTAVvpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.050181377,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14261703541907,
+            "proceeds": 452828623,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455405928,
+            "landing_slot": 455405928,
+            "position": [
+              455405928,
+              434,
+              1
+            ],
+            "time": 1791668215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 32401735089,
+              "vtokens_raw": 993465318716327,
+              "rsol_raw": 2401735089,
+              "rtokens_raw": 713565318716327,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3d4KiB8gYyNKnxYfz3GknYRmu6xnjScYSFyKfUvFpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.09875854,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9057529276447,
+            "proceeds": 404251460,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455419079,
+            "landing_slot": 455419079,
+            "position": [
+              455419079,
+              721,
+              1
+            ],
+            "time": 1791671082,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 38348059106,
+              "vtokens_raw": 839416670053084,
+              "rsol_raw": 8348059106,
+              "rtokens_raw": 559516670053084,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5hobnmGxd4cyh4nmo4ANfT3oQuoHheYjk5nrWMTWpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.004902435,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 8679310409934,
+            "proceeds": 498107565,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakeven_ratchet",
+            "trigger_slot": 455432863,
+            "landing_slot": 455432863,
+            "position": [
+              455432863,
+              321,
+              1
+            ],
+            "time": 1791674091,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 43505410099,
+              "vtokens_raw": 739907986197295,
+              "rsol_raw": 13505410099,
+              "rtokens_raw": 460007986197295,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+        "rule": "s3_deadman",
+        "status": "closed",
+        "net_SOL": -0.133538281,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7031567158111,
+            "proceeds": 369471719,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "relative_price_stop_after_grace",
+            "trigger_slot": 455446767,
+            "landing_slot": 455446767,
+            "position": [
+              455446767,
+              -1,
+              1
+            ],
+            "time": 1791677125,
+            "timer_target": 1791677125,
+            "state_before": {
+              "vsol_raw": 41573784902,
+              "vtokens_raw": 774286010855301,
+              "rsol_raw": 11573784902,
+              "rtokens_raw": 494386010855301,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.039746078,
+        "mark_SOL": 0.0,
+        "probe": true,
+        "legs": [
+          {
+            "tokens": 7660282760947,
+            "proceeds": 213263922,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455487278,
+            "landing_slot": 455487278,
+            "position": [
+              455487278,
+              5,
+              1
+            ],
+            "time": 1791685960,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30233256985,
+              "vtokens_raw": 1064721544360851,
+              "rsol_raw": 233256985,
+              "rtokens_raw": 784821544360851,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": 0.099810957,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 3382670744195,
+            "proceeds": 263871788,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455503129,
+            "landing_slot": 455503129,
+            "position": [
+              455503129,
+              460,
+              1
+            ],
+            "time": 1791689412,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50560251468,
+              "vtokens_raw": 636666139109330,
+              "rsol_raw": 20560251468,
+              "rtokens_raw": 356766139109330,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 1
+            }
+          },
+          {
+            "tokens": 5074006116294,
+            "proceeds": 340454169,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455503215,
+            "landing_slot": 455503215,
+            "position": [
+              455503215,
+              393,
+              1
+            ],
+            "time": 1791689431,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46940373824,
+              "vtokens_raw": 685763608271206,
+              "rsol_raw": 16940373824,
+              "rtokens_raw": 405863608271206,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 3
+            }
+          }
+        ]
+      }
+    ],
+    "combined_without_largest_SOL": -0.952702558,
+    "rules": {
+      "s1_dev_absorption": {
+        "attempts": 8,
+        "closed": 8,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.254593823,
+        "open_marked_sol": 0,
+        "combined_sol": -0.254593823
+      },
+      "s2_survival_shelf": {
+        "attempts": 4,
+        "closed": 4,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.066323269,
+        "open_marked_sol": 0,
+        "combined_sol": -0.066323269
+      },
+      "s3_deadman": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.133538281,
+        "open_marked_sol": 0,
+        "combined_sol": -0.133538281
+      },
+      "s4_upper_ath": {
+        "attempts": 5,
+        "closed": 5,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.260922374,
+        "open_marked_sol": 0,
+        "combined_sol": -0.260922374
+      },
+      "s5_carryover": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.137513854,
+        "open_marked_sol": 0,
+        "combined_sol": -0.137513854
+      }
+    },
+    "scenario": "fast",
+    "fee": 1505000,
+    "comparison": "current_local_entries|canonical_exit_recipe_9000bps"
+  },
+  {
+    "settled_net_SOL": -0.877678508,
+    "unresolved_cashflow_SOL": 0.0,
+    "unresolved_marked_pnl_SOL": 0.0,
+    "unresolved_mark_value_SOL": 0.0,
+    "zero_recovery_bound_SOL": -0.877678508,
+    "last_valid_marked_net_SOL": -0.877678508,
+    "unresolved_excluded_from_win_loss": true,
+    "scope": "portfolio",
+    "breakers": true,
+    "attempts": 18,
+    "closed": 16,
+    "failed": 2,
+    "unresolved": 0,
+    "net_zero_SOL": -0.877678508,
+    "net_marked_SOL": -0.877678508,
+    "mark_SOL": 0.0,
+    "ending_cash_SOL": 14.122321492,
+    "closed_net_SOL": -0.876668508,
+    "win_rate": 0.0625,
+    "profit_factor": 0.09827104207061275,
+    "max_settled_drawdown_SOL": 0.973218445,
+    "max_cash_drawdown_SOL": 1.476762725,
+    "largest_winner_SOL": 0.095539937,
+    "net_without_largest_SOL": -0.973218445,
+    "skipped": {
+      "mint_previously_closed": 2,
+      "strategy_pause": 4
+    },
+    "trips": [
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791667049,
+        "reason": "streak",
+        "rolling": -218889319
+      },
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791685960,
+        "reason": "probe_nonwin"
+      }
+    ],
+    "max_open": 1,
+    "daily_net_SOL": {
+      "2026-10-10": -0.799934086,
+      "2026-10-11": -0.077744422
+    },
+    "status_by_strategy": {
+      "s1_dev_absorption": {
+        "closed": 6,
+        "failed": 1
+      },
+      "s2_survival_shelf": {
+        "closed": 3,
+        "failed": 1
+      },
+      "s3_deadman": {
+        "closed": 1
+      },
+      "s4_upper_ath": {
+        "closed": 5
+      },
+      "s5_carryover": {
+        "closed": 1
+      }
+    },
+    "unresolved_reasons": {},
+    "admitted": [
+      {
+        "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.063391217,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5580431616843,
+            "proceeds": 439618783,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455154438,
+            "landing_slot": 455154438,
+            "position": [
+              455154438,
+              136,
+              1
+            ],
+            "time": 1791613291,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50898361282,
+              "vtokens_raw": 632436866097559,
+              "rsol_raw": 20898361282,
+              "rtokens_raw": 352536866097559,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "G5U4HXzFDsgC2hzY41tw53hmQw2go2HCyLZfWSknpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.050843681,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 15481780105702,
+            "proceeds": 452166319,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455164065,
+            "landing_slot": 455164065,
+            "position": [
+              455164065,
+              388,
+              1
+            ],
+            "time": 1791615389,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31085152677,
+              "vtokens_raw": 1035542607715805,
+              "rsol_raw": 1085152677,
+              "rtokens_raw": 755642607715805,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.042874303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7069578576643,
+            "proceeds": 460135697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455165766,
+            "landing_slot": 455165766,
+            "position": [
+              455165766,
+              42,
+              1
+            ],
+            "time": 1791615764,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46295075742,
+              "vtokens_raw": 695322333019063,
+              "rsol_raw": 16295075742,
+              "rtokens_raw": 415422333019063,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "ThqWUcqZQX7BFr1uf9zpnw3gBSW3RHHwPKr4VxUpump",
+        "rule": "s1_dev_absorption",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "rule": "s5_carryover",
+        "status": "closed",
+        "net_SOL": -0.137871563,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 1486994141400,
+            "proceeds": 365138437,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "carryover_invalidation",
+            "trigger_slot": 455233806,
+            "landing_slot": 455233807,
+            "position": [
+              455233807,
+              218,
+              1
+            ],
+            "time": 1791630571,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 89652732788,
+              "vtokens_raw": 359052079951036,
+              "rsol_raw": 59652732788,
+              "rtokens_raw": 79152079951036,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "CzNLpFWka7A9kXErfzCZZinuUuCSmFyD8BcYNVG9pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.048940253,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5986536698357,
+            "proceeds": 454069747,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455241378,
+            "landing_slot": 455241379,
+            "position": [
+              455241379,
+              82,
+              1
+            ],
+            "time": 1791632215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49954364554,
+              "vtokens_raw": 644388141376909,
+              "rsol_raw": 19954364554,
+              "rtokens_raw": 364488141376909,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 3
+            }
+          }
+        ]
+      },
+      {
+        "mint": "C6kQ2hUsfLmiqnMbGexmqRqGymxkKDq4KghCDCZYpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.049245303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14687381182520,
+            "proceeds": 453764697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455304337,
+            "landing_slot": 455304337,
+            "position": [
+              455304337,
+              708,
+              1
+            ],
+            "time": 1791645968,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31965337803,
+              "vtokens_raw": 1007028309364821,
+              "rsol_raw": 1965337803,
+              "rtokens_raw": 727128309364821,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "EB6BRSubfHEqMPFXjRdgzaF84oAUY34yeKhVp3Mgpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.055204616,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 12981282787682,
+            "proceeds": 447805384,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455310140,
+            "landing_slot": 455310141,
+            "position": [
+              455310141,
+              405,
+              1
+            ],
+            "time": 1791647239,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33760918756,
+              "vtokens_raw": 953469315914814,
+              "rsol_raw": 3760918756,
+              "rtokens_raw": 673569315914814,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "GNBnKTaUV25PdngtMTajGNM8zzbTab3vFUqkY5Wepump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.062473251,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9273457870583,
+            "proceeds": 440536749,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455319700,
+            "landing_slot": 455319700,
+            "position": [
+              455319700,
+              100,
+              1
+            ],
+            "time": 1791649342,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39575267170,
+              "vtokens_raw": 813386803202826,
+              "rsol_raw": 9575267170,
+              "rtokens_raw": 533486803202826,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7UdUpiSELnPhPbKdf5mM6LpnbFahUiRDZ95qNQE3pump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.044582367,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 16163581976566,
+            "proceeds": 458427633,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455332326,
+            "landing_slot": 455332326,
+            "position": [
+              455332326,
+              208,
+              1
+            ],
+            "time": 1791652102,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30638947637,
+              "vtokens_raw": 1050623552881456,
+              "rsol_raw": 638947637,
+              "rtokens_raw": 770723552881456,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AaCF2NpeGGFewT5gEWsXY2cnyGcznKYEgRz1pQLZpump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.070933985,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5859657046266,
+            "proceeds": 432076015,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455379849,
+            "landing_slot": 455379849,
+            "position": [
+              455379849,
+              838,
+              1
+            ],
+            "time": 1791662522,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49246328275,
+              "vtokens_raw": 653652793486689,
+              "rsol_raw": 19246328275,
+              "rtokens_raw": 373752793486689,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7dnFGR6FNZ2h6aUqeuXBqyF7NWK9xcHxH7hjvVYopump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.060261478,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 6689692461749,
+            "proceeds": 442748522,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455396673,
+            "landing_slot": 455396673,
+            "position": [
+              455396673,
+              825,
+              1
+            ],
+            "time": 1791666196,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46672760440,
+              "vtokens_raw": 689695654103268,
+              "rsol_raw": 16672760440,
+              "rtokens_raw": 409795654103268,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.069857033,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 13228715721312,
+            "proceeds": 433152967,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455400573,
+            "landing_slot": 455400573,
+            "position": [
+              455400573,
+              271,
+              1
+            ],
+            "time": 1791667049,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 32890400715,
+              "vtokens_raw": 978705012367073,
+              "rsol_raw": 2890400715,
+              "rtokens_raw": 698805012367073,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3d4KiB8gYyNKnxYfz3GknYRmu6xnjScYSFyKfUvFpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.042445036,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9921148002690,
+            "proceeds": 460564964,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455419079,
+            "landing_slot": 455419079,
+            "position": [
+              455419079,
+              773,
+              1
+            ],
+            "time": 1791671082,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39134507347,
+              "vtokens_raw": 822547727351419,
+              "rsol_raw": 9134507347,
+              "rtokens_raw": 542647727351419,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5hobnmGxd4cyh4nmo4ANfT3oQuoHheYjk5nrWMTWpump",
+        "rule": "s2_survival_shelf",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+        "rule": "s3_deadman",
+        "status": "closed",
+        "net_SOL": -0.133538281,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7031567158111,
+            "proceeds": 369471719,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "relative_price_stop_after_grace",
+            "trigger_slot": 455446767,
+            "landing_slot": 455446767,
+            "position": [
+              455446767,
+              -1,
+              1
+            ],
+            "time": 1791677125,
+            "timer_target": 1791677125,
+            "state_before": {
+              "vsol_raw": 41573784902,
+              "vtokens_raw": 774286010855301,
+              "rsol_raw": 11573784902,
+              "rtokens_raw": 494386010855301,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.039746078,
+        "mark_SOL": 0.0,
+        "probe": true,
+        "legs": [
+          {
+            "tokens": 7660282760947,
+            "proceeds": 213263922,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455487278,
+            "landing_slot": 455487278,
+            "position": [
+              455487278,
+              5,
+              1
+            ],
+            "time": 1791685960,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30233256985,
+              "vtokens_raw": 1064721544360851,
+              "rsol_raw": 233256985,
+              "rtokens_raw": 784821544360851,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": 0.095539937,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 3363969731060,
+            "proceeds": 263536228,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455503136,
+            "landing_slot": 455503136,
+            "position": [
+              455503136,
+              1113,
+              1
+            ],
+            "time": 1791689414,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50667889825,
+              "vtokens_raw": 635313612035670,
+              "rsol_raw": 20667889825,
+              "rtokens_raw": 355413612035670,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          },
+          {
+            "tokens": 5045954596592,
+            "proceeds": 336518709,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455503217,
+            "landing_slot": 455503218,
+            "position": [
+              455503218,
+              -1,
+              1
+            ],
+            "time": 1791689432,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46796348046,
+              "vtokens_raw": 687874192617800,
+              "rsol_raw": 16796348046,
+              "rtokens_raw": 407974192617800,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 1
+            }
+          }
+        ]
+      }
+    ],
+    "combined_without_largest_SOL": -0.973218445,
+    "rules": {
+      "s1_dev_absorption": {
+        "attempts": 7,
+        "closed": 6,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.309984078,
+        "open_marked_sol": 0,
+        "combined_sol": -0.309984078
+      },
+      "s2_survival_shelf": {
+        "attempts": 4,
+        "closed": 3,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.009883349999999994,
+        "open_marked_sol": 0,
+        "combined_sol": -0.009883349999999994
+      },
+      "s3_deadman": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.133538281,
+        "open_marked_sol": 0,
+        "combined_sol": -0.133538281
+      },
+      "s4_upper_ath": {
+        "attempts": 5,
+        "closed": 5,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.286401236,
+        "open_marked_sol": 0,
+        "combined_sol": -0.286401236
+      },
+      "s5_carryover": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.137871563,
+        "open_marked_sol": 0,
+        "combined_sol": -0.137871563
+      }
+    },
+    "scenario": "central80",
+    "fee": 1505000,
+    "comparison": "current_local_entries|canonical_exit_recipe_9000bps"
+  },
+  {
+    "settled_net_SOL": -0.878071532,
+    "unresolved_cashflow_SOL": 0.0,
+    "unresolved_marked_pnl_SOL": 0.0,
+    "unresolved_mark_value_SOL": 0.0,
+    "zero_recovery_bound_SOL": -0.878071532,
+    "last_valid_marked_net_SOL": -0.878071532,
+    "unresolved_excluded_from_win_loss": true,
+    "scope": "portfolio",
+    "breakers": true,
+    "attempts": 18,
+    "closed": 16,
+    "failed": 2,
+    "unresolved": 0,
+    "net_zero_SOL": -0.878071532,
+    "net_marked_SOL": -0.878071532,
+    "mark_SOL": 0.0,
+    "ending_cash_SOL": 14.121928468,
+    "closed_net_SOL": -0.877061532,
+    "win_rate": 0.0625,
+    "profit_factor": 0.0982313311722954,
+    "max_settled_drawdown_SOL": 0.973611469,
+    "max_cash_drawdown_SOL": 1.477155749,
+    "largest_winner_SOL": 0.095539937,
+    "net_without_largest_SOL": -0.973611469,
+    "skipped": {
+      "mint_previously_closed": 2,
+      "strategy_pause": 4
+    },
+    "trips": [
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791667049,
+        "reason": "streak",
+        "rolling": -218889319
+      },
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791685960,
+        "reason": "probe_nonwin"
+      }
+    ],
+    "max_open": 1,
+    "daily_net_SOL": {
+      "2026-10-10": -0.80032711,
+      "2026-10-11": -0.077744422
+    },
+    "status_by_strategy": {
+      "s1_dev_absorption": {
+        "closed": 6,
+        "failed": 1
+      },
+      "s2_survival_shelf": {
+        "closed": 3,
+        "failed": 1
+      },
+      "s3_deadman": {
+        "closed": 1
+      },
+      "s4_upper_ath": {
+        "closed": 5
+      },
+      "s5_carryover": {
+        "closed": 1
+      }
+    },
+    "unresolved_reasons": {},
+    "admitted": [
+      {
+        "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.063391217,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5580431616843,
+            "proceeds": 439618783,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455154438,
+            "landing_slot": 455154438,
+            "position": [
+              455154438,
+              136,
+              1
+            ],
+            "time": 1791613291,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50898361282,
+              "vtokens_raw": 632436866097559,
+              "rsol_raw": 20898361282,
+              "rtokens_raw": 352536866097559,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "G5U4HXzFDsgC2hzY41tw53hmQw2go2HCyLZfWSknpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.050843681,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 15481780105702,
+            "proceeds": 452166319,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455164065,
+            "landing_slot": 455164065,
+            "position": [
+              455164065,
+              388,
+              1
+            ],
+            "time": 1791615389,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31085152677,
+              "vtokens_raw": 1035542607715805,
+              "rsol_raw": 1085152677,
+              "rtokens_raw": 755642607715805,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.042874303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7069578576643,
+            "proceeds": 460135697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455165766,
+            "landing_slot": 455165766,
+            "position": [
+              455165766,
+              42,
+              1
+            ],
+            "time": 1791615764,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46295075742,
+              "vtokens_raw": 695322333019063,
+              "rsol_raw": 16295075742,
+              "rtokens_raw": 415422333019063,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "ThqWUcqZQX7BFr1uf9zpnw3gBSW3RHHwPKr4VxUpump",
+        "rule": "s1_dev_absorption",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "rule": "s5_carryover",
+        "status": "closed",
+        "net_SOL": -0.138264587,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 1486994141400,
+            "proceeds": 364745413,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "carryover_invalidation",
+            "trigger_slot": 455233806,
+            "landing_slot": 455233806,
+            "position": [
+              455233806,
+              756,
+              1
+            ],
+            "time": 1791630571,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 89604370374,
+              "vtokens_raw": 359245872120242,
+              "rsol_raw": 59604370374,
+              "rtokens_raw": 79345872120242,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "CzNLpFWka7A9kXErfzCZZinuUuCSmFyD8BcYNVG9pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.048940253,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5986536698357,
+            "proceeds": 454069747,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455241378,
+            "landing_slot": 455241379,
+            "position": [
+              455241379,
+              82,
+              1
+            ],
+            "time": 1791632215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49954364554,
+              "vtokens_raw": 644388141376909,
+              "rsol_raw": 19954364554,
+              "rtokens_raw": 364488141376909,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 3
+            }
+          }
+        ]
+      },
+      {
+        "mint": "C6kQ2hUsfLmiqnMbGexmqRqGymxkKDq4KghCDCZYpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.049245303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14687381182520,
+            "proceeds": 453764697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455304337,
+            "landing_slot": 455304337,
+            "position": [
+              455304337,
+              708,
+              1
+            ],
+            "time": 1791645968,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31965337803,
+              "vtokens_raw": 1007028309364821,
+              "rsol_raw": 1965337803,
+              "rtokens_raw": 727128309364821,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "EB6BRSubfHEqMPFXjRdgzaF84oAUY34yeKhVp3Mgpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.055204616,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 12981282787682,
+            "proceeds": 447805384,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455310140,
+            "landing_slot": 455310141,
+            "position": [
+              455310141,
+              405,
+              1
+            ],
+            "time": 1791647239,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33760918756,
+              "vtokens_raw": 953469315914814,
+              "rsol_raw": 3760918756,
+              "rtokens_raw": 673569315914814,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "GNBnKTaUV25PdngtMTajGNM8zzbTab3vFUqkY5Wepump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.062473251,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9273457870583,
+            "proceeds": 440536749,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455319700,
+            "landing_slot": 455319700,
+            "position": [
+              455319700,
+              100,
+              1
+            ],
+            "time": 1791649342,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39575267170,
+              "vtokens_raw": 813386803202826,
+              "rsol_raw": 9575267170,
+              "rtokens_raw": 533486803202826,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7UdUpiSELnPhPbKdf5mM6LpnbFahUiRDZ95qNQE3pump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.044582367,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 16163581976566,
+            "proceeds": 458427633,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455332326,
+            "landing_slot": 455332326,
+            "position": [
+              455332326,
+              208,
+              1
+            ],
+            "time": 1791652102,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30638947637,
+              "vtokens_raw": 1050623552881456,
+              "rsol_raw": 638947637,
+              "rtokens_raw": 770723552881456,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AaCF2NpeGGFewT5gEWsXY2cnyGcznKYEgRz1pQLZpump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.070933985,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5859657046266,
+            "proceeds": 432076015,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455379849,
+            "landing_slot": 455379849,
+            "position": [
+              455379849,
+              838,
+              1
+            ],
+            "time": 1791662522,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49246328275,
+              "vtokens_raw": 653652793486689,
+              "rsol_raw": 19246328275,
+              "rtokens_raw": 373752793486689,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7dnFGR6FNZ2h6aUqeuXBqyF7NWK9xcHxH7hjvVYopump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.060261478,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 6689692461749,
+            "proceeds": 442748522,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455396673,
+            "landing_slot": 455396673,
+            "position": [
+              455396673,
+              825,
+              1
+            ],
+            "time": 1791666196,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46672760440,
+              "vtokens_raw": 689695654103268,
+              "rsol_raw": 16672760440,
+              "rtokens_raw": 409795654103268,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.069857033,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 13228715721312,
+            "proceeds": 433152967,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455400573,
+            "landing_slot": 455400573,
+            "position": [
+              455400573,
+              271,
+              1
+            ],
+            "time": 1791667049,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 32890400715,
+              "vtokens_raw": 978705012367073,
+              "rsol_raw": 2890400715,
+              "rtokens_raw": 698805012367073,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3d4KiB8gYyNKnxYfz3GknYRmu6xnjScYSFyKfUvFpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.042445036,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9921148002690,
+            "proceeds": 460564964,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455419079,
+            "landing_slot": 455419079,
+            "position": [
+              455419079,
+              773,
+              1
+            ],
+            "time": 1791671082,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39134507347,
+              "vtokens_raw": 822547727351419,
+              "rsol_raw": 9134507347,
+              "rtokens_raw": 542647727351419,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5hobnmGxd4cyh4nmo4ANfT3oQuoHheYjk5nrWMTWpump",
+        "rule": "s2_survival_shelf",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+        "rule": "s3_deadman",
+        "status": "closed",
+        "net_SOL": -0.133538281,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7031567158111,
+            "proceeds": 369471719,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "relative_price_stop_after_grace",
+            "trigger_slot": 455446767,
+            "landing_slot": 455446767,
+            "position": [
+              455446767,
+              -1,
+              1
+            ],
+            "time": 1791677125,
+            "timer_target": 1791677125,
+            "state_before": {
+              "vsol_raw": 41573784902,
+              "vtokens_raw": 774286010855301,
+              "rsol_raw": 11573784902,
+              "rtokens_raw": 494386010855301,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.039746078,
+        "mark_SOL": 0.0,
+        "probe": true,
+        "legs": [
+          {
+            "tokens": 7660282760947,
+            "proceeds": 213263922,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455487278,
+            "landing_slot": 455487278,
+            "position": [
+              455487278,
+              5,
+              1
+            ],
+            "time": 1791685960,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30233256985,
+              "vtokens_raw": 1064721544360851,
+              "rsol_raw": 233256985,
+              "rtokens_raw": 784821544360851,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": 0.095539937,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 3363969731060,
+            "proceeds": 263536228,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455503136,
+            "landing_slot": 455503136,
+            "position": [
+              455503136,
+              1113,
+              1
+            ],
+            "time": 1791689414,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50667889825,
+              "vtokens_raw": 635313612035670,
+              "rsol_raw": 20667889825,
+              "rtokens_raw": 355413612035670,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          },
+          {
+            "tokens": 5045954596592,
+            "proceeds": 336518709,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455503217,
+            "landing_slot": 455503218,
+            "position": [
+              455503218,
+              -1,
+              1
+            ],
+            "time": 1791689432,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46796348046,
+              "vtokens_raw": 687874192617800,
+              "rsol_raw": 16796348046,
+              "rtokens_raw": 407974192617800,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 1
+            }
+          }
+        ]
+      }
+    ],
+    "combined_without_largest_SOL": -0.973611469,
+    "rules": {
+      "s1_dev_absorption": {
+        "attempts": 7,
+        "closed": 6,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.309984078,
+        "open_marked_sol": 0,
+        "combined_sol": -0.309984078
+      },
+      "s2_survival_shelf": {
+        "attempts": 4,
+        "closed": 3,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.009883349999999994,
+        "open_marked_sol": 0,
+        "combined_sol": -0.009883349999999994
+      },
+      "s3_deadman": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.133538281,
+        "open_marked_sol": 0,
+        "combined_sol": -0.133538281
+      },
+      "s4_upper_ath": {
+        "attempts": 5,
+        "closed": 5,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.286401236,
+        "open_marked_sol": 0,
+        "combined_sol": -0.286401236
+      },
+      "s5_carryover": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.138264587,
+        "open_marked_sol": 0,
+        "combined_sol": -0.138264587
+      }
+    },
+    "scenario": "central85",
+    "fee": 1505000,
+    "comparison": "current_local_entries|canonical_exit_recipe_9000bps"
+  },
+  {
+    "settled_net_SOL": -1.051152205,
+    "unresolved_cashflow_SOL": 0.0,
+    "unresolved_marked_pnl_SOL": 0.0,
+    "unresolved_mark_value_SOL": 0.0,
+    "zero_recovery_bound_SOL": -1.051152205,
+    "last_valid_marked_net_SOL": -1.051152205,
+    "unresolved_excluded_from_win_loss": true,
+    "scope": "portfolio",
+    "breakers": true,
+    "attempts": 18,
+    "closed": 16,
+    "failed": 2,
+    "unresolved": 0,
+    "net_zero_SOL": -1.051152205,
+    "net_marked_SOL": -1.051152205,
+    "mark_SOL": 0.0,
+    "ending_cash_SOL": 13.948847795,
+    "closed_net_SOL": -1.050142205,
+    "win_rate": 0.0625,
+    "profit_factor": 0.08193487521388994,
+    "max_settled_drawdown_SOL": 1.144874609,
+    "max_cash_drawdown_SOL": 1.648418889,
+    "largest_winner_SOL": 0.093722404,
+    "net_without_largest_SOL": -1.144874609,
+    "skipped": {
+      "mint_previously_closed": 2,
+      "strategy_pause": 4
+    },
+    "trips": [
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791667049,
+        "reason": "streak",
+        "rolling": -246966965
+      },
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791685960,
+        "reason": "probe_nonwin"
+      }
+    ],
+    "max_open": 1,
+    "daily_net_SOL": {
+      "2026-10-10": -0.96324665,
+      "2026-10-11": -0.087905555
+    },
+    "status_by_strategy": {
+      "s1_dev_absorption": {
+        "closed": 6,
+        "failed": 1
+      },
+      "s2_survival_shelf": {
+        "closed": 3,
+        "failed": 1
+      },
+      "s3_deadman": {
+        "closed": 1
+      },
+      "s4_upper_ath": {
+        "closed": 5
+      },
+      "s5_carryover": {
+        "closed": 1
+      }
+    },
+    "unresolved_reasons": {},
+    "admitted": [
+      {
+        "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.063391217,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5580431616843,
+            "proceeds": 439618783,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455154438,
+            "landing_slot": 455154439,
+            "position": [
+              455154439,
+              -1,
+              1
+            ],
+            "time": 1791613291,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50898361282,
+              "vtokens_raw": 632436866097559,
+              "rsol_raw": 20898361282,
+              "rtokens_raw": 352536866097559,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "G5U4HXzFDsgC2hzY41tw53hmQw2go2HCyLZfWSknpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.050843681,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 15481780105702,
+            "proceeds": 452166319,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455164065,
+            "landing_slot": 455164066,
+            "position": [
+              455164066,
+              -1,
+              1
+            ],
+            "time": 1791615389,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31085152677,
+              "vtokens_raw": 1035542607715805,
+              "rsol_raw": 1085152677,
+              "rtokens_raw": 755642607715805,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.053270265,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7069578576643,
+            "proceeds": 449739735,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455165766,
+            "landing_slot": 455165767,
+            "position": [
+              455165767,
+              -1,
+              1
+            ],
+            "time": 1791615764,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 45766479835,
+              "vtokens_raw": 703353200613619,
+              "rsol_raw": 15766479835,
+              "rtokens_raw": 423453200613619,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "ThqWUcqZQX7BFr1uf9zpnw3gBSW3RHHwPKr4VxUpump",
+        "rule": "s1_dev_absorption",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "rule": "s5_carryover",
+        "status": "closed",
+        "net_SOL": -0.135019908,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 1498187913267,
+            "proceeds": 367990092,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "carryover_invalidation",
+            "trigger_slot": 455233806,
+            "landing_slot": 455233807,
+            "position": [
+              455233807,
+              501,
+              1
+            ],
+            "time": 1791630571,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 89666699537,
+              "vtokens_raw": 358996152948758,
+              "rsol_raw": 59666699537,
+              "rtokens_raw": 79096152948758,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "CzNLpFWka7A9kXErfzCZZinuUuCSmFyD8BcYNVG9pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.080621071,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5565243805131,
+            "proceeds": 422388929,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455241378,
+            "landing_slot": 455241379,
+            "position": [
+              455241379,
+              138,
+              1
+            ],
+            "time": 1791632215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49954364554,
+              "vtokens_raw": 644388141376706,
+              "rsol_raw": 19954364554,
+              "rtokens_raw": 364488141376706,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 4
+            }
+          }
+        ]
+      },
+      {
+        "mint": "C6kQ2hUsfLmiqnMbGexmqRqGymxkKDq4KghCDCZYpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.049245303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14687381182520,
+            "proceeds": 453764697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455304337,
+            "landing_slot": 455304338,
+            "position": [
+              455304338,
+              -1,
+              1
+            ],
+            "time": 1791645969,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31965337803,
+              "vtokens_raw": 1007028309364821,
+              "rsol_raw": 1965337803,
+              "rtokens_raw": 727128309364821,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "EB6BRSubfHEqMPFXjRdgzaF84oAUY34yeKhVp3Mgpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.055204616,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 12981282787682,
+            "proceeds": 447805384,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455310140,
+            "landing_slot": 455310141,
+            "position": [
+              455310141,
+              405,
+              1
+            ],
+            "time": 1791647239,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33760918756,
+              "vtokens_raw": 953469315914814,
+              "rsol_raw": 3760918756,
+              "rtokens_raw": 673569315914814,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "GNBnKTaUV25PdngtMTajGNM8zzbTab3vFUqkY5Wepump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.060395052,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9316712488625,
+            "proceeds": 442614948,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455319700,
+            "landing_slot": 455319701,
+            "position": [
+              455319701,
+              -1,
+              1
+            ],
+            "time": 1791649343,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39577364889,
+              "vtokens_raw": 813343691257495,
+              "rsol_raw": 9577364889,
+              "rtokens_raw": 533443691257495,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7UdUpiSELnPhPbKdf5mM6LpnbFahUiRDZ95qNQE3pump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.044582367,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 16163581976566,
+            "proceeds": 458427633,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455332326,
+            "landing_slot": 455332327,
+            "position": [
+              455332327,
+              -1,
+              1
+            ],
+            "time": 1791652102,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30638947637,
+              "vtokens_raw": 1050623552881456,
+              "rsol_raw": 638947637,
+              "rtokens_raw": 770723552881456,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AaCF2NpeGGFewT5gEWsXY2cnyGcznKYEgRz1pQLZpump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.072884439,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5876500068467,
+            "proceeds": 430125561,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455379849,
+            "landing_slot": 455379850,
+            "position": [
+              455379850,
+              448,
+              1
+            ],
+            "time": 1791662522,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49064403915,
+              "vtokens_raw": 656076452141158,
+              "rsol_raw": 19064403915,
+              "rtokens_raw": 376176452141158,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7dnFGR6FNZ2h6aUqeuXBqyF7NWK9xcHxH7hjvVYopump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.161728286,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7017019996151,
+            "proceeds": 341281714,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455396674,
+            "landing_slot": 455396675,
+            "position": [
+              455396675,
+              229,
+              1
+            ],
+            "time": 1791666197,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39990501748,
+              "vtokens_raw": 804941139399210,
+              "rsol_raw": 9990501748,
+              "rtokens_raw": 525041139399210,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.097934679,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 13228715721312,
+            "proceeds": 405075321,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455400573,
+            "landing_slot": 455400574,
+            "position": [
+              455400574,
+              936,
+              1
+            ],
+            "time": 1791667049,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31799503383,
+              "vtokens_raw": 1012279960841627,
+              "rsol_raw": 1799503383,
+              "rtokens_raw": 732379960841627,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3d4KiB8gYyNKnxYfz3GknYRmu6xnjScYSFyKfUvFpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.037115766,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 10487875849362,
+            "proceeds": 465894234,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455419093,
+            "landing_slot": 455419094,
+            "position": [
+              455419094,
+              109,
+              1
+            ],
+            "time": 1791671085,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 38289884169,
+              "vtokens_raw": 840692020329204,
+              "rsol_raw": 8289884169,
+              "rtokens_raw": 560792020329204,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5hobnmGxd4cyh4nmo4ANfT3oQuoHheYjk5nrWMTWpump",
+        "rule": "s2_survival_shelf",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+        "rule": "s3_deadman",
+        "status": "closed",
+        "net_SOL": -0.141881881,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7031567158111,
+            "proceeds": 361128119,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "relative_price_stop_after_grace",
+            "trigger_slot": 455446767,
+            "landing_slot": 455446768,
+            "position": [
+              455446768,
+              850,
+              1
+            ],
+            "time": 1791677125,
+            "timer_target": 1791677125,
+            "state_before": {
+              "vsol_raw": 41099574436,
+              "vtokens_raw": 783219790230060,
+              "rsol_raw": 11099574436,
+              "rtokens_raw": 503319790230060,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.039746078,
+        "mark_SOL": 0.0,
+        "probe": true,
+        "legs": [
+          {
+            "tokens": 7660282760947,
+            "proceeds": 213263922,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455487278,
+            "landing_slot": 455487279,
+            "position": [
+              455487279,
+              -1,
+              1
+            ],
+            "time": 1791685960,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30233256985,
+              "vtokens_raw": 1064721544360851,
+              "rsol_raw": 233256985,
+              "rtokens_raw": 784821544360851,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": 0.093722404,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 3363969731060,
+            "proceeds": 261718695,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455503136,
+            "landing_slot": 455503137,
+            "position": [
+              455503137,
+              757,
+              1
+            ],
+            "time": 1791689414,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50492406075,
+              "vtokens_raw": 637521611689052,
+              "rsol_raw": 20492406075,
+              "rtokens_raw": 357621611689052,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          },
+          {
+            "tokens": 5045954596592,
+            "proceeds": 336518709,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455503217,
+            "landing_slot": 455503218,
+            "position": [
+              455503218,
+              -1,
+              1
+            ],
+            "time": 1791689432,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46796348045,
+              "vtokens_raw": 687874192616126,
+              "rsol_raw": 16796348045,
+              "rtokens_raw": 407974192616126,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 1
+            }
+          }
+        ]
+      }
+    ],
+    "combined_without_largest_SOL": -1.144874609,
+    "rules": {
+      "s1_dev_absorption": {
+        "attempts": 7,
+        "closed": 6,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.338061724,
+        "open_marked_sol": 0,
+        "combined_sol": -0.338061724
+      },
+      "s2_survival_shelf": {
+        "attempts": 4,
+        "closed": 3,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.004293414000000004,
+        "open_marked_sol": 0,
+        "combined_sol": -0.004293414000000004
+      },
+      "s3_deadman": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.141881881,
+        "open_marked_sol": 0,
+        "combined_sol": -0.141881881
+      },
+      "s4_upper_ath": {
+        "attempts": 5,
+        "closed": 5,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.431895278,
+        "open_marked_sol": 0,
+        "combined_sol": -0.431895278
+      },
+      "s5_carryover": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.135019908,
+        "open_marked_sol": 0,
+        "combined_sol": -0.135019908
+      }
+    },
+    "scenario": "slow",
+    "fee": 1505000,
+    "comparison": "current_local_entries|canonical_exit_recipe_9000bps"
+  },
+  {
+    "settled_net_SOL": -0.943639079,
+    "unresolved_cashflow_SOL": 0.0,
+    "unresolved_marked_pnl_SOL": 0.0,
+    "unresolved_mark_value_SOL": 0.0,
+    "zero_recovery_bound_SOL": -0.943639079,
+    "last_valid_marked_net_SOL": -0.943639079,
+    "unresolved_excluded_from_win_loss": true,
+    "scope": "portfolio",
+    "breakers": true,
+    "attempts": 18,
+    "closed": 16,
+    "failed": 2,
+    "unresolved": 0,
+    "net_zero_SOL": -0.943639079,
+    "net_marked_SOL": -0.943639079,
+    "mark_SOL": 0.0,
+    "ending_cash_SOL": 14.056360921,
+    "closed_net_SOL": -0.942629079,
+    "win_rate": 0.0625,
+    "profit_factor": 0.09043495912091053,
+    "max_settled_drawdown_SOL": 1.037361483,
+    "max_cash_drawdown_SOL": 1.540905763,
+    "largest_winner_SOL": 0.093722404,
+    "net_without_largest_SOL": -1.037361483,
+    "skipped": {
+      "mint_previously_closed": 2,
+      "strategy_pause": 4
+    },
+    "trips": [
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791667049,
+        "reason": "streak",
+        "rolling": -246966965
+      },
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791685960,
+        "reason": "probe_nonwin"
+      }
+    ],
+    "max_open": 1,
+    "daily_net_SOL": {
+      "2026-10-10": -0.855733524,
+      "2026-10-11": -0.087905555
+    },
+    "status_by_strategy": {
+      "s1_dev_absorption": {
+        "closed": 6,
+        "failed": 1
+      },
+      "s2_survival_shelf": {
+        "closed": 3,
+        "failed": 1
+      },
+      "s3_deadman": {
+        "closed": 1
+      },
+      "s4_upper_ath": {
+        "closed": 5
+      },
+      "s5_carryover": {
+        "closed": 1
+      }
+    },
+    "unresolved_reasons": {},
+    "admitted": [
+      {
+        "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.063391217,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5580431616843,
+            "proceeds": 439618783,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455154438,
+            "landing_slot": 455154439,
+            "position": [
+              455154439,
+              -1,
+              1
+            ],
+            "time": 1791613291,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50898361282,
+              "vtokens_raw": 632436866097559,
+              "rsol_raw": 20898361282,
+              "rtokens_raw": 352536866097559,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "G5U4HXzFDsgC2hzY41tw53hmQw2go2HCyLZfWSknpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.050843681,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 15481780105702,
+            "proceeds": 452166319,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455164065,
+            "landing_slot": 455164066,
+            "position": [
+              455164066,
+              -1,
+              1
+            ],
+            "time": 1791615389,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31085152677,
+              "vtokens_raw": 1035542607715805,
+              "rsol_raw": 1085152677,
+              "rtokens_raw": 755642607715805,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.053270265,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7069578576643,
+            "proceeds": 449739735,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455165766,
+            "landing_slot": 455165767,
+            "position": [
+              455165767,
+              -1,
+              1
+            ],
+            "time": 1791615764,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 45766479835,
+              "vtokens_raw": 703353200613619,
+              "rsol_raw": 15766479835,
+              "rtokens_raw": 423453200613619,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "ThqWUcqZQX7BFr1uf9zpnw3gBSW3RHHwPKr4VxUpump",
+        "rule": "s1_dev_absorption",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "rule": "s5_carryover",
+        "status": "closed",
+        "net_SOL": -0.106148399,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 1498187913267,
+            "proceeds": 396861601,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "carryover_invalidation",
+            "trigger_slot": 455233806,
+            "landing_slot": 455233807,
+            "position": [
+              455233807,
+              741,
+              1
+            ],
+            "time": 1791630571,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 93125253474,
+              "vtokens_raw": 345663490635014,
+              "rsol_raw": 63125253474,
+              "rtokens_raw": 65763490635014,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "CzNLpFWka7A9kXErfzCZZinuUuCSmFyD8BcYNVG9pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.070974513,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5691302152632,
+            "proceeds": 432035487,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455241378,
+            "landing_slot": 455241379,
+            "position": [
+              455241379,
+              138,
+              1
+            ],
+            "time": 1791632215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49963819784,
+              "vtokens_raw": 644266196377449,
+              "rsol_raw": 19963819784,
+              "rtokens_raw": 364366196377449,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 4
+            }
+          }
+        ]
+      },
+      {
+        "mint": "C6kQ2hUsfLmiqnMbGexmqRqGymxkKDq4KghCDCZYpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.049245303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14687381182520,
+            "proceeds": 453764697,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455304337,
+            "landing_slot": 455304338,
+            "position": [
+              455304338,
+              -1,
+              1
+            ],
+            "time": 1791645969,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31965337803,
+              "vtokens_raw": 1007028309364821,
+              "rsol_raw": 1965337803,
+              "rtokens_raw": 727128309364821,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "EB6BRSubfHEqMPFXjRdgzaF84oAUY34yeKhVp3Mgpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.055204616,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 12981282787682,
+            "proceeds": 447805384,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455310140,
+            "landing_slot": 455310141,
+            "position": [
+              455310141,
+              405,
+              1
+            ],
+            "time": 1791647239,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33760918756,
+              "vtokens_raw": 953469315914814,
+              "rsol_raw": 3760918756,
+              "rtokens_raw": 673569315914814,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "GNBnKTaUV25PdngtMTajGNM8zzbTab3vFUqkY5Wepump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.060395052,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9316712488625,
+            "proceeds": 442614948,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455319700,
+            "landing_slot": 455319701,
+            "position": [
+              455319701,
+              -1,
+              1
+            ],
+            "time": 1791649343,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39577364889,
+              "vtokens_raw": 813343691257495,
+              "rsol_raw": 9577364889,
+              "rtokens_raw": 533443691257495,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7UdUpiSELnPhPbKdf5mM6LpnbFahUiRDZ95qNQE3pump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.044582367,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 16163581976566,
+            "proceeds": 458427633,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455332326,
+            "landing_slot": 455332327,
+            "position": [
+              455332327,
+              -1,
+              1
+            ],
+            "time": 1791652102,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30638947637,
+              "vtokens_raw": 1050623552881456,
+              "rsol_raw": 638947637,
+              "rtokens_raw": 770723552881456,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AaCF2NpeGGFewT5gEWsXY2cnyGcznKYEgRz1pQLZpump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.013755405,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5879161800151,
+            "proceeds": 489254595,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455379849,
+            "landing_slot": 455379850,
+            "position": [
+              455379850,
+              922,
+              1
+            ],
+            "time": 1791662522,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 52331996092,
+              "vtokens_raw": 615111259911501,
+              "rsol_raw": 22331996092,
+              "rtokens_raw": 335211259911501,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 1
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7dnFGR6FNZ2h6aUqeuXBqyF7NWK9xcHxH7hjvVYopump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.151862261,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7361326783087,
+            "proceeds": 351147739,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455396674,
+            "landing_slot": 455396675,
+            "position": [
+              455396675,
+              231,
+              1
+            ],
+            "time": 1791666197,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39611107107,
+              "vtokens_raw": 812650854624849,
+              "rsol_raw": 9611107107,
+              "rtokens_raw": 532750854624849,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.097934679,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 13228715721312,
+            "proceeds": 405075321,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455400573,
+            "landing_slot": 455400574,
+            "position": [
+              455400574,
+              936,
+              1
+            ],
+            "time": 1791667049,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31799503383,
+              "vtokens_raw": 1012279960841627,
+              "rsol_raw": 1799503383,
+              "rtokens_raw": 732379960841627,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3d4KiB8gYyNKnxYfz3GknYRmu6xnjScYSFyKfUvFpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.037115766,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 10487875849362,
+            "proceeds": 465894234,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455419093,
+            "landing_slot": 455419094,
+            "position": [
+              455419094,
+              109,
+              1
+            ],
+            "time": 1791671085,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 38289884169,
+              "vtokens_raw": 840692020329204,
+              "rsol_raw": 8289884169,
+              "rtokens_raw": 560792020329204,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5hobnmGxd4cyh4nmo4ANfT3oQuoHheYjk5nrWMTWpump",
+        "rule": "s2_survival_shelf",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+        "rule": "s3_deadman",
+        "status": "closed",
+        "net_SOL": -0.141881881,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7031567158111,
+            "proceeds": 361128119,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "relative_price_stop_after_grace",
+            "trigger_slot": 455446767,
+            "landing_slot": 455446768,
+            "position": [
+              455446768,
+              850,
+              1
+            ],
+            "time": 1791677125,
+            "timer_target": 1791677125,
+            "state_before": {
+              "vsol_raw": 41099574436,
+              "vtokens_raw": 783219790230060,
+              "rsol_raw": 11099574436,
+              "rtokens_raw": 503319790230060,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.039746078,
+        "mark_SOL": 0.0,
+        "probe": true,
+        "legs": [
+          {
+            "tokens": 7660282760947,
+            "proceeds": 213263922,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455487278,
+            "landing_slot": 455487279,
+            "position": [
+              455487279,
+              -1,
+              1
+            ],
+            "time": 1791685960,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30233256985,
+              "vtokens_raw": 1064721544360851,
+              "rsol_raw": 233256985,
+              "rtokens_raw": 784821544360851,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": 0.093722404,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 3363969731060,
+            "proceeds": 261718695,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455503136,
+            "landing_slot": 455503137,
+            "position": [
+              455503137,
+              757,
+              1
+            ],
+            "time": 1791689414,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50492406075,
+              "vtokens_raw": 637521611689052,
+              "rsol_raw": 20492406075,
+              "rtokens_raw": 357621611689052,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          },
+          {
+            "tokens": 5045954596592,
+            "proceeds": 336518709,
+            "fee": 1505000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455503217,
+            "landing_slot": 455503218,
+            "position": [
+              455503218,
+              -1,
+              1
+            ],
+            "time": 1791689432,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46796348045,
+              "vtokens_raw": 687874192616126,
+              "rsol_raw": 16796348045,
+              "rtokens_raw": 407974192616126,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 1
+            }
+          }
+        ]
+      }
+    ],
+    "combined_without_largest_SOL": -1.037361483,
+    "rules": {
+      "s1_dev_absorption": {
+        "attempts": 7,
+        "closed": 6,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.338061724,
+        "open_marked_sol": 0,
+        "combined_sol": -0.338061724
+      },
+      "s2_survival_shelf": {
+        "attempts": 4,
+        "closed": 3,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.004293414000000004,
+        "open_marked_sol": 0,
+        "combined_sol": -0.004293414000000004
+      },
+      "s3_deadman": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.141881881,
+        "open_marked_sol": 0,
+        "combined_sol": -0.141881881
+      },
+      "s4_upper_ath": {
+        "attempts": 5,
+        "closed": 5,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.353253661,
+        "open_marked_sol": 0,
+        "combined_sol": -0.353253661
+      },
+      "s5_carryover": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.106148399,
+        "open_marked_sol": 0,
+        "combined_sol": -0.106148399
+      }
+    },
+    "scenario": "stress",
+    "fee": 1505000,
+    "comparison": "current_local_entries|canonical_exit_recipe_9000bps"
+  },
+  {
+    "settled_net_SOL": -0.920282471,
+    "unresolved_cashflow_SOL": 0.0,
+    "unresolved_marked_pnl_SOL": 0.0,
+    "unresolved_mark_value_SOL": 0.0,
+    "zero_recovery_bound_SOL": -0.920282471,
+    "last_valid_marked_net_SOL": -0.920282471,
+    "unresolved_excluded_from_win_loss": true,
+    "scope": "portfolio",
+    "breakers": true,
+    "attempts": 18,
+    "closed": 16,
+    "failed": 2,
+    "unresolved": 0,
+    "net_zero_SOL": -0.920282471,
+    "net_marked_SOL": -0.920282471,
+    "mark_SOL": 0.0,
+    "ending_cash_SOL": 14.079717529,
+    "closed_net_SOL": -0.919272471,
+    "win_rate": 0.0625,
+    "profit_factor": 0.09425168193301926,
+    "max_settled_drawdown_SOL": 1.015941469,
+    "max_cash_drawdown_SOL": 1.520896749,
+    "largest_winner_SOL": 0.095658998,
+    "net_without_largest_SOL": -1.015941469,
+    "skipped": {
+      "mint_previously_closed": 2,
+      "strategy_pause": 4
+    },
+    "trips": [
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791667049,
+        "reason": "streak",
+        "rolling": -230177319
+      },
+      {
+        "rule": "s1_dev_absorption",
+        "time": 1791685960,
+        "reason": "probe_nonwin"
+      }
+    ],
+    "max_open": 1,
+    "daily_net_SOL": {
+      "2026-10-10": -0.83701311,
+      "2026-10-11": -0.083269361
+    },
+    "status_by_strategy": {
+      "s1_dev_absorption": {
+        "closed": 6,
+        "failed": 1
+      },
+      "s2_survival_shelf": {
+        "closed": 3,
+        "failed": 1
+      },
+      "s3_deadman": {
+        "closed": 1
+      },
+      "s4_upper_ath": {
+        "closed": 5
+      },
+      "s5_carryover": {
+        "closed": 1
+      }
+    },
+    "unresolved_reasons": {},
+    "admitted": [
+      {
+        "mint": "B94HDfRjMQc8UeZ1FyukEKQHT4HVHs7CkVWUuVLt93fR",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.066213217,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5580431616843,
+            "proceeds": 439618783,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455154438,
+            "landing_slot": 455154438,
+            "position": [
+              455154438,
+              136,
+              1
+            ],
+            "time": 1791613291,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 50898361282,
+              "vtokens_raw": 632436866097559,
+              "rsol_raw": 20898361282,
+              "rtokens_raw": 352536866097559,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "G5U4HXzFDsgC2hzY41tw53hmQw2go2HCyLZfWSknpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.053665681,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 15481780105702,
+            "proceeds": 452166319,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455164065,
+            "landing_slot": 455164065,
+            "position": [
+              455164065,
+              388,
+              1
+            ],
+            "time": 1791615389,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31085152677,
+              "vtokens_raw": 1035542607715805,
+              "rsol_raw": 1085152677,
+              "rtokens_raw": 755642607715805,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3Stmc1G51ufy1SrAsTS3fj5LX44F5vdzo1UpSM14pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.045696303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7069578576643,
+            "proceeds": 460135697,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455165766,
+            "landing_slot": 455165766,
+            "position": [
+              455165766,
+              42,
+              1
+            ],
+            "time": 1791615764,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46295075742,
+              "vtokens_raw": 695322333019063,
+              "rsol_raw": 16295075742,
+              "rtokens_raw": 415422333019063,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "ThqWUcqZQX7BFr1uf9zpnw3gBSW3RHHwPKr4VxUpump",
+        "rule": "s1_dev_absorption",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+        "rule": "s5_carryover",
+        "status": "closed",
+        "net_SOL": -0.141086587,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 1486994141400,
+            "proceeds": 364745413,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "carryover_invalidation",
+            "trigger_slot": 455233806,
+            "landing_slot": 455233806,
+            "position": [
+              455233806,
+              756,
+              1
+            ],
+            "time": 1791630571,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 89604370374,
+              "vtokens_raw": 359245872120242,
+              "rsol_raw": 59604370374,
+              "rtokens_raw": 79345872120242,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "CzNLpFWka7A9kXErfzCZZinuUuCSmFyD8BcYNVG9pump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.051762253,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5986536698357,
+            "proceeds": 454069747,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455241378,
+            "landing_slot": 455241379,
+            "position": [
+              455241379,
+              82,
+              1
+            ],
+            "time": 1791632215,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49954364554,
+              "vtokens_raw": 644388141376909,
+              "rsol_raw": 19954364554,
+              "rtokens_raw": 364488141376909,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 3
+            }
+          }
+        ]
+      },
+      {
+        "mint": "C6kQ2hUsfLmiqnMbGexmqRqGymxkKDq4KghCDCZYpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.052067303,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 14687381182520,
+            "proceeds": 453764697,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455304337,
+            "landing_slot": 455304337,
+            "position": [
+              455304337,
+              708,
+              1
+            ],
+            "time": 1791645968,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 31965337803,
+              "vtokens_raw": 1007028309364821,
+              "rsol_raw": 1965337803,
+              "rtokens_raw": 727128309364821,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "EB6BRSubfHEqMPFXjRdgzaF84oAUY34yeKhVp3Mgpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.058026616,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 12981282787682,
+            "proceeds": 447805384,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455310140,
+            "landing_slot": 455310141,
+            "position": [
+              455310141,
+              405,
+              1
+            ],
+            "time": 1791647239,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 33760918756,
+              "vtokens_raw": 953469315914814,
+              "rsol_raw": 3760918756,
+              "rtokens_raw": 673569315914814,
+              "fee_bps": 95,
+              "creator_fee_bps": 30,
+              "source_reverts": 2
+            }
+          }
+        ]
+      },
+      {
+        "mint": "GNBnKTaUV25PdngtMTajGNM8zzbTab3vFUqkY5Wepump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.065295251,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9273457870583,
+            "proceeds": 440536749,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455319700,
+            "landing_slot": 455319700,
+            "position": [
+              455319700,
+              100,
+              1
+            ],
+            "time": 1791649342,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39575267170,
+              "vtokens_raw": 813386803202826,
+              "rsol_raw": 9575267170,
+              "rtokens_raw": 533486803202826,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7UdUpiSELnPhPbKdf5mM6LpnbFahUiRDZ95qNQE3pump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.047404367,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 16163581976566,
+            "proceeds": 458427633,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455332326,
+            "landing_slot": 455332326,
+            "position": [
+              455332326,
+              208,
+              1
+            ],
+            "time": 1791652102,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30638947637,
+              "vtokens_raw": 1050623552881456,
+              "rsol_raw": 638947637,
+              "rtokens_raw": 770723552881456,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "AaCF2NpeGGFewT5gEWsXY2cnyGcznKYEgRz1pQLZpump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.073755985,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 5859657046266,
+            "proceeds": 432076015,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455379849,
+            "landing_slot": 455379849,
+            "position": [
+              455379849,
+              838,
+              1
+            ],
+            "time": 1791662522,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 49246328275,
+              "vtokens_raw": 653652793486689,
+              "rsol_raw": 19246328275,
+              "rtokens_raw": 373752793486689,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "7dnFGR6FNZ2h6aUqeuXBqyF7NWK9xcHxH7hjvVYopump",
+        "rule": "s4_upper_ath",
+        "status": "closed",
+        "net_SOL": -0.063083478,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 6689692461749,
+            "proceeds": 442748522,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "breakout_rejected",
+            "trigger_slot": 455396673,
+            "landing_slot": 455396673,
+            "position": [
+              455396673,
+              825,
+              1
+            ],
+            "time": 1791666196,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46672760440,
+              "vtokens_raw": 689695654103268,
+              "rsol_raw": 16672760440,
+              "rtokens_raw": 409795654103268,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "6dKSV14CEJrVm6kzTJLDkRH9A6rpopp6vXY9Awkipump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.072679033,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 13228715721312,
+            "proceeds": 433152967,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455400573,
+            "landing_slot": 455400573,
+            "position": [
+              455400573,
+              271,
+              1
+            ],
+            "time": 1791667049,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 32890400715,
+              "vtokens_raw": 978705012367073,
+              "rsol_raw": 2890400715,
+              "rtokens_raw": 698805012367073,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3d4KiB8gYyNKnxYfz3GknYRmu6xnjScYSFyKfUvFpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": -0.045267036,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 9921148002690,
+            "proceeds": 460564964,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "shelf_invalidation",
+            "trigger_slot": 455419079,
+            "landing_slot": 455419079,
+            "position": [
+              455419079,
+              773,
+              1
+            ],
+            "time": 1791671082,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 39134507347,
+              "vtokens_raw": 822547727351419,
+              "rsol_raw": 9134507347,
+              "rtokens_raw": 542647727351419,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "5hobnmGxd4cyh4nmo4ANfT3oQuoHheYjk5nrWMTWpump",
+        "rule": "s2_survival_shelf",
+        "status": "failed",
+        "net_SOL": -0.000505,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": []
+      },
+      {
+        "mint": "5Zwh2PVcYshCFshcMrqRZ1rg4MYXqeNavDMR9MxXyyC7",
+        "rule": "s3_deadman",
+        "status": "closed",
+        "net_SOL": -0.136360281,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 7031567158111,
+            "proceeds": 369471719,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "relative_price_stop_after_grace",
+            "trigger_slot": 455446767,
+            "landing_slot": 455446767,
+            "position": [
+              455446767,
+              -1,
+              1
+            ],
+            "time": 1791677125,
+            "timer_target": 1791677125,
+            "state_before": {
+              "vsol_raw": 41573784902,
+              "vtokens_raw": 774286010855301,
+              "rsol_raw": 11573784902,
+              "rtokens_raw": 494386010855301,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "3XovSzfEAEy9zCE96BFveVyo8Zv5snFHUrVRMVNbpump",
+        "rule": "s1_dev_absorption",
+        "status": "closed",
+        "net_SOL": -0.042568078,
+        "mark_SOL": 0.0,
+        "probe": true,
+        "legs": [
+          {
+            "tokens": 7660282760947,
+            "proceeds": 213263922,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "floor_invalidation",
+            "trigger_slot": 455487278,
+            "landing_slot": 455487278,
+            "position": [
+              455487278,
+              5,
+              1
+            ],
+            "time": 1791685960,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 30233256985,
+              "vtokens_raw": 1064721544360851,
+              "rsol_raw": 233256985,
+              "rtokens_raw": 784821544360851,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      },
+      {
+        "mint": "F31669xS67qf4vxsBGAtH58b8ruxoE4kWbanobPgpump",
+        "rule": "s2_survival_shelf",
+        "status": "closed",
+        "net_SOL": 0.095658998,
+        "mark_SOL": 0.0,
+        "probe": false,
+        "legs": [
+          {
+            "tokens": 3363969731060,
+            "proceeds": 268164212,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "tailored_40pct_profit_target",
+            "trigger_slot": 455503164,
+            "landing_slot": 455503165,
+            "position": [
+              455503165,
+              650,
+              1
+            ],
+            "time": 1791689421,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 51112025204,
+              "vtokens_raw": 629793086481296,
+              "rsol_raw": 21112025204,
+              "rtokens_raw": 349893086481296,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          },
+          {
+            "tokens": 5045954596592,
+            "proceeds": 336242786,
+            "fee": 2916000,
+            "venue": "curve",
+            "reason": "tailored_runner_trail",
+            "trigger_slot": 455503232,
+            "landing_slot": 455503232,
+            "position": [
+              455503232,
+              43,
+              1
+            ],
+            "time": 1791689435,
+            "timer_target": null,
+            "state_before": {
+              "vsol_raw": 46777089048,
+              "vtokens_raw": 688157403280690,
+              "rsol_raw": 16777089048,
+              "rtokens_raw": 408257403280690,
+              "fee_bps": 95,
+              "creator_fee_bps": 30
+            }
+          }
+        ]
+      }
+    ],
+    "combined_without_largest_SOL": -1.015941469,
+    "rules": {
+      "s1_dev_absorption": {
+        "attempts": 7,
+        "closed": 6,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.326916078,
+        "open_marked_sol": 0,
+        "combined_sol": -0.326916078
+      },
+      "s2_survival_shelf": {
+        "attempts": 4,
+        "closed": 3,
+        "failed": 1,
+        "unresolved": 0,
+        "settled_sol": -0.015408289,
+        "open_marked_sol": 0,
+        "combined_sol": -0.015408289
+      },
+      "s3_deadman": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.136360281,
+        "open_marked_sol": 0,
+        "combined_sol": -0.136360281
+      },
+      "s4_upper_ath": {
+        "attempts": 5,
+        "closed": 5,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.300511236,
+        "open_marked_sol": 0,
+        "combined_sol": -0.300511236
+      },
+      "s5_carryover": {
+        "attempts": 1,
+        "closed": 1,
+        "failed": 0,
+        "unresolved": 0,
+        "settled_sol": -0.141086587,
+        "open_marked_sol": 0,
+        "combined_sol": -0.141086587
+      }
+    },
+    "scenario": "central85",
+    "fee": 2916000,
+    "comparison": "current_local_entries|canonical_exit_recipe_9000bps"
+  }
+]

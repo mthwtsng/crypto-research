@@ -1,0 +1,49 @@
+{
+  "as_of_utc": "2026-10-09T17:06:30.147992+00:00",
+  "total_requests": 1269,
+  "error_responses": 6,
+  "requests": [
+    {
+      "provider": "alchemy",
+      "method": "getBlock",
+      "status": "ok",
+      "count": 355,
+      "mean_seconds": 0.47635527268181427
+    },
+    {
+      "provider": "alchemy",
+      "method": "getTransactionsForAddress",
+      "status": "ok",
+      "count": 907,
+      "mean_seconds": 1.3032976723992051
+    },
+    {
+      "provider": "shyft",
+      "method": "getTransaction",
+      "status": "ok",
+      "count": 1,
+      "mean_seconds": 0.5490993939965847
+    },
+    {
+      "provider": "alchemy",
+      "method": "getTransactionsForAddress",
+      "status": "error",
+      "count": 2,
+      "mean_seconds": 3.0316381875018124
+    },
+    {
+      "provider": "shyft",
+      "method": "getTransactionsForAddress",
+      "status": "error",
+      "count": 2,
+      "mean_seconds": 0.38432984400060377
+    },
+    {
+      "provider": "solami",
+      "method": "getTransactionsForAddress",
+      "status": "error",
+      "count": 2,
+      "mean_seconds": 0.87559677650097
+    }
+  ]
+}

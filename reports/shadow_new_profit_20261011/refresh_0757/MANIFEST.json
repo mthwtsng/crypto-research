@@ -1,0 +1,23 @@
+{
+  "captured_at": "2026-10-11T07:57:13.002774+00:00",
+  "files": {
+    "ghost_summary.json": {
+      "source": "/home/mthwt/code/Crypto/data/ghost_summary.json",
+      "sha256": "dfd6dc04749a0a227348b03812e056d5e3bd9f74fd4b53f91e35224d47728905",
+      "bytes": 28721,
+      "mtime_ns": 1791705425490340546
+    },
+    "ghost_trades.jsonl": {
+      "source": "/home/mthwt/code/Crypto/data/ghost_trades.jsonl",
+      "sha256": "33d743a422ce20400857d3e5fb3cb14fc80de5911730f0a3d4cb770a19b38f10",
+      "bytes": 269691,
+      "mtime_ns": 1791705422009940463
+    },
+    "ghost_runtime_state.json": {
+      "source": "/home/mthwt/code/Crypto/data/ghost_runtime_state.json",
+      "sha256": "b5ad75b8ffb5992c2b375cb2ad25cb37935e7ecb473aeae7799a1b98494a11a8",
+      "bytes": 12646790,
+      "mtime_ns": 1791705432817751019
+    }
+  }
+}

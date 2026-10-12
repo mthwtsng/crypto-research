@@ -1,0 +1,22 @@
+{
+  "address": "Gazk1Gt6msSYuy6E1tnC3jPeie2N7DMeb1dBdS2GoSbW",
+  "result": {
+    "context": {
+      "apiVersion": "4.3.0",
+      "slot": 455856973
+    },
+    "value": {
+      "data": [
+        "8ZptBBGxbbz8AADacDK+exsTcKCVSskzgVa4XbnjANhOoP/I2nfveF1HaZ1cloe7AutNNrjARLM8f979XuQZ+2a3Agc+QBF4HgafBpuIV/6rgYT7aH9jRhjANdrEOdwa6ztVmKDwAAAAAAEqO9iSmKIuqDrkDdzUezPi6RpsElppelW+f6l8csKdO/3XmrWGNP3jcvkd5j9/hQKHhjpwXzayWNEYVkYRgJUD7EiMud3Q+QQQM7KGisyY9r5I7IKO1vcN5T6YnyUPbVdppWtZ0AMAAFX0fmMJwMdV3NbkeF3sWfGExQLUbzC1itVaDNH3hXCLAACadRIYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAs0LAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "base64"
+      ],
+      "executable": false,
+      "lamports": 2179320,
+      "owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+      "rentEpoch": 18446744073709551615,
+      "space": 301
+    }
+  },
+  "provider_index": 0,
+  "fetched_at_ms": 1791766673744
+}

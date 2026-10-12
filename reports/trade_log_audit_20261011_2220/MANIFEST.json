@@ -1,0 +1,19 @@
+{
+  "head": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+  "snapshot_time": "2026-10-11T22:21:03.034608352+00:00",
+  "files": {
+    "reports/trade_log_audit_20261011_2220/trades.jsonl": "9735a25e2791833d759add991a31947f47ff61a683853b81a99d5ea04d931851",
+    "reports/trade_log_audit_20261011_2220/session_reset.json": "40492c0de5c1ac77b24f99f2489fc29103abedaca118d078dcfa6909a1c13bbd",
+    "reports/trade_log_audit_20261011_2220/refresh_trades.jsonl": "9c9e3b15b8925926b78fc7411847a8b4a3be93959cfc799c678c3831363324bc",
+    "reports/trade_log_audit_20261011_2220/refresh_summary.json": "bb9c5e10e9ae4e55f8722c050a3a9be931f657da7f0e59b0fe411725c4b2dc0b",
+    "reports/trade_log_audit_20261011_2220/REPORT.md": "4ae702f3e0a27b17d47751fbf83cbcdfaf1bebcd862f7019a0bdd06ab64b8fba",
+    "reports/trade_log_audit_20261011_2220/variant_signals.json": "285e95474bd5da1c11b7265a3daeeeb9469b22cb39474edf4f05ceeb6d11101f",
+    "reports/trade_log_audit_20261011_2220/runtime_ledger.json": "20fa8680990bf4383ed95096f3edc41afc0bb38d3457429c31ae168299f8af45",
+    "reports/trade_log_audit_20261011_2220/summary.json": "fb6dd938d49bac2f995769fc960087b036fcb3ba6c8c64fa87fc23d2fc3ff2a4"
+  },
+  "source_hashes": {
+    "src/bot/curve_detector.rs": "a43d5cb7b90929dae325a5356aec6e5e7585ad6e5e379371e4bcf0e7d32e794c",
+    "src/bin/curve_detector.rs": "c0d0e551fc3ebeae65ec45c35999621d564d52fee0f37e176766aa3b3bdfa160",
+    "scripts/run_shadow_detector.sh": "d45e88fb64e32224331d9d475d2d1222c26364b5573b59e65584aa94fbb86dd1"
+  }
+}

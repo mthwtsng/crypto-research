@@ -1,0 +1,18 @@
+{
+  "profiles": 22,
+  "selected_buys": 455,
+  "unique_mints": 393,
+  "authenticated_creation_anchors": 455,
+  "creation_containing_prefixes": 234,
+  "creator_entries": 0,
+  "held_leader_7ovu": {
+    "present": 15,
+    "sampled": 15
+  },
+  "controller_trading_signers": 12,
+  "networkplus_outflow_sample_checks": {
+    "Cbot7": 0.000119596,
+    "russianbot": 0.000159886,
+    "Bottom Bidder": 0.001941787
+  }
+}

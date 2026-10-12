@@ -1,0 +1,61 @@
+{
+  "vm_id": "ghost-v2-20261012T011751",
+  "data_prefix_cut_utc": "2026-10-12T01:28:19.814814+00:00",
+  "confirmed_candidates": [],
+  "unready_review_examples": [
+    {
+      "mint": "5YEXqwMiz2tgxyYRcKnhPKDPjt9z8wpTyqMxmpMdLBwZ",
+      "observed_real_reserve_sol": 21.921372676,
+      "nearest_registry_condition": "S4 reserve band is 16\u201322 SOL",
+      "source_signature": "2pso6ZXZBtpPXeDqVGvEVrrAkMwHcPqaF2UX7MwKU23t4X9guHDAJTdtBMx4J3tiech6nbQKQbZFhxqc61JWWc3q",
+      "slot": 455865216,
+      "transaction_index": 885,
+      "tracking_error": "ordered custody coverage incomplete; setup history needs repair",
+      "creation_receipt_seen": true,
+      "token_supply_present": true,
+      "decimals": 6,
+      "candidate_array": [],
+      "holder_ready": false,
+      "classification": "review item only; reserve band alone does not satisfy S4 new-high, breadth, or signal-buy requirements, and the source predicate was not evaluated because tracking was unready"
+    },
+    {
+      "mint": "G4PKy7bKdxaDYxV4DSdi8AjS928Q95wPZaQYBWZgjury",
+      "observed_real_reserve_sol": 9.580246908,
+      "nearest_registry_condition": "S3 reserve band is 8\u201318 SOL",
+      "source_signature": "5NSADHAvxaq17jJUGxxT9peq7Cg1x6MR3X2a2XDUH7yMu5fQvzWau1tbNDZFKsmTvMB7gPKCfFitXWLxhFoBWkCM",
+      "slot": 455863859,
+      "transaction_index": 487,
+      "tracking_error": "unrecognized successful trade; mint history needs backfill",
+      "creation_receipt_seen": true,
+      "token_supply_present": true,
+      "decimals": 6,
+      "candidate_array": [],
+      "holder_ready": false,
+      "screen_verdict": "unknown",
+      "screen_reason": "missing_mint_supply",
+      "classification": "review item only; reserve band alone does not satisfy S3 dip, sell-size, two-buyer, and confirmation requirements; tracking prevents predicate evaluation and Unknown independently skips admission"
+    }
+  ],
+  "representative_tracking_error_mints": {
+    "missing_creation": "8HbBuMvWeMqfc5AeKcmomQLVc4ZXNHFJ7XCubdBgpump",
+    "ordered_custody": "8iCJkepErn2WakfnZjm4nmxM5G97PjQcmyUywt6ppump",
+    "wallet_custody_mismatch": "B6bBgZtLySYXBdTuRJo8T2UeghAqMhk1xdXbgt4jpump",
+    "unrecognized_successful_trade": "G4PKy7bKdxaDYxV4DSdi8AjS928Q95wPZaQYBWZgjury",
+    "reserve_transition_mismatch": "3CFCqNLuF8D5TbeacPSYfmJ8aaWRmLCkXXqrV68npump"
+  },
+  "screen_unknown_mint_examples": [
+    {
+      "mint": "G4PKy7bKdxaDYxV4DSdi8AjS928Q95wPZaQYBWZgjury",
+      "reason": "missing_mint_supply"
+    },
+    {
+      "mint": "6zNXQY5x5gKJT7myoyxtmsphHHR93na8wTVcRU5wpump",
+      "reason": "holder_sample_incomplete; invalid_holder_baseline; invalid_holder_balances"
+    },
+    {
+      "mint": "517uBfrQPwSjqtYmWsNTd92HkvY4S9i2EinzMdDapump",
+      "reason": "missing_mint_supply"
+    }
+  ],
+  "no_candidate_caveat": "The rows above are near a necessary reserve band, not demonstrated strategy signals. Current artifacts do not contain any proven setup that was rejected only by tracking, screen, or configuration."
+}

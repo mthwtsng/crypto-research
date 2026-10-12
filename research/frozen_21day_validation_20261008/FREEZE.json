@@ -1,0 +1,78 @@
+{
+  "frozen_at": "2026-10-09T05:13:55.422950+00:00",
+  "start": 1787011200,
+  "end": 1788825600,
+  "window_UTC": [
+    "2026-08-18T00:00:00Z",
+    "2026-09-08T00:00:00Z"
+  ],
+  "seed": "frozen_validation_20261008_v1",
+  "per_hour": 20,
+  "target_launches": 10080,
+  "target_closed_trades": 500,
+  "per_family_target": 100,
+  "decision_seconds": 1800,
+  "initial_receipt_seconds": 3600,
+  "bankroll_SOL": 15,
+  "ticket_SOL": 0.5,
+  "probe_SOL": 0.25,
+  "research_position_limit": null,
+  "live_position_limit": 2,
+  "primary": {
+    "S1": "unchanged registry control",
+    "S2": "original crossing plus prefix age<=240 and outsidebuyers<=80; original40%at30%/15pptrail",
+    "S3": "unchanged two-buyergroups;8sgrace,12%relative stop,75%arm20pptrail,60stimeout",
+    "S4": "unchanged entry;4srejectiongrace;half20%/6%relative",
+    "S5": "unchanged registry carryover, real AMM halfopen/8%relative/30safteropen timeout"
+  },
+  "control": "unchanged original reproduced five-family benchmark",
+  "looks": 10,
+  "placement": [
+    "fast",
+    "central80",
+    "central85",
+    "slow"
+  ],
+  "stress": [
+    "next_slot_tail",
+    "historicalfees0.002916SOL"
+  ],
+  "rules_frozen_before_collection": true,
+  "historical_status": "historical transfer evaluation, NOT forward-confirmed; prior broad known windows Aug14\u201317 andSep14\u2013Oct4; artifacts deleted, complete prior-use exclusion cannot be certified; exclude1840known source mints",
+  "future_confirmation": "Separate21complete days after this freeze required for genuine forward confirmation",
+  "policy": "No tuning on test outcomes; no replacement of failed/unresolved samples; censor runner without declaredtimeout, repair authentic migration through receipt coverage; never price sell at tape end",
+  "hashes": {
+    "research/MASTER_STRATEGY_REGISTRY.md": "acf0a168f9f5874acb6c392dee1c23a11f449e08efdcdb37b7fef8102a637c9a",
+    "research/core_plan_audit_20261007/signals.py": "0c96ac856d34e11d9aa8b0db2a92a25213ec5a4ae0e86648910fe2e6d2ea98f6",
+    "research/core_plan_audit_20261007/engine.py": "871c0e564e8436b73a75e62eae221f0e3bf3a77f5057c54edc0194ce6f607c1d",
+    "research/core_plan_audit_20261007/ledger.py": "6e7c14588479c6ec4bca18639a36199195feb6227cb9be6d7a1612f2acf09507",
+    "research/core_gap_refinement_20261007/recovery_sequence.py": "96029cf824c4f15ce1425a1bd2d5c5501919c23e00d1af48121510fcf59453ce",
+    "research/wallet_curve_entry_discovery_20261007/curve_adapter.py": "5599567c5f62b2459fc1039048634a5780dd7bc9186d96c58ec47e8419b40677",
+    "research/wallet_curve_entry_discovery_20261007/amm_counterparty.py": "03ddc930f35d09a1f4b3427a3cf9f104c8956ce8e47aa3baf0e73ed3ffe88ef3",
+    "research/frozen_21day_validation_20261008/collect_validation.py": "52e918606a7dda97ec7559726bd0e20804f24a0723d7b0d59c1b00015a2d2a4f"
+  },
+  "execution_code_pin": {
+    "research/frozen_21day_validation_20261008/prepare_validation.py": "d9f0f0749b2fb4e95bab89cfadbb3e7e3fcd4b79c55fd6c41f3b6e6c22c96722",
+    "research/frozen_21day_validation_20261008/rpc_pool.py": "a642c69f75a1a3c6040d40722475624338328726ebafc4e635462067da270a26",
+    "research/frozen_21day_validation_20261008/collect_validation.py": "52e918606a7dda97ec7559726bd0e20804f24a0723d7b0d59c1b00015a2d2a4f",
+    "research/frozen_21day_validation_20261008/report_validation.py": "7f4aed64bb769168b87a39e4694f09671c57f611c9c9ab4f2b07fe76bb0aab1d",
+    "research/frozen_21day_validation_20261008/run_after_collection.py": "c9c8826ae7dfad6244d547ab16bad5a45d62483bb1a68889f553436287b02acc",
+    "research/core_gap_refinement_20261007/tailored_requested.py": "5872271e9345f4fa2018ebac6a1d5f6c928cd7d4294e9358488b1823e40d6820",
+    "research/day_general_20261004/helpers/OFFICIAL_PUMP_IDL.json": "26c77383c3626bd3ef1c376c52680be6c4ba2ff4cfde1f4b0076d1de43b9130c",
+    "research/day_general_20261004/helpers/decoder.py": "7219a7c34c7fa0cef2ca710639af8dc52c6368a534cb18332c5b34347e961303",
+    "research/day_general_20261004/helpers/receipt_custody.py": "d97563c74e4570d1db0164f5db0ea6ece9c173d5b2ef85d4e081fe020f718d78",
+    "research/day_general_20261004/prepare.py": "fb47417f51321b788c7f4225a4e743f9d7165dae1125ec55b0f0904d9c0daa7d",
+    "research/wallet_curve_entry_discovery_20261007/bind_curve_limits.py": "dc127eaa04e8944d5612151c117e0b96c8fc8622fb0f8bf70db4ea70021b4bdb",
+    "research/wallet_curve_entry_discovery_20261007/merge_curve_receipts.py": "1147b769d94fd9207bb1135be5708bfb0273e8fccf3c763edad1882c44dac6b2",
+    "research/frozen_21day_validation_20261008/finalize_when_ready.py": "a8cd921f0528258ee58ebba9b9a2017add52570032d73b08dfa0b990124c170b"
+  },
+  "execution_pinned_at": "2026-10-09T05:21:22.016407+00:00",
+  "position_limit_comparison": [
+    2,
+    5,
+    10,
+    15,
+    null
+  ],
+  "cap_amendment": "CAP_AMENDMENT.json"
+}

@@ -1,0 +1,8 @@
+{
+  "source": "/home/mthwt/code/Crypto/data/ghost_holder_screen.jsonl",
+  "matched_rows": 11,
+  "matched_mints": 7,
+  "malformed_matches": 0,
+  "sha256": "3baa256926307ec56437a677778ff749ad2051299fe921c93c98700808fedba0",
+  "policy": "raw historical evidence retained; decisions recomputed at past completed timestamps, no current-RPC balances substituted"
+}

@@ -1,0 +1,188 @@
+{
+  "report": "FUNNEL.md",
+  "snapshot": {
+    "cut_utc": "2026-10-12T01:28:19.814814+00:00",
+    "vm_id": "ghost-v2-20261012T011751",
+    "age_at_summary_seconds": 620,
+    "summary_updated_at_utc": "2026-10-12T01:28:12.145899792+00:00",
+    "prefixes_hashed_at_cut": true,
+    "inputs": [
+      {
+        "path": "data/ghost_intents.jsonl",
+        "size_bytes": 7255872,
+        "prefix_sha256": "fe4c17a0ce03a90db99c34bd6fc10b39e2a8215aeca812e8af3fd34247ffa315"
+      },
+      {
+        "path": "data/ghost_variant_signals.jsonl",
+        "size_bytes": 558427,
+        "prefix_sha256": "1f08589e377fe6c1a7b9804d43b374aeffaee0f7c7aec1c2b11eaeff03840cbb"
+      },
+      {
+        "path": "data/ghost_holder_screen.jsonl",
+        "size_bytes": 320647645,
+        "prefix_sha256": "d90249495bf6e5ee4d111f370b312baadee5d5407ebf81ba7861e4cd9a81fa95"
+      },
+      {
+        "path": "data/ghost_fake_detector.jsonl",
+        "size_bytes": 33082424,
+        "prefix_sha256": "80e3ae3bb02eba51176305a8fa5560fb44251895fbc13b8e0d0681af76baca99"
+      },
+      {
+        "path": "data/ghost_runtime_state.json",
+        "size_bytes": 8665847,
+        "prefix_sha256": "62c8db3be59b8fc503536bde2b27843109327080c5b83018c9a946922a2b15da"
+      },
+      {
+        "path": "data/ghost_summary.json",
+        "size_bytes": 4455,
+        "prefix_sha256": "aea918245be752288a991068305b15e329067f9749cb774a720cbd4086d0e5a1"
+      },
+      {
+        "path": "data/ghost_trades_master.jsonl",
+        "size_bytes": 1544323,
+        "prefix_sha256": "77f9640b11ebc9d45e3d75963fea5b2e3a551fcf275841ade265ce51abb548c9"
+      },
+      {
+        "path": "data/ghost_trades.jsonl",
+        "size_bytes": 0,
+        "prefix_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "data/ghost_force_sells.jsonl",
+        "size_bytes": 0,
+        "prefix_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "source_revision": "9dcff3f509b40d78d51921509ca09e79a2eafe63",
+    "working_tree_source_hashes_at_inspection": {
+      "src/bin/curve_detector.rs": "02eb25d52fc519b297ab52cd5dad0c07583c20cab04ee60015bf8e0f7cf308ef",
+      "src/bot/curve_detector.rs": "4ce1b565d10e78a6ce9ca6ef30486213c2b3391f0cc622688e2e8d3606046093",
+      "src/bot/holder_screen.rs": "496d12368db325a42f59404d184f5819482f0b02612e235e0d431b1f40d4a449",
+      "scripts/run_shadow_detector.sh": "53665aa1688279962e639d587f9b20821a8fb5f01d92248f5c9d345b31540884"
+    },
+    "deployment_binary_or_environment_hash": "not present in these artifacts"
+  },
+  "runtime_summary": {
+    "stream_connected": true,
+    "execution_model": "persistent_counterfactual_curve_receive_clock_v4",
+    "cash_sol": 15.0,
+    "equity_sol": 15.0,
+    "active_positions": 0,
+    "failed_buy_attempts": 0,
+    "circuit_breakers_enabled": false,
+    "active_fake_coin_blocks": 0,
+    "holder_screen_counts": {
+      "blacklisted": 0,
+      "clear_current": 23,
+      "completed_unknown_or_expired": 33,
+      "in_flight": 1
+    },
+    "fake_coin_status_counts": {
+      "unknown": 7,
+      "unknown_or_expired": 916,
+      "watch": 16
+    },
+    "tracking_coverage_counts": {
+      "complete": 58,
+      "incomplete_history": 844,
+      "missing_creation": 653
+    },
+    "coverage_counters_are_runtime_summary_fields_not_reconciled_unique_mint_counts": true
+  },
+  "entry_funnel": {
+    "setup_tracking_audit_rows": 850,
+    "unique_audited_mints": 850,
+    "source_predicate_candidate_rows": 0,
+    "source_predicate_candidate_mints": 0,
+    "source_predicate_candidate_strategy_counts": {},
+    "tracking_error_counts": {
+      "creation history missing; setup features incomplete": 657,
+      "ordered custody coverage incomplete; setup history needs repair": 156,
+      "wallet custody differs from covered swap history": 30,
+      "unrecognized successful trade; mint history needs backfill": 5,
+      "receipt reserve transition gap or inconsistency": 2
+    },
+    "entry_intent_rows_in_ghost_intents": 0,
+    "buy_attempt_rows": 0,
+    "buy_fill_rows": 0,
+    "current_vm_rows_in_ghost_trades_master": 0,
+    "ghost_trades_jsonl_rows": 0,
+    "ghost_force_sells_jsonl_rows": 0,
+    "positions_at_cut": 0,
+    "ghost_entry_candidates_file": "not found under data/ (explicit --hidden --no-ignore inventory)"
+  },
+  "receipt_tracking_log": {
+    "ghost_intents_rows": 21032,
+    "event": "TRACKING_RECEIPT_UNRESOLVED",
+    "affected_mints_empty_rows": 20773,
+    "global_coverage_gap_true_rows": 0,
+    "meaning": "receipt-resolution diagnostics, not buy intents or failed buy attempts"
+  },
+  "screen_events": {
+    "rows_for_vm": 210,
+    "unique_status_mints": 64,
+    "watch_event_rows": 192,
+    "watch_unique_mints": 48,
+    "unknown_event_rows": 18,
+    "unknown_unique_mints": 16,
+    "clear_or_blocked_event_rows": 0,
+    "hard_block_event_rows": 0,
+    "watch_reasons_event_counts": {
+      "funding_probe_incomplete": 192,
+      "receipt_probe_incomplete": 192,
+      "cross_launch_probe_incomplete": 192,
+      "missing_launch_time": 5
+    },
+    "unknown_reasons_event_counts": {
+      "missing_mint_supply": 13,
+      "holder_sample_incomplete": 5,
+      "invalid_holder_baseline": 5,
+      "invalid_holder_balances": 5
+    },
+    "policy": "watch allows entry with partial-coverage logging; unknown skips; no active fake-coin blocks"
+  },
+  "configuration_observations": {
+    "breakers_off_confirmed_in_summary": true,
+    "breakers_off_cannot_explain_zero_entries": "OFF disables a possible veto; it does not disable candidate generation or reject entries",
+    "launcher_default_s2_s4_entry_mode": "reclaim",
+    "active_s2_s4_entry_mode_in_frozen_runtime_artifacts": "not recorded; cannot establish any override",
+    "breakout_signal_rows": 0
+  },
+  "interpretation": {
+    "decisive_observation": "No source-predicate entry candidate or buy intent was recorded in the frozen prefix.",
+    "main_coverage_gap": "All 850 setup-audit rows have tracking errors; source candidate auditing is skipped when entry_tracking_ready is false, so these rows cannot be classified as missed true signals.",
+    "screen_attribution": "No candidate is observed to have been denied solely by a screen. Unknown verdicts would skip admission, but candidate auditing runs before the holder admission check for tracking-ready histories; no such candidate rows exist.",
+    "bounded_conclusion": "The funnel has no observed entry trigger and has a large tracking-coverage blind spot. This cannot distinguish zero setups from unobserved setups in the untrackable histories.",
+    "pnl_backtest_or_edge_claim": false
+  },
+  "fake_detector_verdict_events": {
+    "vm_rows_by_event": {
+      "FAKE_COIN_VERDICT": 1184,
+      "FABRICATION_RECIPE_SCAN": 183,
+      "FABRICATION_AMM_OUTCOME_OBSERVATION": 58
+    },
+    "verdict_observation_rows": 1184,
+    "verdict_event_rows_by_status": {
+      "unknown": 1106,
+      "watch": 78
+    },
+    "unique_mints_by_status": {
+      "unknown": 919,
+      "watch": 48
+    },
+    "blocked_rows": 0,
+    "reason_event_counts": {
+      "unknown:missing_holder_snapshot": 1043,
+      "unknown:missing_mint_supply": 12,
+      "unknown:stale_evidence": 46,
+      "unknown:holder_sample_incomplete": 5,
+      "unknown:invalid_holder_baseline": 5,
+      "unknown:invalid_holder_balances": 5,
+      "watch:funding_probe_incomplete": 78,
+      "watch:receipt_probe_incomplete": 78,
+      "watch:cross_launch_probe_incomplete": 78,
+      "watch:missing_launch_time": 3
+    },
+    "interpretation": "repeated verdict observations across time, not unique opportunity or candidate counts"
+  }
+}

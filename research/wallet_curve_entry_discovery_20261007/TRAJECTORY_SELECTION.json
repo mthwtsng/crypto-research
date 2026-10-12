@@ -1,0 +1,3626 @@
+{
+  "entries": [
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "FJb34aqJzoFH6wgEyjm3zk8Zg5kn4Qzz6AGTiLmad5wQ",
+      "signature": "3CjWLYQKGMs7eX6qegLSFVA2KCadu2SfsJuE7r8to5DBNxHaWEB5G4G2KwvBZmJZqNDR7VmqCEErurGnEgMcpMTC",
+      "slot": 448289551,
+      "provider_index": 236,
+      "time": 1789789505,
+      "creator": "7jQwHdK771P286Vsn44v7dFVfCH8CzZcL3PZGidbShch",
+      "fee_creator": "7jQwHdK771P286Vsn44v7dFVfCH8CzZcL3PZGidbShch",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 55,
+      "unique_outside_buyers": 52,
+      "meaningful_outside_buyers": 42,
+      "outside_buy_events": 71,
+      "outside_buy_SOL": 32.156459433,
+      "reserve_SOL": 6.690591012,
+      "drawdown": 0.2655992630983304,
+      "recent_net_SOL": 5.273202152,
+      "recent_unique_meaningful_buyers": 9,
+      "last_side": "buy",
+      "last_actor": "BDW8Bjoe9fgfRPAkSf3Kpnphdd4ugWwsLitSxvqo4gg4",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "BDW8Bjoe9fgfRPAkSf3Kpnphdd4ugWwsLitSxvqo4gg4"
+      ],
+      "following_buy_wallets_2slots": [],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 178,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 878,
+      "target_index": 876,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "BDW8Bjoe9fgfRPAkSf3Kpnphdd4ugWwsLitSxvqo4gg4",
+          "slot": 448289550,
+          "index": 1025,
+          "signature": "4uDRYMdzLJmUB2ZRgBRPteMKzDvu7NeCien5RQHpidUr8nHT6W753Un6ympYy8iUomeURa7qx6vfGeNH36VgAUk",
+          "SOL": 0.98765432
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "6BPXgr3YqUnY7cUttwatMGX4L9pVMkJbT6a5pkJBpump",
+      "signature": "4dqDJU5QA7tKjrHRsmWWAYTUKbTedLN5R4cxYrHSQ4wUM1fiWJR5tnQcdNm2e5uiJu9XvoWzpuaqMWaywGeCnFVg",
+      "slot": 453637198,
+      "provider_index": 638,
+      "time": 1791218855,
+      "creator": "3AnarzEC1CkdU9hSiRBTRYFfSxM8yavEQaCGpuabRuwW",
+      "fee_creator": "3AnarzEC1CkdU9hSiRBTRYFfSxM8yavEQaCGpuabRuwW",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 8,
+      "unique_outside_buyers": 61,
+      "meaningful_outside_buyers": 54,
+      "outside_buy_events": 61,
+      "outside_buy_SOL": 38.731881477,
+      "reserve_SOL": 22.645353606,
+      "drawdown": 0.1571126221939898,
+      "recent_net_SOL": 6.247127284,
+      "recent_unique_meaningful_buyers": 25,
+      "last_side": "buy",
+      "last_actor": "Dt7NA7kXjaZeX5vgBPAwUhuyr6B5UHJD9ajWeFc3ML7h",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2heRyE1BUHUsMbPmJXD8C7A9R9DZvf6xktPumoghyp2e",
+        "3TVEQFj25XaiEnyUB5jedgU6nstR7YW1iHUeRkwwnZmA",
+        "3yeHQ8PaWtfYXtGPvk2W2Ldv2b6T3iC6ZPWPmkNnsanC",
+        "4drQuYuYQy2oWyEh5sPanR7mXRe1zaTfjMoc9tfxBH4o",
+        "6hQSw5JDEjVvqFes2vwGnYFq9b44Yjq9wxeNVBYJpHSb",
+        "AUrkH8jWtG7our71fSYqCp524BAJuf5Tampe267wfyFA",
+        "ArjAkVJPxWooGVzxQYqhL3XbHpy2FRzc2v6xkdNemUJN",
+        "BTkM5xq4WdSPVZGcCMzgknZpanQGazEwrLVFQ2Bc6G5N",
+        "CNS2xkz2YptPvjNtXWyHhs3sztNUrHKoJiv4jCQKqP9b",
+        "Dt7NA7kXjaZeX5vgBPAwUhuyr6B5UHJD9ajWeFc3ML7h",
+        "E8jLeB1YCX33xjtvg426dxm2ERxiwoVBUawZCovnzKkX",
+        "HozTLvyiB8LDWNbjPNPr5XrLo1XELG1wnWcRwBJG21Zu",
+        "KJoV7s4TXzJ5oogD5kHpdPb5tCNjJz9CEP4QBN8GbrB",
+        "jw3rpCLcoXj7dkZgi9nV1BsfG7uSEjrUXCcjNUNuuUk",
+        "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+        "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d"
+      ],
+      "following_buy_wallets_2slots": [
+        "2FdJD3EVx4yv13157M9awWTxiU1ShtMMbwNZhyD3UySs",
+        "3K2xouWSGEmMDnxMfy6EPUkg3bBH7f8Pb6eaddTi5Pi7",
+        "3TZkRoVa8inezaasnMe7rWCPZJztT4P4EyD21ST4rSRg",
+        "3m6Gjt6QWwQNZjtgXA2F6fuWACJePBSWyGRrUSiF54ZL",
+        "9TtDyDh7V2YhvJGWRRjt8yKAF3uwYCNnBW86Pta2DgmV",
+        "BMNsu2jjSx5gmJY8BQDCwANkXJ1mjT5CLm4FhBJG4LjG",
+        "CAvvAFNRfXDWTTDqwgxb9qSyYT8fTuTXWSFwL7Jsz8vT",
+        "dsegg9CXSkMxMCzPz9YEYQ3PKrsonoAZoc5Sguk4BFn"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 112,
+      "target_index": 80,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "jw3rpCLcoXj7dkZgi9nV1BsfG7uSEjrUXCcjNUNuuUk",
+          "slot": 453637196,
+          "index": 827,
+          "signature": "3t4vtg8KsUUTk5KrdaFDUnBbec2SURDV4LACbXJ29jhZUmcMkALcWCrAJzQ3gsfSb3GMURyRmwJmmr9AKk11Aqcw",
+          "SOL": 2.933333333
+        },
+        {
+          "wallet": "KJoV7s4TXzJ5oogD5kHpdPb5tCNjJz9CEP4QBN8GbrB",
+          "slot": 453637196,
+          "index": 933,
+          "signature": "56WBbuL1L27ueFe638HMftrVj3FkiBVqGzJp85RetrTpk7gr2L9cAti7gGNyTd5zpSG54mQfsi5X5SqG91JCdnk3",
+          "SOL": 0.472325819
+        },
+        {
+          "wallet": "ArjAkVJPxWooGVzxQYqhL3XbHpy2FRzc2v6xkdNemUJN",
+          "slot": 453637196,
+          "index": 954,
+          "signature": "4Lqou3R3qg3tRscLr8eZTj3aeyGKPY77MdphYqn8kKqamq914nSDnkAWiYYXw495ymFQ6nU1jogeVzpVa4gy39R1",
+          "SOL": 0.45630816
+        },
+        {
+          "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+          "slot": 453637197,
+          "index": 636,
+          "signature": "4Qdb5aCXerWJsHVeDEjCRrgBkwRyZzEbDVo6LrkQmprUfGBjizunb7mB4vhbmSNCTXA8VwiE2BRZe9Azcg7XCYcc",
+          "SOL": 1.02720032
+        },
+        {
+          "wallet": "3TVEQFj25XaiEnyUB5jedgU6nstR7YW1iHUeRkwwnZmA",
+          "slot": 453637197,
+          "index": 758,
+          "signature": "2DRJ5AJU5fZqkgmyAftKizAMpsCDZdZADtdrbd3zX8pPWpGzQyYMtim7seGMJL8aWKCH5DBkBiWewJWrUEocpdDx",
+          "SOL": 0.097777777
+        },
+        {
+          "wallet": "6hQSw5JDEjVvqFes2vwGnYFq9b44Yjq9wxeNVBYJpHSb",
+          "slot": 453637197,
+          "index": 888,
+          "signature": "4htvwJa232s46KVYnJZi6uJ46urND4ZFMgTsq3kVo5Q3PfCDe7VhjGaeiGdScGcsd4FWzPRzJdqQ8oebu8owFKsY",
+          "SOL": 0.024960879
+        },
+        {
+          "wallet": "BTkM5xq4WdSPVZGcCMzgknZpanQGazEwrLVFQ2Bc6G5N",
+          "slot": 453637197,
+          "index": 924,
+          "signature": "4vdz5KKHABSEGxSMgEhgeC3CPCSp1fieBkwzwrmmyGDkYHaDGYZ5PDh4GW39m6nb7NHZfe2HKYcjjrbBcgVYqACT",
+          "SOL": 0.734733506
+        },
+        {
+          "wallet": "4drQuYuYQy2oWyEh5sPanR7mXRe1zaTfjMoc9tfxBH4o",
+          "slot": 453637197,
+          "index": 1068,
+          "signature": "5gLnMnTqKqWxA7XvWg1XDJ9hrXJoAMJ8DbrTDCAVmo29dQGrTiJpf91FnJyTzb4QkUPu3VQnrQJpoUiWaX6hyuwN",
+          "SOL": 0.731933161
+        },
+        {
+          "wallet": "2heRyE1BUHUsMbPmJXD8C7A9R9DZvf6xktPumoghyp2e",
+          "slot": 453637197,
+          "index": 1091,
+          "signature": "3w2goZdJwcG3UBFSRMs9Rg6QXhmcYDTanTgGxFKFetJBnVsz3tu8sKqQLMtKA87teDbdr8HYantC77D4zVrN5jJw",
+          "SOL": 0.538032687
+        },
+        {
+          "wallet": "3yeHQ8PaWtfYXtGPvk2W2Ldv2b6T3iC6ZPWPmkNnsanC",
+          "slot": 453637198,
+          "index": 11,
+          "signature": "5gaeNZzBansV3Vg6KmdeqhCYtyP7ELSGKtPvbvo9aRRH1dzbEAudptTUvpZVpFYpKKy2dCVE6dhGq8E3W7QTG3e9",
+          "SOL": 0.594059405
+        },
+        {
+          "wallet": "AUrkH8jWtG7our71fSYqCp524BAJuf5Tampe267wfyFA",
+          "slot": 453637198,
+          "index": 14,
+          "signature": "Cr1MBpTZ2QgVWsC18152fcLoXK3wPzXKhLxzY7ueigpNEtTAHVuwNsP4f3jWWS6GAxRVUyukDoDRkXaRpphewcR",
+          "SOL": 0.304111954
+        },
+        {
+          "wallet": "HozTLvyiB8LDWNbjPNPr5XrLo1XELG1wnWcRwBJG21Zu",
+          "slot": 453637198,
+          "index": 21,
+          "signature": "FVMzAuq8EPNtyXWrV3LwcqWEn8WmzfvYhP9TZYu8oWANFKV4Lj3F25mDBU2sgAh6esRhLRRRVKcC55JWRhJbyrm",
+          "SOL": 0.256470487
+        },
+        {
+          "wallet": "CNS2xkz2YptPvjNtXWyHhs3sztNUrHKoJiv4jCQKqP9b",
+          "slot": 453637198,
+          "index": 111,
+          "signature": "LrTCxwS9WYGQRdrpG6YFH1VsSeRe5veUhdd5rMgj6V8qfSGCRb5Eng2EEKTA4CQqUVAn5JcaZL9kQxrgPbPAQDH",
+          "SOL": 0.345679011
+        },
+        {
+          "wallet": "E8jLeB1YCX33xjtvg426dxm2ERxiwoVBUawZCovnzKkX",
+          "slot": 453637198,
+          "index": 177,
+          "signature": "5E4BPJkdp4jp6SiSGkJtsXpHoyycv2dVbB7HUWVvsrpQdHS8f4uxWZbGd3ayXtA8TVsawMuG4FNSpLqN95zfEJos",
+          "SOL": 0.740740739
+        },
+        {
+          "wallet": "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq",
+          "slot": 453637198,
+          "index": 388,
+          "signature": "2gcNhNjGfogcoZfmPKYgjitQ1B5ddfeHXUxcq3H5DMaxh2jpW8VeYWAvETiE7R7r8ymyCbgN6JEWC724ffAGDWd",
+          "SOL": 0.677435445
+        },
+        {
+          "wallet": "Dt7NA7kXjaZeX5vgBPAwUhuyr6B5UHJD9ajWeFc3ML7h",
+          "slot": 453637198,
+          "index": 600,
+          "signature": "3vMigqcwdC7SCQoL8gRUAKTd6kmfvNcMQViF9WL5qpXJDHfSpaKSRf8f3Am5XCAMKqVkCkQZjCpLagqvu4g7awkC",
+          "SOL": 0.040940324
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "2putM7DRJ9d39np1dkgfJrsDkbhPJSuwqDtqsJNx389v",
+      "signature": "4HoD2tNrJ8MCWsMwpFehUzE2Xc9UqAG3J4vVRefeE4fyVomSfAvAwjbgyQ8upqGr1pTw3UJTFM1sXFctvCDocHfU",
+      "slot": 450464761,
+      "provider_index": 1002,
+      "time": 1790369351,
+      "creator": "7eStM4BgV5e3AvE1DXHwvGh5M9PoRvExNAYS98LjeSym",
+      "fee_creator": "BChnSqhFTejffBcbZYmufN3jGE75WciywHqBWnwLzBAP",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 736,
+      "unique_outside_buyers": 67,
+      "meaningful_outside_buyers": 56,
+      "outside_buy_events": 73,
+      "outside_buy_SOL": 56.351939614,
+      "reserve_SOL": 10.938408124,
+      "drawdown": 0.17437612317841056,
+      "recent_net_SOL": 5.429488216,
+      "recent_unique_meaningful_buyers": 8,
+      "last_side": "buy",
+      "last_actor": "NajoJR4TibdKnVmz4rNGiNVz2jrrYc5AXm5XbiBkpXH",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "14KbXMEiDZ6jW4Q5fYyHkMn8HhAuF6rjdXQXrbaD9nZe",
+        "3xxq97gnV4T3Uh9G87DCGGZ8dW5d37j6SfxME6QvqDVT",
+        "FBQzynAgnyXjqXqfNEFjyXiLkBrnmMZ4vnXpPFLrbyX5",
+        "FaCYdntuk2w3KZBj4Jgm1THMG5dHAHGrW8X7VGU3wh9X",
+        "HtvyWRnxhkm8GwdDQZuqHbf6ZR8Pi99aGjxCsbke43Gd",
+        "NajoJR4TibdKnVmz4rNGiNVz2jrrYc5AXm5XbiBkpXH"
+      ],
+      "following_buy_wallets_2slots": [],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 2733,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 181,
+      "target_index": 180,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "3xxq97gnV4T3Uh9G87DCGGZ8dW5d37j6SfxME6QvqDVT",
+          "slot": 450464759,
+          "index": 437,
+          "signature": "3C6H9UDnycnMYkoHK1YR371vewQjAF53W5hTNs9LSqv271MkJmncUCycP5r1kjzqBheCinMiourEpgv2KVn14wNG",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "FBQzynAgnyXjqXqfNEFjyXiLkBrnmMZ4vnXpPFLrbyX5",
+          "slot": 450464759,
+          "index": 474,
+          "signature": "5tMguxNnnxRRizeUx7ddcV8VRt2QPgKgPso8XnaEmQhUfzycN7M6ojChp3UsogKnYPi4BdNN7ewZGEYkzhNaTbVk",
+          "SOL": 1.975308641
+        },
+        {
+          "wallet": "HtvyWRnxhkm8GwdDQZuqHbf6ZR8Pi99aGjxCsbke43Gd",
+          "slot": 450464759,
+          "index": 561,
+          "signature": "5DgBEhqzGEpDi1uq6uvQppdFLcspgcmArJnMrSA7t9bMuSRXEMfzWz7fyw8gtu2JVJ4tcotBmejoiG97N9HNh4oR",
+          "SOL": 0.592592592
+        },
+        {
+          "wallet": "FaCYdntuk2w3KZBj4Jgm1THMG5dHAHGrW8X7VGU3wh9X",
+          "slot": 450464759,
+          "index": 592,
+          "signature": "2FKeVdLUV3MxY4H5PgG75Zxv2KUG7ywBhbQxwi3wqVit39L32qhE59uCxtx6S18pDEUFXscUPzyhan4yd4CDKTg",
+          "SOL": 0.09
+        },
+        {
+          "wallet": "14KbXMEiDZ6jW4Q5fYyHkMn8HhAuF6rjdXQXrbaD9nZe",
+          "slot": 450464761,
+          "index": 725,
+          "signature": "5YMThv3twwkzu7QQnN7pPaUyVSR8xqqmqWegnj2x5kMdvqRU9zc2kRkpfPRXiDDhaJMqKBNqY1L3YvL8EdgVKgU3",
+          "SOL": 0.614525824
+        },
+        {
+          "wallet": "NajoJR4TibdKnVmz4rNGiNVz2jrrYc5AXm5XbiBkpXH",
+          "slot": 450464761,
+          "index": 732,
+          "signature": "5tm9gybhVvYGtuHzYGyooHLMbWxYyDnMLY9295TZDKUUJANeSvoLnWMNNG6bTBifRqTQrVP4ckMszg573vrAJmN1",
+          "SOL": 0.98765432
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "4mwtS6WT28BeEGmBrLSF3WAkQEoXUmuZM95tfRMtpump",
+      "signature": "PEsjKbZ3i4dgDXfwjNmQTiGeyKQX86qGunRRwmfW9ZUV5k7qN1mxjiVMzDtKBourUMuzzCoRVQvXbdg3DE6Zewe",
+      "slot": 452807195,
+      "provider_index": 170,
+      "time": 1790996836,
+      "creator": "6XzbcGy4oqwYoHspW3bjb44Xtn82p3Df7aBVz3P4We7T",
+      "fee_creator": "6XzbcGy4oqwYoHspW3bjb44Xtn82p3Df7aBVz3P4We7T",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 508,
+      "unique_outside_buyers": 619,
+      "meaningful_outside_buyers": 445,
+      "outside_buy_events": 1052,
+      "outside_buy_SOL": 316.665638086,
+      "reserve_SOL": 40.307866878,
+      "drawdown": 0.41414624617777007,
+      "recent_net_SOL": -3.35543736,
+      "recent_unique_meaningful_buyers": 6,
+      "last_side": "sell",
+      "last_actor": "4dUDeFFskuJudDfanPtRKKP4r43vFhVji73NHGcoSCty",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "7KVotge6HN8pcrQ4zsScaPzgwNqzkSCpqHvgNR5sbuCA",
+        "A5qucSMURRLvrsTMBPwJMaWCW7JPTX7GrgnC9DvzAbcF",
+        "DLZ9KEsv3iL6Ubsfxx99z2pgsA8y9FJKEGqYNhYG86Gn"
+      ],
+      "following_buy_wallets_2slots": [
+        "2z2q5gk8TDgqCidzkXkyevXH1aDaVjWL8cQwoRbMF1Jq",
+        "6ywHAYcQr9bCHzxNv17iwW8JGoT1fnAq3vVYccHksXB3",
+        "7KVotge6HN8pcrQ4zsScaPzgwNqzkSCpqHvgNR5sbuCA",
+        "87HzPSbfMc9knk3zzGngPRnyfZ7R2nQQpabZXSVWq6uo",
+        "9Th17QSM8dfifEU112z7N1QK3MehUt6myhETmypXnCh1"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 1557,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 1942,
+      "target_index": 1925,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "A5qucSMURRLvrsTMBPwJMaWCW7JPTX7GrgnC9DvzAbcF",
+          "slot": 452807193,
+          "index": 53,
+          "signature": "TfxUAhTfLPGrjPGv3iCeVfaZGgjgC7S1KdRVax51SdG9vv6mCrfpCDMwuovX9SHarkG3Rd2SvLyfYeGTHZxuXnM",
+          "SOL": 0.009569225
+        },
+        {
+          "wallet": "DLZ9KEsv3iL6Ubsfxx99z2pgsA8y9FJKEGqYNhYG86Gn",
+          "slot": 452807194,
+          "index": 352,
+          "signature": "2FGD1HcmhFkNrmfCnQiYtAQVvuA5J59ukmHPCGm3VjZfgsNy36mBYyKQMnrPh6PjhRa8cUd81upfGrsC2T7ish2M",
+          "SOL": 0.197530863
+        },
+        {
+          "wallet": "7KVotge6HN8pcrQ4zsScaPzgwNqzkSCpqHvgNR5sbuCA",
+          "slot": 452807194,
+          "index": 370,
+          "signature": "3xZoffhS6DKUZMKBdoM7FUVxeD6vmXv6T6Kkg4oXZZoAptpPkMtdG8p77DVR8EGmGoKncrpKvSf48prnWizxLbeN",
+          "SOL": 0.008274364
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "6Q3qPzeyeLKVR6EJ7xtJvo2VJycAevEXu1N54wX2pump",
+      "signature": "4UEWSxSFCR3Y16m2kbm3bmn2UKDV6WXTUiEsQrh6gGLwCg4yCLBsLr2yRvZHU12ij71j3zouUTFgVPiEXpkbzuPG",
+      "slot": 451905179,
+      "provider_index": 126,
+      "time": 1790755421,
+      "creator": "DrJYGfCLR3Wfhe4JFvmFNrrPD912Air4Z56kgkTWQhcL",
+      "fee_creator": "DrJYGfCLR3Wfhe4JFvmFNrrPD912Air4Z56kgkTWQhcL",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 19,
+      "unique_outside_buyers": 11,
+      "meaningful_outside_buyers": 7,
+      "outside_buy_events": 16,
+      "outside_buy_SOL": 1.723582623,
+      "reserve_SOL": 0.421109199,
+      "drawdown": 0.3668263582042045,
+      "recent_net_SOL": 0.097777778,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "buy",
+      "last_actor": "Hy4ZuryDVXuytB3TGXmAdcqHQeF7WMQD4dZLdAipyVFt",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "7dGV2auDmovmUbb27KBW1QNN52aLXd4ZZbafG9nyr5VT",
+        "Hy4ZuryDVXuytB3TGXmAdcqHQeF7WMQD4dZLdAipyVFt"
+      ],
+      "following_buy_wallets_2slots": [],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 11,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 26,
+      "target_index": 25,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "7dGV2auDmovmUbb27KBW1QNN52aLXd4ZZbafG9nyr5VT",
+          "slot": 451905179,
+          "index": 28,
+          "signature": "2M7xTHxouXU55YhKcqUtRtx34ztPYjcNvFjVsWDwD6ptcRa4KvkCYJgxNKXx6uB9qmZoM7PzF1uwaHpVrdtFfGSF",
+          "SOL": 0.049090181
+        },
+        {
+          "wallet": "Hy4ZuryDVXuytB3TGXmAdcqHQeF7WMQD4dZLdAipyVFt",
+          "slot": 451905179,
+          "index": 36,
+          "signature": "4n4icc4dRDqnbAtR9wogi4ZJiFQDE81pBRT47Xr2rHYnaFy1TPWfsi3GC2wiRrGfuhzmYhUk7mUPV13Ahfp9NNFy",
+          "SOL": 0.048687597
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "GA1THM24JjfZjsz2YrQw7yA9dsgfBXJ5Up7iu3vCHyHY",
+      "signature": "2A17owLgdPU8ea9ZAWaMcrJ4PXbUkvuss8U8dpZWyT2v37SyYqQKYAYXiptPHi34deoyRAWFtVXci6SW1UYrpZzR",
+      "slot": 451606929,
+      "provider_index": 819,
+      "time": 1790675566,
+      "creator": "Gp1immf1bFAKBvaJCKBNhiiv8FM3BCmD6dpb6YjmNZdo",
+      "fee_creator": "Gp1immf1bFAKBvaJCKBNhiiv8FM3BCmD6dpb6YjmNZdo",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 9,
+      "unique_outside_buyers": 34,
+      "meaningful_outside_buyers": 27,
+      "outside_buy_events": 34,
+      "outside_buy_SOL": 29.489627328,
+      "reserve_SOL": 10.645547044,
+      "drawdown": 0.22318651596681682,
+      "recent_net_SOL": -4.264245689,
+      "recent_unique_meaningful_buyers": 13,
+      "last_side": "buy",
+      "last_actor": "uwuRcFYRfvr31mpnxbYZFJnnRNSn9kc3RNnPXE3Nxn3",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "6hVi8dpzPRSKbv8W6NXcoK6pcnwpUL4gDpjrxJFKDBEE",
+        "77wS9zZHJ57AXR2QvkX8Fu8iqUPBbYvUnJ2irb36QyTG",
+        "8xNzQx1hZRdDZ5Ne3XpXGj9jC5ULocZcRpWMLejgBBEE",
+        "9Yy3C9B9aAWXa1divjWpkx5XsPDfWwoZPxFASvLzEMH9",
+        "ChAi4b759n6kTSojES3erShh5i77jQNijajvGM9FkBEE",
+        "HCsVftaMsjHf88jDM26hdg5NrXT42pvpETUhzbYj5MfW",
+        "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk",
+        "jdWXCCvMGEqaS6A9eeTngBaqEjdhnniJN1u7X5KXAz3",
+        "uwuRcFYRfvr31mpnxbYZFJnnRNSn9kc3RNnPXE3Nxn3"
+      ],
+      "following_buy_wallets_2slots": [
+        "5ZtzVYRuF7sEhot31S68xHRCKDMkDdFtTp1iujTRjowV",
+        "7u4Vki6HSSTMLL6AoRmNn8i1kQ3hWRG9ja3MgKpiZBEE",
+        "8n9ZeeMrbYbTdtspJjZbtZ1tUHRqM4QnR7hT9BDgDBEE",
+        "BvnYW238paJMcGRWuJiS3ZzSdL926XqAYx7dXZLcRBEE",
+        "EExNZdAqvBGXfcUvXTjdXifNNTRgfRXeRJa8Ba2DjSGw"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": null,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 70,
+      "target_index": 57,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "HCsVftaMsjHf88jDM26hdg5NrXT42pvpETUhzbYj5MfW",
+          "slot": 451606927,
+          "index": 436,
+          "signature": "3opserj5WcAnPj631RopNCvxqxAsFdzRD7tmnfhnjKyGvqPy9jg8FLHoyydMWdc7uZZXQEdmAYhxDVeKqd9rTxvd",
+          "SOL": 0.250068144
+        },
+        {
+          "wallet": "77wS9zZHJ57AXR2QvkX8Fu8iqUPBbYvUnJ2irb36QyTG",
+          "slot": 451606927,
+          "index": 1136,
+          "signature": "2jbRurHhAp6QykfFU8X5d6gaHy96JaQoAJ1eZwVPAksbkdPPsX4SDLACtUnmkc5i14YEaDkcCnoXwzXgjitBgLRP",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "6hVi8dpzPRSKbv8W6NXcoK6pcnwpUL4gDpjrxJFKDBEE",
+          "slot": 451606928,
+          "index": 713,
+          "signature": "SmDCPxu1VmNS9Prs3yxbrdFoxkSzzWBpHZzSWXtnET5ULw3BdgGTmNgRKKMCaS1WZfF9Qd6Rr7uiP359ZEeZdM7",
+          "SOL": 8.1975e-05
+        },
+        {
+          "wallet": "8xNzQx1hZRdDZ5Ne3XpXGj9jC5ULocZcRpWMLejgBBEE",
+          "slot": 451606928,
+          "index": 714,
+          "signature": "5FG29bpxMRrfFBExgt4JMh251jY1aXCHrV65iSicSfrJysqeNh9wmhkKwvh2yZghBjs9roFQHebBEuM9zQg8pdc",
+          "SOL": 8.1975e-05
+        },
+        {
+          "wallet": "ChAi4b759n6kTSojES3erShh5i77jQNijajvGM9FkBEE",
+          "slot": 451606928,
+          "index": 725,
+          "signature": "5Hm9CufDBohCKFK6mC53YSnbRKHK7cSoXdwY4DG9V4Yd7s5RndtA2dqUo1P6SeGSyBv4C2F3VR6kvD5nv1f8djX4",
+          "SOL": 8.1975e-05
+        },
+        {
+          "wallet": "9Yy3C9B9aAWXa1divjWpkx5XsPDfWwoZPxFASvLzEMH9",
+          "slot": 451606929,
+          "index": 585,
+          "signature": "4pkGVULN8Z3PXjtjTnUeGBMiwJgNw58rhoqAmChrRhWdMx6CWAoWnyyY3ez3QAKLnwrnDaCJbyx435bjzA3sCxie",
+          "SOL": 0.889273918
+        },
+        {
+          "wallet": "jdWXCCvMGEqaS6A9eeTngBaqEjdhnniJN1u7X5KXAz3",
+          "slot": 451606929,
+          "index": 588,
+          "signature": "5yy5pfqDUMKGrgKxnbJyjHgLoJUn3ixom7vSZpWkYntebR6yUMCrRNbs6XNCVjdViUgHEdtooaZbF1sLAQw8P9A5",
+          "SOL": 1.066281638
+        },
+        {
+          "wallet": "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk",
+          "slot": 451606929,
+          "index": 675,
+          "signature": "4MAqqNTesusPHnRf2HVb9JiP2xeTTNDzhURgmH79LGqL8DkGonyBgkryxMcYF83QrVnNwhfAQWbk2GPUN5s2SvSw",
+          "SOL": 0.541549906
+        },
+        {
+          "wallet": "uwuRcFYRfvr31mpnxbYZFJnnRNSn9kc3RNnPXE3Nxn3",
+          "slot": 451606929,
+          "index": 684,
+          "signature": "4nXCUdjK6Te9ciQgvrz3VyscRSuNraVhjsXQqcPs4jSPwahVxRPZ1LQGmsFPVb4UZ81hv7iz4AnBsmYABJPk5aY9",
+          "SOL": 0.098765431
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "4TAgBNKH21fUP1pAnWc14Hm8DECXScCp2H7KKTQ1pump",
+      "signature": "5hE2GWXFf58NAAyDLEE1CD8hg256ubEdS3MtgNvCMKFo2wisk2ToybGTG7Kk8TDzdgWBTPnZoAqULBdVBM7cyMjB",
+      "slot": 448182637,
+      "provider_index": 795,
+      "time": 1789760972,
+      "creator": "7fEXteaTtmX1uR8fpChEXsevM4icH5vq8LNL9dzDupX2",
+      "fee_creator": "7fEXteaTtmX1uR8fpChEXsevM4icH5vq8LNL9dzDupX2",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 1,
+      "unique_outside_buyers": 16,
+      "meaningful_outside_buyers": 15,
+      "outside_buy_events": 16,
+      "outside_buy_SOL": 13.193985065,
+      "reserve_SOL": 12.202497959,
+      "drawdown": 0.0,
+      "recent_net_SOL": 11.212673241,
+      "recent_unique_meaningful_buyers": 15,
+      "last_side": "buy",
+      "last_actor": "5BFuw7KyK5ryyvBwv4uJYwwNMnXPqGJGcf6okqtnhmFJ",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "2ccgxuZv5NEngCwWqj6zjwxHWVc8RDwXgMUfUnmpTYHQ",
+        "3W2eGgXg1U6pJsFGswWdQ5D1q6isbHBfFY5Siqg14A4a",
+        "5BFuw7KyK5ryyvBwv4uJYwwNMnXPqGJGcf6okqtnhmFJ",
+        "67LwNGrukVFFcA1XZQ9U8ddZGCBuPvPHgMxw81AeRtQ7",
+        "6SHf2w549aAF6oqtGyQpHoSeDodTfanzKa1yH4AhXSsX",
+        "8d1YSS1uVDWg6SdpGudUAMzHzp569ksrYFtvFzixMwgL",
+        "AqMoKz922NEWTfqHankMJBYK6iKqe6CqLasVf85hfRsW",
+        "apexpDoPm9ypJ97YoUk6eNiZHZWqqq3Ktgfmv94QAov",
+        "uUJvAggoXhTMAYC6zzN8uNUAtBoarpsYx5EQyrrrAQD"
+      ],
+      "following_buy_wallets_2slots": [
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 69,
+      "target_index": 20,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "uUJvAggoXhTMAYC6zzN8uNUAtBoarpsYx5EQyrrrAQD",
+          "slot": 448182635,
+          "index": 258,
+          "signature": "4vJrLLhzrGKnwer8EVccFS33ZC1DhQdZvJG9agbJi8evw5vR4139yPgvaQJjHQ3cWRKK65NizumXtKg5rWdeNoD5",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "2ccgxuZv5NEngCwWqj6zjwxHWVc8RDwXgMUfUnmpTYHQ",
+          "slot": 448182635,
+          "index": 725,
+          "signature": "3fLCNEGJ44Fuq12q2h9mBeS3SnGW4bF3qb4AatBEjqjQ8k5ZkvKsHaV6dpmZhvTtNRf45P1yQcngX9kd54vCbk61",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "6SHf2w549aAF6oqtGyQpHoSeDodTfanzKa1yH4AhXSsX",
+          "slot": 448182636,
+          "index": 854,
+          "signature": "5c3z5TYBkUyU1Lm1we38n3KL6qGxQEe7mixnnwrCrj91R61vkH4B1AxHk8FKpdxCh2o4gAGdYXyLn9haxzXMNpe6",
+          "SOL": 2.488888888
+        },
+        {
+          "wallet": "3W2eGgXg1U6pJsFGswWdQ5D1q6isbHBfFY5Siqg14A4a",
+          "slot": 448182636,
+          "index": 1163,
+          "signature": "396BTnT2tD4V1aaq8K884Ut1g9PDnasybLGEFcUkR4sanG3Cz3zttZpat5NAhmJbjfXrJqoFdCP56KQtbJbXymSF",
+          "SOL": 0.197530863
+        },
+        {
+          "wallet": "apexpDoPm9ypJ97YoUk6eNiZHZWqqq3Ktgfmv94QAov",
+          "slot": 448182636,
+          "index": 1166,
+          "signature": "2fzLkLS2VEihkjxrpFhtyndUBwG71ExvUMjDqohH4CKfjr7huisJuEx9XAFT9aFVB9KrJ2Wv5vwoRDVajba2dXP8",
+          "SOL": 0.201948152
+        },
+        {
+          "wallet": "8d1YSS1uVDWg6SdpGudUAMzHzp569ksrYFtvFzixMwgL",
+          "slot": 448182636,
+          "index": 1177,
+          "signature": "qqQEo1bWCQUL95iP3ioA3b48jDqkhBotDExoAt6vF2cBTiJfpMw5ykjmPdwPvBrWNTTd8mrQsuwXp8jmC37e8Nh",
+          "SOL": 0.790123456
+        },
+        {
+          "wallet": "AqMoKz922NEWTfqHankMJBYK6iKqe6CqLasVf85hfRsW",
+          "slot": 448182636,
+          "index": 1193,
+          "signature": "4zJMFBBWKc9VwHEAyWLr7eb7zrAxTvcsf9mg4X1pttXvhcuvHQnwb4BS7awjhoeuD8q3THf4Ye1VY72Et6CQ7Xpg",
+          "SOL": 0.05246014
+        },
+        {
+          "wallet": "67LwNGrukVFFcA1XZQ9U8ddZGCBuPvPHgMxw81AeRtQ7",
+          "slot": 448182636,
+          "index": 1194,
+          "signature": "A5rvJrWSJS7T9cdAstsDDyQ2KYEfR2T4ECLRuaNWrquvHAsqbue4Wwzc1dhuSNb2qtXwZq5HbxLTfQvfoKRjzKa",
+          "SOL": 0.019753085
+        },
+        {
+          "wallet": "5BFuw7KyK5ryyvBwv4uJYwwNMnXPqGJGcf6okqtnhmFJ",
+          "slot": 448182636,
+          "index": 1431,
+          "signature": "3uzquku2TdGNWJjpiDDcfkqeiQFfkQoFPHkPLZP6vvfV85v7tjmugyoNUB86vMP1GHf743vYpKyDXfCwf7fWcUy1",
+          "SOL": 0.184327552
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "61SwYjeGvG38WMuVhGXcKC1jBSmtnJtDP1eJYAUWpump",
+      "signature": "3Xxa63EQXiTnYUU6v9cqsubGsi4km1FketKHxjWHpfQCQyFkZHUccHpmG3QRkjuhZ7SFJPLc9tGspin45Sgo3LRZ",
+      "slot": 453190076,
+      "provider_index": 787,
+      "time": 1791099131,
+      "creator": "4xXPruTHFbsmZSEk2ouGv3Gn74UFi1TCGubRi6LEQjPg",
+      "fee_creator": "4xXPruTHFbsmZSEk2ouGv3Gn74UFi1TCGubRi6LEQjPg",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 15,
+      "unique_outside_buyers": 54,
+      "meaningful_outside_buyers": 46,
+      "outside_buy_events": 72,
+      "outside_buy_SOL": 29.791336264,
+      "reserve_SOL": 1.834023433,
+      "drawdown": 0.5116029270777396,
+      "recent_net_SOL": -9.605194087,
+      "recent_unique_meaningful_buyers": 4,
+      "last_side": "buy",
+      "last_actor": "39nduMYSoWBE1pUiQty7xB5hWrMy9CprKtNdLCKfLSnS",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "39nduMYSoWBE1pUiQty7xB5hWrMy9CprKtNdLCKfLSnS",
+        "3BdF2FteAwrZ8fQXZMKDduWJSxRYTNuDEKgrwPi5WAhm",
+        "5QY3MBvLEsP4xjE4SNYJYPuwvJgoBUrDnvSaZUNsNHZT",
+        "9bwHbhAEDTWgF8NMdxZkJLwooDcy3fshSxGanGWeskHC",
+        "FPTyuH9S8dzFUo1SZrtAsWizomKbXn2HgpKQCHWy6WkE"
+      ],
+      "following_buy_wallets_2slots": [
+        "7Ys7PwYJrLuwVsuoARjAy5NQZo68qMtqSwgg2MhFncb9",
+        "AkfrEiNctkZnZtSSrTKF8wEAKsfqds4tRor34cKNqGtV"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 34,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 135,
+      "target_index": 130,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "FPTyuH9S8dzFUo1SZrtAsWizomKbXn2HgpKQCHWy6WkE",
+          "slot": 453190074,
+          "index": 149,
+          "signature": "3NVC68KKbrB62VfELKcRTK4pkJj885erKayng3EBYmYeDUyRY8SV6THrLdZtHPELfgHk7WZkVHQBHyoUbbsA4KpN",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "5QY3MBvLEsP4xjE4SNYJYPuwvJgoBUrDnvSaZUNsNHZT",
+          "slot": 453190075,
+          "index": 15,
+          "signature": "3ZTQCAUUdV3FT5weUXTczSHztuKxqG8Lbb49KghbAFygmiUKASpPn8nXkhPPAHXsXdXfTjFueJaQpt7nzxJFfpy5",
+          "SOL": 0.148148147
+        },
+        {
+          "wallet": "3BdF2FteAwrZ8fQXZMKDduWJSxRYTNuDEKgrwPi5WAhm",
+          "slot": 453190075,
+          "index": 247,
+          "signature": "5iDtCpLs5Anbdm8o97nCU6qLr5WXjJ1tpih5yZ8xrnLvpLHHrzWMdfL5R9B1RmU2GjkfkGGGVEjxgxdU1FXLBmSk",
+          "SOL": 4.9381e-05
+        },
+        {
+          "wallet": "9bwHbhAEDTWgF8NMdxZkJLwooDcy3fshSxGanGWeskHC",
+          "slot": 453190075,
+          "index": 333,
+          "signature": "5A2chkWKGprSoLw2TPXa2yRsUo9uiDarLbfdoKPsJzNTGxD6iptVzbTyc5uJAPm1zv62BtNhTpzwubNcAKx5ED8Q",
+          "SOL": 0.5
+        },
+        {
+          "wallet": "39nduMYSoWBE1pUiQty7xB5hWrMy9CprKtNdLCKfLSnS",
+          "slot": 453190076,
+          "index": 693,
+          "signature": "42RNgEv8dExcJB4h22U2d8ZvoQ4woM2Rt8LSoLXKUGaaXbsNuiiYTRAJ7GckcJzXnWtF2MU8X4oogUTLNPULD7UT",
+          "SOL": 0.098765431
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "DRwbR2oefHtGjThos1oioRDPx2Hf48Qd18GDN23w4xhY",
+      "signature": "5EBhSGaMgBAvE99ogtgJrPDo1v8vPEpNXpycyyaCcvMYwuixxKkSNWVGQEEZgUH2ZvHpuCiHZpKvh7c2ZtHeGf6Z",
+      "slot": 448574666,
+      "provider_index": 371,
+      "time": 1789865508,
+      "creator": "3bdYvNRqn8uNRqbXxR7Qp6X63GhKaqzop4RxfxWpc93c",
+      "fee_creator": "3bdYvNRqn8uNRqbXxR7Qp6X63GhKaqzop4RxfxWpc93c",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 337,
+      "unique_outside_buyers": 57,
+      "meaningful_outside_buyers": 48,
+      "outside_buy_events": 74,
+      "outside_buy_SOL": 44.719408329,
+      "reserve_SOL": 18.032395164,
+      "drawdown": 0.11040095901174485,
+      "recent_net_SOL": 8.09354649,
+      "recent_unique_meaningful_buyers": 9,
+      "last_side": "buy",
+      "last_actor": "9sNh7PyZwoWCxM37TGQpPB7YKSTtMKNb6muSHbM6xVc1",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "56e2PjxqjQLh1Ew2mQVRQovZWWjErtPdjkkJvhwBSFHy",
+        "6bCqcMvbdzgjSZYDjHp9b886wjFaZXJxszRv5yCg1M6e",
+        "7Ut1gh36seBkUiYuPx3rNQbuLE7QLT53YJRo3wsGAZRZ",
+        "9sNh7PyZwoWCxM37TGQpPB7YKSTtMKNb6muSHbM6xVc1",
+        "A3xMbRBF4VcvZgx4Z3CKhPRYtiqjjVUwu9yYsBSsD8jd",
+        "BvgzdC1VMEqPTcuGQAbedUohGs7fBwT8SsVVks9KHRRL",
+        "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+        "FSz6mptAxKrjDjaJYQiGiCGGwsxL4WgWjsh9sGhw4BZX",
+        "Fgp4apbKzLst8Xprx35yEUTQtidMkFWwjvpjXXngmRf8",
+        "HmzxkYKjXRmQQ5aQ8prU42Aup2VQrtTkaUEixuWe9AsA"
+      ],
+      "following_buy_wallets_2slots": [],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": null,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 136,
+      "target_index": 135,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "6bCqcMvbdzgjSZYDjHp9b886wjFaZXJxszRv5yCg1M6e",
+          "slot": 448574664,
+          "index": 775,
+          "signature": "4YXyKJNik5uN46viHPuC5E3Qthukj7Xetc8ESbRYDEfHQos8T1AmVNMFjsj8jECeRhq1eud8piToibXpJMcjcuFP",
+          "SOL": 1.466666666
+        },
+        {
+          "wallet": "BvgzdC1VMEqPTcuGQAbedUohGs7fBwT8SsVVks9KHRRL",
+          "slot": 448574664,
+          "index": 777,
+          "signature": "5JRFnvNskvG8k4ATE9CJoszyWXRwCP3iVkYCGrBtgEqZaVfcWk634MkT6j8PF4ZfqUyc1ouD5paaWQXgB1PQuT1N",
+          "SOL": 1.975308641
+        },
+        {
+          "wallet": "A3xMbRBF4VcvZgx4Z3CKhPRYtiqjjVUwu9yYsBSsD8jd",
+          "slot": 448574664,
+          "index": 806,
+          "signature": "47oFodziTDyJdQ3zHkGkUaVoYBngwvfCf4LAxzd8V8KhWGqDFUbgG9t5cZybGQqJnMMNHfYYU94931Q3hUHHsJzr",
+          "SOL": 1.466666666
+        },
+        {
+          "wallet": "7Ut1gh36seBkUiYuPx3rNQbuLE7QLT53YJRo3wsGAZRZ",
+          "slot": 448574664,
+          "index": 998,
+          "signature": "4A8mwSYgH4zAtHbfDXnJNhGbtffxYPDwxakw6qWUB6tsMdP64mbJumHtaY7moVdFrLn9Zt71kVCvTqZtz8Fhx4a3",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "FSz6mptAxKrjDjaJYQiGiCGGwsxL4WgWjsh9sGhw4BZX",
+          "slot": 448574664,
+          "index": 999,
+          "signature": "3wSnMZ211796rMAJmtyxohfNJxm9AstpLjyUD7MC4ZrbqBZ8RY5ksoc2V9jGDK67ZM2UEs2irU4xfG6mhMcecysh",
+          "SOL": 1.48148148
+        },
+        {
+          "wallet": "56e2PjxqjQLh1Ew2mQVRQovZWWjErtPdjkkJvhwBSFHy",
+          "slot": 448574664,
+          "index": 1105,
+          "signature": "5RrBSJKWTbKvqZbubu1fBkpbjd42Ufh6w1SHYs52VeFa9bDx9Dk3ixVmzzzeumg6SMLqFFAE6nEBFdbQg7jMTTfs",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "HmzxkYKjXRmQQ5aQ8prU42Aup2VQrtTkaUEixuWe9AsA",
+          "slot": 448574664,
+          "index": 1106,
+          "signature": "3jq9XS2MaLvoFqHfmvhZPm3z5U71qUsWNw9W9yjF6RxKdx5EANzpExFAc1v9wFMzjdNyot68kyrjo6nFWBbSkBPM",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "Fgp4apbKzLst8Xprx35yEUTQtidMkFWwjvpjXXngmRf8",
+          "slot": 448574664,
+          "index": 1127,
+          "signature": "3pCBUvNePc3ULndsXop3VTHHGtwuvZDXiiPJcQMw8HDaCqjY1RvzpCuLsPSQ25upNq2V8gU2e6VwFQMaRMtP7ZFs",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+          "slot": 448574666,
+          "index": 1,
+          "signature": "2zBXnPFMUYirJYFDWuashK9iqp2x2iDviaxUeLUG7RdEYN6ZVDAmmf6aJ9pZpCGy3KKiCh71nZr5K12R1EP3ojN9",
+          "SOL": 1.185185184
+        },
+        {
+          "wallet": "9sNh7PyZwoWCxM37TGQpPB7YKSTtMKNb6muSHbM6xVc1",
+          "slot": 448574666,
+          "index": 342,
+          "signature": "LUMS7jdZn44SG36EYbSR17sVb2wMoCWYMXdJfNqcz3CJwknW1ntafRz5KtsTBN2hviDne9uaTQbRxiK9vSU7CmA",
+          "SOL": 0.000987654
+        }
+      ]
+    },
+    {
+      "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+      "mint": "8rL7khXPD5Li5j7rYiEFx5yjLWYZLkJfG5cxaaMGpump",
+      "signature": "zWq4Bh6cmhhM1TmBjZZ9kpPGkHMgAkCkzf6KvvGSAx7ffMoVohmTNMzhxxWhNw9UjnkKWhydSt7487sarVn35vS",
+      "slot": 451719952,
+      "provider_index": 1517,
+      "time": 1790705857,
+      "creator": "Fwcn8QjugGVxXuHdvoQQvVmTJMcCPrC1TaQiSHUeqbo7",
+      "fee_creator": "Fwcn8QjugGVxXuHdvoQQvVmTJMcCPrC1TaQiSHUeqbo7",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 287,
+      "unique_outside_buyers": 120,
+      "meaningful_outside_buyers": 75,
+      "outside_buy_events": 157,
+      "outside_buy_SOL": 30.891508842,
+      "reserve_SOL": 6.687486032,
+      "drawdown": 0.3777716169388443,
+      "recent_net_SOL": -1.714860748,
+      "recent_unique_meaningful_buyers": 1,
+      "last_side": "buy",
+      "last_actor": "EuCv53bS8czquf54d6c3fVYszbHcNt5nhfrZ2nEys5cp",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "EuCv53bS8czquf54d6c3fVYszbHcNt5nhfrZ2nEys5cp"
+      ],
+      "following_buy_wallets_2slots": [
+        "HRBonvjq6YE62jKnXpwH9wjxLqhiikf2hdFgVTef1Cvm"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 307,
+      "target_index": 300,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "EuCv53bS8czquf54d6c3fVYszbHcNt5nhfrZ2nEys5cp",
+          "slot": 451719952,
+          "index": 1434,
+          "signature": "BmadvvX7rzigUJRvagf3Yujs5JfhAAT95JPyXNN2CMLNDzTKJCh6BinGoEwnxzvYDAoxfUDE7nbYkaV1oNFE3dJ",
+          "SOL": 0.083224992
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "EPyQeS2LxzpbkQQxnjUkaXfsLZKkV91ctm5KFPtMKgPb",
+      "signature": "Z2c3Tn1146M4f1xhHZyA4p4s8bKtvahsLKLTEyoL8bsnvtTnBbGLZ3fnL973BdwRD4Rj8a9pXHAKWmGirqNVzxb",
+      "slot": 447658287,
+      "provider_index": 210,
+      "time": 1789604758,
+      "creator": "DszdVmXqsJh1fgbY3kKZpTBuYBCBBsigHgjutps3uBQd",
+      "fee_creator": "DszdVmXqsJh1fgbY3kKZpTBuYBCBBsigHgjutps3uBQd",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 2,
+      "unique_outside_buyers": 21,
+      "meaningful_outside_buyers": 14,
+      "outside_buy_events": 21,
+      "outside_buy_SOL": 18.332614927,
+      "reserve_SOL": 15.120602891,
+      "drawdown": 0.026660742318993735,
+      "recent_net_SOL": 7.885911602,
+      "recent_unique_meaningful_buyers": 8,
+      "last_side": "sell",
+      "last_actor": "5bb5kQKhp4zT3MYuFp7QSpkvJkghfLp6yjQbvTDLK2vy",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "6oN5Y247ZXLSwXvdQKmTQzx8V5qXQJE849PKWe8ZsyQA",
+        "6xpC934BvLrUSRHXVhq46gp1HqMFtuQp1w7VrVLP6mC6",
+        "7Bza9tPxTLQgSWLi2Giz926Bg1hMuqGmV83kQhWVxfmM",
+        "89qZA4L2tWaxQggDCDN15VR7HngBPs3u5vd6Dn1KqCXH",
+        "8hp7qw3pte9V7nNLM6moCtj8M9ofeadFawZRj7iE4XR7",
+        "AcvSivuSVWQMCeZSY8zLYcoSmDBKWLFpaP4oUPGL79TG"
+      ],
+      "following_buy_wallets_2slots": [
+        "2pUUZYtokRgDV2YzL6M5pjb1jyoHE367yU1sdQ7ac3ea",
+        "6BoZZ3oXFjj1kMJ3QtPkRxiE6jUJ5ZMkGuy7aLjDAKHx",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "AfPWFykWPZZxU2CyF6BcPoY2v8VEkmYS7ZggvELK7Pv1",
+        "Anubis512ho5t7S6LNSwoxUWdeQmX2kf3RvZ8ApHHF5w",
+        "DwkERB9i8oj8AuKXAGupkrzF3NRmJYvmZvsMYcefdoLq",
+        "EKhh135SzZs6hw8xRnbZbAVJVtFnmPE2t1uV1AbsbQBf",
+        "F853Fn7oi4zXVugsaNbadenMYjqNTaHgRK7sp3A9eJfu",
+        "J36AVCr7uVoXwYgcL8yBmeCAatSLGLSjrCMaBca3sCXq",
+        "ssssswdk4RR8HqkE3uwUWzDbd6mXFTTPjcXBKNzQ57E"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [
+        "2pUUZYtokRgDV2YzL6M5pjb1jyoHE367yU1sdQ7ac3ea"
+      ],
+      "dev_sold_fraction": null,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 65,
+      "target_index": 31,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "6oN5Y247ZXLSwXvdQKmTQzx8V5qXQJE849PKWe8ZsyQA",
+          "slot": 447658285,
+          "index": 33,
+          "signature": "3zAAFw2WKqG7hY1KfBfAB7Y5iVnyJhV3siHh2ffDEk6fwHxt43cVtSDFqDz5qKQYHU18h3DbkPTgLsCRxV2c6Dhu",
+          "SOL": 2.933333333
+        },
+        {
+          "wallet": "6xpC934BvLrUSRHXVhq46gp1HqMFtuQp1w7VrVLP6mC6",
+          "slot": 447658285,
+          "index": 216,
+          "signature": "28bJvME7ZsW8FeBuzGHPwvKu9AA9aaf7cJqFrCeCgXR5jj6gVoJQ8NUrdEAVAaAFUaqfHNTbV3gsDKRQwy8E8mxN",
+          "SOL": 0.028641975
+        },
+        {
+          "wallet": "89qZA4L2tWaxQggDCDN15VR7HngBPs3u5vd6Dn1KqCXH",
+          "slot": 447658285,
+          "index": 246,
+          "signature": "HFepFiVEBc3bD1jiyEWe1DDkUhzHBtU6K6FKnYXRwbDRUURhqXhnP8sPBRdfTVorZGDUzNEAgtZkooHFVu2ANU2",
+          "SOL": 0.028641975
+        },
+        {
+          "wallet": "7Bza9tPxTLQgSWLi2Giz926Bg1hMuqGmV83kQhWVxfmM",
+          "slot": 447658285,
+          "index": 346,
+          "signature": "4mKucC6xHZPPHVCs9oZPMdadtiZiXKkFp8AQKgBQycKbbkhFCL6V84WZd9nowQocS2MPznuMu5hyiqgKdTpqip6A",
+          "SOL": 0.02765432
+        },
+        {
+          "wallet": "AcvSivuSVWQMCeZSY8zLYcoSmDBKWLFpaP4oUPGL79TG",
+          "slot": 447658285,
+          "index": 360,
+          "signature": "5VztArXTiLFcQJUeQKyWJTT1Rk5Mxf1LvbprH8t3fRzU3gXypWSyJnsPukaBLytcnB9VSz2S8ADzPE8xKbbkBRWT",
+          "SOL": 0.028641975
+        },
+        {
+          "wallet": "8hp7qw3pte9V7nNLM6moCtj8M9ofeadFawZRj7iE4XR7",
+          "slot": 447658285,
+          "index": 362,
+          "signature": "4xgAAx4yXyq8imuQnyQZ88TDTv4JqQBW2CkHPvPgvU5JdzpRRZCBLBjy1LYvAJxNDMhW6y368Dc7M451t8kkY5uG",
+          "SOL": 0.02765432
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "G8jXowFsA7NRGRuLMD9GB9W9kFZudopAeb85eu7jsS6J",
+      "signature": "WU9CTGic7fgkhpqrqt2imqk96Gr7xX6Ka9TN19WK8wxXovcBByZaf2RR8kVQrjVTACW4xTJTb9yiTBR1oDzbk1M",
+      "slot": 452164358,
+      "provider_index": 993,
+      "time": 1790824812,
+      "creator": "5RQ1UWATaMjjXC34BW6UusEUdEoCuNRECBW8nnHPiCGH",
+      "fee_creator": "F4xNAPxvmsegesBXPkEv8Xg5ru33jTsk4s8PhF4qaNMN",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 6,
+      "unique_outside_buyers": 26,
+      "meaningful_outside_buyers": 23,
+      "outside_buy_events": 26,
+      "outside_buy_SOL": 14.988247423,
+      "reserve_SOL": 7.878264402,
+      "drawdown": 0.1280109943065474,
+      "recent_net_SOL": -0.719608132,
+      "recent_unique_meaningful_buyers": 5,
+      "last_side": "sell",
+      "last_actor": "E35uoEGT6mR2ae94KNuSfk4X86y7bcNeomDNV4T7GaFs",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "3Vggwn3LPougvnGa8zpYJMEN9L38tSRa45gv9odiSVF1",
+        "G3ouJNKDPGXNUU1qtbZ3bwzqnnphMEB2qQjBiDfCbm4x",
+        "J77G27faJHyAd8NyHA77a6ogBv1cxe4WJQq5fYbuRATx"
+      ],
+      "following_buy_wallets_2slots": [
+        "7cqn5cpUTbga93Yr66W2xcB9K6Jh6fGFZ7PKx9vLkP4S",
+        "vRkR7YUCLbjnpCzdzKjCakbme1fc6CYNF5N3ZZnWtnN"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 17,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 247,
+      "target_index": 179,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "3Vggwn3LPougvnGa8zpYJMEN9L38tSRa45gv9odiSVF1",
+          "slot": 452164356,
+          "index": 896,
+          "signature": "jdhv4R5F7tckiRPo6ozQgNS91FQcRSw5ru8FRQLCo1EDyBcLP3Eg1FPhSRJ2L2k4xU1xUqNXjL4F24ChgL4J3rj",
+          "SOL": 0.049382715
+        },
+        {
+          "wallet": "J77G27faJHyAd8NyHA77a6ogBv1cxe4WJQq5fYbuRATx",
+          "slot": 452164358,
+          "index": 428,
+          "signature": "5W3nTj4g96r6tJtmSnt74mcT4mPWH6M6wqq6S9ReiDcy2FbuQRNVg2ZwvCbepNpuNccJ9fERHAQ2k8z3HGstnTKG",
+          "SOL": 0.90941336
+        },
+        {
+          "wallet": "G3ouJNKDPGXNUU1qtbZ3bwzqnnphMEB2qQjBiDfCbm4x",
+          "slot": 452164358,
+          "index": 433,
+          "signature": "tM3HcFmfnapncRWdmj5eN6gyCz8HcbrnRDBiJof79CYtEZWc4M9445eC2y7sN8xpEnHCCoehL7iV8EoJP6abFGn",
+          "SOL": 1.046142195
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "8gyMYipc8SxvkmAGgse3sGN2VCq4mgATX1ceENdNcYFd",
+      "signature": "5FWeB1s88n3zLKwZ5c17UugjZzkbTdnj8w92UDaSUT9Suyq33fs4pVhLTiLURGFgpyTHBzQgAznji3tZik5TA63V",
+      "slot": 452544227,
+      "provider_index": 1038,
+      "time": 1790926503,
+      "creator": "HKXkiPSVCST1SzUKABxjttquVT3V6jUwWwL1R1MSMwfJ",
+      "fee_creator": "GJLUvSEbmB1Sy4ThR8gYm9C34Nqx7MoqxhXxPbANVSbA",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 35,
+      "unique_outside_buyers": 36,
+      "meaningful_outside_buyers": 32,
+      "outside_buy_events": 39,
+      "outside_buy_SOL": 21.03722167,
+      "reserve_SOL": 19.564792314,
+      "drawdown": 0.0,
+      "recent_net_SOL": 7.841975304,
+      "recent_unique_meaningful_buyers": 7,
+      "last_side": "buy",
+      "last_actor": "2BdNX9eKhfg8pqFSvPr32qzG4XwNNrCCjGftwEz8DLee",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2BdNX9eKhfg8pqFSvPr32qzG4XwNNrCCjGftwEz8DLee",
+        "4JkzFdA9eyXMUG5n9B7yeofv7gtvi2Q58B6onU6uBqCf",
+        "5WvBB2Zc6ySwCAi6ZTWkW9oJ6NokRt1UMLyWHd4iqhUG",
+        "64hJxoZzjoL6MW4uwdKDkaBiZdk87ZxmthHnLwaAKUgS"
+      ],
+      "following_buy_wallets_2slots": [],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 52,
+      "target_index": 48,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "5WvBB2Zc6ySwCAi6ZTWkW9oJ6NokRt1UMLyWHd4iqhUG",
+          "slot": 452544226,
+          "index": 148,
+          "signature": "vD492Dq4dbrVMfmugmFCErt1zaK5sjyuHNBufEueKy3vZt8oNKk7gyvm3iFZHkJKKGkvgL12Y5zCuoCoQjS67kP",
+          "SOL": 0.691570334
+        },
+        {
+          "wallet": "4JkzFdA9eyXMUG5n9B7yeofv7gtvi2Q58B6onU6uBqCf",
+          "slot": 452544227,
+          "index": 86,
+          "signature": "3nnirLhkvLymJAa7dYHLjJ8Htxf67ZBpXHbUw922ng7Nr7vLqYH3SksgjEoftBGdyZbCFEubrjQarjLtQqAWEUAx",
+          "SOL": 0.653152026
+        },
+        {
+          "wallet": "64hJxoZzjoL6MW4uwdKDkaBiZdk87ZxmthHnLwaAKUgS",
+          "slot": 452544227,
+          "index": 564,
+          "signature": "g6dujotUufvv7tkXHGj56akTN2dNQXd8nTUKPCidoKothgnS8NGXZRx9bpactsS4ga5JY5LBz5Yurnq73VNQgRp",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "2BdNX9eKhfg8pqFSvPr32qzG4XwNNrCCjGftwEz8DLee",
+          "slot": 452544227,
+          "index": 866,
+          "signature": "4e948Hw3PSZ5H9XjkkuatNdsbasn1JLWSDwt5xW42XJVy4JXFtLzcFPS2yZjWoqSpf5rnJP38T3CGn2B56Q6o9X1",
+          "SOL": 0.610833196
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "D3e5g2eUAMtZ5YaDWEDpuwi9cQHLr4G1rujv3a39JBR2",
+      "signature": "2RyqW51rNtwj8gghUnXLwGZM3Gyq5naaj3cZvBPJ2chpf3niDJxfRt647tx7oiSbn8VtNqR7xHEziGnzZim5UqTd",
+      "slot": 451092181,
+      "provider_index": 406,
+      "time": 1790537646,
+      "creator": "gVDXhoGbePACvSqN7CZBtQXFW9eyJwsgudPEwSydAkx",
+      "fee_creator": "gVDXhoGbePACvSqN7CZBtQXFW9eyJwsgudPEwSydAkx",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 24,
+      "unique_outside_buyers": 181,
+      "meaningful_outside_buyers": 140,
+      "outside_buy_events": 212,
+      "outside_buy_SOL": 111.771048133,
+      "reserve_SOL": 30.170548077,
+      "drawdown": 0.04940278131906117,
+      "recent_net_SOL": 5.894929779,
+      "recent_unique_meaningful_buyers": 10,
+      "last_side": "buy",
+      "last_actor": "3XxDdoWzXc3DRBCixevgNQdmfNgC6VXJtomNX9Qy5t3P",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "3XxDdoWzXc3DRBCixevgNQdmfNgC6VXJtomNX9Qy5t3P",
+        "3tVVSrrPPWDaDB6cj13ucNTzNLXuMLNtRbYdvSMyt4R5",
+        "4MNb2YiPt6D7WHdgKLEzwqcZiQeCiD96nWncpB1jsUwv",
+        "6ZAzTzMnYBaQtY5Q8o4EpC5PCFqfcFmfyYGAHhSvoc4g",
+        "6ZFsAAUkcPop4m9WfhQjqccGmPPNZMtqRCiP7dsEzB1f",
+        "CnL6TwM9cEkRfnnmdzhySW7KZ62usfwhSnsumY3axWqn",
+        "EP5vZSxiDMn2iJ3yoWHjzW12avYeK8kQaTNkb9EDbVsz",
+        "Gi5DyNkCLVQkcjykXVWUheM1EzCg8XjUPdcf7E8Gj2eh",
+        "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d"
+      ],
+      "following_buy_wallets_2slots": [
+        "6dTFAEc3tejNQPrmtkPWB2xAjSLkWP8QCQaRTP2GoJJE",
+        "AvgzJYCgqQAHYMAezRtdQtCtmknTMz9rJnkdu3Np7sS1"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 64,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 400,
+      "target_index": 378,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "3tVVSrrPPWDaDB6cj13ucNTzNLXuMLNtRbYdvSMyt4R5",
+          "slot": 451092179,
+          "index": 124,
+          "signature": "28Jkmj5ff5DAC3Ls4WrhND5NJVkhYtNfqSatHK6UELHgYATpMAwWFcYqucXfqjMoChgue3TAVpgM3j52Fbn1VqwG",
+          "SOL": 0.049382715
+        },
+        {
+          "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+          "slot": 451092179,
+          "index": 624,
+          "signature": "5d3WTELWqs6fEzk72kgeFgK8g4hYreJFhrvNquaKjR3ugfJAZYheQny8FD5SbfcYPhUdg6bEAeKHVP3pmmCCb39F",
+          "SOL": 0.975342031
+        },
+        {
+          "wallet": "Gi5DyNkCLVQkcjykXVWUheM1EzCg8XjUPdcf7E8Gj2eh",
+          "slot": 451092179,
+          "index": 796,
+          "signature": "AMnCGwtgHtEQJhc4sUvswupi3fD5mcX9RNZ4JpKoAoHDKvkNk45Nmi17Xzq42gwLXmV3J2F1pQvUgeWVGQbmRLy",
+          "SOL": 0.592592592
+        },
+        {
+          "wallet": "6ZAzTzMnYBaQtY5Q8o4EpC5PCFqfcFmfyYGAHhSvoc4g",
+          "slot": 451092179,
+          "index": 1078,
+          "signature": "5kAU8pfLsRg7TLNY6nj8euhXuz5Xn4brMfJviodVYXGuwfaqCQEem9H2SBz174kC5iURmAHwriQhVZBPvy1fu1mC",
+          "SOL": 2.933333333
+        },
+        {
+          "wallet": "6ZFsAAUkcPop4m9WfhQjqccGmPPNZMtqRCiP7dsEzB1f",
+          "slot": 451092180,
+          "index": 36,
+          "signature": "KSfxKXGfo5uuiE7DLDXmpUPBPRmJikoQYm1XZXMNUNXHexC63j8Rx8MFA4xkfGena9XPFjc7DxwsYKnnDUSmmJf",
+          "SOL": 0.537777777
+        },
+        {
+          "wallet": "EP5vZSxiDMn2iJ3yoWHjzW12avYeK8kQaTNkb9EDbVsz",
+          "slot": 451092180,
+          "index": 343,
+          "signature": "4npkwsH4UXV7oM6xLmMvNZws46ZJy1EcmAvaNuq8CJ1TC1tEtA1MvbGknW8BxKk8EjnwA7fLEfwqqYAiwdE5aYzu",
+          "SOL": 2.164908932
+        },
+        {
+          "wallet": "CnL6TwM9cEkRfnnmdzhySW7KZ62usfwhSnsumY3axWqn",
+          "slot": 451092180,
+          "index": 359,
+          "signature": "5s5g22zxGUqkLtikyHo2K9maXPdr1qDsyBS1reKRN8EWo2EermvBDXDaHTyFCRYjf4AX59a8JHKX2NfMJsDLiKno",
+          "SOL": 2.116647113
+        },
+        {
+          "wallet": "4MNb2YiPt6D7WHdgKLEzwqcZiQeCiD96nWncpB1jsUwv",
+          "slot": 451092180,
+          "index": 364,
+          "signature": "2Rg4rRnKrPEtjWAFnFoJ5zgraMDejpRA6B6Yykb3vHHipGommf1TBTe1EPqDchD69k6R5Jzr3wufrpZ4JZXqeGkk",
+          "SOL": 2.073999511
+        },
+        {
+          "wallet": "3XxDdoWzXc3DRBCixevgNQdmfNgC6VXJtomNX9Qy5t3P",
+          "slot": 451092181,
+          "index": 309,
+          "signature": "5iyCBBYukAxKD7JNcnoaF6BcP5Yh1tp3hU5wh2tWfchohLverSFnBYQciBAwyfAaZR3qBQJTcfnyp5cWz2LMRBmD",
+          "SOL": 0.147644444
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "62h6xWhiwkhjJuRu6nuZyHBPXXEUc2tf4nZoFhsG5MHa",
+      "signature": "3Yc4qfjX3nx38XjE3YvD6yPNuZN4LsQ84HiWKzes3th5T7UN4Lsjjdvk7uGZyoGoUd4XDPFRpDTwBLfiqaLQjTnM",
+      "slot": 447537343,
+      "provider_index": 1361,
+      "time": 1789566358,
+      "creator": "DfG6UhpaE4kXTi6qFWp6n2FLV1djoZQ5YyD7gqbVPscU",
+      "fee_creator": "FfmGxzwjse4yyomXTMUoTU44sSa357n3zspToHAJpTws",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 102,
+      "unique_outside_buyers": 114,
+      "meaningful_outside_buyers": 88,
+      "outside_buy_events": 148,
+      "outside_buy_SOL": 62.343504202,
+      "reserve_SOL": 0.380305505,
+      "drawdown": 0.6901532880112233,
+      "recent_net_SOL": -5.162749781,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "sell",
+      "last_actor": "BjoY4EBmTn1Euw43Rn1ShhqYyFMNY7JVX1xcJT8TF5DW",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "6QaSH1WDwowY6h6uUT8RKigFATTtYcRtzJEZkNFgaKLB",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "GAYeu4sM42VJANeJBJ4ckKyGD2gBcmrjMEtwwCe1yGBh"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 312,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 335,
+      "target_index": 328,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "5Z5WvVb6ZV5mwVJu3yoPoFeQFJ9jfERR2iXjg4nXpump",
+      "signature": "3GUha2EGaZ3TevnsA1ydAUVP1ejR5bbbc2LRhV7TcnvwQhSfZtmNB283rPR5MmCQkUjMjeyST2CARa8gn36toM8Y",
+      "slot": 451429227,
+      "provider_index": 186,
+      "time": 1790628051,
+      "creator": "EzSRaKmnhXk6QhApce7CZMQYFjQ3pYTtkQCQojsBsYYK",
+      "fee_creator": "EzSRaKmnhXk6QhApce7CZMQYFjQ3pYTtkQCQojsBsYYK",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 263,
+      "unique_outside_buyers": 129,
+      "meaningful_outside_buyers": 92,
+      "outside_buy_events": 152,
+      "outside_buy_SOL": 68.030366647,
+      "reserve_SOL": 25.834147643,
+      "drawdown": 0.0,
+      "recent_net_SOL": 7.340908416,
+      "recent_unique_meaningful_buyers": 4,
+      "last_side": "buy",
+      "last_actor": "DKy8jH9ZCJMmK5Ri8u4s5JWzf7tdusFgH71T1D87YxcQ",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "6GofQwh2VPeFtDQebwAWfD1ZB1b7L9oB8UA4UUL7QQ3V",
+        "8VCF6TTVwjYfCKrATK7zaKRWDpE6TPncgdXXzx1frYmr",
+        "DKy8jH9ZCJMmK5Ri8u4s5JWzf7tdusFgH71T1D87YxcQ",
+        "DLPcv1v5rYrfJUBKmYGFtYJcXE21J4etgTouRmaDVw2i"
+      ],
+      "following_buy_wallets_2slots": [
+        "CASHUTaewCTUqa6j2SzD6vgBMvMLsNjdpuBYGTxWDBmi"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 294,
+      "target_index": 288,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "DLPcv1v5rYrfJUBKmYGFtYJcXE21J4etgTouRmaDVw2i",
+          "slot": 451429226,
+          "index": 560,
+          "signature": "7srM9VTqkcjuZbLKB1sTU3WNy8LFNcbpVnLD2s4JDV88dMVUBQn8EGHms4WN2jccv6EvWphLGv1fgC2hXz9dejH",
+          "SOL": 1.297226852
+        },
+        {
+          "wallet": "6GofQwh2VPeFtDQebwAWfD1ZB1b7L9oB8UA4UUL7QQ3V",
+          "slot": 451429226,
+          "index": 562,
+          "signature": "42xKiSMAQzZgJULF68Y3nHdPvcwoEGoW98hppN6v7EFbn5WZtqwt8jCXBKjSxyFk7q89tUznb6SgHP4jEvr99Y7h",
+          "SOL": 3.456790122
+        },
+        {
+          "wallet": "8VCF6TTVwjYfCKrATK7zaKRWDpE6TPncgdXXzx1frYmr",
+          "slot": 451429226,
+          "index": 567,
+          "signature": "5Zz7F3C18NzhEBSDA7N4JLJZZS1tE88XioHKCd3Ynq6k7rFBpmDDRjpU3hR2RGYzydemHuUZKSxn22Yg5EgrSenH",
+          "SOL": 1.1705008
+        },
+        {
+          "wallet": "DKy8jH9ZCJMmK5Ri8u4s5JWzf7tdusFgH71T1D87YxcQ",
+          "slot": 451429226,
+          "index": 575,
+          "signature": "esxpGxjFAYKVWb5HChSVHuxgLgnAWouQiELk84Nv1pMwRE2Xs3veJdHG96Ry9n3r97e6tWmSCVdbaZBMc9FbwRF",
+          "SOL": 1.416478263
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "CV5mZtvNhrdi7jTohNXaehZFLt7dmpwzTvqAgNCpump",
+      "signature": "2goa5MT3TuEvpkGomuxE7f3bnzsuCiaw58U2WDganM6ha7tAzy9sdJrRs1kaJ2FZ8BGfQEaXEw84g9eSzdRyMSdx",
+      "slot": 448063751,
+      "provider_index": 1038,
+      "time": 1789729217,
+      "creator": "EqAhwsnN9RSFhsHA5GHyErQvaUYoVFrBv88SpiCgUjki",
+      "fee_creator": "EqAhwsnN9RSFhsHA5GHyErQvaUYoVFrBv88SpiCgUjki",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 2,
+      "unique_outside_buyers": 11,
+      "meaningful_outside_buyers": 10,
+      "outside_buy_events": 11,
+      "outside_buy_SOL": 9.926930698,
+      "reserve_SOL": 6.739053441,
+      "drawdown": 0.0956002554483869,
+      "recent_net_SOL": 0.899992639,
+      "recent_unique_meaningful_buyers": 6,
+      "last_side": "sell",
+      "last_actor": "FjJiYpUcEYZ3XHWQD2Q9atydmuFhZRQwC3wZQxfRLgAf",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 21,
+      "target_index": 17,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "4YHHbNwyBJB1f8mWSpqz9zJ7VfZdV2HjqFAzFZnfpump",
+      "signature": "tu6DEQczxyXum3ik9Tu8CRR6JrS2kFyvTMV1bug6uwSfSNrpmgapYoUZyv9doMZfqecarwTEe3FWTR77FzCqb53",
+      "slot": 450350798,
+      "provider_index": 1259,
+      "time": 1790338784,
+      "creator": "2JxPmU9UU5KhSQ7h5v8PfhgbxPQhHNyBqNrhPAjPiWCu",
+      "fee_creator": "5HYgwaQvcuPaeEYmHcXhC3op5dEbyBadqZ8JvgrsMAjt",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 212,
+      "unique_outside_buyers": 101,
+      "meaningful_outside_buyers": 62,
+      "outside_buy_events": 134,
+      "outside_buy_SOL": 49.630602363,
+      "reserve_SOL": 31.097320726,
+      "drawdown": 0.0,
+      "recent_net_SOL": 11.736943108,
+      "recent_unique_meaningful_buyers": 13,
+      "last_side": "buy",
+      "last_actor": "4t45tpPT8aygULZhhyMyW1j8CLWzzRJKH4mrBc5akgQi",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "286CHN57Km41GsAnDv866WKd6YB6HPSjFgF4rGDJTRLf",
+        "4t45tpPT8aygULZhhyMyW1j8CLWzzRJKH4mrBc5akgQi",
+        "5G9u1U2mNi22DH3uo5Ldsxqv9BZBqFfdh9Uu4wPY8g6u",
+        "5bb5kQKhp4zT3MYuFp7QSpkvJkghfLp6yjQbvTDLK2vy",
+        "66AbxhfZdVyUJ3YRQmWEar8pqPZX4Wvz4vmdK8CtLqBH",
+        "6kcNB3BtGvDGx92jKwUVEvhTzBQ2kGnmjGTmAryiquy3",
+        "6wn7pXLVFvWRTJ9kzupAQghUwNtAM75KKtqCcgBHPioV",
+        "AmwJToZR4YkawNquDbiUHbZnC2Myq1CLRRryUQ9FBf89",
+        "BQG3Pa1uESBm74KqUaGYicjL1p29stu4vqif6t65cB68",
+        "CBKgS8Nj714YomoPPxhVLUWos7vSrWnuL2cVKnJqWo2s",
+        "HTFZ9NtZKuGTPJG6pxbGB1k1F4CfrCoiNyKsuvkqrNDh",
+        "Hh1AigQWcSDXh3qpmpmJpMMjYn5BmADzBELR6TZ2VXXE"
+      ],
+      "following_buy_wallets_2slots": [
+        "3TZkRoVa8inezaasnMe7rWCPZJztT4P4EyD21ST4rSRg",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "9CcHU3rPWc6bA97AHNaS3Dszk1rKAGBcgEkuyD6QVGsh"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.9999997307922734,
+      "dev_sale_slot_gap": 746,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 193,
+      "target_index": 180,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "HTFZ9NtZKuGTPJG6pxbGB1k1F4CfrCoiNyKsuvkqrNDh",
+          "slot": 450350798,
+          "index": 822,
+          "signature": "5VTCjTQyEmGGAUFDPNQ1erFdugHtm7cUSgqHsGySwFSxFQ3c4aTxGvss9KReNS48hp9id1jFNgH1Fqbkn5iRapMM",
+          "SOL": 1.014580026
+        },
+        {
+          "wallet": "BQG3Pa1uESBm74KqUaGYicjL1p29stu4vqif6t65cB68",
+          "slot": 450350798,
+          "index": 830,
+          "signature": "WiWYiqRZE2JPFD64A34CsTCDEmZNBZBLtuigMfRnbNb336Tpioh5txt26ntipuucuvHq5tvHvAokXs2LdHFmfZs",
+          "SOL": 1.061088243
+        },
+        {
+          "wallet": "6wn7pXLVFvWRTJ9kzupAQghUwNtAM75KKtqCcgBHPioV",
+          "slot": 450350798,
+          "index": 833,
+          "signature": "5KA6HbFUwADdcyNnPYbE8LPWunfq6EBhTJGGjfM6gkfXXJBr35T8ChBYXKwNc59ZvVgZ6wXHTT4fjRfT1KKDrw6f",
+          "SOL": 1.005348382
+        },
+        {
+          "wallet": "286CHN57Km41GsAnDv866WKd6YB6HPSjFgF4rGDJTRLf",
+          "slot": 450350798,
+          "index": 838,
+          "signature": "4aWRCnDpRH4vurgGDZ95WoV9FYsQFf549pYgxSWWtx8gxUamoPnS5hPA9kyzmuWrC6D3RnLqGM5gJJwBWPfbAhrA",
+          "SOL": 0.984881725
+        },
+        {
+          "wallet": "Hh1AigQWcSDXh3qpmpmJpMMjYn5BmADzBELR6TZ2VXXE",
+          "slot": 450350798,
+          "index": 843,
+          "signature": "5nSHq3mAYemNR2XTyDEDd6JVRL8MoVHcQNc246kUKuNv39V85kcDD86zdd2QrzLmWdKXPNByJDvWL9tMreCMWF8M",
+          "SOL": 0.926210574
+        },
+        {
+          "wallet": "6kcNB3BtGvDGx92jKwUVEvhTzBQ2kGnmjGTmAryiquy3",
+          "slot": 450350798,
+          "index": 849,
+          "signature": "rnHhTVVkm1mhnw8ZToN2tY7hmXAhnugYLFjbv4mezZdCm8J7yUmwF9xBSSWbJ2xD41973UBtns4pzPFLABTiGJ8",
+          "SOL": 0.939308569
+        },
+        {
+          "wallet": "66AbxhfZdVyUJ3YRQmWEar8pqPZX4Wvz4vmdK8CtLqBH",
+          "slot": 450350798,
+          "index": 964,
+          "signature": "CCsHqArmnBGRJQzmXG5fBjFSxgAQZ9XWbw9EJkq4zt3ptP5QKp8KaVucnNbPBdUJnSLsYUYfPDDqu3Mf2UEUX8E",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "5bb5kQKhp4zT3MYuFp7QSpkvJkghfLp6yjQbvTDLK2vy",
+          "slot": 450350798,
+          "index": 980,
+          "signature": "3NBcvBw6iAgr9YrdEyP4FCTUaz8ykdQkYvLbPtrnP5LJguTK76ydKNJMPYYDrpdfU1AGkp4VpetPtArdyJ8EZUNF",
+          "SOL": 1.071948537
+        },
+        {
+          "wallet": "CBKgS8Nj714YomoPPxhVLUWos7vSrWnuL2cVKnJqWo2s",
+          "slot": 450350798,
+          "index": 984,
+          "signature": "4Y8qY9fQm5uTw4zLDMJeVBQcF1eRpfh9ry8HbKLCoQnuaWzbfDNUZ9LfGiL2m7SrwPsS8jKs9BZNUVTNAcwga9L5",
+          "SOL": 0.482277374
+        },
+        {
+          "wallet": "5G9u1U2mNi22DH3uo5Ldsxqv9BZBqFfdh9Uu4wPY8g6u",
+          "slot": 450350798,
+          "index": 988,
+          "signature": "2CVY8hMmSDbicV9nBDB8ofKB8hnyC6rSVswUSijiVYkcoy955kjTPTfsBsga4C3Nj6V9vkgkrXQQbbZnkQ2eH3Y4",
+          "SOL": 0.877100301
+        },
+        {
+          "wallet": "AmwJToZR4YkawNquDbiUHbZnC2Myq1CLRRryUQ9FBf89",
+          "slot": 450350798,
+          "index": 1096,
+          "signature": "2wKd75stw5s5bHPMNCTXWeZbq3w8sj3dgz5Vw7Qfqv99wWpAJGq14EBXRfv3pWXzzcQR3Kd6iSuYkyPsCeEMTusv",
+          "SOL": 0.42111296
+        },
+        {
+          "wallet": "4t45tpPT8aygULZhhyMyW1j8CLWzzRJKH4mrBc5akgQi",
+          "slot": 450350798,
+          "index": 1251,
+          "signature": "2bBDC5PVVuDuLmnLx97N31Jgj37GCicnZMN42ykodu2nAEaZ3vk3ziWv6Yu5iWhpkJZHPhneZGg7tzPqXgxw2PnM",
+          "SOL": 0.98765432
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "GutTY4xGwsrnvMtHF3FtmBdhcaXnDaiEBEXLGu5qpump",
+      "signature": "3YK3ETz5h8fPXeeYe4XeB9KKAtwqGV8Kd6gd66Do98g64xvLsD4dQTTJrvBWKmdhNPTb2k6bXKrYJmHChyXFcpi9",
+      "slot": 448001499,
+      "provider_index": 981,
+      "time": 1789712658,
+      "creator": "5htGpHK2oV9g2BcDqLdRBqjCLdy8mc3fsESfR5DU73eM",
+      "fee_creator": "5htGpHK2oV9g2BcDqLdRBqjCLdy8mc3fsESfR5DU73eM",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 171,
+      "unique_outside_buyers": 447,
+      "meaningful_outside_buyers": 343,
+      "outside_buy_events": 737,
+      "outside_buy_SOL": 291.98252465,
+      "reserve_SOL": 19.930724786,
+      "drawdown": 0.7181743983188011,
+      "recent_net_SOL": -17.4933765,
+      "recent_unique_meaningful_buyers": 3,
+      "last_side": "sell",
+      "last_actor": "7SRkN9Q6LKNPXfP4RaxAMLszS6SgULSDsGQRix6jgocQ",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "9g2gAUg2jUqUfbQkK8ziaXfFiVzgihn8r3HqG2Los3mS"
+      ],
+      "following_buy_wallets_2slots": [
+        "56S29mZ3wqvw8hATuUUFqKhGcSGYFASRRFNT38W8q7G3",
+        "5Eu4myQ55U5EN1KFEzp1xdQeRLXwU6iDNkCMAo7THAX3",
+        "7777P2fkxsNCi3DLbfyv16c4PDRaZ1FJDZngvcv5FVu6",
+        "7b2rBxrVxZwXmVTdz4fpku3196snsbY9riGYTj8GeyQb",
+        "82J2y1T2SZRJctSiQ6t9fBuPzih4cnRaLuErDuhLseGF",
+        "E5gdyVmBARbRzxc54UnezawaTrrLC2N5RJd3iCj9oR1e",
+        "GveDodNSMrnkbsSedx7nVewUmHw6fUcstq5rrgWb3h1s"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 638,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 1353,
+      "target_index": 1329,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "9g2gAUg2jUqUfbQkK8ziaXfFiVzgihn8r3HqG2Los3mS",
+          "slot": 448001498,
+          "index": 905,
+          "signature": "3j3d2W4WPr6iTkfQ62pphVbLTMMDTAgV8fFeekrMhWNZUS6tD6Eyu8m9G9N5H3xLTCVkzq7DBDc3DuLWvpaTeiqN",
+          "SOL": 0.092973491
+        }
+      ]
+    },
+    {
+      "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+      "mint": "39dYrD3Qo7pZiP9n7uPVSGwFYarGpUPUYKWPJzAk97zF",
+      "signature": "m8smWUZYE4DN2eEKvvwF2QQGkGapsi4yf5MZKjnym6bER6fS5ShNQVsQ2hLooSFxXzx27qZzvdbUXvVqUuHSUcj",
+      "slot": 450425308,
+      "provider_index": 525,
+      "time": 1790358771,
+      "creator": "9BjcGY9ZfMvS13ozDRMwCaR2toE71hiLBXXvqBcGmeiU",
+      "fee_creator": "9BjcGY9ZfMvS13ozDRMwCaR2toE71hiLBXXvqBcGmeiU",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 19,
+      "unique_outside_buyers": 247,
+      "meaningful_outside_buyers": 198,
+      "outside_buy_events": 313,
+      "outside_buy_SOL": 197.519390026,
+      "reserve_SOL": 48.457971539,
+      "drawdown": 0.24488241636522046,
+      "recent_net_SOL": 3.851867584,
+      "recent_unique_meaningful_buyers": 22,
+      "last_side": "buy",
+      "last_actor": "Gf8wub9hxjDTccJ6n1sjG2ooXP1Bi6qWcaMa3WJzhto3",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2fNPNJKE3ny6b5Vo1wdfa7J7KqYNjeyBM3PbGGSJ398r",
+        "4iFVeAyeWeAEM1oDh4zcyusBR99XXHJKBwuDJbnQWZGF",
+        "643fC2hoV2bsW7b8oJ29XQunFT7JbbDtJLKyZXCb8iac",
+        "7oUxn62F2yCtJ5sz69mXuHRZ857vFuZhgcdVjPU74sKz",
+        "9HJbUAiuwC9nuCJV333yPNSeK9arskeYLb615yrcohj",
+        "AdXexVH8vmNWxtwn9jF62eMBx1DEXHe9RaRiBWLz1sGT",
+        "DLhoLhi4WJpp69JdW3aBzYBxZHkY7rhMN3PXRnPjx3u1",
+        "DdD92AsvkqF8gCSyteZzwSxGFgXxfPAazdep2ocJwwtr",
+        "G1f3PDfqy79VB1bMi7WQkatNb8FuUj8AbyeKeQ1w1DJS",
+        "Gf8wub9hxjDTccJ6n1sjG2ooXP1Bi6qWcaMa3WJzhto3",
+        "HW1wbyPSa7QTqjRzD4kCKZyBbXFzR8cA7sJqBrzrJ6o4"
+      ],
+      "following_buy_wallets_2slots": [
+        "2Wn7oDH6nfWbBCMdqXqxkCkaChN8aBWp4Mf9jFZTzHXa",
+        "2mLUuydARXdfDZnvbZUiHAmKYkqFnwovxePGci661tuu",
+        "3N1KKNyjKBxmRN66zF2jZwdtLaR8D3zXcAgKvuuFAdiS",
+        "4QRTn2yvzLKfcSZ5NNRDz7mohr9djkFmydAdB178f2xQ",
+        "64hP97Bwr5PubotcTeGgfhkFrGiLVVxT2kVo9M9b4AEz",
+        "6vB9VfGpjtSTYdhJ9ZMTLXC32UDCCaKpeQmSVnGNHgXh",
+        "7a459iH3KKLSogfGPaVpkrePnogHHRCdGLVkZ9LcENx5",
+        "8GQjTLZtEVpnDP4ZRPbFRjq7eubS6bvLeFKKfrtL4bg7",
+        "97UeqxHkw224Ni2SGMQLczXUwMvRWHgFo2eN2bjw5L2R",
+        "9T3K6ZyKtfhGmwJZQFxA5Tps3e9keNVQ2a7jMLe4viw4",
+        "9n41LRRpbemienUzSzFMgR7LP6iriqFrKPwsZEV7CuB",
+        "9v6VVY97vq4jAJkCgY5qHvkGghtezZGrFkreEWtMi3zP",
+        "AhKMhfkRR3wNXZUC9rCHKAcibZUcdErdnkmJ6ewoVmBL",
+        "Ayj1UNNTShX81ud6tKG3CjND2zZmGajVhEGbbDD27RRE",
+        "BNwVduQq1AH3ee5hnLQtbJmPyrBJHaS29b6VQt3pzvsR",
+        "DcYoxbeSJejfvefkywHRkn4m5P3LF1pgitRvtustsv3P",
+        "DuuRTor81GRbkNPPTmpwLDVhgtLvnbYpb1dcSuxHNFZW",
+        "DysqkDX3HwFCKwaFQVNxrwz1R1zjc2HXaTHsyRREf2SD",
+        "E35uoEGT6mR2ae94KNuSfk4X86y7bcNeomDNV4T7GaFs",
+        "EfLH5rVFu4X7ruvdjy9TZUSBft2pfLiKr4BffWgpVyhr",
+        "FC1RZf6MTebDXdKFpPfhkiftU8TFz333g8ugbsPJ1Wbd",
+        "GXiRUbAXYy3p4tcPNizQ77NUDzg4Uj6BQ3U98d25YwKE",
+        "Hv8TaCKB9CWDTUgCHJr1H3HNBSBfyqbz1mRuFFB26PJP"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 0,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 3857,
+      "target_index": 3780,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "4iFVeAyeWeAEM1oDh4zcyusBR99XXHJKBwuDJbnQWZGF",
+          "slot": 450425307,
+          "index": 341,
+          "signature": "zCo5XzForzXJSWgWzn48in8iUYH4gaFfjKPn7TMxeRCgk5bZsqdzK83VWvAdi3m8gmZL3dSawCDxoxvH6ohk5dJ",
+          "SOL": 0.197530863
+        },
+        {
+          "wallet": "G1f3PDfqy79VB1bMi7WQkatNb8FuUj8AbyeKeQ1w1DJS",
+          "slot": 450425307,
+          "index": 511,
+          "signature": "4p8pUDLFbWLkmXVNknuHU16NvCZsYeW5FjyApSyixfNcweZDhSTjnsVmPUiv95QFAEZBuVdhqVhGqdq4vWkD7D5a",
+          "SOL": 0.097777777
+        },
+        {
+          "wallet": "7oUxn62F2yCtJ5sz69mXuHRZ857vFuZhgcdVjPU74sKz",
+          "slot": 450425307,
+          "index": 565,
+          "signature": "3xZHJvoSv8Um7geHQ9Yij4n9aetdxh8GLeJ6LBjQWk7LtnDMimiZ6AsNuaGcRuu4ywTrGZUUFC4hLPNShFFQJMT1",
+          "SOL": 0.197530863
+        },
+        {
+          "wallet": "DLhoLhi4WJpp69JdW3aBzYBxZHkY7rhMN3PXRnPjx3u1",
+          "slot": 450425307,
+          "index": 928,
+          "signature": "p9W1KQuaHWemL2KscMuyQ5zv3j4fyMTYiZpqUau6zxPAVNJQiZb5Vn1o4TUvPKrSKKNwyCmtMJGyxyuB4TfzEyv",
+          "SOL": 0.069135801
+        },
+        {
+          "wallet": "9HJbUAiuwC9nuCJV333yPNSeK9arskeYLb615yrcohj",
+          "slot": 450425308,
+          "index": 24,
+          "signature": "vryNAnYapZhBU5ACGWJ7nt8umn6o6gj1GSkbtDToNytBih7tsxKWqcshfPdwfLX5JGzh1mnVj24qM5Gjh9QkpAu",
+          "SOL": 1.429056045
+        },
+        {
+          "wallet": "DdD92AsvkqF8gCSyteZzwSxGFgXxfPAazdep2ocJwwtr",
+          "slot": 450425308,
+          "index": 59,
+          "signature": "556ot1nHbNNoonvwWdvjASFkt8TwgThf1BKGWtHTcMwBBVF5QQdTZkL2Y2nZdTJxwqTuKvyKt373WZnAdt4x2gwR",
+          "SOL": 0.224888888
+        },
+        {
+          "wallet": "643fC2hoV2bsW7b8oJ29XQunFT7JbbDtJLKyZXCb8iac",
+          "slot": 450425308,
+          "index": 193,
+          "signature": "5Mw2gf62Kt35dUG4w6RP8RAqe4iYvNQLJWudBTs6GUq84qysEv32h84ugjAT8hyfqxL7UXc7sV29JvrxHPY6xUR5",
+          "SOL": 2.444444444
+        },
+        {
+          "wallet": "HW1wbyPSa7QTqjRzD4kCKZyBbXFzR8cA7sJqBrzrJ6o4",
+          "slot": 450425308,
+          "index": 447,
+          "signature": "3XjsmMY1cTqU95ZpMgRTdjVsJC5spbRxSEkcnW4gHJpmwKAY9eMFhk4MQjmyXwC7YkzYYHA2LwhiDp98GeBQ9HPa",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "2fNPNJKE3ny6b5Vo1wdfa7J7KqYNjeyBM3PbGGSJ398r",
+          "slot": 450425308,
+          "index": 451,
+          "signature": "4aBbdM4hbSXBLjsqyuCiQ8XRWikGBx1gA3tt5Hc1jxVVzAEdCHjcdubvMA6nMSW1mdYPUumacYfmqxa9hmmW6iAT",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "AdXexVH8vmNWxtwn9jF62eMBx1DEXHe9RaRiBWLz1sGT",
+          "slot": 450425308,
+          "index": 497,
+          "signature": "zhVdGQZ9bVEQcYASRuw5X81VtocsxFjtg9c7E6VsqDdjRYcdyqxoZyhM9gjsthvjc6y6eGoQfrgEs9xdNyumgn1",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "Gf8wub9hxjDTccJ6n1sjG2ooXP1Bi6qWcaMa3WJzhto3",
+          "slot": 450425308,
+          "index": 500,
+          "signature": "5pMuo1kAXqNhimkoSHTGAjewGXVt7BDKeAjruoF4LJTSvkyYhRUeCoDG3w2rbNqN1oNE6tmoHh4jVN95pzm99HDD",
+          "SOL": 0.98765432
+        }
+      ]
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "7uypGttFntVBfMBhySak8XHMPbQGXCrHWfYpftLdpump",
+      "signature": "2uQhWTP1nDfNKA64uGRpVadvkXhSdPu8LbiKYHqDUQctEWBHzSZ2kQroq2WgFzcRdGobrHDa8xkEJJBiBjHeRREh",
+      "slot": 447378231,
+      "provider_index": 33,
+      "time": 1789515965,
+      "creator": "2F6p8TXy3DXDx8zygmMJXXvpCJVBPznq9jaqbNVQpT18",
+      "fee_creator": "CtoyzYxQ5VJywzUQKZ8qtYBtuwk8BALskzzG2iE5R5MD",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 303,
+      "unique_outside_buyers": 357,
+      "meaningful_outside_buyers": 257,
+      "outside_buy_events": 520,
+      "outside_buy_SOL": 137.214959851,
+      "reserve_SOL": 13.739355248,
+      "drawdown": 0.5811410301271803,
+      "recent_net_SOL": 1.466666667,
+      "recent_unique_meaningful_buyers": 2,
+      "last_side": "buy",
+      "last_actor": "5gdKdSk4RhiZGruffYLLTJLXLbceij21C1xmaMJNgYLf",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "5gdKdSk4RhiZGruffYLLTJLXLbceij21C1xmaMJNgYLf",
+        "GxRHGsnczbrMM39aK9QGVQWVZ1w27g2C2LABxDArLU2g"
+      ],
+      "following_buy_wallets_2slots": [
+        "64hP97Bwr5PubotcTeGgfhkFrGiLVVxT2kVo9M9b4AEz"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 944,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 1213,
+      "target_index": 1208,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "GxRHGsnczbrMM39aK9QGVQWVZ1w27g2C2LABxDArLU2g",
+          "slot": 447378230,
+          "index": 935,
+          "signature": "Touv8cHDHtk6LVAhYJ1JErbMT3pEfw2sqF9CS2BNYmRM2dKeS4vuXLgoQ3oY1At5P5xeCvzybBd9ujuHd8tsS5x",
+          "SOL": 0.670801174
+        },
+        {
+          "wallet": "5gdKdSk4RhiZGruffYLLTJLXLbceij21C1xmaMJNgYLf",
+          "slot": 447378230,
+          "index": 937,
+          "signature": "3qQ1szXhHuYmL5Y9qfN8bE9wEwqKcJDzb3bK74h8KiuEJwZxm8AYc8f9FKCg4An54TvYeq4mJQcrKbpNB65gt6Yc",
+          "SOL": 0.795865493
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "5gdKdSk4RhiZGruffYLLTJLXLbceij21C1xmaMJNgYLf",
+        "GxRHGsnczbrMM39aK9QGVQWVZ1w27g2C2LABxDArLU2g"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "4HtR71CczfxwpiJWXrqbNGpLktmj3dvo57qidjMQpump",
+      "signature": "5aqLteKK7j783YYNz8n4C9XheiirKdCXoiQRMZ3rT8gY8d7HrkZy6DstYLqFahLKK6NMYDgn5GsgBLeSTSEUQmr",
+      "slot": 448461204,
+      "provider_index": 453,
+      "time": 1789835193,
+      "creator": "A2RRDdkK21bs56LB6dDGbGMnUc4q4jnXnEWCSRHiPZWT",
+      "fee_creator": "7CpLR59ocXvH3i2sdNbJVysAamnFXsQe4bQA71GLUPZy",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 25,
+      "unique_outside_buyers": 70,
+      "meaningful_outside_buyers": 56,
+      "outside_buy_events": 76,
+      "outside_buy_SOL": 34.603476391,
+      "reserve_SOL": 17.784818232,
+      "drawdown": 0.03632830525510766,
+      "recent_net_SOL": 0.075476196,
+      "recent_unique_meaningful_buyers": 6,
+      "last_side": "buy",
+      "last_actor": "ssssswdk4RR8HqkE3uwUWzDbd6mXFTTPjcXBKNzQ57E",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2vByxgCSDrYFhXmagPFt6A1EGXMKzTk9qHHeW5DjijK7",
+        "3maekpvz81hU9KZWNsDAEKicUNvcbMexfcD4Q6bY1w9y",
+        "7R2ynigqbEnCEXCzv4KiuMiMM4UpsA49xZamXCSBvDw3",
+        "Dra5hkDHamXnY8hc5GLFK5cCKK2WPFSWFVwh5thoRD3H",
+        "NGDxcnaYTTDmCxis8d87VDFQy4v7tkjpr27m5tH2NSC",
+        "ssssswdk4RR8HqkE3uwUWzDbd6mXFTTPjcXBKNzQ57E"
+      ],
+      "following_buy_wallets_2slots": [
+        "BDW8Bjoe9fgfRPAkSf3Kpnphdd4ugWwsLitSxvqo4gg4"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 82,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 150,
+      "target_index": 146,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "Dra5hkDHamXnY8hc5GLFK5cCKK2WPFSWFVwh5thoRD3H",
+          "slot": 448461203,
+          "index": 298,
+          "signature": "4tqnTmxB83Y7T56fxtM3A3dsHK43ZooRzLA5tq5sxAHregATA8emSDEioqoyDHTbP7bd8p3TCanYbsPpgixGebns",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "2vByxgCSDrYFhXmagPFt6A1EGXMKzTk9qHHeW5DjijK7",
+          "slot": 448461204,
+          "index": 224,
+          "signature": "itvmQvSDE6p1LkKp6JqBsJd5R633hDTCZtLSiDyShML3nzrNk6UVtQouHF1FfevXnEyJWrUyj3zuXmjYkJSVkhN",
+          "SOL": 0.977777777
+        },
+        {
+          "wallet": "7R2ynigqbEnCEXCzv4KiuMiMM4UpsA49xZamXCSBvDw3",
+          "slot": 448461204,
+          "index": 352,
+          "signature": "4tkMtzkCviZ6BMMmApRBUdwTpASpx9vwBiKRMDTsdeVgoJqRpCzAQJcmRzrjn4mREWEkQvQFi9cQKFFF3UySfYBa",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "3maekpvz81hU9KZWNsDAEKicUNvcbMexfcD4Q6bY1w9y",
+          "slot": 448461204,
+          "index": 355,
+          "signature": "tFxzqdDRDcGEjjEauGvw87asrdphVQLfjeHLd7BPUrnaAxPVrTCE5497YeCmrxbEi9UKfGDg9BZVp5PVN8Ehu5e",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "NGDxcnaYTTDmCxis8d87VDFQy4v7tkjpr27m5tH2NSC",
+          "slot": 448461204,
+          "index": 356,
+          "signature": "45p3tgJMTHoWvXH2tDiX7XJVbmZs8gbwxHeChc2B9Qhb96suNSuc2GfydwpyHdCmFphEMoM7KVT945X3xwuy9VJ1",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "ssssswdk4RR8HqkE3uwUWzDbd6mXFTTPjcXBKNzQ57E",
+          "slot": 448461204,
+          "index": 390,
+          "signature": "227kmASgGaHu9iB12eQTe5KXWekkLUcWtBDhUuQ6xxaGho55HquMsRjfh799nTcb3xHgCQ2Y2Rx6Ra3tTgMzQMSk",
+          "SOL": 0.366376996
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "2vByxgCSDrYFhXmagPFt6A1EGXMKzTk9qHHeW5DjijK7",
+        "3maekpvz81hU9KZWNsDAEKicUNvcbMexfcD4Q6bY1w9y",
+        "7R2ynigqbEnCEXCzv4KiuMiMM4UpsA49xZamXCSBvDw3",
+        "Dra5hkDHamXnY8hc5GLFK5cCKK2WPFSWFVwh5thoRD3H",
+        "NGDxcnaYTTDmCxis8d87VDFQy4v7tkjpr27m5tH2NSC",
+        "kTzXm3rqDvxnzUSDAzWnoHcJhDKC9UKH55M1bq58aqs",
+        "ssssswdk4RR8HqkE3uwUWzDbd6mXFTTPjcXBKNzQ57E"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "rDjfP6wXjKA1uQEvrhgjb4njyvsqzBWaRUMyBQH9BnR",
+      "signature": "5QY1ixEFZXTdHYCRF1JNZpdTFEX7BHjGezsaR4YCa12aPJ2af1Wnpfv6crZSKEX56mBLMbtv56uKK7DybpHFLpNE",
+      "slot": 451521796,
+      "provider_index": 883,
+      "time": 1790652853,
+      "creator": "bwamJzztZsepfkteWRChggmXuiiCQvpLqPietdNfSXa",
+      "fee_creator": "BzKge1if1QKLNmTCGB9377yNAQjvavpcftU644MGtDpF",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 23,
+      "unique_outside_buyers": 100,
+      "meaningful_outside_buyers": 82,
+      "outside_buy_events": 111,
+      "outside_buy_SOL": 69.172354194,
+      "reserve_SOL": 22.588210092,
+      "drawdown": 0.12490600505187899,
+      "recent_net_SOL": 1.858293813,
+      "recent_unique_meaningful_buyers": 10,
+      "last_side": "buy",
+      "last_actor": "HZhCar35LKxULFq3rVRmF78r9m1eaMrDzw6d9KX2DwHe",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "7ZEseQq2SBgetF2PsS7ypcbjtXUZie8ipYo9oEecVJHb",
+        "99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ",
+        "CLoRvuenu3Av495p7Gdwoa2LrXq6B4cBzkjQXtr4Uhu8",
+        "DpJpQoaUAdJ3dJZ3sScmZgmUbMSLRDXBRKw2rj4jfNCB",
+        "FsL1AMvhem51Bip26t3hjn6EP5m3q5eRzCgnj4kzgEFd",
+        "HRBonvjq6YE62jKnXpwH9wjxLqhiikf2hdFgVTef1Cvm",
+        "HZhCar35LKxULFq3rVRmF78r9m1eaMrDzw6d9KX2DwHe",
+        "HtC5nWZQa791XpFrwBcWBosNejikbmqYHTAnq9R3cJCe",
+        "eqwrZ7x6oSjAqhAZq1j5x4SD6k31kUtY6qytGG51ebh"
+      ],
+      "following_buy_wallets_2slots": [
+        "3N1paMNqznPueTFsTWDA7hzmgMkBohKhQ39uA2CAxZEw",
+        "7f112grWVJrNkty67pMo1dvGhwaQG9eE2oYqoueTmm5g",
+        "CDpLhMXoLk9eTVzapt7vMKytsHiEyi2293No1VmoprZp",
+        "FSjXnDAwL9myHmX44B6HFuxwy8TMMP9Pe5z3AMedYSy9",
+        "GGQ34QkiRQgRiyrbLndP8RX5UK5k1Ag4UBdsUvHrTvjx"
+      ],
+      "preceding_KOL_2slots": [
+        "99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ"
+      ],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 50,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 220,
+      "target_index": 209,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ",
+          "slot": 451521794,
+          "index": 499,
+          "signature": "5gR1A3ag3YPjsFNGWyNaUbwsNzefUdnxxX2DB2DrU25Mk4EBQb9X6ecHgVGpzTt2iRwCggkU14hzBjdh6NXw9SBd",
+          "SOL": 0.097777777
+        },
+        {
+          "wallet": "DpJpQoaUAdJ3dJZ3sScmZgmUbMSLRDXBRKw2rj4jfNCB",
+          "slot": 451521794,
+          "index": 872,
+          "signature": "3xhSaoN6yNJvN88EMZ6T1KqxUAFQPp1Ybeyo2G4nxiUifDLLXhM7xp8QxRckvfZxrN9j2m2mjnJRDfGTxLyqeLFj",
+          "SOL": 0.097777777
+        },
+        {
+          "wallet": "99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ",
+          "slot": 451521794,
+          "index": 920,
+          "signature": "4tXpoosFPLwWjjWrPwyaM6QAykUQQn3WZLbmr9Ykezmx3BkvqQLehACnPKBFSGMk5XPCYQtatgDpxftsqkSfhaiS",
+          "SOL": 0.097777777
+        },
+        {
+          "wallet": "HZhCar35LKxULFq3rVRmF78r9m1eaMrDzw6d9KX2DwHe",
+          "slot": 451521795,
+          "index": 413,
+          "signature": "2UhrvkCEFyL8AC2AV3uG3syEJVD8a1qdWobZcjUpofUqFM7jX529hYrQjNt4pNsdZfpVb2rtDWAGsd9MnjgaV67i",
+          "SOL": 0.977777777
+        },
+        {
+          "wallet": "CLoRvuenu3Av495p7Gdwoa2LrXq6B4cBzkjQXtr4Uhu8",
+          "slot": 451521795,
+          "index": 516,
+          "signature": "5tQ3ENV5KX7w91uWmAd76j2HubrPcRuK9o6UsafqnB1kBRLcoP1EqhZ3rHoq5vo8obyd1tjndUE8sWJeWN16pc8a",
+          "SOL": 0.197530863
+        },
+        {
+          "wallet": "eqwrZ7x6oSjAqhAZq1j5x4SD6k31kUtY6qytGG51ebh",
+          "slot": 451521795,
+          "index": 699,
+          "signature": "3iu9L23vStcbitgdzJZv47PayahYtmcJMH1kWBSn3FuVbvPEY419FnFQeDRsUKB9o7ijsWaW9vvefGuQRK7Yz9Sc",
+          "SOL": 0.195555555
+        },
+        {
+          "wallet": "7ZEseQq2SBgetF2PsS7ypcbjtXUZie8ipYo9oEecVJHb",
+          "slot": 451521795,
+          "index": 892,
+          "signature": "ub6XTFVpQr7BRmDE4jLcWmVx4jyDfiMNtwHRL74BvvgAnWCV1wqR7iitR7q2fTxQtBygqVhDA9zaUnAHyLVHcXr",
+          "SOL": 0.049382715
+        },
+        {
+          "wallet": "HRBonvjq6YE62jKnXpwH9wjxLqhiikf2hdFgVTef1Cvm",
+          "slot": 451521795,
+          "index": 1030,
+          "signature": "VFuD1J6TBWzcJXkVTXZRCPu8tpRjmyYCXXy4MX1gaQj13sVYJ1gqUhFweWmqcDaPGVQPRbs9FfK6BxVyYJkoy9Q",
+          "SOL": 0.1
+        },
+        {
+          "wallet": "FsL1AMvhem51Bip26t3hjn6EP5m3q5eRzCgnj4kzgEFd",
+          "slot": 451521796,
+          "index": 544,
+          "signature": "4BQ5TJx7YFZo7FNNszaE7CxF8Juo4LVXbnWAQ5BsVbK8htGi9fz8c11BBhZVeDfagqUuvueddenb3qnrM8xrgHed",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "HtC5nWZQa791XpFrwBcWBosNejikbmqYHTAnq9R3cJCe",
+          "slot": 451521796,
+          "index": 701,
+          "signature": "5MUtPBFSyFs2YbAihiyPQDf6wvRYdAVgrjLZAWqHKbSRLiuNC4kgfU7u5vjqHAiA3QuJBivPoiB6iWFYC5Tybcq",
+          "SOL": 0.977777777
+        },
+        {
+          "wallet": "HZhCar35LKxULFq3rVRmF78r9m1eaMrDzw6d9KX2DwHe",
+          "slot": 451521796,
+          "index": 771,
+          "signature": "obp26weVXZnUqb9AyqV9Q4HnE7WhRjAMaLq6Du6JP1c7jwmy9T86rBcu5DJGE6ZLj9keV69ozecbmTjJmyz8bYM",
+          "SOL": 0.977777777
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "3xa49X6uo5315JphtzVY6aStF2Tz57KgEY8a8b9Hg92Y",
+        "7ZEseQq2SBgetF2PsS7ypcbjtXUZie8ipYo9oEecVJHb",
+        "96MT99NQTp8ZmCW9hCBfEAvfDRDJtqiMjs6jX5C1rYQu",
+        "99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ",
+        "9AN7XmontLUZbSx6XvZNRwKcEtMRJpm9y3DVbvrwGUHU",
+        "AbgT6mfYjALovooRzFTHAJYZz6Py25AggdWjVGxEx2zZ",
+        "CLoRvuenu3Av495p7Gdwoa2LrXq6B4cBzkjQXtr4Uhu8",
+        "DpJpQoaUAdJ3dJZ3sScmZgmUbMSLRDXBRKw2rj4jfNCB",
+        "EpB631iawE4vpN6J1LydkqLamYwSGoKg9J2t4PYCLjif",
+        "FsL1AMvhem51Bip26t3hjn6EP5m3q5eRzCgnj4kzgEFd",
+        "HRBonvjq6YE62jKnXpwH9wjxLqhiikf2hdFgVTef1Cvm",
+        "HZhCar35LKxULFq3rVRmF78r9m1eaMrDzw6d9KX2DwHe",
+        "HtC5nWZQa791XpFrwBcWBosNejikbmqYHTAnq9R3cJCe",
+        "dsegg9CXSkMxMCzPz9YEYQ3PKrsonoAZoc5Sguk4BFn",
+        "eqwrZ7x6oSjAqhAZq1j5x4SD6k31kUtY6qytGG51ebh"
+      ],
+      "preceding_KOL_10slots": [
+        "99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ"
+      ]
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "9TETVzsgVyWEev9q69uXK4BjLYtmRfbsxZnkgYEipump",
+      "signature": "oFLigQFqvMYG9A195TT1Gy2uBFoMciTtR88SD4opB3EteecF44RYVdvsqK3MZak67dhAT7VnnnSkgW6CFsiPTK5",
+      "slot": 447953553,
+      "provider_index": 19,
+      "time": 1789698332,
+      "creator": "B5RWppD5wjj6dcEskPKLPyqSccG75RxNMUoeWNxt9f86",
+      "fee_creator": "B5RWppD5wjj6dcEskPKLPyqSccG75RxNMUoeWNxt9f86",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 52,
+      "unique_outside_buyers": 105,
+      "meaningful_outside_buyers": 77,
+      "outside_buy_events": 120,
+      "outside_buy_SOL": 75.118659242,
+      "reserve_SOL": 27.084440892,
+      "drawdown": 0.17063359903890174,
+      "recent_net_SOL": -3.565449197,
+      "recent_unique_meaningful_buyers": 3,
+      "last_side": "buy",
+      "last_actor": "63otb3qfCMz5bghv2vyEEwMoZnhnqyv7mj6rVco1hwnH",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "63otb3qfCMz5bghv2vyEEwMoZnhnqyv7mj6rVco1hwnH",
+        "CyBiGyD1EunXXrNRsu6pKkCQPTbdZ9UTsxAum9twRcSt"
+      ],
+      "following_buy_wallets_2slots": [
+        "2RkX5q6yB2FrXx9PYSeSSdnPekBah89XNZtTyA4GuCqr",
+        "3kHNSJ5nKCsujAQYgivxwzJJvUbWXQUB7wWfBYAriWof",
+        "84VZLuj5jV1GC3YxK3ytjtFbZrXfsWt2oBaD3momt3ST"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 156,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 308,
+      "target_index": 300,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "CyBiGyD1EunXXrNRsu6pKkCQPTbdZ9UTsxAum9twRcSt",
+          "slot": 447953552,
+          "index": 827,
+          "signature": "3dnxoDTXoaN8ffURNUtWLsSeDUwgA5YK7FVYHZa5myYqBhineU6B8fL9wHWYK6NfxNNrSXMnGLr9Kc4VjstRWDqM",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "63otb3qfCMz5bghv2vyEEwMoZnhnqyv7mj6rVco1hwnH",
+          "slot": 447953552,
+          "index": 1118,
+          "signature": "46uGrhkQaGT4Zy778sCLG54iF7n13LFs6QgC8Wx5QqzXQ1zidbs1aa4LZT9soJtuqamcGncugkxf3X7y9ZqxdFTY",
+          "SOL": 0.312426888
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "5x5uvqwwsJVH6GWTUwu7th68WLQiGWjuxuM1DdRN32Vd",
+        "5xpb4js5WjjT3NQaj3MFDZVy2k7VS5RHW1C1DA4PXJcQ",
+        "63otb3qfCMz5bghv2vyEEwMoZnhnqyv7mj6rVco1hwnH",
+        "CxkxCQYLWVRStkWwdCcsAX6BWcPnMeKGQ3zm2m6jVjV8",
+        "CyBiGyD1EunXXrNRsu6pKkCQPTbdZ9UTsxAum9twRcSt",
+        "EL7Jzokr3idTE6Akh5axg6WfYH5fsxXVy3AcYHr7or7U",
+        "HDb2WPuo5566i6xDU12LeRXvdYKitsX5jGfSBTfa4nfU",
+        "JdiXb4cb1D7ALRtW9Be28BGP4z2iipcAKDKu1ZKjpYK",
+        "KFDUjSLGjsqvbgJQrdqfjff98YNQeSztT7ca9azWARZ",
+        "ceBaMgQ76Vc7eUYt6fgG6Lh2TGcbAe5PjfcDrHve8nj"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "5d655oTg4fEEcipWrfQR1d9hLn7XhSEmSt8yURJMH8gi",
+      "signature": "RRfm6Wnq9eKGVnAzha1yxspxzTy6azAUptUsLnpz8TpNd9WNPv1648GhLE6tAT1naWUEn2sQ41LnFa3qpVS3gG1",
+      "slot": 450364539,
+      "provider_index": 885,
+      "time": 1790342461,
+      "creator": "6Rcp5D7BJXW5rUe2hMgdduixGA3rWCjojqtgQA5ZX4Th",
+      "fee_creator": "6Rcp5D7BJXW5rUe2hMgdduixGA3rWCjojqtgQA5ZX4Th",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 15,
+      "unique_outside_buyers": 36,
+      "meaningful_outside_buyers": 27,
+      "outside_buy_events": 37,
+      "outside_buy_SOL": 14.825585086,
+      "reserve_SOL": 9.313491732,
+      "drawdown": 0.1547621799561777,
+      "recent_net_SOL": 1.272098764,
+      "recent_unique_meaningful_buyers": 2,
+      "last_side": "buy",
+      "last_actor": "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+        "DsqRyTUh1R37asYcVf1KdX4CNnz5DKEFmnXvgT4NfTPE"
+      ],
+      "following_buy_wallets_2slots": [
+        "8jsPACiiC3x7d8gWN9yUUcvjqhJDpnEcV5BP8wPdD2Eg",
+        "DFFXHcmTgdBe5NPVXryoarPc4KYGNM3zWQ5K1PhPZccn",
+        "EyoNxgo2uZ9nwb5qyqQMrXtoeGP4p7VQ4AdEWNbgMAYo",
+        "F6XJTh93VGFcbnf2FJmyR6f3y2HZsav25EeEaZosYouk"
+      ],
+      "preceding_KOL_2slots": [
+        "DsqRyTUh1R37asYcVf1KdX4CNnz5DKEFmnXvgT4NfTPE"
+      ],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 11,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 60,
+      "target_index": 50,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "DsqRyTUh1R37asYcVf1KdX4CNnz5DKEFmnXvgT4NfTPE",
+          "slot": 450364539,
+          "index": 623,
+          "signature": "5VhprQ94vTov7qb3jAEzXPiVkJZVeSVziTgM847wcEaLoc5EJQY1YoZemmzJq3QixnQn3LpaDYiLo78VUfWGiN86",
+          "SOL": 1.173333333
+        },
+        {
+          "wallet": "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+          "slot": 450364539,
+          "index": 774,
+          "signature": "2SbKgCjmB6DDGvg1hKtnTAVaEZPdoizzFWuMnEbX7SsjhRNhjj8qYPRTzBB1mdckgg3jmD9fKq7TPhXKWSicewzg",
+          "SOL": 0.098765431
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+        "DsqRyTUh1R37asYcVf1KdX4CNnz5DKEFmnXvgT4NfTPE"
+      ],
+      "preceding_KOL_10slots": [
+        "DsqRyTUh1R37asYcVf1KdX4CNnz5DKEFmnXvgT4NfTPE"
+      ]
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "GzxmNeAXdJSk2mjbRsdzTmfcASeVCEbzfUZJ89cpsRtX",
+      "signature": "tAeC8piQ1JoALsoMYjoAK1i2dUp6JaQ4ZJ2FRFbHpBGuN9379JEQzTwcUt5778145nKhfY84jmBq2uX3PAGUcDc",
+      "slot": 447355970,
+      "provider_index": 783,
+      "time": 1789508872,
+      "creator": "F5XvCe4233m6mHRbkkq2ZsFvqrPAnRrDBExeQy2fwagQ",
+      "fee_creator": "F5XvCe4233m6mHRbkkq2ZsFvqrPAnRrDBExeQy2fwagQ",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 7,
+      "unique_outside_buyers": 66,
+      "meaningful_outside_buyers": 54,
+      "outside_buy_events": 66,
+      "outside_buy_SOL": 49.827286904,
+      "reserve_SOL": 8.335347196,
+      "drawdown": 0.5285107747747042,
+      "recent_net_SOL": -2.325456816,
+      "recent_unique_meaningful_buyers": 9,
+      "last_side": "buy",
+      "last_actor": "FXKvv4Qc6n2g9oM63H5e2QrA37TZtLpFtWVAf2MkuL1b",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "7RZtdxAzAZh1jZADsQBohYDAU1PbHCiD6Y4adagAWQQq",
+        "7oETR4QBdZBmMhyg9ppNf1cnVeBeAUh5nwF25vMKRAAn",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+        "FXKvv4Qc6n2g9oM63H5e2QrA37TZtLpFtWVAf2MkuL1b",
+        "HmNMbkLVcC9qGPjHaW4qEzjsQ6wUcGZkCdpNxUoG63D4"
+      ],
+      "following_buy_wallets_2slots": [
+        "2x8rhKMBuof7hZEW7kJVYwH1pQPhFEzXR4apBQD6H3W7",
+        "9yFrKjPpyDAeLxNresVJ7G5nJ5nwSKZP3Z9jeTBVEgU4",
+        "CBfcB2JgsRkjKF4CjN91oVuQDKztbUfvFX5Cf6X6Ma7J",
+        "FXKvv4Qc6n2g9oM63H5e2QrA37TZtLpFtWVAf2MkuL1b",
+        "GjmsPWrim7tjCwzvv7TvTZzszyQvwUkc5QdguAx5nbqa"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 15,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 223,
+      "target_index": 188,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "7oETR4QBdZBmMhyg9ppNf1cnVeBeAUh5nwF25vMKRAAn",
+          "slot": 447355968,
+          "index": 1775,
+          "signature": "cGjTf1a4r9vvQZFY5iKmvuxE1fkNrxXYGt53rxGtZ53UenAJNLUx61PJZTVQVwm73ia9Q8gE67of4wJaMvDU17H",
+          "SOL": 0.000987654
+        },
+        {
+          "wallet": "HmNMbkLVcC9qGPjHaW4qEzjsQ6wUcGZkCdpNxUoG63D4",
+          "slot": 447355969,
+          "index": 39,
+          "signature": "2NPq14yBLqwRv1UYwiLMfLsBkTTTRcH5WhMvP1uBZpjAQCSEmthFHjob74CpWjbJUrs5tMrYKR5LKtRYwfnLF5Bu",
+          "SOL": 0.019555555
+        },
+        {
+          "wallet": "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+          "slot": 447355969,
+          "index": 863,
+          "signature": "2muvzcqti5b7JXJNmfAq37k3JETLz92U5kiRRkM3TG899ZfmJ5cnZbRjJpkJQ1dHr5RVEcrQDodSnZdyiDAiqqA7",
+          "SOL": 0.297611373
+        },
+        {
+          "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+          "slot": 447355969,
+          "index": 903,
+          "signature": "sN4DgMdH1GyCcTF9zRoTu8f3xVTPxQ6AEWim1QVsZkEtTSZY5pcHQYSnbmzwBpbmE8AmAKvFu1gHzvaEJxBmYcX",
+          "SOL": 0.508628867
+        },
+        {
+          "wallet": "7RZtdxAzAZh1jZADsQBohYDAU1PbHCiD6Y4adagAWQQq",
+          "slot": 447355969,
+          "index": 941,
+          "signature": "4DmkRJnt13ZpHpzwmZA1kVm8ZjMFetTabBY3cCTrCFqqX7XEBpNzvTvnfz437zNHAUwh6YKvHp98AQdVBszbXDQr",
+          "SOL": 0.246913579
+        },
+        {
+          "wallet": "FXKvv4Qc6n2g9oM63H5e2QrA37TZtLpFtWVAf2MkuL1b",
+          "slot": 447355970,
+          "index": 486,
+          "signature": "45eEjTSP8ExTsXpPkfQLK3uRgLCDvS3dXmrRYoJ1nahyLBK2oo5EFUn8nobLMhYhHD71zqfRBUaWfBthzTPAMtG1",
+          "SOL": 0.097777777
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "2ccgxuZv5NEngCwWqj6zjwxHWVc8RDwXgMUfUnmpTYHQ",
+        "2ya16TXXvM8yX7zZ4g1d5cdfQiUTN6ZWo57VhEsejLiY",
+        "3gHrfi6t4xG2KEH4gga9HxLRYqws9iTKdkLG55NwaTZJ",
+        "44K8RSPzz6QBWW6zV7o7i1vRLcvoDHAtdsgMdTWaNEAu",
+        "4SJ8cXRHChkGkhELhEPYB55LkREWqUkB7ErGM1iYuLxS",
+        "5d37Z8D714cDyW1wkNm2HCRk39F7BUn6eeQt5msCEC8Y",
+        "7JMkxpdymvfvA3NuaxFqfW3qCg3pHodspZDMvBAu39zW",
+        "7RZtdxAzAZh1jZADsQBohYDAU1PbHCiD6Y4adagAWQQq",
+        "7oETR4QBdZBmMhyg9ppNf1cnVeBeAUh5nwF25vMKRAAn",
+        "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "ARu4n5mFdZogZAravu7CcizaojWnS6oqka37gdLT5SZn",
+        "BEm5MaJLndqeCjDZPBJqNG4wTnPhoiJNv1rsgkLniYUw",
+        "CXN5JecWrL4XNHiqH5czjCcCMXcRgaCzc268yzh8C4Up",
+        "D6kGjrt6y8myyncjD2sUzNehDsL6gbLKmfcP5jd35P1r",
+        "EEHcVr9tk4wU58ctyKkDbmRhRv9aH4S1RH41TEB3zsA5",
+        "ESb5iQdnDDFgy3pz4sZ5tkQaMAznZW4MUQU8W6SRzMxH",
+        "FXKvv4Qc6n2g9oM63H5e2QrA37TZtLpFtWVAf2MkuL1b",
+        "Fb5hQp4yqaAwGZzahmnZiAAEofHKp8cwLHRFNfu749hn",
+        "G1F4thH2m8N7qzuNgSGvnAEZU4hC2Kr8vp52zniPmf2U",
+        "H54i95gYfvbKe16Z4WUH8P5XV8o7fK5DPAAjBN5QoymZ",
+        "HmNMbkLVcC9qGPjHaW4qEzjsQ6wUcGZkCdpNxUoG63D4",
+        "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "DpZZt9GTzMM9iy2ZWAGrpR924oQyhdJ3rruAgPczpump",
+      "signature": "5H3C2dB2RFBBPPN7N98LBJ1tHzwn2Sqr4H6F1oNRhVXDszsHj2n4xYBb2hLPpqe15r1uHWF8FEdgRygKpjKe7RhN",
+      "slot": 448745298,
+      "provider_index": 298,
+      "time": 1789910934,
+      "creator": "H5DJzRYRxAMUa1Waa51bqgms96g98EFoQDyFrsPdE55c",
+      "fee_creator": "DobEcPai2YS8Cz4wTqprgMWDwM6JCtMRZQjoCFQosjYj",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 71,
+      "unique_outside_buyers": 72,
+      "meaningful_outside_buyers": 58,
+      "outside_buy_events": 79,
+      "outside_buy_SOL": 47.332362082,
+      "reserve_SOL": 17.655333187,
+      "drawdown": 0.008085347800425802,
+      "recent_net_SOL": 3.82592192,
+      "recent_unique_meaningful_buyers": 6,
+      "last_side": "sell",
+      "last_actor": "4VfKyL8JiSoymQ1Fb6ewcv3VWNv2c5fWP4xuE8MXQdCN",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+        "4GcCNFbMnCw1GX157hHCYyrSZFoxbWBdPbvZMboZHGfV",
+        "8qZ6qho6R4pQSXgVhZEuLBwY84v4en28K3MXfZnSUetw",
+        "9Uq8GVrvSTxGxTYBXvmGJdvbJSfNTdUFgq1HwzNW2xT8",
+        "BoYHJoKntk3pjkaV8qFojEonSPWmWMfQocZTwDd1bcGG",
+        "DiJF3L3796seiwyjmwfTz9wHUCCP5kmeMQM6kDzzjXax",
+        "EC1SJENgWiuJBnQ1Jwj939fHw9cnsMb39oiFDomNZTYh"
+      ],
+      "following_buy_wallets_2slots": [
+        "82Es2Wh3HheQ4txQpxju3Zhdth4rrep81jqC71gtw5k8"
+      ],
+      "preceding_KOL_2slots": [
+        "BoYHJoKntk3pjkaV8qFojEonSPWmWMfQocZTwDd1bcGG"
+      ],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 225,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 154,
+      "target_index": 147,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "BoYHJoKntk3pjkaV8qFojEonSPWmWMfQocZTwDd1bcGG",
+          "slot": 448745297,
+          "index": 23,
+          "signature": "5QEWjZ4B59VPFmp33dKUkZs9AQCrzadLssNWLcwSJ9vwyZqQJcDjRWiJMauo9yy8nExvk12VBhjmKQJ8SkVFDeQR",
+          "SOL": 1.615539158
+        },
+        {
+          "wallet": "8qZ6qho6R4pQSXgVhZEuLBwY84v4en28K3MXfZnSUetw",
+          "slot": 448745297,
+          "index": 113,
+          "signature": "4V4NX4NWAQiupJWk2ixgdv8gNMHwmQFRwFvR1m5ctbAW2ZSU5k4xisEPs5a5JV9CwSLLxX7k9q6j6YKA4dKwDkXt",
+          "SOL": 1.317794175
+        },
+        {
+          "wallet": "4GcCNFbMnCw1GX157hHCYyrSZFoxbWBdPbvZMboZHGfV",
+          "slot": 448745297,
+          "index": 347,
+          "signature": "xpprSdmCtmyhqviVA3Cqf9PcjWCbBsa2ot7Dfj6MtbxoKd5mKz9RHFUoS45kzToz3YKyiefMNnvM39B8p2pvd9E",
+          "SOL": 0.197530863
+        },
+        {
+          "wallet": "EC1SJENgWiuJBnQ1Jwj939fHw9cnsMb39oiFDomNZTYh",
+          "slot": 448745297,
+          "index": 348,
+          "signature": "5hFo5j4LUr1maWBibqg9HiyuPZ2iVYHtiBaU5ERcBNbeznPiB5baYWVambKxfjQip7xMGGUDuyUaq2tGxFKGyX9E",
+          "SOL": 0.148148147
+        },
+        {
+          "wallet": "9Uq8GVrvSTxGxTYBXvmGJdvbJSfNTdUFgq1HwzNW2xT8",
+          "slot": 448745297,
+          "index": 468,
+          "signature": "2fXp7F3Xy3PMxds7Jdh7hpRkrE32vgyUiR6vHdkLbyWo4ecgEa1CxVQWXB9k42S4zouY5bU4c4xg3SNUbHt5b939",
+          "SOL": 0.592592592
+        },
+        {
+          "wallet": "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+          "slot": 448745297,
+          "index": 766,
+          "signature": "2BeiArgB4PVfQfbWVZPv32q1oP3tg1CapxpvKBDBHUCnfKwUt9icEzQZvKf2UVDVS75kQiMPQL4pMbo8vriUmLLW",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "DiJF3L3796seiwyjmwfTz9wHUCCP5kmeMQM6kDzzjXax",
+          "slot": 448745297,
+          "index": 774,
+          "signature": "42waBZZ2ieSniHKF56dfR4xLjv19z1PbRyEkGQb37qpPYVJxKqZ82fHqQKFt7Kc7eUR2bsnZuBFZ7BDvEwpXSYoU",
+          "SOL": 0.049382715
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "2zMj6wNqNKSa3dG8ioUDi71P2uijKiojLwEizVGKWRjG",
+        "4GcCNFbMnCw1GX157hHCYyrSZFoxbWBdPbvZMboZHGfV",
+        "8qZ6qho6R4pQSXgVhZEuLBwY84v4en28K3MXfZnSUetw",
+        "9Uq8GVrvSTxGxTYBXvmGJdvbJSfNTdUFgq1HwzNW2xT8",
+        "AgaRoXCyhRLgY3Z3dC3vY3pjhuWfpJWKLcKajaZpAhge",
+        "BoYHJoKntk3pjkaV8qFojEonSPWmWMfQocZTwDd1bcGG",
+        "DiJF3L3796seiwyjmwfTz9wHUCCP5kmeMQM6kDzzjXax",
+        "EC1SJENgWiuJBnQ1Jwj939fHw9cnsMb39oiFDomNZTYh"
+      ],
+      "preceding_KOL_10slots": [
+        "BoYHJoKntk3pjkaV8qFojEonSPWmWMfQocZTwDd1bcGG"
+      ]
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "AMGe8KVdHCpmspNNg4aQuogyVu34oX12SWdiYggYrTm4",
+      "signature": "5HgDGU7M2ike6hiS1KRJ9giPh9mdzSQc7DK6uQQfCuV37cSMuRQaix2phqd4GoexUbu6v4EEHXkuf64gHfgyjdER",
+      "slot": 447416267,
+      "provider_index": 239,
+      "time": 1789528066,
+      "creator": "CByuCPrY6UHuwGDnVY3YFS5vQREH9Cxc9oKpq7oarrKA",
+      "fee_creator": "CByuCPrY6UHuwGDnVY3YFS5vQREH9Cxc9oKpq7oarrKA",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 23,
+      "unique_outside_buyers": 50,
+      "meaningful_outside_buyers": 37,
+      "outside_buy_events": 52,
+      "outside_buy_SOL": 28.517438618,
+      "reserve_SOL": 12.252168354,
+      "drawdown": 0.05256893315942024,
+      "recent_net_SOL": 2.22030973,
+      "recent_unique_meaningful_buyers": 9,
+      "last_side": "buy",
+      "last_actor": "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2qXLBNa721drC5a1PBypvK7Bgs2VtrP4YLM2KsS3mmvJ",
+        "7mpRCD6Fg6g4Tu3od9i2i24RiBcc63EmNBmTF5He6JTE",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "8KB4ZnWV6LRdi7BQykiWvkxJ54tX7KmVXm1aC5sigDgD",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "EcqZg7A3gdp1wXXbdSuHgnS9shS7jkB1z1YLJBzCtoWo",
+        "F1ZrWw8g66jUvFD6KYsdRzt2TioFXFSmRYvtbfv1VZy8",
+        "GC5P1JKjaAj84Yfx1TCH6LyKJiocnnE5Q4KPZLh7Vuss",
+        "GGwGwhpfLCeToL5Dj9PDUfMhMj5kYJhMSVqzCtNX6R7L",
+        "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk"
+      ],
+      "following_buy_wallets_2slots": [
+        "CyBiGyD1EunXXrNRsu6pKkCQPTbdZ9UTsxAum9twRcSt"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": null,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 168,
+      "target_index": 163,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "2qXLBNa721drC5a1PBypvK7Bgs2VtrP4YLM2KsS3mmvJ",
+          "slot": 447416265,
+          "index": 222,
+          "signature": "uSAk1DhdDBcMEQZfukd9KiAQCegnXu5UKWnrtbM5Mix362GVtuE94RAYQXzuNukPeN98LRomZzC48f3QyCVcvuw",
+          "SOL": 0.595552865
+        },
+        {
+          "wallet": "7mpRCD6Fg6g4Tu3od9i2i24RiBcc63EmNBmTF5He6JTE",
+          "slot": 447416265,
+          "index": 224,
+          "signature": "hk3pZwrsXXHs2ompxaLwyPtZhYEQUAL2VXhNsbGncDdDdZ1ygXqfvVmrjxsXKx31NeVjoH2Fhy9b37gsZU5Mnwt",
+          "SOL": 1.039796638
+        },
+        {
+          "wallet": "EcqZg7A3gdp1wXXbdSuHgnS9shS7jkB1z1YLJBzCtoWo",
+          "slot": 447416265,
+          "index": 227,
+          "signature": "jdEuR1ThfXQW4LML3WuDAUALfmD5vdFa54xgBQQmkFx1Ajary6nZi15KVY7G9KrrQLmfXkNphVmAJHDCCWq11MV",
+          "SOL": 0.595452782
+        },
+        {
+          "wallet": "GGwGwhpfLCeToL5Dj9PDUfMhMj5kYJhMSVqzCtNX6R7L",
+          "slot": 447416265,
+          "index": 229,
+          "signature": "NZZ3CVeRePLaB6bHwbRYB4EZz2nKN5AwpVJDY56x659fcWFvrq7fDgoejxyedJzQnoHFA4LN9PiBDgnRG8wmPok",
+          "SOL": 0.640243685
+        },
+        {
+          "wallet": "F1ZrWw8g66jUvFD6KYsdRzt2TioFXFSmRYvtbfv1VZy8",
+          "slot": 447416265,
+          "index": 230,
+          "signature": "3gm68haAbUBRa5NwYQifooZ6u37FeAC4aBpeBUDACyKHWdhX5VGubdvgg28ttxLjgtrPZTLTYQrNa8cQ1Haop3uS",
+          "SOL": 1.040065143
+        },
+        {
+          "wallet": "GC5P1JKjaAj84Yfx1TCH6LyKJiocnnE5Q4KPZLh7Vuss",
+          "slot": 447416266,
+          "index": 70,
+          "signature": "22de2CnTqKsgGR3iiZ59Pg35RSLGdPNFE7fJhRRQw7D7sZfEc93ZdXZhtYKnoGAhJBivd1p2gU9buNMHLMSSrryN",
+          "SOL": 0.049382715
+        },
+        {
+          "wallet": "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+          "slot": 447416266,
+          "index": 354,
+          "signature": "2VyCJYwLwdBrqNUihcJyJQF41U6D62wLfA8bWcf3W277pZxLg5tBPPNLVfYNozdKAXHKdHR2YSRHJZNth3wzKwu9",
+          "SOL": 0.500000001
+        },
+        {
+          "wallet": "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+          "slot": 447416266,
+          "index": 372,
+          "signature": "4oPMd1QPSZSmCwCnJuSua9GR2WUqvA4sJ1EYBfXwujsSZ8dvGec6eishPhJ93qK1MK5xixJJD7GjcbWwkN7tuV2L",
+          "SOL": 0.51276565
+        },
+        {
+          "wallet": "8KB4ZnWV6LRdi7BQykiWvkxJ54tX7KmVXm1aC5sigDgD",
+          "slot": 447416267,
+          "index": 15,
+          "signature": "2C9kS9g6NF41EXfAMKHhyJFB7ANT3YDXTUn52y6BMxby2g6ioZS5vVwdarR35E1uUgWJeCWaDAgH1bxTf8ZkeKdZ",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk",
+          "slot": 447416267,
+          "index": 236,
+          "signature": "GycsKG3Zk5KkZtSTajUCiJiyV9oDdqdPyGFgbehPQ2aCZrmdphjECCLwG6957QUkgLSeZhi6WVsxZ8RRXeY6stV",
+          "SOL": 0.641630295
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "2qXLBNa721drC5a1PBypvK7Bgs2VtrP4YLM2KsS3mmvJ",
+        "7mpRCD6Fg6g4Tu3od9i2i24RiBcc63EmNBmTF5He6JTE",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "8KB4ZnWV6LRdi7BQykiWvkxJ54tX7KmVXm1aC5sigDgD",
+        "8Tcn1AkBTPDXExQT7baVp4KNjpAuYqqmPVpp5fADkfTp",
+        "97jv9pjCf5D7VUZEyj6XnXBC5JF23Vsagc3bvSF6GRmL",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "BNhVytqZgi1Dj9cQR51c5Qc9Nz82jBgYCSd3GmfKAZd6",
+        "Bb3wXCcjXh7Yo2bq6jd5agnwxNmmo8AfbnaJrWXWcoMC",
+        "EcqZg7A3gdp1wXXbdSuHgnS9shS7jkB1z1YLJBzCtoWo",
+        "F1ZrWw8g66jUvFD6KYsdRzt2TioFXFSmRYvtbfv1VZy8",
+        "GC5P1JKjaAj84Yfx1TCH6LyKJiocnnE5Q4KPZLh7Vuss",
+        "GGwGwhpfLCeToL5Dj9PDUfMhMj5kYJhMSVqzCtNX6R7L",
+        "J6DdwTar52hc1Bk7idh8c4wJ8XwHkH2tkyHimXtKJuBk"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "EmLT3CmuBPWXMXDanijgs5d3PHbSGcLbdyXhJpUDpump",
+      "signature": "3tWEQhpVXEMvJPNude3JJXVwzHdkRhtZAN48Lnk3DD5NckMrAjRtMWpijKhfLKTR1f5dwwQfrpxWrbmG7JhoSxQ9",
+      "slot": 452193416,
+      "provider_index": 1269,
+      "time": 1790832560,
+      "creator": "CyraPTUpMGLPNu1G91SUrbBA3pmNTgPo6PPpxBUFrENu",
+      "fee_creator": "DVm8DJX5hBshtrLPx3LPUFLej5S2jMDMZYSG2wHCZiqP",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 47,
+      "unique_outside_buyers": 110,
+      "meaningful_outside_buyers": 92,
+      "outside_buy_events": 112,
+      "outside_buy_SOL": 76.543503694,
+      "reserve_SOL": 13.563747355,
+      "drawdown": 0.2594874500808464,
+      "recent_net_SOL": 0.93887571,
+      "recent_unique_meaningful_buyers": 1,
+      "last_side": "sell",
+      "last_actor": "AfcTL3Fp79fm5NdUp1gZpy13KQB14VMcaiWRbot14SBn",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "8qAR1ZJFLUZrZ34GpWPBx1p21SpdStQJFpMjcMeFdEtK"
+      ],
+      "following_buy_wallets_2slots": [
+        "BuGacsFWAqk8LZk7SPcJ2iqdGdUnPyTqvwSVUU48ao5o"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 156,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 869,
+      "target_index": 866,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "8qAR1ZJFLUZrZ34GpWPBx1p21SpdStQJFpMjcMeFdEtK",
+          "slot": 452193416,
+          "index": 464,
+          "signature": "2LXc4NKeii3FZ5NhtSNgkTM2uGikSKGAwL4prjUBkUc8hAtGFbuEEkPvnuc62tTA4VKQRMC59bnafqy8guZXwCMe",
+          "SOL": 0.98765432
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "8qAR1ZJFLUZrZ34GpWPBx1p21SpdStQJFpMjcMeFdEtK"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "sssssDdMNAWKingjpEojkTNdVuZrBe7FsJLaGtexe7d",
+      "mint": "72Dcx5bKDoHyxhvrWXEyfnAyVXE3RCkcXUkSBBbUpump",
+      "signature": "3bsDTKmpBJapYgqYKAk4jNubjYr6p4KzRP3pK3Lk9cKNLtWxd9ff6yfRBrwcJDaGTuv1MTQiDT38ukx9Df1J3EUv",
+      "slot": 453648035,
+      "provider_index": 606,
+      "time": 1791221774,
+      "creator": "2UwWxhnFdwFrMhs53Cr5mm4joDAqgB9EjU9Xfrf1vTuY",
+      "fee_creator": "2UwWxhnFdwFrMhs53Cr5mm4joDAqgB9EjU9Xfrf1vTuY",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 5,
+      "unique_outside_buyers": 36,
+      "meaningful_outside_buyers": 34,
+      "outside_buy_events": 37,
+      "outside_buy_SOL": 19.154858076,
+      "reserve_SOL": 19.359313114,
+      "drawdown": 0.0,
+      "recent_net_SOL": 9.343705367,
+      "recent_unique_meaningful_buyers": 16,
+      "last_side": "buy",
+      "last_actor": "GTfHPpyyoC6X4uxmhLBWzovQCsSMZ8cfckPt8dcxeKcq",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+        "2tjVygBdyhMKACnxMPpTjhqUynzrRUftUBhM5yv46KuL",
+        "7fdyE3wYyWcjhuLET5jX4TJWzsYum3AC32gakS1bTTSh",
+        "8CvB2PPvkZQCBdtexvUVsWArQZKzXPMuNxbynbjZ2r6f",
+        "BPewmUzJNNSLxDG79pSSuam6ven61Uyjpp5NcpAsHGxH",
+        "CRUShVAi6V8PYJPyEAC7Ln9GbNfUYq8a5h7BX6Aisxp1",
+        "DjenYeK8R4Yr7FREk3ze7b26mkuTyfrwMBEkD5X8HMFC",
+        "E8jLeB1YCX33xjtvg426dxm2ERxiwoVBUawZCovnzKkX",
+        "EDGEKeUNA3b7L5F9BcoyvptqHAKSLi9c5JxHwFKvuNLc",
+        "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+        "Eh4Vq9N1eK9E2fDZ4dup1WzfRChevckN2BscVmLVNL6Z",
+        "Epysd8fSF29gduUthcD58n2ZC1KZnzhBKvHZydch2rUG",
+        "GTfHPpyyoC6X4uxmhLBWzovQCsSMZ8cfckPt8dcxeKcq",
+        "Gdfyi9hHz7s1aDKbexkGeudLZ4pVjpLpsxECTEmV55Qr",
+        "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+        "rfq8uWY8oMCLjdGZC9pJqnsHPnKdJHTJSJFiVfnNw8t"
+      ],
+      "following_buy_wallets_2slots": [
+        "67LwNGrukVFFcA1XZQ9U8ddZGCBuPvPHgMxw81AeRtQ7",
+        "AbmTPqeMhCCSEMQLpLHw5oaYTf4s7UXgSw6RvmqVh9Cr",
+        "AsZT1iZwfJH2TZeEVu4X6a9HcQ14mnXdNfxqcXEaT2At",
+        "DcRFcm3TkMzDT9D4jXXXxfGh2baajiE5QdqzwMqorA5e",
+        "SF9TGdsfTPcA3ZVmPdPtYphgzRg6ZqUY4hnjPgjD1MW"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 62,
+      "target_index": 50,
+      "entry_route": [
+        "11111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "BPewmUzJNNSLxDG79pSSuam6ven61Uyjpp5NcpAsHGxH",
+          "slot": 453648033,
+          "index": 167,
+          "signature": "3sAoKfXyhuKLfUnw5LBGZKgtxVPXVrJBTny5swxc5rJGCLaoze2xkgBJkF8hN7f13ach9hJzJ5wSSr6s9Qo8z8n3",
+          "SOL": 1.398972665
+        },
+        {
+          "wallet": "2tjVygBdyhMKACnxMPpTjhqUynzrRUftUBhM5yv46KuL",
+          "slot": 453648033,
+          "index": 179,
+          "signature": "5JvaPotmLAaRTcQuNTk7hrxxvDsDiZAmWiNLQRqy3pvsj7X6obcD1UWPcYPteu2KSZQZPjnKN11giT9ZTpAR28Tb",
+          "SOL": 1.261603312
+        },
+        {
+          "wallet": "E8jLeB1YCX33xjtvg426dxm2ERxiwoVBUawZCovnzKkX",
+          "slot": 453648033,
+          "index": 590,
+          "signature": "4jeCAosnwpH1hAqoapAUqTazKJZbhdnP2itsqcwRzA6JbittGkjn2PKoSB1xN5sJV9tvghjvQ6z8e8g4kzhhMg1p",
+          "SOL": 0.493827159
+        },
+        {
+          "wallet": "CRUShVAi6V8PYJPyEAC7Ln9GbNfUYq8a5h7BX6Aisxp1",
+          "slot": 453648033,
+          "index": 635,
+          "signature": "23t64MPhrRLvLss4kg6mMoBPAYEr631xJB8mU1gqHuwYtZkumAf3x8yKVYpBsTm99WxC5HLWsNcWjpWDzduMhUWg",
+          "SOL": 1.250535134
+        },
+        {
+          "wallet": "Gdfyi9hHz7s1aDKbexkGeudLZ4pVjpLpsxECTEmV55Qr",
+          "slot": 453648033,
+          "index": 695,
+          "signature": "55bv3qvmuyDZ6GYB7RZscDiDTsaDwjxKVJdkuXJHKuXo5aj4YgatX8sKwMsvp9YquXSrNv1bDNE37TbowCxjQv28",
+          "SOL": 0.493827159
+        },
+        {
+          "wallet": "Epysd8fSF29gduUthcD58n2ZC1KZnzhBKvHZydch2rUG",
+          "slot": 453648033,
+          "index": 803,
+          "signature": "62tZ2zSwoaG3Rt16FZDZuQkHBw46jaBY93azYFuyFpL6zB6MNRE6wMeRLKKqgV7eAriqcQzQuumcLyJgofNmTKYG",
+          "SOL": 0.201854813
+        },
+        {
+          "wallet": "DjenYeK8R4Yr7FREk3ze7b26mkuTyfrwMBEkD5X8HMFC",
+          "slot": 453648033,
+          "index": 966,
+          "signature": "3DtxJoNya1HR5HkwwWXHAbAfzsQRmw22MzAGfKWbfivQ7eSePc9wFknWfuKGhW2D8Cd5PvkkJtGFV9BLqWLAC9RB",
+          "SOL": 0.098765431
+        },
+        {
+          "wallet": "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+          "slot": 453648033,
+          "index": 1051,
+          "signature": "2UiDbqgHT66QUUhEUn5riJnmjbVwh5LrkBDheouDZ2dYANhgp7ViBNBrWbNVZJRqQp8nqE1sB9zSn8p2j5jT1B4S",
+          "SOL": 0.106853052
+        },
+        {
+          "wallet": "7fdyE3wYyWcjhuLET5jX4TJWzsYum3AC32gakS1bTTSh",
+          "slot": 453648033,
+          "index": 1077,
+          "signature": "34eDaoyLwpwUn6k3F8uvSssrFAQYLCoabm39sPBqBGYSNJvpRa3g2mPQcgKraMYDKpM82PFLtuQXCkj4fFiF6z6X",
+          "SOL": 0.691358023
+        },
+        {
+          "wallet": "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+          "slot": 453648033,
+          "index": 1081,
+          "signature": "5HtdavK16DL4yVg53wENo2muUjd7TePitRkcf8J3xMHFiwbZjSij7BVEspQyLSaoupuSNtAdYhSyD66buFRckJAs",
+          "SOL": 0.493827159
+        },
+        {
+          "wallet": "Eh4Vq9N1eK9E2fDZ4dup1WzfRChevckN2BscVmLVNL6Z",
+          "slot": 453648033,
+          "index": 1160,
+          "signature": "5ip4KnX9s7seFkrntw8ANitj2xn3XeEjL1GNhGXFoJ5cd4hSrTHwoW4gLRV1rhT4kq8w2nBbznJfaxfVmshZfXLD",
+          "SOL": 0.345679011
+        },
+        {
+          "wallet": "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+          "slot": 453648034,
+          "index": 147,
+          "signature": "3srEEWerZXu2sGijp26YJtGBsF32qXqhdkPNNgfgqx42s1xvB6RNL3ZygLsmVvr2g2a3z4Z3vK5CtwZ7NGFWRMCg",
+          "SOL": 0.98765432
+        },
+        {
+          "wallet": "EDGEKeUNA3b7L5F9BcoyvptqHAKSLi9c5JxHwFKvuNLc",
+          "slot": 453648034,
+          "index": 470,
+          "signature": "4A6bGi3jrGKFFwiuuGt3FUsUyCQwg3HEbJg4VRWkjyJHFhJCHSVhE3e86WpyfBfoKhHw5MZr7cEe8zJfWMXxvzcV",
+          "SOL": 9.41e-07
+        },
+        {
+          "wallet": "rfq8uWY8oMCLjdGZC9pJqnsHPnKdJHTJSJFiVfnNw8t",
+          "slot": 453648034,
+          "index": 947,
+          "signature": "59yEFQxujpGhAzSHNNr5Yb2TuXjuY25sjwQffJgHhKadxxK4HfrH5SG46Q2CDkCWufzisa3MdMRGwFKPWbBEXYNn",
+          "SOL": 0.118262611
+        },
+        {
+          "wallet": "8CvB2PPvkZQCBdtexvUVsWArQZKzXPMuNxbynbjZ2r6f",
+          "slot": 453648034,
+          "index": 1025,
+          "signature": "YRJixY27XiqtNZPMnaxvPEXGXYWr4pwczMzmToSiUTvh1xGJGATb4qwgtEE38WMJVZtz4eBh72FJ6hrP9PWuoDe",
+          "SOL": 0.650329005
+        },
+        {
+          "wallet": "GTfHPpyyoC6X4uxmhLBWzovQCsSMZ8cfckPt8dcxeKcq",
+          "slot": 453648035,
+          "index": 110,
+          "signature": "qN3DxXPSCDjCfUAVkNMNta3Wx6y4LW3WsgU1V1k6wNJhdz86dsDNrT5VHGuyCdaf1wriGwMnaYk8cCN2h5CXYL5",
+          "SOL": 0.197530863
+        }
+      ],
+      "preceding_buy_wallets_10slots": [
+        "2PePoooV3s24LWYmxohhPqV7RS9MeiJ7QpuQcmWS2QoF",
+        "2gnL2LdN2mSyk6Y7oBrNinZoEi11F2SdhiHCYF1R3vGY",
+        "2tjVygBdyhMKACnxMPpTjhqUynzrRUftUBhM5yv46KuL",
+        "7fdyE3wYyWcjhuLET5jX4TJWzsYum3AC32gakS1bTTSh",
+        "8CvB2PPvkZQCBdtexvUVsWArQZKzXPMuNxbynbjZ2r6f",
+        "BPewmUzJNNSLxDG79pSSuam6ven61Uyjpp5NcpAsHGxH",
+        "CRUShVAi6V8PYJPyEAC7Ln9GbNfUYq8a5h7BX6Aisxp1",
+        "CrkPjvjYrX4hDBZyMNFaMTXGjJy5Y8A6ax2RrxSgemxW",
+        "DjenYeK8R4Yr7FREk3ze7b26mkuTyfrwMBEkD5X8HMFC",
+        "E8jLeB1YCX33xjtvg426dxm2ERxiwoVBUawZCovnzKkX",
+        "EDGEKeUNA3b7L5F9BcoyvptqHAKSLi9c5JxHwFKvuNLc",
+        "EK2jmNwVtnv8cHuQKELbMKF8Y7t75aJ9jduayvpCbC6W",
+        "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+        "Eh4Vq9N1eK9E2fDZ4dup1WzfRChevckN2BscVmLVNL6Z",
+        "Epysd8fSF29gduUthcD58n2ZC1KZnzhBKvHZydch2rUG",
+        "GMtwCSZ2Ei8C1bAW7Qj542MC23RwdZm8Lh7W83Uxyiig",
+        "GTfHPpyyoC6X4uxmhLBWzovQCsSMZ8cfckPt8dcxeKcq",
+        "Gdfyi9hHz7s1aDKbexkGeudLZ4pVjpLpsxECTEmV55Qr",
+        "nya666pQkP3PzWxi7JngU3rRMHuc7zbLK8c8wxQ4qpT",
+        "rfq8uWY8oMCLjdGZC9pJqnsHPnKdJHTJSJFiVfnNw8t"
+      ],
+      "preceding_KOL_10slots": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "GN7sBBdsx7w8StnXJjRAitpZGruGS1rqwVrVnSnJs2ac",
+      "signature": "5QEhiEoQ9fpHnEWE31KUsd9FSHcePwhsqDWQ7tmc6tsEEgKJbVNCPPvf6RnaEGHBHUZeDQ34dzjpVX1MrDcdSwuV",
+      "slot": 447656459,
+      "provider_index": 1100,
+      "time": 1789604176,
+      "creator": "BAoJmpEfo7MQcUeeeH5rHm4ktLBubT5jLeUNhLYKVAak",
+      "fee_creator": "BAoJmpEfo7MQcUeeeH5rHm4ktLBubT5jLeUNhLYKVAak",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 37,
+      "unique_outside_buyers": 58,
+      "meaningful_outside_buyers": 50,
+      "outside_buy_events": 66,
+      "outside_buy_SOL": 35.579710656,
+      "reserve_SOL": 20.818769492,
+      "drawdown": 0.0769004630938892,
+      "recent_net_SOL": -0.363897355,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "sell",
+      "last_actor": "91RpCePwmwCvSq5FjnBLvzCG748rMu4xcCCoxLedfejs",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "3FsuFkMn5hvFztdJMiEw7v6UNXj7EUydGuQtmECP7w1W",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "Be31LTByeatmLtAGbm1ZGaXnceynQgVvir3ZXd6kgiWn",
+        "Csh9QjRLu5Mtc8PZQ82rLScLMTT2p2wWzYyjNtTaGWkL",
+        "GzeQeTTnTCB6iw7dEtCjxGqKQ2t7GowrLXRuQ3cD9Y4q",
+        "LivF8GikFDeekGrBcB6nHVNUHcBPNYTVzeoD2WQ5dfx"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.6234102348328439,
+      "dev_sale_slot_gap": 91,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 944,
+      "target_index": 931,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3",
+        "term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3",
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "Hgbsej4DQiAm33SwJG4RkqWeVHWPZkEGUQbjYVbvpump",
+      "signature": "55qjSWKAebgRQ93qqfvGx7HMsrdFmJKQ35mmXnj7KTAybZTqV2Xjtjsq7r1KzFTCEztAvp6YCQB3LqhyALtxEj7s",
+      "slot": 449120557,
+      "provider_index": 810,
+      "time": 1790011179,
+      "creator": "HVYf4AvK3XJboJYaNQascQLAbXceKhASexcTHUnTyaFc",
+      "fee_creator": "HVYf4AvK3XJboJYaNQascQLAbXceKhASexcTHUnTyaFc",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 67,
+      "unique_outside_buyers": 115,
+      "meaningful_outside_buyers": 85,
+      "outside_buy_events": 126,
+      "outside_buy_SOL": 54.976005584,
+      "reserve_SOL": 11.478238976,
+      "drawdown": 0.16818280642318506,
+      "recent_net_SOL": 0.140772926,
+      "recent_unique_meaningful_buyers": 2,
+      "last_side": "sell",
+      "last_actor": "988YBVri7uqimroDzeCzFko6k7m6roDqxvanBVeuamzA",
+      "last_actor_slot_gap": 1,
+      "preceding_buy_wallets_2slots": [
+        "2X9SyYVHTJDWEKiRKPNoUfe5y4tjZUqwWwWQ7BwUoowj"
+      ],
+      "following_buy_wallets_2slots": [
+        "4FCjKaFTStAaEBF1REL6QFHx5VfJTDR46CfnPaFGPcp1",
+        "4kgP66iRUa4fv7Td77cuuii2baAzZtzPEy13QvTQ9TGq",
+        "4wbrLxXe4pwZe1u4g56BcKBN8uWi8xNoqwwN5tktgpVq",
+        "87kFCSmS9VuqP6FdKRsiFb9wnyhJdGW76vpdHFdAjw6x",
+        "8DZZsi4aWxbn5BBW5XnksoiC5oMZiZZyg8y5PYG7XNQk",
+        "8pisMPgQvkTc1x6jYtqCubVpASKGHAovN87m7XLtbbd5",
+        "91RpCePwmwCvSq5FjnBLvzCG748rMu4xcCCoxLedfejs",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "Csh9QjRLu5Mtc8PZQ82rLScLMTT2p2wWzYyjNtTaGWkL",
+        "DAknpd3QejUe9WYnqojFyrhdWGjaS1HtCr7R3JRsU3VB",
+        "G3JfEedn7GjYs3ZtMAkDgj1MAfBL9MBYyWirwaw3Pv6D",
+        "HmzxkYKjXRmQQ5aQ8prU42Aup2VQrtTkaUEixuWe9AsA"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 228,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 292,
+      "target_index": 269,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "2X9SyYVHTJDWEKiRKPNoUfe5y4tjZUqwWwWQ7BwUoowj",
+          "slot": 449120555,
+          "index": 784,
+          "signature": "4LxQ3Wz5DpSrFQCRWAB9TdMKgENyCE2QvLwzeaqzaYwm6Va4jJ6F2i8gfasDBD483VSLQcf2QDN1FActKoMBea9h",
+          "SOL": 0.050095538
+        }
+      ]
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "7LNj3dsxBg5HEPrGaJdH5h2pNazzCc9vXbQw8PGXpump",
+      "signature": "2SMnCu42moTVxUrkDPXFctsE2wz9k3ikMQpJoVduPHsvgAnbQJe6wQmPpx8jQLF3WpPTZnVQhzTd2oFK7QQJAnKA",
+      "slot": 450735691,
+      "provider_index": 116,
+      "time": 1790442068,
+      "creator": "EtyHwLDfAi9E24Qw41xFUW8WtQ3NxajxJA2yaaUASR5a",
+      "fee_creator": "EtyHwLDfAi9E24Qw41xFUW8WtQ3NxajxJA2yaaUASR5a",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 103,
+      "unique_outside_buyers": 96,
+      "meaningful_outside_buyers": 74,
+      "outside_buy_events": 115,
+      "outside_buy_SOL": 39.890132903,
+      "reserve_SOL": 12.197775907,
+      "drawdown": 0.19196452204227288,
+      "recent_net_SOL": 0.114989164,
+      "recent_unique_meaningful_buyers": 1,
+      "last_side": "buy",
+      "last_actor": "7pe8xgzWcztHqdgLutWoW2RquSgGpMvsUKtEmNQt3DPc",
+      "last_actor_slot_gap": 4,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "61fsvQdxvmee6mFGKFptz1upkN222pHvEh5d28ZarpB6",
+        "66AbxhfZdVyUJ3YRQmWEar8pqPZX4Wvz4vmdK8CtLqBH",
+        "7HPNt48xjVK1SSJKa42oN5oCrPiMZipJZE87ob8kCNoX",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "99DHCZKtHcDUv2rhmdicE6g5d8rZsDeKcfzFSJXdRogs",
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K",
+        "CjpGvyPxWw4pwZ96msAATSuPnrpV5DVY2HgEB2QKs9P2",
+        "E5yqjQHpUJL3HyrFNe4U9wLUGD97HsYLaVpSyGGdqh1h",
+        "E8jLeB1YCX33xjtvg426dxm2ERxiwoVBUawZCovnzKkX",
+        "EDGEKeUNA3b7L5F9BcoyvptqHAKSLi9c5JxHwFKvuNLc",
+        "EXitjPp2zEW1gNCHsM4KSCffn9igdM7APXjgRtd8pUmP",
+        "Egqa7mW91tFpjbY4zGBBhZEGpN1rg5aQWL6xZcoRhRy2",
+        "EqtZyCccToKK1iz78hhVTiGicCEdADbP5866XbhdNFwL",
+        "ExGAbMU4jsXJ2pBnnbUD2mWwswqhbrDtRkaojCbMQU1M",
+        "H3RwxeqYk9WFKKb6FSJcsXregrfLmA9iGVXHuKHPpFta",
+        "J3hJBr4CemR7ak3BZg4dMwZbPDNCoLfoVDVwCt67M6ME"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.9970214472722355,
+      "dev_sale_slot_gap": 347,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 1129,
+      "target_index": 1103,
+      "entry_route": [
+        "term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3",
+        "term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3",
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "BnBS5M46eQ35vomwk9WoGTNV3m52gFWfaqvG2LFggfvE",
+      "signature": "4tyAM3C1k8ZUa8Pjhbx3otDgYRUgknW7mtiq2ijFhNH7qGyCNiUVioQR5zfNbLF1LnEVvAU4pgCy7aJoi1YuhSmo",
+      "slot": 452563257,
+      "provider_index": 950,
+      "time": 1790931589,
+      "creator": "Hza17rrRc5AHmjGBQkesrqsh3cZEe7g5uFhUjz6LejpJ",
+      "fee_creator": "Cp82giEA7t3QoGVtSdMwxYXV5MGorpPox3VSsA3xHcxV",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 245,
+      "unique_outside_buyers": 322,
+      "meaningful_outside_buyers": 252,
+      "outside_buy_events": 410,
+      "outside_buy_SOL": 196.565577477,
+      "reserve_SOL": 51.246686619,
+      "drawdown": 0.0031597193053086725,
+      "recent_net_SOL": 0.901530861,
+      "recent_unique_meaningful_buyers": 4,
+      "last_side": "buy",
+      "last_actor": "2tyR8UtRyvrbHwKUaxhx2quPdZ3z3cCtjmSnoZafkuob",
+      "last_actor_slot_gap": 0,
+      "preceding_buy_wallets_2slots": [
+        "2tyR8UtRyvrbHwKUaxhx2quPdZ3z3cCtjmSnoZafkuob"
+      ],
+      "following_buy_wallets_2slots": [
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 854,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 720,
+      "target_index": 711,
+      "entry_route": [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "11111111111111111111111111111111",
+        "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr"
+      ],
+      "preceding_details": [
+        {
+          "wallet": "2tyR8UtRyvrbHwKUaxhx2quPdZ3z3cCtjmSnoZafkuob",
+          "slot": 452563257,
+          "index": 293,
+          "signature": "JqbSiy9gNcpy5m6zb3quutX3d2zscASDwx2D7oNzKtGdFYoQgTaLE87XDmeZ6y7K4Sz8kMvae8Rj7MJ11WpuWSM",
+          "SOL": 0.097777777
+        }
+      ]
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "BTvgrVEJd7985TJhwu7ZN2ZxdGJvviyLMBedXXwupump",
+      "signature": "WQCGjoShsyuKBLzrY9qePP9iyV6pASdKbqLGm4hgahnHrKJHBeSzBgm4fryLdckW6biZz36JfbnVbLArm83Jdnb",
+      "slot": 447703517,
+      "provider_index": 634,
+      "time": 1789619095,
+      "creator": "C2TFeiRyzzApUxvjrfaXF1RLfad2SfaHvSqGaEPmmxfv",
+      "fee_creator": "LEfSXBNrTLAHukJiSbej4vsorPAsBeADT1DxAed9x3V",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 141,
+      "unique_outside_buyers": 146,
+      "meaningful_outside_buyers": 115,
+      "outside_buy_events": 187,
+      "outside_buy_SOL": 93.500870107,
+      "reserve_SOL": 13.95890293,
+      "drawdown": 0.35208278316863517,
+      "recent_net_SOL": 0.0,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "sell",
+      "last_actor": "5e8DjVTq2NxESfa3RtMeGyhifiDyuwo4zmRHj8JNEA5W",
+      "last_actor_slot_gap": 7,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "3FsuFkMn5hvFztdJMiEw7v6UNXj7EUydGuQtmECP7w1W",
+        "3pk5yRhwwFdvDBrBuuC5CRorVafHG2EQmzNEYy8Ny2K6",
+        "4WxE3GAiFG6EofdSF4N3DWXg5na9V3BQJJN5LuE5dzhP",
+        "51LsGCrv3onXpETWByT1rdbRRRmFWKF1HumaysHn8nv2",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "9999huSCf6QpepPHQVFLZ9smhsbwkV4XWPLboiy9qqRj",
+        "AmwJToZR4YkawNquDbiUHbZnC2Myq1CLRRryUQ9FBf89",
+        "Be31LTByeatmLtAGbm1ZGaXnceynQgVvir3ZXd6kgiWn",
+        "BwQhya9Y7q8H3tyP6yHSiBPG2pv8RSmHm9mv26LzCnRj",
+        "CiueJwuBw1cZVz4YzY4TpPtyaEQJEpmYZmxkLAuXurDC",
+        "Csh9QjRLu5Mtc8PZQ82rLScLMTT2p2wWzYyjNtTaGWkL",
+        "DwkERB9i8oj8AuKXAGupkrzF3NRmJYvmZvsMYcefdoLq",
+        "G3JfEedn7GjYs3ZtMAkDgj1MAfBL9MBYyWirwaw3Pv6D",
+        "J3gZFpvsCsmA5zwqXgUpyqNLBoGGcJzmnfRwbHFR6KfU",
+        "SQHK48QT8SY1vYN44iXji7wQ6CJek8AjfX6mBp47TZq"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 436,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 748,
+      "target_index": 725,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "Bq7eGyJPTViPQhdCsHaKMDArPC8Vzp84MSdjcsnDpump",
+      "signature": "3NmFu7n5tQSJAenaYzjE6x5i5jx9VGtrP2Gw9G6gEsrNYS2JVvnysVKTk6n2s5CNigVHYQLJMcuY8yw9xUrWFBtt",
+      "slot": 452212935,
+      "provider_index": 162,
+      "time": 1790837757,
+      "creator": "2F6p8TXy3DXDx8zygmMJXXvpCJVBPznq9jaqbNVQpT18",
+      "fee_creator": "BMx4xiGDTkHsN9v2tS1PYhyy2PWDuxY1fNnNmpbXzRsf",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 369,
+      "unique_outside_buyers": 282,
+      "meaningful_outside_buyers": 194,
+      "outside_buy_events": 505,
+      "outside_buy_SOL": 125.475130261,
+      "reserve_SOL": 15.131328437,
+      "drawdown": 0.32258532816385344,
+      "recent_net_SOL": -0.25836746,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "sell",
+      "last_actor": "2vwNGRVD6PW3zq7pNrfch6KQQ4DmRtWuZKYirPjZFGLp",
+      "last_actor_slot_gap": 2,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "4wbrLxXe4pwZe1u4g56BcKBN8uWi8xNoqwwN5tktgpVq",
+        "5qsuh6KapqaF6WdhdvqBKF8JiQxVmnXD7Uqr8D36iePp",
+        "8MJuioLHeQtSfNpcoiNEHr6GKvahdzrU6uq7mhW4e3h8",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K",
+        "Fb86jz8xXvoPVfYCTWpBqWQ76ZM4Ct4osypKW4eAyddJ"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 1377,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 1342,
+      "target_index": 1329,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "367vwbRPVi2vgEZqdEwEoMYNo5ESdypuznPT3isdpump",
+      "signature": "mB6Bnf1rMT2TgiXtr9s3geyeZMaCJm32R7VK8hrfPc1qQ6FWNgvgeiTXNqzosQF8eyu4VrmTiJrs7LCUqxjLgmX",
+      "slot": 451504249,
+      "provider_index": 1070,
+      "time": 1790648160,
+      "creator": "3aRUT4uYGz92JEFfyXwqoxDMgS7qNLJyTFaR2hHp9wgL",
+      "fee_creator": "3aRUT4uYGz92JEFfyXwqoxDMgS7qNLJyTFaR2hHp9wgL",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 468,
+      "unique_outside_buyers": 471,
+      "meaningful_outside_buyers": 336,
+      "outside_buy_events": 683,
+      "outside_buy_SOL": 248.560856937,
+      "reserve_SOL": 59.080455993,
+      "drawdown": 0.12318635601506989,
+      "recent_net_SOL": -0.114641147,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "sell",
+      "last_actor": "CxbSHb5uMkpqZvHcrZgnMs3tS5YsvaZiXy3NkBdiPwx9",
+      "last_actor_slot_gap": 5,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "2nW9tzCvDw8J28wZ88FCai87BaYbpDm1umL1RKS4wj5Y",
+        "4G9RznKvrtBWn2sRETcAsnSRkectXiDsFP5imBbSiFM2",
+        "6sViQ1oyvmb6cqB3Emh5Zs9LwV3f6cvVdbg16LHJNvWV",
+        "7JVQMwRj82STgsG57spj6vpE6XY3RqG8B64PczVc7jJr",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "96JTtvBj3PP2WTsXrCSaSH3Ga4aboutJX2s4ZHNjENcA",
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K",
+        "A8ou1T9trukidi1jMAH1TdS9a25FhmsxZAt16AMn1rmJ",
+        "Csh9QjRLu5Mtc8PZQ82rLScLMTT2p2wWzYyjNtTaGWkL",
+        "D8pBNrTqzgr6FNWg5umqXcG32UkiBYr5vR71GTRMfujZ",
+        "EttTfP9c9LycvPqx61qisaPKQAnwki9pDgHF67UxFx3N",
+        "FaCYdntuk2w3KZBj4Jgm1THMG5dHAHGrW8X7VGU3wh9X",
+        "G3JfEedn7GjYs3ZtMAkDgj1MAfBL9MBYyWirwaw3Pv6D",
+        "GTd6sNB1epWQeVk6afzcQrZ6RQrjgke9fLiAnDaeqFYt",
+        "Gi5DyNkCLVQkcjykXVWUheM1EzCg8XjUPdcf7E8Gj2eh",
+        "omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.0,
+      "dev_sale_slot_gap": null,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 1163,
+      "target_index": 1125,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "5Vw22peqbuP7xvQPH4ZrYm6YTDpgzNTM4cKZECAepump",
+      "signature": "3jWU9Zzbbz8rfppeGbW2yqczeWpe7qahynnzRFUzjxQNdMS7dNRUc1S3BTijjRwR46P6kfy1E1jxGU7AmpSMv3kL",
+      "slot": 451838420,
+      "provider_index": 428,
+      "time": 1790737588,
+      "creator": "49fAsUF3Nk8qbfpSrQND2sULKXanemwibYLGk5Jpn9bY",
+      "fee_creator": "49fAsUF3Nk8qbfpSrQND2sULKXanemwibYLGk5Jpn9bY",
+      "wallet_is_launch_role": false,
+      "spam_creator": true,
+      "age": 281,
+      "unique_outside_buyers": 197,
+      "meaningful_outside_buyers": 119,
+      "outside_buy_events": 274,
+      "outside_buy_SOL": 53.598849819,
+      "reserve_SOL": 12.938353699,
+      "drawdown": 0.16268657717003454,
+      "recent_net_SOL": 0.0,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "sell",
+      "last_actor": "95mkm5RMr8kC5jVX3cPE7F2nwvYWH3ZfbNBQjTUx5m92",
+      "last_actor_slot_gap": 12,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "2BoEkorEMbod5ATQzjdesXwXnKXTTY3GCr4Vnx1CC8j8",
+        "4FCjKaFTStAaEBF1REL6QFHx5VfJTDR46CfnPaFGPcp1",
+        "7JVQMwRj82STgsG57spj6vpE6XY3RqG8B64PczVc7jJr",
+        "8pisMPgQvkTc1x6jYtqCubVpASKGHAovN87m7XLtbbd5",
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K",
+        "AzcvjR3YbA7KGzALXtW1HPjrGuKc8B3vjWhZwg6Rrgpc",
+        "ELk6YmcENL5in92WAdgSbAg7kJVn7WAtDSeV7zZKAYSB",
+        "EaaCfVxVboPx1wht6Xvqcmq6LVhDW5ouyCBMiu2tafBG",
+        "Gi5DyNkCLVQkcjykXVWUheM1EzCg8XjUPdcf7E8Gj2eh",
+        "HooHwWAY4GJzR9RLTBH8zZo8Vn2kfxiVjRAASiHXofnJ"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 0.49894902097538135,
+      "dev_sale_slot_gap": 332,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 506,
+      "target_index": 491,
+      "entry_route": [
+        "ComputeBudget111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "EbHuK37KGvyuRGCdbTWdX3mzTafvw7GUKQzL83SEmtp5",
+      "signature": "4FXVHRnjujfQieaSWoFgY3up3rap1AZDB31PjrPfpLDyfskqYbHmFGAM8e5okwmfwc7fyt2WgTJwmqXosazPSEv8",
+      "slot": 452779430,
+      "provider_index": 196,
+      "time": 1790989416,
+      "creator": "6HahJu6QMefQ8h2u8fCtY4fH1zGP868iDxDLSy9X8SeP",
+      "fee_creator": "6HahJu6QMefQ8h2u8fCtY4fH1zGP868iDxDLSy9X8SeP",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 1940,
+      "unique_outside_buyers": 249,
+      "meaningful_outside_buyers": 194,
+      "outside_buy_events": 346,
+      "outside_buy_SOL": 133.729378885,
+      "reserve_SOL": 7.735092223,
+      "drawdown": 0.49351478640229407,
+      "recent_net_SOL": 0.0,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "buy",
+      "last_actor": "HRBonvjq6YE62jKnXpwH9wjxLqhiikf2hdFgVTef1Cvm",
+      "last_actor_slot_gap": 10,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "2H6DwrqAsETL1PjrT5KAX3MAELx71FuDkKVZj18PaeJf",
+        "7JVQMwRj82STgsG57spj6vpE6XY3RqG8B64PczVc7jJr",
+        "88887QrRZPZmsstEXsoXXB8E7nbmUDde4Gp5s7jG3ENu",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K",
+        "Csh9QjRLu5Mtc8PZQ82rLScLMTT2p2wWzYyjNtTaGWkL",
+        "G3JfEedn7GjYs3ZtMAkDgj1MAfBL9MBYyWirwaw3Pv6D"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 7207,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 653,
+      "target_index": 643,
+      "entry_route": [
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+        "6Vo3245eszAb5wuqEMw8mGdbfRUdKbHhDHP5LcaGuTAB",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    },
+    {
+      "wallet": "3VUNtVtjjx5ckUojT7UocJ5fbuAJRsNUXNfTBnPte9vC",
+      "mint": "HZiJCAv43ax1meFUB8Q1sKh9VHpds3R9drcqQcf2pump",
+      "signature": "4mSSbjds9323187x4uZjoaTC942bh9vb29C595TnfjRpBgKiuQPeB1Cb3HNPEpp83QFNedubHYZLhitEy3FHPjVV",
+      "slot": 452120965,
+      "provider_index": 477,
+      "time": 1790813196,
+      "creator": "Hw1ed5ovBZg59ppGmMmRco1g8bmyZjGPSoUcmZMcgofF",
+      "fee_creator": "Hw1ed5ovBZg59ppGmMmRco1g8bmyZjGPSoUcmZMcgofF",
+      "wallet_is_launch_role": false,
+      "spam_creator": false,
+      "age": 175,
+      "unique_outside_buyers": 182,
+      "meaningful_outside_buyers": 136,
+      "outside_buy_events": 252,
+      "outside_buy_SOL": 95.096244282,
+      "reserve_SOL": 22.100332175,
+      "drawdown": 0.07154262974777292,
+      "recent_net_SOL": 0.0,
+      "recent_unique_meaningful_buyers": 0,
+      "last_side": "buy",
+      "last_actor": "E8MNtTqTT961oEUjLUARU1vJngV5dh2mvRzM2pYKVwNG",
+      "last_actor_slot_gap": 8,
+      "preceding_buy_wallets_2slots": [],
+      "following_buy_wallets_2slots": [
+        "3FsuFkMn5hvFztdJMiEw7v6UNXj7EUydGuQtmECP7w1W",
+        "4wbrLxXe4pwZe1u4g56BcKBN8uWi8xNoqwwN5tktgpVq",
+        "5e8DjVTq2NxESfa3RtMeGyhifiDyuwo4zmRHj8JNEA5W",
+        "66AbxhfZdVyUJ3YRQmWEar8pqPZX4Wvz4vmdK8CtLqBH",
+        "8ik9TbDMMm7iXErRA7ohCEGf3X4KjnbBfsJiCCSCFxdX",
+        "91RpCePwmwCvSq5FjnBLvzCG748rMu4xcCCoxLedfejs",
+        "94CSkmryWUnhqRazYtPw6bDuUSynWGfXAbqj34o64g7S",
+        "9kqCevz58RVQzm9bhyQV4aWj2wmDTyURnQb8LpisMC4K",
+        "Be31LTByeatmLtAGbm1ZGaXnceynQgVvir3ZXd6kgiWn",
+        "CASHUTaewCTUqa6j2SzD6vgBMvMLsNjdpuBYGTxWDBmi",
+        "Csh9QjRLu5Mtc8PZQ82rLScLMTT2p2wWzYyjNtTaGWkL",
+        "CtypBtuREmcupYzfA7Y8afwQtorMRc5HBkbE3qhwroNr",
+        "D8pBNrTqzgr6FNWg5umqXcG32UkiBYr5vR71GTRMfujZ",
+        "FAcx3YH1bCdhvwnk9kLJJKFAQh1h4VSMsUehvAWA2xmK",
+        "FSz6mptAxKrjDjaJYQiGiCGGwsxL4WgWjsh9sGhw4BZX",
+        "Fb86jz8xXvoPVfYCTWpBqWQ76ZM4Ct4osypKW4eAyddJ",
+        "G3JfEedn7GjYs3ZtMAkDgj1MAfBL9MBYyWirwaw3Pv6D",
+        "T9qvX3sp8RpCwd39QEGd2Pp38GgfBRRUKW2XPiQT2us"
+      ],
+      "preceding_KOL_2slots": [],
+      "following_KOL_2slots": [],
+      "dev_sold_fraction": 1.0,
+      "dev_sale_slot_gap": 533,
+      "own_prior_buys": 0,
+      "genesis_verified": true,
+      "quote_is_sol": true,
+      "source_receipts": 504,
+      "target_index": 481,
+      "entry_route": [
+        "term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3",
+        "term9YPb9mzAsABaqN71A4xdbxHmpBNZavpBiQKZzN3",
+        "11111111111111111111111111111111",
+        "11111111111111111111111111111111"
+      ],
+      "preceding_details": []
+    }
+  ],
+  "selection": "10 fixedhash previously sampled entries per four wallets; no per-trade profit filter; wallet universe historically selected for profitability; retrospective",
+  "horizon_seconds": 600
+}

@@ -1,0 +1,18 @@
+{
+  "transactions": 1615,
+  "events": 1783,
+  "buy_events": 892,
+  "sell_events": 891,
+  "distinct_users": 392,
+  "both_side_same_transaction": 0,
+  "exact_token_roundtrips": 0,
+  "exact_roundtrip_volume_sol": 0,
+  "multiuser_transactions": 0,
+  "price_increasing_transactions": 895,
+  "price_decreasing_transactions": 719,
+  "max_completed_transaction_drawdown": 0.21727706433213845,
+  "first_timestamp": 1791760398,
+  "last_timestamp": 1791761073,
+  "gross_buy_sol": 517.766986478,
+  "gross_sell_sol": 433.480016918
+}

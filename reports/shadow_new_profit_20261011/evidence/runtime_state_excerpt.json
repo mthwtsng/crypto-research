@@ -1,0 +1,63 @@
+{
+  "bankroll_initial": 15.0,
+  "circuit_breakers": {
+    "UpperAthBreakout": {
+      "consecutive_losses": 1,
+      "cooldown_secs": 14400,
+      "cooldown_until": 0,
+      "loss_ceiling_sol": 0.75,
+      "streak_limit": 6,
+      "trade_history": [
+        [
+          1791702120,
+          -0.09381671199999995
+        ],
+        [
+          1791702139,
+          0.13558112499999997
+        ],
+        [
+          1791702607,
+          -0.10487603499999998
+        ],
+        [
+          1791702737,
+          -0.101534864
+        ],
+        [
+          1791702957,
+          0.04227957199999999
+        ],
+        [
+          1791703066,
+          0.15994132800000005
+        ],
+        [
+          1791703372,
+          0.17573586500000005
+        ],
+        [
+          1791703633,
+          0.05838344900000003
+        ],
+        [
+          1791703651,
+          -0.15560348699999998
+        ]
+      ],
+      "trip_count": 0,
+      "window_secs": 28800
+    }
+  },
+  "circuit_breakers_enabled": true,
+  "closed_position_count": 21,
+  "failed_buy_attempts": 0,
+  "failed_buy_costs": {},
+  "intent_count": 21,
+  "open_paper_position_count": 0,
+  "saved_at_ms": 1791704095831,
+  "source_mint_count": 2166,
+  "version": 1,
+  "virtual_cash": 15.643900894,
+  "vm_id": "ghost-v2-20261011T064058"
+}

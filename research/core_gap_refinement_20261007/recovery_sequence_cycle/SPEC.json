@@ -1,0 +1,18 @@
+{
+  "frozen_at": "2026-10-08T03:40:46.689268+00:00",
+  "status": "retrospective October3\u20136development; all inspected",
+  "prior_logged_looks": 28,
+  "new_entry_definitions": 2,
+  "entry_modes": [
+    "first_buy",
+    "second_event",
+    "two_buy_groups"
+  ],
+  "description": "First >=0.05SOL outside buy control; second eventful whole transaction delay control; two separate >=0.05SOL outside buying transactions with a new distinct buyer. All within original2slot window after first qualifying dip and reserves8\u201318; no threshold selected from new outcomes.",
+  "entry_first": "Exit-free neutral trajectories before sells; old unchanged10s/21s and earlier3s scratch as two fixed exit comparisons",
+  "hashes": {
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/recovery_sequence.py": "96029cf824c4f15ce1425a1bd2d5c5501919c23e00d1af48121510fcf59453ce",
+    "/home/mthwt/code/Crypto/research/core_plan_audit_20261007/engine.py": "6379faabcff4ed9ffa0dc4ca59ffaa4b16ac59704d4a24f2a754e7c17e40e728",
+    "/home/mthwt/code/Crypto/research/core_gap_refinement_20261007/entry_only.py": "c0a45b64a375cfeb2c34c144a4dc7f7dd90ecccaa15ad5cd121307ebecb834be"
+  }
+}

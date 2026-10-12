@@ -1,0 +1,41 @@
+[
+  {
+    "provider": "alchemy",
+    "method": "getSlot",
+    "ok": true,
+    "value": 454768475
+  },
+  {
+    "provider": "shyft",
+    "method": "getSlot",
+    "ok": true,
+    "value": 454768476
+  },
+  {
+    "provider": "solami",
+    "method": "getSlot",
+    "ok": true,
+    "value": 454768477
+  },
+  {
+    "provider": "alchemy",
+    "method": "getTransactionsForAddress",
+    "ok": true,
+    "value": {
+      "rows": 1,
+      "token": true
+    }
+  },
+  {
+    "provider": "shyft",
+    "method": "getTransactionsForAddress",
+    "ok": false,
+    "error": "{\"code\": -32602, \"message\": \"Invalid params\", \"data\": \"invalid type: string \\\"finalized\\\", expected struct CommitmentConfig at line 1 column 199\"}"
+  },
+  {
+    "provider": "solami",
+    "method": "getTransactionsForAddress",
+    "ok": false,
+    "error": "The read operation timed out"
+  }
+]

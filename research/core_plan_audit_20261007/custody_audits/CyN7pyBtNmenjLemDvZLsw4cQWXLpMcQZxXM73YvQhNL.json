@@ -1,0 +1,9 @@
+{
+  "mint": "CyN7pyBtNmenjLemDvZLsw4cQWXLpMcQZxXM73YvQhNL",
+  "passes": [],
+  "status": "supported",
+  "remaining_gap": null,
+  "source_receipts": 65,
+  "curve_groups": 64,
+  "initial_precompletion_gap": false
+}

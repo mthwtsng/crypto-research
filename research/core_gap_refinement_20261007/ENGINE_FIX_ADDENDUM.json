@@ -1,0 +1,21 @@
+{
+  "time": "2026-10-08T02:53:29.494179+00:00",
+  "repairs": [
+    "CF token account initialized at zero after prior source buy reverts",
+    "Opening-transaction buys repriced after authenticated deposit/boost, no skipped first swap",
+    "Opening transaction guard failure keeps pool uncommitted",
+    "Late completion source history extended before migration audit",
+    "Same-owner token-account transfers recovered before CF inventory replay"
+  ],
+  "proof": "10 fresh pool source bootstraps exact-state parity;10 custody migration audits;65418 curve source groups;29185 postopening AMM groups;7 replay/5 ledger/3 opening regressions",
+  "strategy_changes": "none in these engine repairs",
+  "hashes": {
+    "research/core_plan_audit_20261007/engine.py": "6379faabcff4ed9ffa0dc4ca59ffaa4b16ac59704d4a24f2a754e7c17e40e728",
+    "research/wallet_curve_entry_discovery_20261007/amm_counterparty.py": "03ddc930f35d09a1f4b3427a3cf9f104c8956ce8e47aa3baf0e73ed3ffe88ef3",
+    "research/core_gap_refinement_20261007/entry_only.py": "c0a45b64a375cfeb2c34c144a4dc7f7dd90ecccaa15ad5cd121307ebecb834be",
+    "research/core_gap_refinement_20261007/transfer.py": "6ba3466d131145378a60fff0cd1f892a250add998ebfe739d395846ea61203e6",
+    "research/core_gap_refinement_20261007/fresh_pipeline.py": "5c8ed7e47cab920b16e5dcccc1d3a36ca4385e4ca1e21101a265692c5d06c0c7",
+    "research/core_gap_refinement_20261007/account_repair.py": "edad4ba2b0d78a64964b523a580092396e479bd32d120f312ff2ca736bf3f813"
+  },
+  "additional_source_proof": "61,020 whole token-account source groups on 130 eligible mints; zero source parity errors"
+}

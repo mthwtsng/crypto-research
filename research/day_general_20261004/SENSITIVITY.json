@@ -1,0 +1,914 @@
+[
+  {
+    "policy": "historical_entry_mean",
+    "rule": "dislocation",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 34,
+      "closed": 21,
+      "closed_pnl": -0.35137901199999977,
+      "known_pnl": -0.35794401199999976,
+      "pf": 0.5799554833805153,
+      "win_rate": 23.80952380952381,
+      "statuses": {
+        "failed": 13,
+        "closed": 21
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 31,
+      "statuses": {
+        "closed": 19,
+        "failed": 12
+      },
+      "ending_cash": 4.732653213999997,
+      "net_zero_recovery_sol": -0.26734678599999984,
+      "closed_net_sol": -0.2612867859999998,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 3,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.3728560500000002,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "dislocation",
+    "scenario": "next_slot_tail",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 34,
+      "closed": 21,
+      "closed_pnl": -0.28750578499999974,
+      "known_pnl": -0.2940707849999997,
+      "pf": 0.6563106379113204,
+      "win_rate": 23.80952380952381,
+      "statuses": {
+        "failed": 13,
+        "closed": 21
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 31,
+      "statuses": {
+        "closed": 20,
+        "failed": 11
+      },
+      "ending_cash": 4.7604614059999975,
+      "net_zero_recovery_sol": -0.23953859399999977,
+      "closed_net_sol": -0.23398359399999977,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 3,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.37336105000000064,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "dislocation",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 34,
+      "closed": 30,
+      "closed_pnl": -0.29331561999999967,
+      "known_pnl": -0.2953356199999997,
+      "pf": 0.8169430013923108,
+      "win_rate": 26.666666666666668,
+      "statuses": {
+        "failed": 4,
+        "closed": 30
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 30,
+      "statuses": {
+        "closed": 26,
+        "failed": 4
+      },
+      "ending_cash": 4.958255122999999,
+      "net_zero_recovery_sol": -0.041744876999999736,
+      "closed_net_sol": -0.039724876999999735,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 4,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.8454747019999997,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "dislocation",
+    "scenario": "same_slot_one",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 34,
+      "closed": 30,
+      "closed_pnl": -0.22811915000000002,
+      "known_pnl": -0.23013915000000001,
+      "pf": 0.8576318338452712,
+      "win_rate": 26.666666666666668,
+      "statuses": {
+        "failed": 4,
+        "closed": 30
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 30,
+      "statuses": {
+        "closed": 26,
+        "failed": 4
+      },
+      "ending_cash": 5.004295843999998,
+      "net_zero_recovery_sol": 0.004295843999999882,
+      "closed_net_sol": 0.006315843999999881,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 4,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.9050157360000002,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "liquidity",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 56,
+      "closed": 47,
+      "closed_pnl": -0.5735294489999999,
+      "known_pnl": -0.5780744489999999,
+      "pf": 0.6739208340848476,
+      "win_rate": 29.78723404255319,
+      "statuses": {
+        "closed": 47,
+        "failed": 9
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 47,
+        "failed": 9
+      },
+      "ending_cash": 4.421925550999999,
+      "net_zero_recovery_sol": -0.5780744489999999,
+      "closed_net_sol": -0.5735294489999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.883844293000001,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "liquidity",
+    "scenario": "next_slot_tail",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 56,
+      "closed": 47,
+      "closed_pnl": -0.6231171339999999,
+      "known_pnl": -0.6276621339999999,
+      "pf": 0.6457278424387232,
+      "win_rate": 29.78723404255319,
+      "statuses": {
+        "closed": 47,
+        "failed": 9
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 47,
+        "failed": 9
+      },
+      "ending_cash": 4.3723378660000005,
+      "net_zero_recovery_sol": -0.6276621339999999,
+      "closed_net_sol": -0.6231171339999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.8492147800000005,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "liquidity",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 56,
+      "closed": 52,
+      "closed_pnl": -1.3744926409999998,
+      "known_pnl": -1.376512641,
+      "pf": 0.5018757475611656,
+      "win_rate": 32.69230769230769,
+      "statuses": {
+        "closed": 52,
+        "failed": 4
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 52,
+        "failed": 4
+      },
+      "ending_cash": 3.623487358999998,
+      "net_zero_recovery_sol": -1.376512641,
+      "closed_net_sol": -1.3744926409999998,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.7204378420000008,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "liquidity",
+    "scenario": "same_slot_one",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 56,
+      "closed": 52,
+      "closed_pnl": -1.318990039,
+      "known_pnl": -1.321010039,
+      "pf": 0.5219902183884126,
+      "win_rate": 32.69230769230769,
+      "statuses": {
+        "closed": 52,
+        "failed": 4
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 52,
+        "failed": 4
+      },
+      "ending_cash": 3.6789899609999948,
+      "net_zero_recovery_sol": -1.321010039,
+      "closed_net_sol": -1.318990039,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.6979121170000013,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "mature_fresh",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 35,
+      "closed": 26,
+      "closed_pnl": -0.24167531899999978,
+      "known_pnl": -0.2462203189999998,
+      "pf": 0.9362739655177613,
+      "win_rate": 42.30769230769231,
+      "statuses": {
+        "failed": 9,
+        "closed": 26
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 35,
+      "statuses": {
+        "failed": 9,
+        "closed": 26
+      },
+      "ending_cash": 4.753779681,
+      "net_zero_recovery_sol": -0.2462203189999998,
+      "closed_net_sol": -0.24167531899999978,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.952055166000001,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "mature_fresh",
+    "scenario": "next_slot_tail",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 35,
+      "closed": 26,
+      "closed_pnl": -0.4765554050000001,
+      "known_pnl": -0.4811004050000001,
+      "pf": 0.848119660916467,
+      "win_rate": 42.30769230769231,
+      "statuses": {
+        "failed": 9,
+        "closed": 26
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 35,
+      "statuses": {
+        "failed": 9,
+        "closed": 26
+      },
+      "ending_cash": 4.518899595000001,
+      "net_zero_recovery_sol": -0.4811004050000001,
+      "closed_net_sol": -0.4765554050000001,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.717691158000001,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "mature_fresh",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 35,
+      "closed": 33,
+      "closed_pnl": 0.5984301709999997,
+      "known_pnl": 0.5974201709999997,
+      "pf": 1.1497199929825592,
+      "win_rate": 48.484848484848484,
+      "statuses": {
+        "closed": 33,
+        "failed": 2
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 35,
+      "statuses": {
+        "closed": 33,
+        "failed": 2
+      },
+      "ending_cash": 5.597420170999996,
+      "net_zero_recovery_sol": 0.5974201709999997,
+      "closed_net_sol": 0.5984301709999997,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 2.106434516000001,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "mature_fresh",
+    "scenario": "same_slot_one",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 35,
+      "closed": 33,
+      "closed_pnl": 0.929770948,
+      "known_pnl": 0.9287609480000001,
+      "pf": 1.2931283528536928,
+      "win_rate": 51.515151515151516,
+      "statuses": {
+        "closed": 33,
+        "failed": 2
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 35,
+      "statuses": {
+        "closed": 33,
+        "failed": 2
+      },
+      "ending_cash": 5.928760948,
+      "net_zero_recovery_sol": 0.9287609480000001,
+      "closed_net_sol": 0.929770948,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.1939154640000025,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "velocity",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 52,
+      "closed": 40,
+      "closed_pnl": -0.9633976309999999,
+      "known_pnl": -0.9694576309999999,
+      "pf": 0.39452067732494994,
+      "win_rate": 30.0,
+      "statuses": {
+        "closed": 40,
+        "failed": 12
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 52,
+      "statuses": {
+        "closed": 40,
+        "failed": 12
+      },
+      "ending_cash": 4.030542368999999,
+      "net_zero_recovery_sol": -0.9694576309999999,
+      "closed_net_sol": -0.9633976309999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.204170398000004,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "velocity",
+    "scenario": "next_slot_tail",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 52,
+      "closed": 40,
+      "closed_pnl": -0.9231111549999999,
+      "known_pnl": -0.9291711549999999,
+      "pf": 0.41984005472068353,
+      "win_rate": 30.0,
+      "statuses": {
+        "closed": 40,
+        "failed": 12
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 52,
+      "statuses": {
+        "closed": 40,
+        "failed": 12
+      },
+      "ending_cash": 4.070828844999999,
+      "net_zero_recovery_sol": -0.9291711549999999,
+      "closed_net_sol": -0.9231111549999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.1695408850000044,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "velocity",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 52,
+      "closed": 47,
+      "closed_pnl": -0.2271866499999999,
+      "known_pnl": -0.2297116499999999,
+      "pf": 0.8627137124184161,
+      "win_rate": 40.42553191489362,
+      "statuses": {
+        "closed": 47,
+        "failed": 5
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 52,
+      "statuses": {
+        "closed": 47,
+        "failed": 5
+      },
+      "ending_cash": 4.77028835,
+      "net_zero_recovery_sol": -0.2297116499999999,
+      "closed_net_sol": -0.2271866499999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.6635063820000004,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "historical_entry_mean",
+    "rule": "velocity",
+    "scenario": "same_slot_one",
+    "mode": "staged_ladder",
+    "summary": {
+      "attempts": 52,
+      "closed": 47,
+      "closed_pnl": -0.1276459949999999,
+      "known_pnl": -0.1301709949999999,
+      "pf": 0.9228649888617689,
+      "win_rate": 40.42553191489362,
+      "statuses": {
+        "closed": 47,
+        "failed": 5
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 52,
+      "statuses": {
+        "closed": 47,
+        "failed": 5
+      },
+      "ending_cash": 4.869829004999999,
+      "net_zero_recovery_sol": -0.1301709949999999,
+      "closed_net_sol": -0.1276459949999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.6409806570000001,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "dislocation",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 34,
+      "closed": 21,
+      "closed_pnl": -0.10426499799999961,
+      "known_pnl": -0.11082999799999961,
+      "pf": 0.8584875099715313,
+      "win_rate": 33.333333333333336,
+      "statuses": {
+        "failed": 13,
+        "closed": 21
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 31,
+      "statuses": {
+        "closed": 19,
+        "failed": 12
+      },
+      "ending_cash": 4.9674889149999935,
+      "net_zero_recovery_sol": -0.032511084999999676,
+      "closed_net_sol": -0.026451084999999673,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 3,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.2668529720000006,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "dislocation",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 34,
+      "closed": 30,
+      "closed_pnl": -0.1638292599999998,
+      "known_pnl": -0.1658492599999998,
+      "pf": 0.8913139145690513,
+      "win_rate": 26.666666666666668,
+      "statuses": {
+        "failed": 4,
+        "closed": 30
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 30,
+      "statuses": {
+        "closed": 26,
+        "failed": 4
+      },
+      "ending_cash": 5.070476635,
+      "net_zero_recovery_sol": 0.07047663500000015,
+      "closed_net_sol": 0.07249663500000016,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 4,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.7936801579999999,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "liquidity",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 56,
+      "closed": 47,
+      "closed_pnl": -0.2905112399999997,
+      "known_pnl": -0.29505623999999975,
+      "pf": 0.8122409682419521,
+      "win_rate": 29.78723404255319,
+      "statuses": {
+        "closed": 47,
+        "failed": 9
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 47,
+        "failed": 9
+      },
+      "ending_cash": 4.704943760000001,
+      "net_zero_recovery_sol": -0.29505623999999975,
+      "closed_net_sol": -0.2905112399999997,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.8313333780000001,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "liquidity",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 56,
+      "closed": 52,
+      "closed_pnl": -1.1500496169999999,
+      "known_pnl": -1.152069617,
+      "pf": 0.5590756183135693,
+      "win_rate": 32.69230769230769,
+      "statuses": {
+        "closed": 52,
+        "failed": 4
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 56,
+      "statuses": {
+        "closed": 52,
+        "failed": 4
+      },
+      "ending_cash": 3.847930383000002,
+      "net_zero_recovery_sol": -1.152069617,
+      "closed_net_sol": -1.1500496169999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.6039001180000012,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "mature_fresh",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 35,
+      "closed": 26,
+      "closed_pnl": -0.2049995629999996,
+      "known_pnl": -0.2095445629999996,
+      "pf": 0.9456415100977027,
+      "win_rate": 42.30769230769231,
+      "statuses": {
+        "failed": 9,
+        "closed": 26
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 35,
+      "statuses": {
+        "failed": 9,
+        "closed": 26
+      },
+      "ending_cash": 4.790455437000004,
+      "net_zero_recovery_sol": -0.2095445629999996,
+      "closed_net_sol": -0.2049995629999996,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.9421809240000014,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "mature_fresh",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 35,
+      "closed": 33,
+      "closed_pnl": 0.6449801689999999,
+      "known_pnl": 0.6439701689999999,
+      "pf": 1.1623402129879024,
+      "win_rate": 48.484848484848484,
+      "statuses": {
+        "closed": 33,
+        "failed": 2
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 35,
+      "statuses": {
+        "closed": 33,
+        "failed": 2
+      },
+      "ending_cash": 5.6439701690000055,
+      "net_zero_recovery_sol": 0.6439701689999999,
+      "closed_net_sol": 0.6449801689999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 2.0852754260000017,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "velocity",
+    "scenario": "next_slot_tail",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 52,
+      "closed": 40,
+      "closed_pnl": -0.8636869519999999,
+      "known_pnl": -0.869746952,
+      "pf": 0.4349805585170914,
+      "win_rate": 27.5,
+      "statuses": {
+        "closed": 40,
+        "failed": 12
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 52,
+      "statuses": {
+        "closed": 40,
+        "failed": 12
+      },
+      "ending_cash": 4.130253047999999,
+      "net_zero_recovery_sol": -0.869746952,
+      "closed_net_sol": -0.8636869519999999,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 1.1309437170000027,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  },
+  {
+    "policy": "passive_short_timer_sensitivity",
+    "rule": "velocity",
+    "scenario": "same_slot_one",
+    "mode": "full_timer",
+    "summary": {
+      "attempts": 52,
+      "closed": 47,
+      "closed_pnl": -0.02432468600000007,
+      "known_pnl": -0.02684968600000007,
+      "pf": 0.9841428103337659,
+      "win_rate": 40.42553191489362,
+      "statuses": {
+        "closed": 47,
+        "failed": 5
+      }
+    },
+    "funded5": {
+      "initial_capital": 5.0,
+      "position_limit": 2,
+      "admitted": 52,
+      "statuses": {
+        "closed": 47,
+        "failed": 5
+      },
+      "ending_cash": 4.973150313999996,
+      "net_zero_recovery_sol": -0.02684968600000007,
+      "closed_net_sol": -0.02432468600000007,
+      "cash_skips": 0,
+      "position_skips": 0,
+      "duplicate_skips": 0,
+      "missing_not_modeled": 0,
+      "remaining_open_positions": 0,
+      "max_settled_drawdown": 0.5685497180000008,
+      "cash_reconciled": true,
+      "caveat": "known-outcome intents only; incomplete intents not imputed or secretly profitable; unresolved remains open at conservative value"
+    }
+  }
+]

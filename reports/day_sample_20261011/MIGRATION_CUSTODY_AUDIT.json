@@ -1,0 +1,147 @@
+{
+  "13MujLNtTf7e1vLwrm6K3ZrRvHcWWg2VvkfL4z1Spump": {
+    "base_tokens_raw": 206900000000000,
+    "completion_position": [
+      455430736,
+      622
+    ],
+    "curve_real_SOL": 85.005359057,
+    "errors": [],
+    "freeze_seconds": 0,
+    "holder_accounts_retained": 1,
+    "late_retry_anchor_corrected": false,
+    "measured_migration_quote_difference_lamports": 15000001,
+    "migration_position": [
+      455430736,
+      623
+    ],
+    "mint": "13MujLNtTf7e1vLwrm6K3ZrRvHcWWg2VvkfL4z1Spump",
+    "opening_real_SOL": 67.405853768,
+    "opening_signature": "4X7kvrw3o3yhMXe6gdiJaHjnQ5DSSgUUSQ1LAojZ5iHXHguYxJTNACHDwNXTpEvin2DL7ftkNjrY4676TgSJx3pJ",
+    "opening_swap_count": 0,
+    "opening_virtual_SOL": 17.584505288,
+    "pass_all": true,
+    "pool": "14JVsDKMDa8QevTtBGdeq3j6gar9sWYWguNAifYAVT6M",
+    "previous_migration_signature": "4X7kvrw3o3yhMXe6gdiJaHjnQ5DSSgUUSQ1LAojZ5iHXHguYxJTNACHDwNXTpEvin2DL7ftkNjrY4676TgSJx3pJ",
+    "scope": "authenticated historical atomic custody only; counterfactual completion/timing and changed failed routers require separate execution checks",
+    "transfers_checked": 2
+  },
+  "3SwWxAKdbeYH2H8ENPhFAXbQ9zCCjaMyc2MnFkaXpump": {
+    "base_tokens_raw": 206900000000000,
+    "completion_position": [
+      455236472,
+      341
+    ],
+    "curve_real_SOL": 85.005359057,
+    "errors": [],
+    "freeze_seconds": 0,
+    "holder_accounts_retained": 1,
+    "late_retry_anchor_corrected": false,
+    "measured_migration_quote_difference_lamports": 15000001,
+    "migration_position": [
+      455236472,
+      342
+    ],
+    "mint": "3SwWxAKdbeYH2H8ENPhFAXbQ9zCCjaMyc2MnFkaXpump",
+    "opening_real_SOL": 67.405853768,
+    "opening_signature": "4JKPY2u4vrXqRNRdniDxygAc9tnoet9xVEneKp2NpGCQpmoeTxR9MBD7UgF1FvHEDkjL7bTcyjSW7NjuLLfT13mf",
+    "opening_swap_count": 0,
+    "opening_virtual_SOL": 17.584505288,
+    "pass_all": true,
+    "pool": "EUQBfGcRxXtoXqmGPTmKPoBpGTUXyFph7fK23PafMzfm",
+    "previous_migration_signature": "4JKPY2u4vrXqRNRdniDxygAc9tnoet9xVEneKp2NpGCQpmoeTxR9MBD7UgF1FvHEDkjL7bTcyjSW7NjuLLfT13mf",
+    "scope": "authenticated historical atomic custody only; counterfactual completion/timing and changed failed routers require separate execution checks",
+    "transfers_checked": 2
+  },
+  "3hppYT7tfMZw9158oeLpx6CKFQcSaTbZqeLHyYTopump": {
+    "base_tokens_raw": 206900000000000,
+    "completion_position": [
+      455522121,
+      297
+    ],
+    "curve_real_SOL": 85.005359057,
+    "errors": [],
+    "freeze_seconds": 0,
+    "holder_accounts_retained": 12,
+    "late_retry_anchor_corrected": false,
+    "measured_migration_quote_difference_lamports": 15000001,
+    "migration_position": [
+      455522121,
+      298
+    ],
+    "mint": "3hppYT7tfMZw9158oeLpx6CKFQcSaTbZqeLHyYTopump",
+    "opening_real_SOL": 67.405853768,
+    "opening_signature": "MPbFFDxHryWs2zSFQEFbE9sJMcVvDbeZK6zg3TGM8cXw3dtU2kQxuwuSdHdWXpR7Hg3edWcvpUbDgzDK9WVWAVA",
+    "opening_swap_count": 0,
+    "opening_virtual_SOL": 17.584505288,
+    "pass_all": true,
+    "pool": "A5Y9ZoEjEtZP11eerd4wLLEjDqNTME8kLLrNeN6DVPXJ",
+    "previous_migration_signature": "MPbFFDxHryWs2zSFQEFbE9sJMcVvDbeZK6zg3TGM8cXw3dtU2kQxuwuSdHdWXpR7Hg3edWcvpUbDgzDK9WVWAVA",
+    "scope": "authenticated historical atomic custody only; counterfactual completion/timing and changed failed routers require separate execution checks",
+    "transfers_checked": 2
+  },
+  "D7zmfjPhYvnTWs692SUpDjZbdZYgBWy9PYkGt38ppump": {
+    "error": "ValueError('negative_curve_inventory')",
+    "mint": "D7zmfjPhYvnTWs692SUpDjZbdZYgBWy9PYkGt38ppump",
+    "pass_all": false
+  },
+  "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump": {
+    "error": "ValueError('negative_curve_inventory')",
+    "mint": "DYtVmeMVEVqKFTk1fwHeZ3FbMUbaY1LE3E38N8oPpump",
+    "pass_all": false
+  },
+  "HxcEAa9Z2CfMaL3uA6k5geFttmPtra1yRSyLsok4pump": {
+    "base_tokens_raw": 199929972915810,
+    "completion_position": [
+      455192953,
+      271
+    ],
+    "curve_real_SOL": 85.005359061,
+    "errors": [],
+    "freeze_seconds": 0,
+    "holder_accounts_retained": 6,
+    "late_retry_anchor_corrected": false,
+    "measured_migration_quote_difference_lamports": 15000001,
+    "migration_position": [
+      455192954,
+      73
+    ],
+    "mint": "HxcEAa9Z2CfMaL3uA6k5geFttmPtra1yRSyLsok4pump",
+    "opening_real_SOL": 70.369409326,
+    "opening_signature": "4ecP4aTyqE8jE4KD1X37zR1tBszHbefyBRrCRDeMeB531APyx8SbdDHAj8JmkzpWFfsT7k2LAKJLs85sV4V7HjY1",
+    "opening_swap_count": 1,
+    "opening_virtual_SOL": 17.584505289,
+    "pass_all": true,
+    "pool": "54j2EMWP22gB5ZiT1gzH3rJREoBNuctjnSiusTauQBjK",
+    "previous_migration_signature": "4ecP4aTyqE8jE4KD1X37zR1tBszHbefyBRrCRDeMeB531APyx8SbdDHAj8JmkzpWFfsT7k2LAKJLs85sV4V7HjY1",
+    "scope": "authenticated historical atomic custody only; counterfactual completion/timing and changed failed routers require separate execution checks",
+    "transfers_checked": 3
+  },
+  "bUqhhZ61FAaSKFrKEZsA5DBqefbzXBeUSVPMFjCpump": {
+    "base_tokens_raw": 206900000000000,
+    "completion_position": [
+      455199460,
+      1000
+    ],
+    "curve_real_SOL": 85.005359057,
+    "errors": [],
+    "freeze_seconds": 0,
+    "holder_accounts_retained": 1,
+    "late_retry_anchor_corrected": false,
+    "measured_migration_quote_difference_lamports": 15000001,
+    "migration_position": [
+      455199460,
+      1001
+    ],
+    "mint": "bUqhhZ61FAaSKFrKEZsA5DBqefbzXBeUSVPMFjCpump",
+    "opening_real_SOL": 67.405853768,
+    "opening_signature": "5cm4EvPaGfeiyonSW9gZkBqiWKLbr9Zuw2rbi9QcDEGtdiQtghQkq3b1fpvvKoCTrJHeHL7HxvPNkeWoSu34PFtV",
+    "opening_swap_count": 0,
+    "opening_virtual_SOL": 17.584505288,
+    "pass_all": true,
+    "pool": "HfmEf2FpcMwDTQna7aJ9gQfLhrSZ3ApF2ouGXHvsKUZM",
+    "previous_migration_signature": "5cm4EvPaGfeiyonSW9gZkBqiWKLbr9Zuw2rbi9QcDEGtdiQtghQkq3b1fpvvKoCTrJHeHL7HxvPNkeWoSu34PFtV",
+    "scope": "authenticated historical atomic custody only; counterfactual completion/timing and changed failed routers require separate execution checks",
+    "transfers_checked": 2
+  }
+}

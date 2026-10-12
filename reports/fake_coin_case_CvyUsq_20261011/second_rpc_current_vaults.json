@@ -1,0 +1,132 @@
+{
+  "fetched_at_utc": "2026-10-11T23:51:11.018041+00:00",
+  "identity": {
+    "creator": "3n2YrvzDTCG5bLxnAzVNtWZXaneHy74qb3CwhHBv6XAo",
+    "base_mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+    "quote_mint": "So11111111111111111111111111111111111111112",
+    "lp_mint": "BqGLUvtv82QYik1X77Q96TiYBfyjR7hWJr9SrCxueXjf",
+    "base_vault": "4LoEu3eubD46xYepDYxnpkz5f2AYkKXuD3AdEDhCWJgC",
+    "quote_vault": "HZN9iCBDuY27J1eBQW7mjwvDMA7gXLgovfFUkhuMwJYZ",
+    "coin_creator": "Ams5SkLrpW6s8wpDbbaTm5k5MViWdhBZsmu3XA9rTLe1",
+    "pool": "3g4Mfsjk19sh2ZqC9o7kL2gwV7yimzrAMa8P6pPMzNJQ",
+    "context_slot": 455835724,
+    "account_owner": "pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA",
+    "account_length": 301
+  },
+  "response": {
+    "result": {
+      "context": {
+        "apiVersion": "4.3.0",
+        "slot": 455838579
+      },
+      "value": [
+        {
+          "data": {
+            "parsed": {
+              "info": {
+                "extensions": [
+                  {
+                    "extension": "immutableOwner"
+                  }
+                ],
+                "isNative": false,
+                "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+                "owner": "3g4Mfsjk19sh2ZqC9o7kL2gwV7yimzrAMa8P6pPMzNJQ",
+                "state": "initialized",
+                "tokenAmount": {
+                  "amount": "797169715109841",
+                  "decimals": 6,
+                  "uiAmount": 797169715.109841,
+                  "uiAmountString": "797169715.109841"
+                }
+              },
+              "type": "account"
+            },
+            "program": "spl-token-2022",
+            "space": 170
+          },
+          "executable": false,
+          "lamports": 1513840,
+          "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "rentEpoch": 18446744073709551615,
+          "space": 170
+        },
+        {
+          "data": {
+            "parsed": {
+              "info": {
+                "isNative": true,
+                "mint": "So11111111111111111111111111111111111111112",
+                "owner": "3g4Mfsjk19sh2ZqC9o7kL2gwV7yimzrAMa8P6pPMzNJQ",
+                "rentExemptReserve": {
+                  "amount": "1488440",
+                  "decimals": 9,
+                  "uiAmount": 0.00148844,
+                  "uiAmountString": "0.00148844"
+                },
+                "state": "initialized",
+                "tokenAmount": {
+                  "amount": "4562989223",
+                  "decimals": 9,
+                  "uiAmount": 4.562989223,
+                  "uiAmountString": "4.562989223"
+                }
+              },
+              "type": "account"
+            },
+            "program": "spl-token",
+            "space": 165
+          },
+          "executable": false,
+          "lamports": 4564477663,
+          "owner": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "rentEpoch": 18446744073709551615,
+          "space": 165
+        },
+        {
+          "data": {
+            "parsed": {
+              "info": {
+                "decimals": 6,
+                "extensions": [
+                  {
+                    "extension": "metadataPointer",
+                    "state": {
+                      "authority": null,
+                      "metadataAddress": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump"
+                    }
+                  },
+                  {
+                    "extension": "tokenMetadata",
+                    "state": {
+                      "additionalMetadata": [],
+                      "mint": "Cfiyy91FAH88qNvVxLNDhdyiPJ2rYvZDT39GWciRpump",
+                      "name": "Doge Wojak",
+                      "symbol": "DOJAK",
+                      "updateAuthority": null,
+                      "uri": "https://ipfs.io/ipfs/bafkreierrad4e2wxckvmmyg3en7fkcjdga4orchpotburb4fq4lh7u2fsy"
+                    }
+                  }
+                ],
+                "freezeAuthority": null,
+                "isInitialized": true,
+                "mintAuthority": null,
+                "supply": "853533133555445"
+              },
+              "type": "mint"
+            },
+            "program": "spl-token-2022",
+            "space": 413
+          },
+          "executable": false,
+          "lamports": 2748280,
+          "owner": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+          "rentEpoch": 18446744073709551615,
+          "space": 413
+        }
+      ]
+    },
+    "provider_index": 0,
+    "fetched_at_ms": 1791762671018
+  }
+}

@@ -1,0 +1,269 @@
+[
+  {
+    "mint": "63jSvd6gNwE4ueTcfHwK5cvXFP3RcDLfw3j5tAefpump",
+    "counts": {},
+    "passing": []
+  },
+  {
+    "mint": "ACsCLMEansgeMK8GnvCoJN3UhYbu4wDRxGrztqrJVtB5",
+    "counts": {
+      "quote_passes_requires_atomic_execution": 1,
+      "unmodeled_router": 13,
+      "sell_requires_counterfactual_account_inventory": 4
+    },
+    "passing": [
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 49382715,
+        "n": 120951579483,
+        "gross": 50000000,
+        "actor": "4dEN74r5FhfKmNNeS8DbEnwSSe7Xm4EjAaCHV9UqKLYu",
+        "token_account": "NBy5iDwUojT8eKpGC6DEy8E3Lm4we16sqybD1WooiJi",
+        "completes": false,
+        "signature": "2GM2VUHoBLLN35KiXp1S3SmZKRQZAQNWiXpuPCCeDHdRYwKF7rJxotyTwDfZQKT2PoGq8DhAgXz8amZjiLL2ZGbA",
+        "slot": 452918157
+      }
+    ]
+  },
+  {
+    "mint": "ER1HWVaXnospBBUa9tvbYkADXxCjwmztTwJZ8Echpump",
+    "counts": {
+      "unmodeled_router": 1
+    },
+    "passing": []
+  },
+  {
+    "mint": "Ad3gZohCg75FMfvGTgggotp5YrK8QcVQAMp93zFqpump",
+    "counts": {
+      "sell_requires_counterfactual_account_inventory": 15,
+      "quote_passes_requires_atomic_execution": 18,
+      "unmodeled_router": 10
+    },
+    "passing": [
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 391609067,
+        "n": 1083627546656,
+        "gross": 396504182,
+        "actor": "AecLhKboGs1MHB2qp6TYgSKpLGoirWuBr1LxutFe3SH7",
+        "token_account": "4YeiVC31KC9Wgg7RnjYAAh158FaourM29PnrWHf21NCU",
+        "completes": false,
+        "signature": "2sghj7PYoUzQ7DSLRogr53DiGKbeTUKFt6yWeRqdw2YVrwGriLhspTJT2MUVPnqLk8CwpXmHwZKJ5UiYqux5sVCe",
+        "slot": 453040694
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 217377495,
+        "n": 602480131257,
+        "gross": 220094715,
+        "actor": "7aPo3npvLCXNKTWuApjdnyyGBwn2176Z3jFRrDvbGXN8",
+        "token_account": "GZRisnzzrV7hxY9dHgsdLZJaPUUfErcgHPNj3VgbyBPL",
+        "completes": false,
+        "signature": "5UU2DVVzMUQHSHhk59ayQTezr1QE56zLNQdBiphPqMrfDKU8yU4DxhxmbB4Ph8WaHi7kW9BQz5y9Yvf74YP8ewQ5",
+        "slot": 453040694
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 155017529,
+        "n": 429892707641,
+        "gross": 156955249,
+        "actor": "CmcmfaQw43gVzZ5xt6S3CZLf2V8hgkHmFS1XKmReP447",
+        "token_account": "CUELDWosuP38mwKPJ11uHMmvqxXbptrDvVtXMeynFDA8",
+        "completes": false,
+        "signature": "5U5doNw9c1E1UahdFRnruBRvckMgBSVC4parC4aEv1T4z1zVtKyjCCe3BoD11L8NY7TvZVrNyhq6gNBKCW41Kq4i",
+        "slot": 453040694
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 475494896,
+        "n": 1314728650967,
+        "gross": 481438583,
+        "actor": "6AQwwrpS5WBuxyYcLfkJnB3ZrJXTtkRnVPcY7zhjYFAA",
+        "token_account": "7RjB95FPbfqoAGJRXuTuJb1ietX4sssjiqCvqsUq4tK5",
+        "completes": false,
+        "signature": "7RQS1qgcnRyQcjinLKjccgSEeHoq64JzzDmaLZHsbmhqPTzNcKe7gyQtaxZPv2J41667xb65bh5dw6xE3e2DTdo",
+        "slot": 453040695
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 799024512,
+        "n": 2202687870142,
+        "gross": 809012319,
+        "actor": "7aPo3npvLCXNKTWuApjdnyyGBwn2176Z3jFRrDvbGXN8",
+        "token_account": "GZRisnzzrV7hxY9dHgsdLZJaPUUfErcgHPNj3VgbyBPL",
+        "completes": false,
+        "signature": "341zgYTgo7KdWa7TjZG3u12iGsE2Y3ZAHAYgQcrSZKYTGtfDfk9WePvVtz9ywyhDJ5dqWFrm1Aumo1FdU11TssEV",
+        "slot": 453040695
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 123133390,
+        "n": 341573019093,
+        "gross": 124672559,
+        "actor": "2avbra2ua3E8u94GSZdzTxTHGWHzjoH18YWDFrVX2Buu",
+        "token_account": "B8HnaSSV9hzsLgtSfUdLVRuGPqxhXydofLvvL7vLFP3R",
+        "completes": false,
+        "signature": "5KbdB8vKUAM2GdH2raZ9Hu93C2YJ89Gd4ysDg5LVNtj16ngQcWrrtcyRt6qBAg77k5Z7hFW25FFQKPJJ9teJLpj3",
+        "slot": 453040695
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 382702774,
+        "n": 1059070099597,
+        "gross": 387486560,
+        "actor": "EofjyT37ASaXVGHotFQWambEFUDHQAPVM7wqFS8Eoo7p",
+        "token_account": "3tPSnQf7jyrkAPiqSWoT2UMG1DLhJoPsmZrYw7o2t32G",
+        "completes": false,
+        "signature": "PsVnWQvi5qVgmSHD3uka8fvhSy2CGhcgGZbUJmkkvnffDHdgBsq8DNcfufDrjvSpbSC7e1WCbj3J2kdVcX7iBdm",
+        "slot": 453040695
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 47709986,
+        "n": 132440562071,
+        "gross": 48306361,
+        "actor": "CjAJQLXega9PBM5cPwNTKTe8AYMk9LeFWzwjZxARSn2t",
+        "token_account": "9gKbjt37QqRRcmp1Y4CbJE3jUgy4ea8eDSurpJe5Tg2v",
+        "completes": false,
+        "signature": "3znGPksbVMvuz9EWcKaM35HRjoeKC9mrqHupfaMmKP1hbAHjXGfbsDKAL3PH3unw4wKwjws1C7yX6W3zEiYzR467",
+        "slot": 453040696
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 448307885,
+        "n": 1239869128675,
+        "gross": 453911734,
+        "actor": "2avbra2ua3E8u94GSZdzTxTHGWHzjoH18YWDFrVX2Buu",
+        "token_account": "B8HnaSSV9hzsLgtSfUdLVRuGPqxhXydofLvvL7vLFP3R",
+        "completes": false,
+        "signature": "3AqJLfmVdc98NJHszusXaW1JCFnQW9pvuZfFuAiNFQAh7yzhuKGgTfc3zQntSd35KXRBrEJKWgWZB6vTCVWJ4ejp",
+        "slot": 453040696
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 580784960,
+        "n": 1604290353282,
+        "gross": 588044773,
+        "actor": "712jwicww4WAypu8aYiUcSjJCaTSv498PixWfuHWHiRk",
+        "token_account": "ATVMShSWvPGKuSrmSziwPDYNLnSrGyFNzvjNHthAS13t",
+        "completes": false,
+        "signature": "aJKEeF1mVBrG3QrHsHGKr2MiD6eNAam4fKEBVgonCwdCEQLzyW7CWwf6ADGpE8FCp4yB5AnQEL8GLz5kCc1fRjS",
+        "slot": 453040696
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 85631988,
+        "n": 237626503769,
+        "gross": 86702388,
+        "actor": "3U9SwG54BxRvyKw7gGhDaEERmNLG7FTmNkMmEhMnBuBR",
+        "token_account": "FdHXrK5oMaLv9XYDvzci7oHDQbEwCgou3eaZESm2VL5J",
+        "completes": false,
+        "signature": "3ojDT6Q4CdiqstzwLVMLCTPQFTUMkcXSUvAj95B5zTTRErntcvhGT7sB4vS9zyVzQZZbXEggcP2gXYjYNDNRypxJ",
+        "slot": 453040696
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 57855471,
+        "n": 160588800016,
+        "gross": 58578665,
+        "actor": "HxpH8QpkGE6VDmi5pVSgs912wc8nTmUW6etWDqZtr6Dp",
+        "token_account": "EgJVsaG2fUyecyqko8maka7Hj7K85XTFpnJBhbqGfM3g",
+        "completes": false,
+        "signature": "2toYLcn95kjPCAcngfLdSHjQxFdrtHaTXga9JBcothFm1xye82iN5aE5GJgDxaj2LttVfbJ9ETNbcMs2rCALGDqP",
+        "slot": 453040697
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 75900968,
+        "n": 210642202155,
+        "gross": 76849731,
+        "actor": "712jwicww4WAypu8aYiUcSjJCaTSv498PixWfuHWHiRk",
+        "token_account": "ATVMShSWvPGKuSrmSziwPDYNLnSrGyFNzvjNHthAS13t",
+        "completes": false,
+        "signature": "5Vri97TpjWJQybpsvsHKmVwo1niujUG3LWontrTQ2jjNjVYFNgBZHsoQsmqWU1YW1kfKcMcXDuLY3ySP3BgZV8fu",
+        "slot": 453040697
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 803116447,
+        "n": 2213884671388,
+        "gross": 813155404,
+        "actor": "AecLhKboGs1MHB2qp6TYgSKpLGoirWuBr1LxutFe3SH7",
+        "token_account": "4YeiVC31KC9Wgg7RnjYAAh158FaourM29PnrWHf21NCU",
+        "completes": false,
+        "signature": "3G6i7NUKYdc8ShUKFqCYogD46Vx59GbHJzzdKBZhDhZ2gUJ3kkNKPdmauMXUwL5QyGA2o9fVeys8tBjmxcwx3gu3",
+        "slot": 453040697
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 52551163,
+        "n": 145872873453,
+        "gross": 53208054,
+        "actor": "3JicJVPYGRRPEPRgNPWjQbkBkgWV8QhTU78d5jwzCnqB",
+        "token_account": "3LE9LyqLgtTxzW95hp2v7JBPTA5R7DEYKnaZb7Kr5CRu",
+        "completes": false,
+        "signature": "3qH9skTuebLPXJ2nNJcZCCuZckCxnGiLiswpyXCy6NXFZDaAo8dfXQ8XvfMLdUs3bt6UZh3vHCWGwFyLiQR8j2ar",
+        "slot": 453040697
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 211058437,
+        "n": 585000593958,
+        "gross": 213696669,
+        "actor": "AecLhKboGs1MHB2qp6TYgSKpLGoirWuBr1LxutFe3SH7",
+        "token_account": "4YeiVC31KC9Wgg7RnjYAAh158FaourM29PnrWHf21NCU",
+        "completes": false,
+        "signature": "29H1wgfoLJpb1mu7uYvbVZNzMXGgoJqn2oyv48BzwTuav1rgh4HdkFxoCaVRv83tZKvn6q6hfi5Fr9bPgcxrMJDX",
+        "slot": 453040698
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 363299557,
+        "n": 1005555313759,
+        "gross": 367840802,
+        "actor": "9fNxt8tGaVYx6XEthAqSpygGp4Kvqtpw85ZoHyoqUwhr",
+        "token_account": "8JNjcRejiHnW9uJNv5urmqnFC6VhAVPvwiaKUA8YFeDy",
+        "completes": false,
+        "signature": "5hpsvFERTA7cRpCTqL5PSUWt3K6Pdg3NMjZcXwZAT5mGkrw7tjHB2USfvwt76EzATSHgRp4gqzxqJd9ioB8hRpro",
+        "slot": 453040698
+      },
+      {
+        "status": "quote_passes_requires_atomic_execution",
+        "committed": false,
+        "q": 110226454,
+        "n": 305805692129,
+        "gross": 111604286,
+        "actor": "7aPo3npvLCXNKTWuApjdnyyGBwn2176Z3jFRrDvbGXN8",
+        "token_account": "GZRisnzzrV7hxY9dHgsdLZJaPUUfErcgHPNj3VgbyBPL",
+        "completes": false,
+        "signature": "2gAxQFfukuyDhLQ8viQUUxF5rfut2vfEmH1RbNFsP9tZE9U9YT9ojuyrFFyviTZoaRE66cGRtB1ASwAxDQ9rCMjm",
+        "slot": 453040698
+      }
+    ]
+  },
+  {
+    "mint": "8crP2tYrWiei7M9ANt6CmpwQP8hJiS81znexiuf21111",
+    "counts": {
+      "unmodeled_router": 5
+    },
+    "passing": []
+  }
+]
