@@ -10,6 +10,7 @@ __pycache__/
 .venv/
 env/
 venv/
+AGENTS.md
 
 # Heavy archives, binary objects, and logs
 *.gz
