@@ -45,6 +45,7 @@ data_archive/
 **/amm/rpc/
 **/amm/continuation_pools/
 **/amm/tapes/
+**/amm/summary/
 **/census/
 **/coins/*/signatures.json
 
