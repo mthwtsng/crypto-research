@@ -1,0 +1,20 @@
+{
+  "mint": "BsYzghdpZdGo7gfc7cNAzP85wsSaTpJv3kMFxcp5pump",
+  "status": "ok",
+  "pool": "HpyMs4GGc7tY51nZ6hAbZdDb61SkwhfpJZXKJ1sSV3QM",
+  "migration": {
+    "pool": "HpyMs4GGc7tY51nZ6hAbZdDb61SkwhfpJZXKJ1sSV3QM",
+    "mint": "BsYzghdpZdGo7gfc7cNAzP85wsSaTpJv3kMFxcp5pump",
+    "quote_mint": "So11111111111111111111111111111111111111112",
+    "time": 1791758813,
+    "slot": 455820881,
+    "index": 441,
+    "signature": "2Nv7ufNLa2VxpqtpQouA82m1tZ1hrAhZehbgpiXSvg6RB798YzPERjT5VqFMbQv3GwdAABmRtK8k6rFtjjyVShFL",
+    "instruction": "migrate_v2",
+    "base_vault": "BKqBtCjaksHjKDwFVJcj1XP2FkZSkCjFTnK5C4PXT7ot",
+    "quote_vault": "9m3FCcCELRCsuLJ936t9XtEcCf3Nu5p1G8wk54ix534R",
+    "creator": "9C4nRvhhVquCKATjDCx5FKvNS9PNgNqgyWy9AcoDjYv5"
+  },
+  "groups": 3926,
+  "audit_errors": 0
+}

@@ -1,0 +1,6 @@
+{
+  "mint": "ByBv4S5nSbAXhQFSFLpQRuvwnyMMYvQTCtDs1DRzpump",
+  "status": "error",
+  "error": "{'method': 'getTransactionsForAddress', 'failures': [{'provider': 'alchemy', 'error': 'HTTP Error 429: Too Many Requests'}, {'provider': 'shyft', 'error': '{\"code\": -32602, \"message\": \"Invalid params\", \"data\": \"invalid type: string \\\\\"finalized\\\\\", expected struct CommitmentConfig at line 1 column 203\"}'}, {'provider': 'solami', 'error': '{\"code\": -32602, \"message\": \"limit must be between 1 and 10",
+  "trace": "ata\": \"invalid type: string \\\\\"finalized\\\\\", expected struct CommitmentConfig at line 1 column 203\"}'}, {'provider': 'solami', 'error': '{\"code\": -32602, \"message\": \"limit must be between 1 and 1000\"}'}, {'provider': 'alchemy', 'error': 'HTTP Error 429: Too Many Requests'}, {'provider': 'shyft', 'error': 'HTTP Error 429: Too Many Requests'}, {'provider': 'solami', 'error': '{\"code\": -32602, \"message\": \"limit must be between 1 and 1000\"}'}, {'provider': 'alchemy', 'error': 'HTTP Error 429: Too Many Requests'}, {'provider': 'shyft', 'error': '{\"code\": -32602, \"message\": \"Invalid params\", \"data\": \"invalid type: string \\\\\"finalized\\\\\", expected struct CommitmentConfig at line 1 column 203\"}'}, {'provider': 'solami', 'error': '{\"code\": -32602, \"message\": \"limit must be between 1 and 1000\"}'}]}\n"
+}
